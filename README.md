@@ -1,1 +1,1 @@
-# memecoins_metrics
+# memecoins_trading_toolkit
