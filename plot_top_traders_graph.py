@@ -1,12 +1,8 @@
-import sys
 import networkx as nx
 import plotly.graph_objects as go
 import numpy as np
-from collections import deque
 import matplotlib.pyplot as plt
 import matplotlib.colors as mcolors
-from config import (EXCLUDED_ADDRESSES, EDGE_POINTS_QUANTITY,
-                    EDGE_POINTS_OPACITY)
 
 # References:
 # - https://stackoverflow.com/questions/74607000/python-networkx-plotly-how-to-display-edges-mouse-over-text
@@ -131,7 +127,8 @@ def create_plotly_graph(G, pos, nodes, wallet_address_edges_count_dict):
     return fig
 
 
-def plot_nodes_edges_graph(graph_data, repeated_wallets_dict):
+def plot_nodes_edges_graph(graph_data, repeated_wallets_dict,
+                           excluded_addresses):
 
     G = nx.DiGraph()
 
@@ -141,7 +138,7 @@ def plot_nodes_edges_graph(graph_data, repeated_wallets_dict):
     for edge in edges:
         mint_address, wallet_address = edge.split('-')
 
-        if wallet_address in EXCLUDED_ADDRESSES:
+        if wallet_address in excluded_addresses:
             continue
 
         if wallet_address in repeated_wallets_dict:

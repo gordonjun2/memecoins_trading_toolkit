@@ -11,8 +11,8 @@ def load_json_file(file_path):
         with open(file_path, 'r') as f:
             return json.load(f)
     except FileNotFoundError:
-        print("\nThe file not found or is invalid.\n")
-        sys.exit(1)
+        print("\n{} not found or is invalid.\n".format(file_path))
+        return {}
 
 
 def save_json_file(file_path, data):
