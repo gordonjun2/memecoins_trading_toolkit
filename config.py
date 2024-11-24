@@ -11,6 +11,9 @@ BITQUERY_CLIENT_ID = bitquery.get('bitquery_client_id', '')
 BITQUERY_CLIENT_SECRET = bitquery.get('bitquery_client_secret', '')
 BITQUERY_V1_API_KEY = bitquery.get('bitquery_v1_api_key', '')
 
+vybe_network = dict(cfg.items('vybe_network'))
+VYBE_NETWORK_X_API_KEY = vybe_network.get('vybe_network_x_api_key', '')
+
 BITQUERY_API_VERSION = 'EAP'
 BITQUERY_API_VERSION_URL_MAP = {
     'v1': 'https://graphql.bitquery.io/',
@@ -83,3 +86,4 @@ MAX_RETRIES = 10
 RETRY_AFTER = 10
 EDGE_POINTS_QUANTITY = 100
 EDGE_POINTS_OPACITY = 0
+VYBE_NETWORK_QUERY_LIMIT = 1000

@@ -361,6 +361,7 @@ if __name__ == "__main__":
     saved_data_base_dir = "./saved_data"
     top_trader_addresses_dir = saved_data_base_dir + f"/top_trader_addresses_{current_datetime}"
     bot_addresses_dir = saved_data_base_dir + "/bot_addresses"
+    filtered_top_trader_addresses_dir = saved_data_base_dir + "/filtered_top_trader_addresses"
 
     flatten_top_trader_addresses = []
     graph_data = {'nodes': {}, 'edges': []}
@@ -480,33 +481,15 @@ if __name__ == "__main__":
     for wallet, count in sorted_wallets:
         print(f'{wallet}: {count}')
 
+    os.makedirs(filtered_top_trader_addresses_dir, exist_ok=True)
+    filtered_top_trader_addresses_file_path = f"{filtered_top_trader_addresses_dir}/top_trader_addresses.json"
+    if os.path.exists(filtered_top_trader_addresses_file_path):
+        os.remove(filtered_top_trader_addresses_file_path)
+    save_json_file(filtered_top_trader_addresses_file_path,
+                   repeated_wallets_dict)
+
     plot_nodes_edges_graph(graph_data, repeated_wallets_dict,
                            excluded_addresses)
 
     print('\nTotal time taken: {:.2f} seconds'.format(time.time() -
                                                       start_time))
-
-# {
-#   Solana {
-#     BalanceUpdates(
-#       limit: {count: 100}
-#       where: {BalanceUpdate: {Account: {Address: {in: ["8aHVf4T3t4Z2kjnNojLh87zswhH21EU2iFnVoadN3MXx", "BmanDqQELF7QY5uRPw8vg3eMjR74WZnszKmNbLJKkay3", "HJLqkCFiNMUsXvqA9btLXFwKpWgCAXXXmNBFnSELvXSC"]}}}}
-#       orderBy: {descending: Block_Time}
-#     ) {
-#       Block {
-#         Time
-#         Hash
-#       }
-#       BalanceUpdate {
-#         Account {
-#           Address
-#         }
-#       }
-#     }
-#   }
-# }
-
-# TODO
-# 1. complete the above query
-# 2. create a .json to store a full list of bots trader addresses, so they do not need to go through the query above again
-# 3. use ./saved_data again, have user to manually key in mint address, .json from a mint address will overwrite its own .json only
