@@ -43,6 +43,11 @@ MINT_ADDRESSES = [
     "5SVG3T9CNQsm2kEwzbRq6hASqh1oGfjqTtLXYUibpump",  # SIGMA
     "DPaQfq5sFnoqw2Sh9WMmmASFL9LNu6RdtDqwE1tab2tB",  # SKBDI
     "Df6yfrKC8kZE3KNkrHERKzAetSxbrWeniQfyJY4Jpump",  # CHILLGUY
+    "9psiRdn9cXYVps4F1kFuoNjd2EtmqNJXrCPmRppJpump",  # UBC
+    "GHichsGq8aPnqJyz6Jp1ASTK4PNLpB5KrD6XrfDjpump",  # $1
+    "79yTpy8uwmAkrdgZdq6ZSBTvxKsgPrNqTLvYQBh1pump",  # BULLY
+    "FQ1tyso61AH1tzodyJfSwmzsD3GToybbRNoZxUBz21p8",  # VVAIFU
+    "GmbC2HgWpHpq9SHnmEXZNT5e1zgcU9oASDqbAkGTpump",  # CATANA
 ]
 
 EXCLUDED_ADDRESSES = {
@@ -87,3 +92,4 @@ RETRY_AFTER = 10
 EDGE_POINTS_QUANTITY = 100
 EDGE_POINTS_OPACITY = 0
 VYBE_NETWORK_QUERY_LIMIT = 1000
+EPSILON = 1e-4

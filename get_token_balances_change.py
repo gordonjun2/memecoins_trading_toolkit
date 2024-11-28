@@ -5,7 +5,8 @@ import urllib3
 import sys
 import time
 from utils import *
-from config import VYBE_NETWORK_X_API_KEY, VYBE_NETWORK_QUERY_LIMIT, MAX_RETRIES, RETRY_AFTER
+from config import (VYBE_NETWORK_X_API_KEY, VYBE_NETWORK_QUERY_LIMIT,
+                    MAX_RETRIES, RETRY_AFTER, EPSILON)
 
 urllib3.disable_warnings(InsecureRequestWarning)
 
@@ -28,6 +29,7 @@ else:
 
 count = 1
 total_top_trader_addresses = len(loaded_top_trader_addresses)
+token_balances_update_dict = {}
 
 for wallet_address in loaded_top_trader_addresses:
 
@@ -71,17 +73,33 @@ for wallet_address in loaded_top_trader_addresses:
                             'name': name,
                             'amount': amount,
                         }
-                    print('Bought {} {} ({}) tokens'.format(
-                        amount, symbol, name))
+                    key = f'{name} ({symbol}) [{mint_address}]'
+                    print('Add {} {} ({}) tokens'.format(amount, symbol, name))
+                    if key not in token_balances_update_dict:
+                        token_balances_update_dict[key] = delta
+                    else:
+                        token_balances_update_dict[key] += delta
                 else:
                     prev_amount = top_trader_token_balances_dict[
                         wallet_address][mint_address]['amount']
-                    if amount > prev_amount:
-                        print('Bought {} {} ({}) tokens'.format(
-                            amount - prev_amount, symbol, name))
-                    elif amount < prev_amount:
-                        print('Sold {} {} ({}) tokens'.format(
+                    if amount > prev_amount + EPSILON:
+                        delta = amount - prev_amount
+                        key = f'{name} ({symbol}) [{mint_address}]'
+                        print('Add {} {} ({}) tokens'.format(
+                            delta, symbol, name))
+                        if key not in token_balances_update_dict:
+                            token_balances_update_dict[key] = delta
+                        else:
+                            token_balances_update_dict[key] += delta
+                    elif amount < prev_amount - EPSILON:
+                        delta = amount - prev_amount
+                        key = f'{name} ({symbol}) [{mint_address}]'
+                        print('Subtract {} {} ({}) tokens'.format(
                             prev_amount - amount, symbol, name))
+                        if key not in token_balances_update_dict:
+                            token_balances_update_dict[key] = delta
+                        else:
+                            token_balances_update_dict[key] += delta
                     top_trader_token_balances_dict[wallet_address][
                         mint_address]['amount'] = amount
 
@@ -91,9 +109,9 @@ for wallet_address in loaded_top_trader_addresses:
         else:
             retry_count += 1
 
-            print(
-                'Query failed and return code is {}. Retrying ({}) after {} seconds...'
-                .format(response.status_code, retry_count, RETRY_AFTER))
+            # print(
+            #     'Query failed and return code is {}. Retrying ({}) after {} seconds...'
+            #     .format(response.status_code, retry_count, RETRY_AFTER))
 
             time.sleep(RETRY_AFTER)
 
@@ -101,6 +119,10 @@ for wallet_address in loaded_top_trader_addresses:
         print('Maximum retries reached. Skipping...')
 
     count += 1
+
+print('\nSummarised token balances update:')
+for key, delta in token_balances_update_dict.items():
+    print(f'{key}: {delta}')
 
 if os.path.exists(top_trader_token_balances_file_path):
     os.remove(top_trader_token_balances_file_path)
