@@ -5,8 +5,9 @@ import urllib3
 import sys
 import time
 from utils import *
+import dexscreener
 from config import (VYBE_NETWORK_X_API_KEY, VYBE_NETWORK_QUERY_LIMIT,
-                    MAX_RETRIES, RETRY_AFTER, EPSILON)
+                    MAX_RETRIES, RETRY_AFTER, EPSILON, MIN_MARKETCAP)
 
 urllib3.disable_warnings(InsecureRequestWarning)
 
@@ -30,6 +31,7 @@ else:
 count = 1
 total_top_trader_addresses = len(loaded_top_trader_addresses)
 token_balances_update_dict = {}
+mint_address_list = []
 
 for wallet_address in loaded_top_trader_addresses:
 
@@ -76,9 +78,10 @@ for wallet_address in loaded_top_trader_addresses:
                     key = f'{name} ({symbol}) [{mint_address}]'
                     print('Add {} {} ({}) tokens'.format(amount, symbol, name))
                     if key not in token_balances_update_dict:
-                        token_balances_update_dict[key] = delta
+                        token_balances_update_dict[key] = amount
+                        mint_address_list.append(mint_address)
                     else:
-                        token_balances_update_dict[key] += delta
+                        token_balances_update_dict[key] += amount
                 else:
                     prev_amount = top_trader_token_balances_dict[
                         wallet_address][mint_address]['amount']
@@ -89,6 +92,7 @@ for wallet_address in loaded_top_trader_addresses:
                             delta, symbol, name))
                         if key not in token_balances_update_dict:
                             token_balances_update_dict[key] = delta
+                            mint_address_list.append(mint_address)
                         else:
                             token_balances_update_dict[key] += delta
                     elif amount < prev_amount - EPSILON:
@@ -98,6 +102,7 @@ for wallet_address in loaded_top_trader_addresses:
                             prev_amount - amount, symbol, name))
                         if key not in token_balances_update_dict:
                             token_balances_update_dict[key] = delta
+                            mint_address_list.append(mint_address)
                         else:
                             token_balances_update_dict[key] += delta
                     top_trader_token_balances_dict[wallet_address][
@@ -120,9 +125,18 @@ for wallet_address in loaded_top_trader_addresses:
 
     count += 1
 
-print('\nSummarised token balances update:')
+token_details_dict = dexscreener.get_token_details(mint_address_list)
+
+print(
+    f'\nSummarised token balances update (token marketcap >= {MIN_MARKETCAP}):'
+)
 for key, delta in token_balances_update_dict.items():
-    print(f'{key}: {delta}')
+    key_splitted = key.split(' ')
+    mint_address = key_splitted[-1][1:-1]
+    token_details = token_details_dict.get(mint_address, {})
+    market_cap = token_details.get('marketCap', 0)
+    if market_cap >= MIN_MARKETCAP:
+        print(f'{key}: {delta}')
 
 if os.path.exists(top_trader_token_balances_file_path):
     os.remove(top_trader_token_balances_file_path)

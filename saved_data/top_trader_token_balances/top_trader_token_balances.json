@@ -163,7 +163,7 @@
         "11111111111111111111111111111111": {
             "symbol": "SOL",
             "name": "SOL",
-            "amount": 27.098944188
+            "amount": 24.701087705
         },
         "6bpRW8EAmytttC5V9D81AxqVt6SsU9FyVw5qjREb7Dig": {
             "symbol": "TrashTalk",
@@ -209,6 +209,11 @@
             "symbol": "CROX",
             "name": "CROX",
             "amount": 123.000000001
+        },
+        "AEC25YqG2EdrQLQUX1NezfD3FEBSSqCTSaFRvSUjUqYB": {
+            "symbol": "ALCH",
+            "name": "Alchemist AI",
+            "amount": 16666.0
         }
     },
     "DQ97nu7t7fbhAtZUyam8EzNsxUzw5bgEE5seBfevPwRK": {
@@ -250,7 +255,7 @@
         "11111111111111111111111111111111": {
             "symbol": "SOL",
             "name": "SOL",
-            "amount": 732.061935849
+            "amount": 1042.746204885
         },
         "HS297WZTnktHXk5DDtaWVQ2AKS4HsJ2CfYTLYVRapWpK": {
             "symbol": "SAD",
@@ -321,6 +326,21 @@
             "symbol": "$BOUJ",
             "name": "Boujee Catz",
             "amount": 3054932.27010417
+        },
+        "DUpz8kaEK17BKPhCdnLaS9GwBLNsqFfgUJuZpAB3T2Lf": {
+            "symbol": "ALCH",
+            "name": "Alchemist AI",
+            "amount": 999.0
+        },
+        "CAUU27Nfz4qzZi9HDy8r6Z5L7ywjs4LXtSY2Ne5qCJBV": {
+            "symbol": "morty",
+            "name": "Morty",
+            "amount": 999.0
+        },
+        "ERtbZyQyTZnxWFYti4t75VS5oGHMgpipyGcyeSNFxAeE": {
+            "symbol": "JAK",
+            "name": "Jak",
+            "amount": 10.0
         }
     },
     "3eJkwFDZVB27emciij1oWUVodmFhFdnkpmzKHjDzH34o": {
@@ -28954,7 +28974,7 @@
         "11111111111111111111111111111111": {
             "symbol": "SOL",
             "name": "SOL",
-            "amount": 0.001199399
+            "amount": 26.326253554
         },
         "AcV2T3mwLUqMiiqcsafVm35zwPQkmLrfRtaW3716Fzvi": {
             "symbol": "REXHAT",
@@ -29009,7 +29029,7 @@
         "CoscQn9GEHXDK7z9MULF8i4oZdLedeVBLF1xLhxsUeoo": {
             "symbol": "UBC",
             "name": "Universal Basic Compute",
-            "amount": 999.0
+            "amount": 1998.0
         },
         "NedBzeFfhp6gHymvsVEHJWX3sLqY1RXHh1Dc49vfaFd": {
             "symbol": "NED",
@@ -29035,6 +29055,21 @@
             "symbol": "$CHILLXMAS",
             "name": "Chillxmas on Sol",
             "amount": 3000.0
+        },
+        "AEC25YqG2EdrQLQUX1NezfD3FEBSSqCTSaFRvSUjUqYB": {
+            "symbol": "ALCH",
+            "name": "Alchemist AI",
+            "amount": 16666.0
+        },
+        "8fPMSwpxVMR4xLStqAXn9QZwVCCionjDMfqKSqcfomo": {
+            "symbol": "VIOLET",
+            "name": "Violet",
+            "amount": 10000.0
+        },
+        "6JWHLfcHtXbvoWLvnurfS88v4VwnGZeJUR1G1GfwPK43": {
+            "symbol": "Rizzmas",
+            "name": "Rizzmas",
+            "amount": 77777.0
         }
     },
     "5V97uEb4ZNuXFudphU5nwUapRmt7a2V51TbULQvPJwnx": {
@@ -29312,6 +29347,16 @@
             "symbol": "GPEP",
             "name": "RARE GOLD PEPE",
             "amount": 1401.0594
+        },
+        "8Z4MNp5EmvCNqiQRUbq7tsBVTn7KYot2iYupSLpQpump": {
+            "symbol": "BAC",
+            "name": "BACE1",
+            "amount": 2410.4278
+        },
+        "BLHwd8HeMfyk11wC9nua1EsnCSMWKaL7LAreJRdMpump": {
+            "symbol": "GABE",
+            "name": "Gabe The Dog",
+            "amount": 1571.6896
         }
     },
     "BmanDqQELF7QY5uRPw8vg3eMjR74WZnszKmNbLJKkay3": {
@@ -65676,6 +65721,26 @@
             "symbol": "CHARLIE",
             "name": "Charlie",
             "amount": 11614.0
+        },
+        "6hyEczsBnkKKoQsEeToHDUr8gpJMBiNVPy8ziD6upump": {
+            "symbol": "KEYCAT",
+            "name": "KEYCAT (LIVE ON X \ud83d\udfe2)",
+            "amount": 90425.233594
+        },
+        "GVMhkbDFK1o985y1bLnrfzuGQamwdZSFZ8vtsnZkpump": {
+            "symbol": "EUROPA",
+            "name": "New Europe Mascot",
+            "amount": 35766.666657
+        },
+        "5yEa9R9M9CYhA2ZXuHgwybG3rbBG37HGyV1EcHhrpump": {
+            "symbol": "INVADE",
+            "name": "INVADERS - (LIVE \ud83d\udfe2 on X)",
+            "amount": 76385.147553
+        },
+        "9A2NtDJGGNcwdvYUcE72zwTKXy1j9uQw2q6vnUnjpump": {
+            "symbol": "POPO",
+            "name": "PROFIT PANDA [LIVE \ud83d\udfe2 on X]",
+            "amount": 85545.859683
         }
     },
     "73LnJ7G9ffBDjEBGgJDdgvLUhD5APLonKrNiHsKDCw5B": {
@@ -65957,7 +66022,7 @@
         "11111111111111111111111111111111": {
             "symbol": "SOL",
             "name": "SOL",
-            "amount": 1300.120735594
+            "amount": 1464.618632325
         },
         "7UuMnwedDrkrfESpSkRq1cg6H2KvERQz8XtqM9Sc5WK1": {
             "symbol": "FOMOAI",
@@ -66423,6 +66488,21 @@
             "symbol": "RAC",
             "name": "Radiant AI",
             "amount": 6503.667702
+        },
+        "4hG8qAZMPpoJvK1YNe4vtAUyERt97Cojkz5B9dKwpump": {
+            "symbol": "ElonBot",
+            "name": "ElonBot",
+            "amount": 47713152.31321
+        },
+        "3XAQdYAPN3nRTGv4m3tt9KmrwP6nTy6BDxsdVXRztubi": {
+            "symbol": "SOEX",
+            "name": "SOEX",
+            "amount": 0.01
+        },
+        "5NQPCbk9WZTV6j26ZnrY4sy75DHh6U7UJXkvHgWMpump": {
+            "symbol": "HAI",
+            "name": "HypeAI",
+            "amount": 15860.584366
         }
     },
     "JED9gEbMzhAsKHt65DjrDJ3epWCnoDiZPyn3YhQkqC38": {
@@ -66634,7 +66714,7 @@
         "11111111111111111111111111111111": {
             "symbol": "SOL",
             "name": "SOL",
-            "amount": 45.665082162
+            "amount": 45.665082163
         },
         "Gc8M4wVNRJ5enB1rmsFyN9szGvch81GGuBgojsYYpt8r": {
             "symbol": "bottom",
@@ -67180,6 +67260,11 @@
             "symbol": "FLUFFY",
             "name": "FLUFFY PUFF",
             "amount": 5000.0
+        },
+        "8ThSrRA6qpkva4bGE6DNfFKnuKuCPM22Db16zS1Mpump": {
+            "symbol": "ALP",
+            "name": "ALP",
+            "amount": 2000000.0
         }
     },
     "3CbhKKQeSFGbEioQyRus26BHZi1SHPUR2gFb1BtC9Bpt": {
@@ -67326,7 +67411,7 @@
         "11111111111111111111111111111111": {
             "symbol": "SOL",
             "name": "SOL",
-            "amount": 1.419978166
+            "amount": 2.585914379
         },
         "E6v8FC5MPDkgTwor3ZvcfbhqoZCFLwhp2irqyE1YvGpg": {
             "symbol": "SPY",
@@ -67357,6 +67442,31 @@
             "symbol": "Agent",
             "name": "Agent",
             "amount": 1920118.896125
+        },
+        "4rwZoD9p8DaZLegCuHwwtjDrnfRKTHL74XpK54Rspump": {
+            "symbol": "JIZZ",
+            "name": "JizzMoon",
+            "amount": 18154.650896
+        },
+        "9FpApQHzA1LpCDsDExURDMJSe2TYSXXARtjnJ6xLpump": {
+            "symbol": "ElonBot",
+            "name": "Elon Bot'\ud83e\udd16",
+            "amount": 541112.954133
+        },
+        "J5sHn79BS1n64SeT4RJXqYP1g1ZVSXjchYgXS848pump": {
+            "symbol": "LEMON",
+            "name": "First Fruit to 100m",
+            "amount": 16192.525256
+        },
+        "GyPm31G8UXdMjgbQKiWjigjcEAsKikcTkJYJHitpump": {
+            "symbol": "OCISLY",
+            "name": "Of Course I Still Love You",
+            "amount": 1396908.151957
+        },
+        "GM9xL1qN9PWuB82W6ib6uudstCjfz7dDNbaKNEhVpump": {
+            "symbol": "HYPE",
+            "name": "Hyperliquid",
+            "amount": 4.001803
         }
     },
     "AD65fgYti96iSSzSPaNazV9Bs29m7JbNomGjG4Cp5WFS": {
@@ -69171,6 +69281,16 @@
             "symbol": "RUNE",
             "name": "RUNE WARRIORS",
             "amount": 252.8641
+        },
+        "EEN6QTeegxyGkXYUhk7fasXRQptDk3opfoNmMrXypump": {
+            "symbol": "shine",
+            "name": "Radiant Shine",
+            "amount": 246.197
+        },
+        "7PoJot52r334F3W32uHSjYfC8u6se7WB5yvPnsuopump": {
+            "symbol": "hodl",
+            "name": "hohohodl",
+            "amount": 821.985
         }
     },
     "8Gnf3ZoMw3raZ186vTakQE3YABc9AS1X2gBTZ3imNdv2": {
@@ -69307,7 +69427,7 @@
         "11111111111111111111111111111111": {
             "symbol": "SOL",
             "name": "SOL",
-            "amount": 28.675364825
+            "amount": 28.640182476
         },
         "n88wHcVtfavStAM5VQyUFQ6ykdnfqZucysVgmqpdgiM": {
             "symbol": "GKAPPA",
@@ -69883,6 +70003,16 @@
             "symbol": "GOBBLES",
             "name": "Gobbles the Thanksgiving Turkey",
             "amount": 500.0
+        },
+        "BJegMmdoHsT1ApYXdXvjbTB8bvMmcYzoxgf6x93HkgRt": {
+            "symbol": "ZEREBRO",
+            "name": "zerebro",
+            "amount": 6.0
+        },
+        "GJ3wvrbuMu1S2ebDrUuhdg313rt9NhJXS7Fz9ZyejpY3": {
+            "symbol": "OPUS",
+            "name": "Claude Opus",
+            "amount": 55.0
         }
     },
     "CPKPY3YQ2FRAynxoe6cesP2yJ7G8pMwwRqFrsXHCJuAw": {
@@ -71106,7 +71236,7 @@
         "ED5nyyWEzpPPiWimP8vYm7sD7TD3LAt3Q3gRTWHzPJBY": {
             "symbol": "MOODENG",
             "name": "Moo Deng",
-            "amount": 4.147242
+            "amount": 4.154164
         },
         "AembhTcUUmGpTq9GWNAKt9mm7ksAa72LvP6oZTod7YyL": {
             "symbol": "WOWCAT",
@@ -71221,7 +71351,7 @@
         "11111111111111111111111111111111": {
             "symbol": "SOL",
             "name": "SOL",
-            "amount": 0.000913788
+            "amount": 14.485986797
         },
         "Fq8GuPjeseJ3iDdgWoEYpixvksLMJ8UxJ82AVWHH1NUy": {
             "symbol": "FALCON",
@@ -71256,7 +71386,7 @@
         "HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3RKwX8eACQBCt3": {
             "symbol": "PYTH",
             "name": "Pyth Network",
-            "amount": 168.53383
+            "amount": 168.535369
         },
         "METAmTMXwdb8gYzyCPfXXFmZZw4rUsXX58PNsDg7zjL": {
             "symbol": "SLC",
@@ -71376,7 +71506,7 @@
         "GJAFwWjJ3vnTsrQVabjBVK2TYB1YtRCQXRDfDgUnpump": {
             "symbol": "ACT",
             "name": "Act I : The AI Prophecy",
-            "amount": 0.008572
+            "amount": 0.022207
         },
         "3CUnJ34PzJbPEnjLuJD6hXMstm1jLGfXAYHoNengPxtB": {
             "symbol": "PEPPA",
@@ -71391,7 +71521,7 @@
         "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs": {
             "symbol": "WETH",
             "name": "Wrapped Ether (Wormhole)",
-            "amount": 0.03629352
+            "amount": 0.03635042
         },
         "Ctaoh8SvvHMRkHSjFRLEv1iZnbYuWXcGyXx1s4Emoshh": {
             "symbol": "MUNCH",
@@ -71616,7 +71746,7 @@
         "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263": {
             "symbol": "Bonk",
             "name": "Bonk",
-            "amount": 95689165.96286
+            "amount": 95690712.91476
         },
         "G3Q8X1JvZeUsT4cVgF2FaJQXGMYuZE93ZW3oHEzPFjXT": {
             "symbol": "CATonDOG",
@@ -71676,7 +71806,7 @@
         "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1": {
             "symbol": "SBR",
             "name": "Saber Protocol Token",
-            "amount": 0.022323
+            "amount": 0.022562
         },
         "7rNMpuTMbMGWTfJLxLfvvJYG1GuxKTuKyr9VVt8Ra8iY": {
             "symbol": "LUG",
@@ -71696,7 +71826,7 @@
         "KMNo3nJsBXfcpJTVhZcXLW7RmTwTt4GVFE7suUBo9sS": {
             "symbol": "KMNO",
             "name": "Kamino",
-            "amount": 159.002582
+            "amount": 159.223011
         },
         "ZEUS1aR7aX8DFFJf5QjWj2ftDDdNTroMNGo8YoQm3Gq": {
             "symbol": "ZEUS",
@@ -71796,7 +71926,7 @@
         "DriFtupJYLTosbwoN8koMbEYSx54aFAVLddWsbksjwg7": {
             "symbol": "DRIFT",
             "name": "Drift",
-            "amount": 11.982334
+            "amount": 11.99176
         },
         "7cHavVnwPnqqeAMBzuRmgm9fKPV12fXrqV2584g2eg5N": {
             "symbol": "ITZ",
@@ -71886,7 +72016,7 @@
         "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So": {
             "symbol": "mSOL",
             "name": "Marinade staked SOL (mSOL)",
-            "amount": 0.02603949
+            "amount": 0.026042146
         },
         "SHDWyBxihqiCj6YekG2GUr7wqKLeLAMK1gHZck9pL6y": {
             "symbol": "SHDW",
@@ -72486,7 +72616,7 @@
         "cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij": {
             "symbol": "cbBTC",
             "name": "Coinbase Wrapped BTC",
-            "amount": 6.4e-06
+            "amount": 6.82e-06
         },
         "8upjSpvjcdpuzhfR1zriwg5NXkwDruejqNE9WNbPRtyA": {
             "symbol": "GRAPE",
@@ -72626,7 +72756,7 @@
         "2qEHjDLDLbuBgRYvsxhc5D6uDWAivNFZGan56P1tpump": {
             "symbol": "Pnut ",
             "name": "Peanut the Squirrel ",
-            "amount": 0.133516
+            "amount": 0.139993
         },
         "8vEnTRbMP9x6WbZPaT6HpLdGUY6mJMT2HuPiFFo7aqy5": {
             "symbol": "coci",
@@ -72916,7 +73046,7 @@
         "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v": {
             "symbol": "USDC",
             "name": "USD Coin",
-            "amount": 101718.222039
+            "amount": 102071.422284
         },
         "FANTafPFBAt93BNJVpdu25pGPmca3RfwdsDsRrT3LX1r": {
             "symbol": "FANT",
@@ -73021,22 +73151,27 @@
         "5p2zjqCd1WJzAVgcEnjhb9zWDU7b9XVhFhx4usiyN7jB": {
             "symbol": "CATO",
             "name": "CATO",
-            "amount": 0.382691171
+            "amount": 0.382793963
         },
         "227EcBDWLoWZotA9cZ4EeqETdY1XXFtUR2GzEE9qD4M4": {
             "symbol": "JUSTICE",
             "name": "Justice for Pnut and Fred",
-            "amount": 999.0
+            "amount": 1098.0
         },
         "Df6yfrKC8kZE3KNkrHERKzAetSxbrWeniQfyJY4Jpump": {
             "symbol": "CHILLGUY",
             "name": "Just a chill guy",
-            "amount": 0.650352
+            "amount": 0.685927
         },
         "FLiPKiL2fAzXecVcEJsuEskCPrcF5Gygb3YwRcdwBZJ4": {
             "symbol": "flipguy",
             "name": "just a flipped chillguy",
             "amount": 10.0
+        },
+        "BJegMmdoHsT1ApYXdXvjbTB8bvMmcYzoxgf6x93HkgRt": {
+            "symbol": "ZEREBRO",
+            "name": "zerebro",
+            "amount": 5.0
         }
     },
     "CP3Q4ayFWvs9osQK3mVn8FSo5dvL7BSZ3FFqWvwJNiF3": {
@@ -73048,7 +73183,7 @@
         "11111111111111111111111111111111": {
             "symbol": "SOL",
             "name": "SOL",
-            "amount": 4.257089687
+            "amount": 4.159793996
         },
         "CWZkmH9cCmfb1Gjwbqwbbr58pPnmtKVpHRPbNFioTt1e": {
             "symbol": "VODKA",
@@ -73429,6 +73564,11 @@
             "symbol": "nub",
             "name": "nubcat",
             "amount": 459472.983986163
+        },
+        "GTH3wG3NErjwcf7VGCoXEXkgXSHvYhx5gtATeeM5JAS1": {
+            "symbol": "WHALES",
+            "name": "Whales Market",
+            "amount": 36224.927553
         }
     },
     "GTvBQnRvAPweU2qmYg8MDLND2PAAyYFKe35aKQGMRDaL": {
@@ -73445,7 +73585,7 @@
         "11111111111111111111111111111111": {
             "symbol": "SOL",
             "name": "SOL",
-            "amount": 48.316135372
+            "amount": 32.610206353
         },
         "EkYy7drriu6uW6XbqQR6uUjaBmWFXXcivSmcksUipump": {
             "symbol": "Libtard",
@@ -73501,6 +73641,21 @@
             "symbol": "FORGET",
             "name": "just buy this coin and forget it",
             "amount": 1000.0
+        },
+        "C3Vf7KzHEwcRQjymy7bhpxHbnTEkwgKEfiDfEVaApump": {
+            "symbol": "RMP",
+            "name": "Retire My Parents",
+            "amount": 10000.0
+        },
+        "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v": {
+            "symbol": "USDC",
+            "name": "USD Coin",
+            "amount": 1e-06
+        },
+        "HhzX85R1HaQun1vUo97e6Him2Har9jVXRAtPpB2Vpump": {
+            "symbol": "EUROPA",
+            "name": "New Europe Mascot",
+            "amount": 5141576.762
         }
     },
     "8FWUEfx3w3g3D4LJn6TuXnuT2M6pMMuDRg23jFAAz5TD": {
@@ -73712,7 +73867,7 @@
         "7u8nZijX8J7Psabzt813RApbv9YEWQTepMfm1zxmpump": {
             "symbol": "early",
             "name": "he sold early",
-            "amount": 27.38
+            "amount": 65.569
         },
         "GzFUFxoGRpPPYykxCe5itXPTcHo4DwFMG86EW8sEpump": {
             "symbol": "rekt",
@@ -73752,7 +73907,27 @@
         "AbQPqDquAKq87wMYXmNFCe92TAQPetGn8y77b1DApump": {
             "symbol": "spin",
             "name": "chickspinwifhat",
-            "amount": 765.726
+            "amount": 1148.899
+        },
+        "7PoJot52r334F3W32uHSjYfC8u6se7WB5yvPnsuopump": {
+            "symbol": "hodl",
+            "name": "hohohodl",
+            "amount": 830.039
+        },
+        "EEN6QTeegxyGkXYUhk7fasXRQptDk3opfoNmMrXypump": {
+            "symbol": "shine",
+            "name": "Radiant Shine",
+            "amount": 140.867
+        },
+        "8Z4MNp5EmvCNqiQRUbq7tsBVTn7KYot2iYupSLpQpump": {
+            "symbol": "BAC",
+            "name": "BACE1",
+            "amount": 716.7273
+        },
+        "BLHwd8HeMfyk11wC9nua1EsnCSMWKaL7LAreJRdMpump": {
+            "symbol": "GABE",
+            "name": "Gabe The Dog",
+            "amount": 21.9855
         }
     },
     "4NQY32Q2wh9nekBJEcWFuk2Vc6cMYUNqkPDNkw26sQy7": {
@@ -74626,7 +74801,7 @@
         "11111111111111111111111111111111": {
             "symbol": "SOL",
             "name": "SOL",
-            "amount": 15.527380926
+            "amount": 32.351961838
         },
         "JCFVe845J3QDTNvWP3Se5BGzwMUgEjXwkNkVDR5ZEjRS": {
             "symbol": "SMR",
@@ -74651,7 +74826,7 @@
         "7u8nZijX8J7Psabzt813RApbv9YEWQTepMfm1zxmpump": {
             "symbol": "early",
             "name": "he sold early",
-            "amount": 1966.236
+            "amount": 1981.529
         },
         "23yDixAxZhKQ2PJ3fPhqJqkahYb9zNxKKaUrAeuZpump": {
             "symbol": "MEOW",
@@ -74751,12 +74926,12 @@
         "AMzRgopbj29itrdXQWmRAKVHdUNuM5S3qAMZjy8Epump": {
             "symbol": "SokYaa",
             "name": "SokYaa",
-            "amount": 1393.29
+            "amount": 1736.9682
         },
         "AbQPqDquAKq87wMYXmNFCe92TAQPetGn8y77b1DApump": {
             "symbol": "spin",
             "name": "chickspinwifhat",
-            "amount": 696.5302
+            "amount": 880.1492
         },
         "2VGYzWWSSDfkjcPjDYDtqCfK3qgG8TxxFvntsAA4pump": {
             "symbol": "BUTTERBALL",
@@ -74772,6 +74947,36 @@
             "symbol": "MIMIKO",
             "name": "Mimiko Terminal",
             "amount": 16271974.181792
+        },
+        "7PoJot52r334F3W32uHSjYfC8u6se7WB5yvPnsuopump": {
+            "symbol": "hodl",
+            "name": "hohohodl",
+            "amount": 834.743
+        },
+        "EL9FuDNNUyjjmQ4U8a1Aazjzq5sDz4krhvBjesAfpump": {
+            "symbol": "galline",
+            "name": "The dancing chickens",
+            "amount": 4200.0
+        },
+        "F8bxxMRv516tdpCpdH6gZH8mVo1HquBiTp5e3j8mpump": {
+            "symbol": "Step\u03c0",
+            "name": "Step\u03c0",
+            "amount": 120.0
+        },
+        "CF97pGa5aNhXYkERsYLbAZ1wyk6cSFrfKhd1ansRD3So": {
+            "symbol": "MuShu",
+            "name": "Dragon",
+            "amount": 9999.0
+        },
+        "8Z4MNp5EmvCNqiQRUbq7tsBVTn7KYot2iYupSLpQpump": {
+            "symbol": "BAC",
+            "name": "BACE1",
+            "amount": 52.7652
+        },
+        "EEN6QTeegxyGkXYUhk7fasXRQptDk3opfoNmMrXypump": {
+            "symbol": "shine",
+            "name": "Radiant Shine",
+            "amount": 1072.766
         }
     },
     "d29ggTrH4gKgxR39TSbnnDnXWSSA6GV3RAm8nA3Xmft": {
@@ -74798,7 +75003,7 @@
         "11111111111111111111111111111111": {
             "symbol": "SOL",
             "name": "SOL",
-            "amount": 132.711534175
+            "amount": 14.982226082
         },
         "FGwTfivEvBBKpwWYXBnfUDTMqtfk9dvtyQLE38Wjpump": {
             "symbol": "mybro",
@@ -74888,7 +75093,7 @@
         "7u8nZijX8J7Psabzt813RApbv9YEWQTepMfm1zxmpump": {
             "symbol": "early",
             "name": "he sold early",
-            "amount": 1996.319
+            "amount": 31.829
         },
         "2pJFKuidG6tLA11r9em912KMF3NURuh73EuWuowQr3F6": {
             "symbol": "PARODY",
@@ -75023,7 +75228,7 @@
         "5V3vJKE4GKPNHdoU2SaWuDU6dkLdrY6MhpaE7tjwpump": {
             "symbol": "intAI",
             "name": "intellika AI",
-            "amount": 23532194.909712
+            "amount": 20273841.568204
         },
         "D1wUhnzTDscCDRdxDwR4h82XkesXgQR4Q2zLhSuYJA5m": {
             "symbol": "FLUXT",
@@ -75033,7 +75238,7 @@
         "Hq9hEaCZGPGtyfvMKtGVqA8PHHZ2XpQhgt6PBUgzpump": {
             "symbol": "BTCH",
             "name": "BTCH",
-            "amount": 13824615.098744
+            "amount": 13727989.410956
         },
         "BoAQaykj3LtkM2Brevc7cQcRAzpqcsP47nJ2rkyopump": {
             "symbol": "FOREST",
@@ -75043,7 +75248,7 @@
         "AbQPqDquAKq87wMYXmNFCe92TAQPetGn8y77b1DApump": {
             "symbol": "spin",
             "name": "chickspinwifhat",
-            "amount": 592.496
+            "amount": 1001.796
         },
         "BEJ3VtRiBJ7wqGwAKQeKPgwCsV37QZw8nFZYsYumXrWa": {
             "symbol": "POLY",
@@ -75079,6 +75284,51 @@
             "symbol": "PEN",
             "name": "sell me this pen",
             "amount": 6942.0
+        },
+        "7PoJot52r334F3W32uHSjYfC8u6se7WB5yvPnsuopump": {
+            "symbol": "hodl",
+            "name": "hohohodl",
+            "amount": 836.024
+        },
+        "HpfHXGqbRjHDdGc75c7PQiabMgZNC7gXMbdnjW2Upump": {
+            "symbol": "HODL",
+            "name": "HODL",
+            "amount": 15825.0
+        },
+        "D8Sr6jVZa2j7hbxhdDmkRJw1KzbDgJhrV8nic1cDZw1P": {
+            "symbol": "DOOR",
+            "name": "DOOR",
+            "amount": 200.001123
+        },
+        "CexCXDGoZUWqkSnaovysnHXkF6teX4p8tjhns6rhaCZ2": {
+            "symbol": "42",
+            "name": "Cyphomancer",
+            "amount": 13312689.633914
+        },
+        "EEN6QTeegxyGkXYUhk7fasXRQptDk3opfoNmMrXypump": {
+            "symbol": "shine",
+            "name": "Radiant Shine",
+            "amount": 763.853
+        },
+        "66irswy3sn6ueuW48jW8PKp1iumqKrD6U7tgCfuywm4": {
+            "symbol": "Leilan ",
+            "name": "GPT-2/3/J token (Glitch Token)",
+            "amount": 2551358.909825
+        },
+        "Ea8wZRzamzLwPHyfeLRQsx424oy4BDSGBsFA3YMHpump": {
+            "symbol": "SGM",
+            "name": "SolidGoldMagikarp",
+            "amount": 15474711.075612
+        },
+        "AKVLKJAUAxaGcSGedJoMtQGQ5jozZQFbjrqG6SEfpump": {
+            "symbol": "$SITCOM",
+            "name": "degenerative SITCOM",
+            "amount": 2498462.424
+        },
+        "4BSDdi614rkdb11qQNAUFvaDqZvykn5H8xjQCCTajDVx": {
+            "symbol": "PETERTODD",
+            "name": "(GPT-2/3/J token (Glitch Token)",
+            "amount": 19766711.553037
         }
     },
     "8sHfJ1WTV3HsfDJwRHtiseMsBHVrE5qNNrZgSYswxpgv": {
@@ -75410,12 +75660,12 @@
         "11111111111111111111111111111111": {
             "symbol": "SOL",
             "name": "SOL",
-            "amount": 1887.485702668
+            "amount": 1984.93361051
         },
         "5HTp1ebDeBcuRaP4J6cG3r4AffbP4dtcrsS7YYT7pump": {
             "symbol": "NEROBOSS",
             "name": "neroboss",
-            "amount": 4728223.681448
+            "amount": 7599362.455039
         },
         "cecCwCa6sggKyYWfXW6wCtgpyq66F7EiGsy7ow3pump": {
             "symbol": "Hikari",
@@ -75455,7 +75705,7 @@
         "7u8nZijX8J7Psabzt813RApbv9YEWQTepMfm1zxmpump": {
             "symbol": "early",
             "name": "he sold early",
-            "amount": 10.326
+            "amount": 47.243
         },
         "GiYrDFADMAZp9FXe6VNeCZtn99rq8d4VYvKVezjNpump": {
             "symbol": "REP",
@@ -75550,7 +75800,7 @@
         "EWWDzCwq4UYW3ERTXbdgd6X6sdkKHFMJqRz1ZiFcpump": {
             "symbol": "FATHA",
             "name": "Slopfather",
-            "amount": 7189098.571842
+            "amount": 6685861.671813
         },
         "GRv56gRLfJxnHJrVDLUhE3Fq5WYWHDA3TMgvLQtjpump": {
             "symbol": "Cobie",
@@ -75705,12 +75955,12 @@
         "2qEHjDLDLbuBgRYvsxhc5D6uDWAivNFZGan56P1tpump": {
             "symbol": "Pnut ",
             "name": "Peanut the Squirrel ",
-            "amount": 2e-06
+            "amount": 329.588223
         },
         "HPRJ6r83YZpb6AUkkQNNYPxc8U5WvsJZw1DyGpUkpump": {
             "symbol": "potato",
             "name": "Potato #345",
-            "amount": 2008028.872564
+            "amount": 8395638.455645
         },
         "FcY2QM66Hd8LmHcMmKQVXCjCtUtniauSsS31AC4kVKr6": {
             "symbol": "TPB",
@@ -75805,7 +76055,7 @@
         "H2c31USxu35MDkBrGph8pUDUnmzo2e4Rf4hnvL2Upump": {
             "symbol": "Shoggoth",
             "name": "Shoggoth",
-            "amount": 902819.500073
+            "amount": 671562.28513
         },
         "AHLay166DoVa5xKKv1Ke1jf9zkypNCUdBVtW4SXfpump": {
             "symbol": "LEXI",
@@ -75945,7 +76195,7 @@
         "BfdVHnbt9LSNAFCZU9kvTjbrH3jX78sv2siLKGQ7pump": {
             "symbol": "koto",
             "name": "koto",
-            "amount": 3523018.36432
+            "amount": 2818451.420927
         },
         "AMjzRn1TBQwQfNAjHFeBb7uGbbqbJB7FzXAnGgdFPk6K": {
             "symbol": "SOLCEX",
@@ -75975,7 +76225,7 @@
         "5LafQUrVco6o7KMz42eqVEJ9LW31StPyGjeeu5sKoMtA": {
             "symbol": "MUMU",
             "name": "Mumu the Bull",
-            "amount": 504789528.543254
+            "amount": 499345250.179204
         },
         "Ac7AMomjbnfCce7eMbTLDPX5MnQ6nrJ3yZiec39goqoi": {
             "symbol": "USA",
@@ -76450,7 +76700,7 @@
         "BYcs8bjoGv6m4LkRrpEDVbJvPESvP9A1migRmaDApump": {
             "symbol": "PAPER",
             "name": "Paperdog ",
-            "amount": 3151737.000221
+            "amount": 7862848.542845
         },
         "LZ1kBxMEtGiwfv3u1YFvkgHibcndUXQ74Tagq6cpump": {
             "symbol": "DIDDYOIL",
@@ -76580,12 +76830,12 @@
         "8NNXWrWVctNw1UFeaBypffimTdcLCcD8XJzHvYsmgwpF": {
             "symbol": "BRAINLET",
             "name": "Brainlet",
-            "amount": 2023115.2677
+            "amount": 3152982.599385
         },
         "HmRpmbeGosahTzChmTmKzFHR5SmgSgXFAXKumajgpump": {
             "symbol": "Banjo",
             "name": "Banjo",
-            "amount": 4127006.396749
+            "amount": 3191908.509381
         },
         "57kGHuFyd4NvmZiT8cE9rd8uAbxzU72eEUJNFcp1pump": {
             "symbol": "BEEP",
@@ -76625,7 +76875,7 @@
         "3T1WmUiFqrPkUQPMR46oTX2ZGXm32jDVbWgoCNY4pump": {
             "symbol": "bichi",
             "name": "bichi mao",
-            "amount": 12026291.829262
+            "amount": 8658930.117069
         },
         "5SVG3T9CNQsm2kEwzbRq6hASqh1oGfjqTtLXYUibpump": {
             "symbol": "SIGMA",
@@ -76640,7 +76890,7 @@
         "JBSVUpKgYNHt4GLtNebQxTJmZgftTMWENQrziHtGpump": {
             "symbol": "Swarm",
             "name": "Swarm",
-            "amount": 4955549.763664
+            "amount": 3468884.834565
         },
         "HEWYZsknrSmsgUyPbdaDGS6fnR4vDVVHf9okJSmjpump": {
             "symbol": "ELONSCAT",
@@ -76660,7 +76910,7 @@
         "AMzRgopbj29itrdXQWmRAKVHdUNuM5S3qAMZjy8Epump": {
             "symbol": "SokYaa",
             "name": "SokYaa",
-            "amount": 1581.5289
+            "amount": 2014.9358
         },
         "EBScQpWUVRwYG9BChAWDZ6VZrchQqSJ49h1MihAxpump": {
             "symbol": "LUMPA",
@@ -76670,7 +76920,7 @@
         "9So37icWcKmuMGFPPR36a82Q1E5gZJ6HFSz7Eynfpump": {
             "symbol": "EFR",
             "name": "End Federal Reserve",
-            "amount": 1275055.402715
+            "amount": 2064651.936329
         },
         "4T5HXFwT8JNdvrSv4bnzAV2d7KbWA1bbK5GPCg9Cpump": {
             "symbol": "BUU",
@@ -76705,7 +76955,7 @@
         "CZjkgMmQBDzNq5XWwXR2vUER2WxCeB7MVwsKeZ9Ypump": {
             "symbol": "BEWO",
             "name": "Blue Eyes White Omnicat",
-            "amount": 850.0
+            "amount": 1350.0
         },
         "ESuLVv4PXfv7m2sH6e3hcfNhEnUfLCiKU91d4rJwpump": {
             "symbol": "PASTAFARIA",
@@ -76740,7 +76990,7 @@
         "DmyYENoMKDFtbfUeBcMhAedi1amPSEvJC9Sy8R8VxQ8j": {
             "symbol": "GIRLE",
             "name": "girl economy ai",
-            "amount": 5118681.590906756
+            "amount": 2942559.314843112
         },
         "FJj3bcWdvJvcNM22Upo2pvTqgDJgnxnWzxYwkcrkpump": {
             "symbol": "PAPER",
@@ -76750,7 +77000,7 @@
         "AbQPqDquAKq87wMYXmNFCe92TAQPetGn8y77b1DApump": {
             "symbol": "spin",
             "name": "chickspinwifhat",
-            "amount": 726.095
+            "amount": 1097.587
         },
         "CDwit8rRsy9krxNzG9kDerLxi5FebQTMU8dPhgMTpump": {
             "symbol": "poodle",
@@ -76766,6 +77016,161 @@
             "symbol": "A 100x Pls",
             "name": "Letter to Santa",
             "amount": 6903569.163339
+        },
+        "qiaupfns561LJPudU2YL48S2mx1nbekrn8V4RrpyJG6": {
+            "symbol": "Zazu",
+            "name": "Zazu",
+            "amount": 6432825.904285
+        },
+        "8Z4MNp5EmvCNqiQRUbq7tsBVTn7KYot2iYupSLpQpump": {
+            "symbol": "BAC",
+            "name": "BACE1",
+            "amount": 8069.0802
+        },
+        "J1Wpmugrooj1yMyQKrdZ2vwRXG5rhfx3vTnYE39gpump": {
+            "symbol": "WOULD",
+            "name": "would",
+            "amount": 1790396.441083
+        },
+        "BYcRo53tA95hG5Tu5g27dxg5Hu5Z3u7whrQRSbBNpump": {
+            "symbol": "bghvyn",
+            "name": "bhnhbn. gv",
+            "amount": 3359188.05213
+        },
+        "22Xeo6diWfJrScaoVFzgkwzrCByPukK45fdwkJyrpump": {
+            "symbol": "Mustard",
+            "name": "MUSTAAAAAARD",
+            "amount": 3812979.928376
+        },
+        "C6NP521KQ8TRbSj4aHzQng5czh1XmisTkXh7EcScpump": {
+            "symbol": "MIND",
+            "name": "MIND BATH",
+            "amount": 136163551.277054
+        },
+        "4ZVzFX3Ksn8BSNQQUTx2K87Mas8C8xa2c5wyKyACpump": {
+            "symbol": "GRINDI",
+            "name": "GRINDI",
+            "amount": 3701679.556616
+        },
+        "5ErTW8z8PwCaaZyqvSFa9NJGMkZaWHffV4nRHNZRpump": {
+            "symbol": "USDD2.0",
+            "name": "ELONDOLLAR",
+            "amount": 17269078.574514
+        },
+        "8zrgK9eADL7fc5GSn8seJ4n9E22bn5a4o5JiAptVpump": {
+            "symbol": "SPELL",
+            "name": "The Spellcaster",
+            "amount": 3477305.006011
+        },
+        "3Ny7ouGfjha8NLZYeePk5G2k3iB9hyhTcUtKxkFkLXov": {
+            "symbol": "$ROCK",
+            "name": "PET",
+            "amount": 1000000.0
+        },
+        "7C1vRtJ9EvzdXdGPGYFbcRvwKUnjKJPrUhTwrpjZpump": {
+            "symbol": "KRATER",
+            "name": "Artificial Talking Caterpillar",
+            "amount": 6368600.020699
+        },
+        "BampCPrjjGGyfPfBVJ5dytCd2hL3Q3edoPEvQ3wMpump": {
+            "symbol": "\ufdfd\ufdfd\ufdfd",
+            "name": "Longest Ticker",
+            "amount": 4680346.752081
+        },
+        "6AogGHPFDV8JuQq5quoFun9gCQyxrK7V3Kt7EmzMpump": {
+            "symbol": "anita",
+            "name": "New Drake Tour Anita Mascot",
+            "amount": 6557345.878514
+        },
+        "DDij7Dp8updt3XSCzeHCaAoDoFTSE5Y27i2EQ9qjMQtr": {
+            "symbol": "RURI",
+            "name": "Truth Terminal's Crush",
+            "amount": 620052.861159
+        },
+        "4FxtVVjQSkwKghNXnGBxx3iSoN3XQcsZ4fmjAbLPpump": {
+            "symbol": "fleebr",
+            "name": "fleebr",
+            "amount": 3786946.59199
+        },
+        "4j2gUEmfbSAacvSSd6yXo8yEzXCAUVeoXrqLVV3apump": {
+            "symbol": "WINTER",
+            "name": "WINTER ARC",
+            "amount": 3415319.997027
+        },
+        "C95a7kCUAbEJ8VyWj5mvcJe2jvTeYsVgomM8bTYHpump": {
+            "symbol": "ERM",
+            "name": "Erm Actually",
+            "amount": 3374789.703774
+        },
+        "FNkhvp2HJyKRNHGnLJa7MSVsEjESNeBWygkTC9Vwpump": {
+            "symbol": "HELLYEAH",
+            "name": "\ud83d\udde3\ufe0fHell Yeah\ud83e\udd85",
+            "amount": 1114799.561659
+        },
+        "7PoJot52r334F3W32uHSjYfC8u6se7WB5yvPnsuopump": {
+            "symbol": "hodl",
+            "name": "hohohodl",
+            "amount": 723.62
+        },
+        "6P55iXfqgdHJudGQ5M44re68xcxtujSH9C4enUAdpump": {
+            "symbol": "MIND",
+            "name": "Mindbath",
+            "amount": 20346857.086275
+        },
+        "EEN6QTeegxyGkXYUhk7fasXRQptDk3opfoNmMrXypump": {
+            "symbol": "shine",
+            "name": "Radiant Shine",
+            "amount": 117.177
+        },
+        "45ifTVsV6UN6KsNcFqniaQHaNxkLXL1Ve32Msno4pump": {
+            "symbol": "Shiro",
+            "name": "Shiro Neko",
+            "amount": 5431713.757702
+        },
+        "CnGb5fTtMZ1yhtDbCxJPrkEG3QZueVvVDpotrq6epump": {
+            "symbol": "AFFIRM",
+            "name": "Affirm \"YES\"",
+            "amount": 10066378.584426
+        },
+        "9JhFqCA21MoAXs2PTaeqNQp2XngPn1PgYr2rsEVCpump": {
+            "symbol": "OPUS",
+            "name": "Claude Opus",
+            "amount": 453976.009565
+        },
+        "4WKnhQEkZ8Qx1dTThVX9yvYeag1NzUKTeGgp7VoPpump": {
+            "symbol": "mind",
+            "name": "Mind Bath",
+            "amount": 3097009.277801
+        },
+        "BooBxWvSYTjMxf4JNn1W9KJJV1fEvNVzwaHuga2NDEk2": {
+            "symbol": "HEAVIES",
+            "name": "heavies",
+            "amount": 160.1627
+        },
+        "55si56A7basZmTovy8zmLkDR9DfaD32GEe6YkvCQpump": {
+            "symbol": "MATL",
+            "name": "matt levAIne",
+            "amount": 10421154.53815
+        },
+        "BLHwd8HeMfyk11wC9nua1EsnCSMWKaL7LAreJRdMpump": {
+            "symbol": "GABE",
+            "name": "Gabe The Dog",
+            "amount": 4262.7507
+        },
+        "SgJsMweaANGYeFgR2gcM1qTGxxiZkowbGYyywQzpump": {
+            "symbol": "Lamsin",
+            "name": "Mascot of Khao Kheow Open Zoo",
+            "amount": 12409602.100581
+        },
+        "7YtADJ7EspLJw6xuMMsXoKrEyKvp5KpSQ2AEPQ3bpump": {
+            "symbol": "AIC",
+            "name": "Artificial Intelligence Coin",
+            "amount": 14512678.146891
+        },
+        "J5sHn79BS1n64SeT4RJXqYP1g1ZVSXjchYgXS848pump": {
+            "symbol": "LEMON",
+            "name": "First Fruit to 100m",
+            "amount": 1276646.975783
         }
     },
     "23yXH4xsURaRph1q8jq6pjcy2jDfUDVEMMJb63R1WLf1": {
@@ -76914,7 +77319,7 @@
         "7u8nZijX8J7Psabzt813RApbv9YEWQTepMfm1zxmpump": {
             "symbol": "early",
             "name": "he sold early",
-            "amount": 27.38
+            "amount": 36.917
         },
         "2u6qTaJUNuicZkpq2LNS2dSJHm4Jc3cuA3Nb72cJCS2b": {
             "symbol": "PEBBLE",
@@ -76954,7 +77359,7 @@
         "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v": {
             "symbol": "USDC",
             "name": "USD Coin",
-            "amount": 117.142289
+            "amount": 153.397414
         },
         "9P95EdoeqmrtTf1pk5ThHnKyaKJRn3urwXPRF6Nkpump": {
             "symbol": "ATR",
@@ -76999,7 +77404,7 @@
         "11111111111111111111111111111111": {
             "symbol": "SOL",
             "name": "SOL",
-            "amount": 32.727584961
+            "amount": 9.991074604
         },
         "3LsEtyB67MbSh4jydCnvKyG1C8efiVXG5uFwFrLWpump": {
             "symbol": "diva",
@@ -77394,7 +77799,7 @@
         "AbQPqDquAKq87wMYXmNFCe92TAQPetGn8y77b1DApump": {
             "symbol": "spin",
             "name": "chickspinwifhat",
-            "amount": 733.775
+            "amount": 1186.124
         },
         "AMfdsmkpiijDvEJDsubU2vgPcVrPP79pFY7wdRfRpump": {
             "symbol": "CURSED",
@@ -77419,7 +77824,67 @@
         "4rwZoD9p8DaZLegCuHwwtjDrnfRKTHL74XpK54Rspump": {
             "symbol": "JIZZ",
             "name": "JizzMoon",
-            "amount": 1901427.317368
+            "amount": 5266356.934121
+        },
+        "8Z4MNp5EmvCNqiQRUbq7tsBVTn7KYot2iYupSLpQpump": {
+            "symbol": "BAC",
+            "name": "BACE1",
+            "amount": 667.5696
+        },
+        "3f5SPnomZ4sKwPGNVgjHFGAMfG8F3RXhMrUtt8oXpump": {
+            "symbol": "DEV",
+            "name": "ActualDev",
+            "amount": 1.0
+        },
+        "4rTvetapwP2BEPYq64TVmDAzLdL55jxxx41erfbKxpHG": {
+            "symbol": "Bucatti",
+            "name": "Bucatti",
+            "amount": 100.383
+        },
+        "pVMfekhkcVE6Xwxok52C8xoHgsomsMvWEiLBgZzpump": {
+            "symbol": "pdb",
+            "name": "paperdreamsbutterfly",
+            "amount": 1.0
+        },
+        "EL9FuDNNUyjjmQ4U8a1Aazjzq5sDz4krhvBjesAfpump": {
+            "symbol": "galline",
+            "name": "The dancing chickens",
+            "amount": 4200.0
+        },
+        "BYcRo53tA95hG5Tu5g27dxg5Hu5Z3u7whrQRSbBNpump": {
+            "symbol": "bghvyn",
+            "name": "bhnhbn. gv",
+            "amount": 16503702.621278
+        },
+        "FQqCY31UQQvYXKcpPvg3zs2YKGfKeHYCsS5cx1Hnpump": {
+            "symbol": "EGGP",
+            "name": "Taped Eggplant",
+            "amount": 1.0
+        },
+        "EEN6QTeegxyGkXYUhk7fasXRQptDk3opfoNmMrXypump": {
+            "symbol": "shine",
+            "name": "Radiant Shine",
+            "amount": 120.632
+        },
+        "7PoJot52r334F3W32uHSjYfC8u6se7WB5yvPnsuopump": {
+            "symbol": "hodl",
+            "name": "hohohodl",
+            "amount": 822.068
+        },
+        "5NQPCbk9WZTV6j26ZnrY4sy75DHh6U7UJXkvHgWMpump": {
+            "symbol": "HAI",
+            "name": "HypeAI",
+            "amount": 16994.304713
+        },
+        "4CzEegmkeTNoL28EWTthE2pLzBLkUBY64tBcV6FSpump": {
+            "symbol": "DSH",
+            "name": "Damn, Shoulda Held ",
+            "amount": 4200.0
+        },
+        "FNkhvp2HJyKRNHGnLJa7MSVsEjESNeBWygkTC9Vwpump": {
+            "symbol": "HELLYEAH",
+            "name": "\ud83d\udde3\ufe0fHell Yeah\ud83e\udd85",
+            "amount": 9475195.169563
         }
     }
 }

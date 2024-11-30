@@ -34,7 +34,6 @@ MINT_ADDRESSES = [
     "CzLSujWBLFsSjncfkh59rUFqvafWcY5tzedWJSuypump",  # GOAT
     "FLqmVrv6cp7icjobpRMQJMEyjF3kF84QmC4HXpySpump",  # BUCK
     "9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump",  # Fartcoin
-    "HwPtbFpd3VTe3tfyosoVtPf9WPuSk5gAKkN5xp6Npump",  # 🟥🟩
     "CNvitvFnSM5ed6K28RUNSaAjqqz5tX1rA5HgaBN9pump",  # FRED
     "DwDtUqBZJtbRpdjsFw3N7YKB5epocSru25BGcVhfcYtg",  # WORM
     "A8C3xuqscfmyLrte3VmTqrAq8kgMASius9AFNANwpump",  # FWOG
@@ -48,6 +47,7 @@ MINT_ADDRESSES = [
     "79yTpy8uwmAkrdgZdq6ZSBTvxKsgPrNqTLvYQBh1pump",  # BULLY
     "FQ1tyso61AH1tzodyJfSwmzsD3GToybbRNoZxUBz21p8",  # VVAIFU
     "GmbC2HgWpHpq9SHnmEXZNT5e1zgcU9oASDqbAkGTpump",  # CATANA
+    "DDij7Dp8updt3XSCzeHCaAoDoFTSE5Y27i2EQ9qjMQtr",  # RURI
 ]
 
 EXCLUDED_ADDRESSES = {
@@ -93,3 +93,4 @@ EDGE_POINTS_QUANTITY = 100
 EDGE_POINTS_OPACITY = 0
 VYBE_NETWORK_QUERY_LIMIT = 1000
 EPSILON = 1e-4
+MIN_MARKETCAP = 1e6

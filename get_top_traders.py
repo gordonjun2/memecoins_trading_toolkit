@@ -388,10 +388,10 @@ if __name__ == "__main__":
                 graph_data['edges'].append(selected_mint_address + '-' +
                                            top_trader_address)
         else:
-            print("Mint Address selected: ALL\n")
+            print("Mint Address selected: ALL")
 
             for mint_address in MINT_ADDRESSES:
-                print('Retrieving top trader addresses for mint address: {}'.
+                print('\nRetrieving top trader addresses for mint address: {}'.
                       format(mint_address))
                 top_trader_addresses, token_symbol = get_top_trader_addresses(
                     mint_address)
