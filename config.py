@@ -4,22 +4,50 @@ from configparser import ConfigParser
 root_dir = os.path.abspath(os.path.dirname(__file__))
 config_file = os.path.join(root_dir, "private.ini")
 cfg = ConfigParser()
-cfg.read(config_file)
 
-bitquery = dict(cfg.items('bitquery'))
-BITQUERY_CLIENT_ID = bitquery.get('bitquery_client_id', '')
-BITQUERY_CLIENT_SECRET = bitquery.get('bitquery_client_secret', '')
-BITQUERY_V1_API_KEY = bitquery.get('bitquery_v1_api_key', '')
+if os.path.exists(config_file):
+    cfg.read(config_file)
+else:
+    cfg = None
 
-vybe_network = dict(cfg.items('vybe_network'))
-VYBE_NETWORK_X_API_KEY = vybe_network.get('vybe_network_x_api_key', '')
+if cfg:
+    if cfg.has_section('bitquery'):
+        bitquery = dict(cfg.items('bitquery'))
+        BITQUERY_CLIENT_ID = bitquery.get('bitquery_client_id', '')
+        BITQUERY_CLIENT_SECRET = bitquery.get('bitquery_client_secret', '')
+        BITQUERY_V1_API_KEY = bitquery.get('bitquery_v1_api_key', '')
+    else:
+        BITQUERY_CLIENT_ID = ''
+        BITQUERY_CLIENT_SECRET = ''
+        BITQUERY_V1_API_KEY = ''
 
-telegram = dict(cfg.items('telegram'))
-TELEGRAM_BOT_TOKEN = telegram.get('telegram_bot_token', '')
-TEST_TG_CHAT_ID = telegram.get('test_tg_chat_id', '')
+    if cfg.has_section('vybe_network'):
+        vybe_network = dict(cfg.items('vybe_network'))
+        VYBE_NETWORK_X_API_KEY = vybe_network.get('vybe_network_x_api_key', '')
+    else:
+        VYBE_NETWORK_X_API_KEY = ''
 
-vercel = dict(cfg.items('vercel'))
-VERCEL_APP_URL = vercel.get('vercel_app_url', '')
+    if cfg.has_section('telegram'):
+        telegram = dict(cfg.items('telegram'))
+        TELEGRAM_BOT_TOKEN = telegram.get('telegram_bot_token', '')
+        TEST_TG_CHAT_ID = telegram.get('test_tg_chat_id', '')
+    else:
+        TELEGRAM_BOT_TOKEN = ''
+        TEST_TG_CHAT_ID = ''
+
+    if cfg.has_section('vercel'):
+        vercel = dict(cfg.items('vercel'))
+        VERCEL_APP_URL = vercel.get('vercel_app_url', '')
+    else:
+        VERCEL_APP_URL = ''
+else:
+    BITQUERY_CLIENT_ID = ''
+    BITQUERY_CLIENT_SECRET = ''
+    BITQUERY_V1_API_KEY = ''
+    VYBE_NETWORK_X_API_KEY = ''
+    TELEGRAM_BOT_TOKEN = ''
+    TEST_TG_CHAT_ID = ''
+    VERCEL_APP_URL = ''
 
 BITQUERY_API_VERSION = 'EAP'
 BITQUERY_API_VERSION_URL_MAP = {
