@@ -2,9 +2,9 @@ import telebot
 import sys
 import os
 import time
-from flask import Flask
+from flask import Flask, request, render_template
 from modules import modules
-from handlers.routes import configure_routes
+# from handlers.routes import configure_routes
 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 from config import (TELEGRAM_BOT_TOKEN, TEST_TG_CHAT_ID, VERCEL_APP_URL,
@@ -17,7 +17,26 @@ OWNER_ID = OWNER_ID or os.getenv('OWNER_ID')
 
 bot = telebot.TeleBot(token=BOT_TOKEN, threaded=False)
 app = Flask(__name__)
-configure_routes(app, bot, APP_URL)
+# configure_routes(app, bot, APP_URL)
+
+
+@app.route("/")
+def index():
+    bot.remove_webhook()
+    time.sleep(1)
+    bot.set_webhook(url=APP_URL)
+
+    hello = modules.hello()
+    content = modules.content()
+    return render_template("index.html", hello=hello, content=content)
+
+
+@app.route('/webhook', methods=['POST'])
+def webhook():
+    update = telebot.types.Update.de_json(
+        request.stream.read().decode("utf-8"))
+    bot.process_new_updates([update])
+    return "ok", 200
 
 
 @bot.message_handler(commands=['start'])
