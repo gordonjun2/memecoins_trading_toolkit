@@ -1,8 +1,14 @@
 {
-    "rewrites": [
+    "builds": [
         {
-            "source": "/(.*)",
-            "destination": "/tg_bot/app"
+            "src": "/tg_bot/app.py",
+            "use": "@vercel/python"
+        }
+    ],
+    "routes": [
+        {
+            "src": "/(.*)",
+            "dest": "/tg_bot/app.py"
         }
     ]
 }
