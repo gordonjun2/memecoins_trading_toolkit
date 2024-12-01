@@ -74,4 +74,4 @@ def set_webhook():
 
 
 set_webhook()
-app.run(debug=True)
+# app.run(debug=True)
