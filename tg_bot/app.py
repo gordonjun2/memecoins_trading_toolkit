@@ -4,8 +4,8 @@ import os
 import time
 from flask import Flask
 
-from modules import modules
-from handlers.routes import configure_routes
+from tg_bot.modules import modules
+from tg_bot.handlers.routes import configure_routes
 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 from config import (TELEGRAM_BOT_TOKEN, TEST_TG_CHAT_ID, VERCEL_APP_URL,

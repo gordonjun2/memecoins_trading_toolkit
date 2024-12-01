@@ -1,5 +1,5 @@
 from flask import Flask, render_template
-from modules import modules
+from tg_bot.modules import modules
 
 
 def test_index():
