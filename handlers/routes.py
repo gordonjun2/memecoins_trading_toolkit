@@ -4,15 +4,10 @@ import telebot
 import time
 
 
-def configure_routes(app, bot, BOT_TOKEN, APP_URL):
+def configure_routes(app, bot):
 
     @app.route("/")
     def index():
-        bot.remove_webhook()
-        time.sleep(1)
-        webhook_url = f"{APP_URL}/{BOT_TOKEN}"
-        bot.set_webhook(url=webhook_url)
-
         hello = modules.hello()
         content = modules.content()
         return render_template("index.html", hello=hello, content=content)
