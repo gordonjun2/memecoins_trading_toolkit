@@ -24,18 +24,17 @@ logging.basicConfig(level=logging.INFO,
 
 logger = logging.getLogger(__name__)
 
-
-@app.route(f"/{BOT_TOKEN}", methods=['POST'])
-def telegram_webhook():
-    if request.headers.get('content-type') == 'application/json':
-        json_data = request.get_data().decode('utf-8')
-        logger.debug(f"Received JSON: {json_data}")
-        update = telebot.types.Update.de_json(json_data)
-        bot.process_new_updates([update])
-        logger.info("Processed new update")
-        return 'OK', 200
-    else:
-        abort(403)
+# @app.route(f"/{BOT_TOKEN}", methods=['POST'])
+# def telegram_webhook():
+#     if request.headers.get('content-type') == 'application/json':
+#         json_data = request.get_data().decode('utf-8')
+#         logger.debug(f"Received JSON: {json_data}")
+#         update = telebot.types.Update.de_json(json_data)
+#         bot.process_new_updates([update])
+#         logger.info("Processed new update")
+#         return 'OK', 200
+#     else:
+#         abort(403)
 
 
 @bot.message_handler(commands=['start'])
