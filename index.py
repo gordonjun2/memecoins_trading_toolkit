@@ -1,24 +1,25 @@
 import telebot
 import os
-import requests
 import time
 from flask import Flask, request, abort
+
 from modules import modules
 from handlers.routes import configure_routes
+
 from config import (TELEGRAM_BOT_TOKEN, TEST_TG_CHAT_ID, VERCEL_APP_URL,
                     OWNER_ID)
 
 BOT_TOKEN = TELEGRAM_BOT_TOKEN or os.getenv('TELEGRAM_BOT_TOKEN')
-TELEGRAM_API_URL = f"https://api.telegram.org/bot{BOT_TOKEN}"
 APP_URL = VERCEL_APP_URL or os.getenv('VERCEL_APP_URL')
 CHAT_ID = TEST_TG_CHAT_ID or os.getenv('TEST_TG_CHAT_ID')
 OWNER_ID = OWNER_ID or os.getenv('OWNER_ID')
 
 bot = telebot.TeleBot(token=BOT_TOKEN, threaded=False)
 app = Flask(__name__)
-configure_routes(app, bot)
+configure_routes(app, bot, BOT_TOKEN, APP_URL)
 
 
+# Telegram webhook endpoint
 @app.route(f"/{BOT_TOKEN}", methods=['POST'])
 def telegram_webhook():
     if request.headers.get('content-type') == 'application/json':
@@ -30,6 +31,7 @@ def telegram_webhook():
         abort(403)
 
 
+# Add bot commands
 @bot.message_handler(commands=['start'])
 def command_start(message):
     cid = message.chat.id
@@ -68,13 +70,5 @@ def command_unknown(message):
     )
 
 
-def set_webhook():
-    url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/deleteWebhook"
-    _ = requests.get(url)
-    url = f"{TELEGRAM_API_URL}/setWebhook?url={APP_URL}/{BOT_TOKEN}"
-    response = requests.get(url)
-    print("Webhook set:", response.json())
-
-
-set_webhook()
-# app.run(debug=True)
+if __name__ == "__main__":
+    app.run(debug=True)
