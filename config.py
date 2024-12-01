@@ -49,6 +49,7 @@ else:
     VYBE_NETWORK_X_API_KEY = ''
     TELEGRAM_BOT_TOKEN = ''
     TEST_TG_CHAT_ID = ''
+    OWNER_ID = ''
     VERCEL_APP_URL = ''
 
 BITQUERY_API_VERSION = 'EAP'
