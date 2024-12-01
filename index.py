@@ -1,7 +1,5 @@
 import telebot
 import os
-import requests
-import time
 from flask import Flask, request, abort
 
 from modules import modules
@@ -11,7 +9,6 @@ from config import (TELEGRAM_BOT_TOKEN, TEST_TG_CHAT_ID, VERCEL_APP_URL,
                     OWNER_ID)
 
 BOT_TOKEN = TELEGRAM_BOT_TOKEN or os.getenv('TELEGRAM_BOT_TOKEN')
-TELEGRAM_API_URL = f"https://api.telegram.org/bot{BOT_TOKEN}"
 APP_URL = VERCEL_APP_URL or os.getenv('VERCEL_APP_URL')
 CHAT_ID = TEST_TG_CHAT_ID or os.getenv('TEST_TG_CHAT_ID')
 OWNER_ID = OWNER_ID or os.getenv('OWNER_ID')
@@ -32,10 +29,8 @@ def telegram_webhook():
         abort(403)
 
 
-# Add bot commands
 @bot.message_handler(commands=['start'])
 def command_start(message):
-    print(message)
     cid = message.chat.id
     bot.send_message(
         cid,
@@ -58,9 +53,7 @@ def command_ping(message):
     if message.chat.id != int(OWNER_ID):
         bot.reply_to(message, "Sorry you are not allowed to use this command!")
     else:
-        start_time = time.time()
-        ping = modules.get_running_time(start_time)
-        bot.reply_to(message, "PONG! Running time: {:.3f} s.".format(ping))
+        bot.reply_to(message, "PONG!")
 
 
 @bot.message_handler(func=lambda message: modules.is_command(message.text))
@@ -72,12 +65,5 @@ def command_unknown(message):
     )
 
 
-def set_webhook():
-    url = f"{TELEGRAM_API_URL}/setWebhook?url={APP_URL}/{BOT_TOKEN}"
-    response = requests.get(url)
-    print("Webhook set:", response.json())
-
-
 if __name__ == "__main__":
-    set_webhook()
     app.run(debug=True)
