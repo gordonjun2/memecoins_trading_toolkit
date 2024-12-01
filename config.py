@@ -48,6 +48,7 @@ MINT_ADDRESSES = [
     "FQ1tyso61AH1tzodyJfSwmzsD3GToybbRNoZxUBz21p8",  # VVAIFU
     "GmbC2HgWpHpq9SHnmEXZNT5e1zgcU9oASDqbAkGTpump",  # CATANA
     "DDij7Dp8updt3XSCzeHCaAoDoFTSE5Y27i2EQ9qjMQtr",  # RURI
+    "9qriMjPPAJTMCtfQnz7Mo9BsV2jAWTr2ff7yc3JWpump",  #  
 ]
 
 EXCLUDED_ADDRESSES = {
