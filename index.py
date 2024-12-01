@@ -68,6 +68,8 @@ def command_unknown(message):
 
 
 def set_webhook():
+    url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/deleteWebhook"
+    _ = requests.get(url)
     url = f"{TELEGRAM_API_URL}/setWebhook?url={APP_URL}/{BOT_TOKEN}"
     response = requests.get(url)
     print("Webhook set:", response.json())
