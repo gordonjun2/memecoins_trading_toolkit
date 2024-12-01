@@ -1,8 +1,5 @@
 import re
 import time
-import random
-import os
-import requests
 from tests import test_routes
 
 COMMANDS = {
