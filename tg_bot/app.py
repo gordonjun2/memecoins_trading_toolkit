@@ -2,7 +2,7 @@ import telebot
 import sys
 import os
 import time
-from flask import Flask, request, render_template
+from flask import Flask
 
 from modules import modules
 from handlers.routes import configure_routes
