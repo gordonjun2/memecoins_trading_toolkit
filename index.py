@@ -1,13 +1,10 @@
 import telebot
-import sys
 import os
-import time
-from flask import Flask
+from flask import Flask, request, abort
 
 from modules import modules
 from handlers.routes import configure_routes
 
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 from config import (TELEGRAM_BOT_TOKEN, TEST_TG_CHAT_ID, VERCEL_APP_URL,
                     OWNER_ID)
 
@@ -17,10 +14,23 @@ CHAT_ID = TEST_TG_CHAT_ID or os.getenv('TEST_TG_CHAT_ID')
 OWNER_ID = OWNER_ID or os.getenv('OWNER_ID')
 
 bot = telebot.TeleBot(token=BOT_TOKEN, threaded=False)
-app = Flask(__name__, template_folder="../templates")
+app = Flask(__name__)
 configure_routes(app, bot, APP_URL)
 
 
+# Telegram webhook endpoint
+@app.route(f"/{BOT_TOKEN}", methods=['POST'])
+def telegram_webhook():
+    if request.headers.get('content-type') == 'application/json':
+        json_data = request.get_data().decode('utf-8')
+        update = telebot.types.Update.de_json(json_data)
+        bot.process_new_updates([update])
+        return 'OK', 200
+    else:
+        abort(403)
+
+
+# Add bot commands
 @bot.message_handler(commands=['start'])
 def command_start(message):
     cid = message.chat.id
@@ -45,9 +55,7 @@ def command_ping(message):
     if message.chat.id != int(OWNER_ID):
         bot.reply_to(message, "Sorry you are not allowed to use this command!")
     else:
-        start_time = time.time()
-        ping = modules.get_running_time(start_time)
-        bot.reply_to(message, "PONG! Running time: {:.3f} s.".format(ping))
+        bot.reply_to(message, "PONG!")
 
 
 @bot.message_handler(func=lambda message: modules.is_command(message.text))
@@ -55,9 +63,20 @@ def command_unknown(message):
     command = str(message.text).split()[0]
     bot.reply_to(
         message,
-        "Sorry, {} command not found!\nPlease use /help to find all commands.".
-        format(command))
+        f"Sorry, {command} command not found!\nPlease use /help to find all commands."
+    )
 
 
-if __name__ == '__main__':
-    app.run(threaded=False)
+# Set webhook when deploying
+@app.route('/setwebhook', methods=['GET'])
+def set_webhook():
+    webhook_url = f"{APP_URL}/{BOT_TOKEN}"
+    success = bot.set_webhook(url=webhook_url)
+    if success:
+        return f"Webhook setup successful", 200
+    else:
+        return "Failed to set webhook", 500
+
+
+if __name__ == "__main__":
+    app.run(debug=True)
