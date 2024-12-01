@@ -18,16 +18,15 @@ bot = telebot.TeleBot(token=BOT_TOKEN, threaded=False)
 app = Flask(__name__)
 configure_routes(app, bot)
 
-
-@app.route(f"/{BOT_TOKEN}", methods=['POST'])
-def telegram_webhook():
-    if request.headers.get('content-type') == 'application/json':
-        json_data = request.get_data().decode('utf-8')
-        update = telebot.types.Update.de_json(json_data)
-        bot.process_new_updates([update])
-        return 'OK', 200
-    else:
-        abort(403)
+# @app.route(f"/{BOT_TOKEN}", methods=['POST'])
+# def telegram_webhook():
+#     if request.headers.get('content-type') == 'application/json':
+#         json_data = request.get_data().decode('utf-8')
+#         update = telebot.types.Update.de_json(json_data)
+#         bot.process_new_updates([update])
+#         return 'OK', 200
+#     else:
+#         abort(403)
 
 
 @bot.message_handler(commands=['start'])
@@ -74,6 +73,5 @@ def set_webhook():
     print("Webhook set:", response.json())
 
 
-if __name__ == "__main__":
-    set_webhook()
-    app.run(debug=True)
+set_webhook()
+app.run(debug=True)
