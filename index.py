@@ -1,6 +1,7 @@
 import logging
 import telebot
 import os
+import time
 from flask import Flask, request, abort
 
 from modules import modules
@@ -72,8 +73,10 @@ def command_ping(message):
         logger.warning(
             f"Unauthorized /ping attempt from chat_id: {message.chat.id}")
     else:
-        bot.reply_to(message, "PONG!")
-        logger.info(f"Responded to /ping from OWNER_ID: {OWNER_ID}")
+        start_time = time.time()
+        ping = modules.get_running_time(start_time)
+        bot.reply_to(message, "PONG! Running time: {:.3f} s.".format(ping))
+        logger.info(f"Responded to /ping to chat_id: {message.chat.id}")
 
 
 @bot.message_handler(func=lambda message: modules.is_command(message.text))
