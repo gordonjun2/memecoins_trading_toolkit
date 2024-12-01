@@ -2,15 +2,15 @@ from flask import request, render_template
 from modules import modules
 import telebot
 import time
-import os
 
 
-def configure_routes(app, bot):
+def configure_routes(app, bot, APP_URL):
+
     @app.route("/")
     def index():
         bot.remove_webhook()
         time.sleep(1)
-        bot.set_webhook(url=os.getenv("URL"))
+        bot.set_webhook(url=APP_URL)
 
         hello = modules.hello()
         content = modules.content()

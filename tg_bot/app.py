@@ -17,7 +17,7 @@ OWNER_ID = OWNER_ID or os.getenv('OWNER_ID')
 
 bot = telebot.TeleBot(token=BOT_TOKEN, threaded=False)
 app = Flask(__name__)
-configure_routes(app, bot)
+configure_routes(app, bot, APP_URL)
 
 
 @bot.message_handler(commands=['start'])
@@ -56,3 +56,7 @@ def command_unknown(message):
         message,
         "Sorry, {} command not found!\nPlease use /help to find all commands.".
         format(command))
+
+
+if __name__ == '__main__':
+    app.run(threaded=False)
