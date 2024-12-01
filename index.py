@@ -1,6 +1,7 @@
 import telebot
 import os
 import requests
+import time
 from flask import Flask, request, abort
 from modules import modules
 from handlers.routes import configure_routes
@@ -17,16 +18,15 @@ bot = telebot.TeleBot(token=BOT_TOKEN, threaded=False)
 app = Flask(__name__)
 configure_routes(app, bot)
 
-
-@app.route(f"/{BOT_TOKEN}", methods=['POST'])
-def telegram_webhook():
-    if request.headers.get('content-type') == 'application/json':
-        json_data = request.get_data().decode('utf-8')
-        update = telebot.types.Update.de_json(json_data)
-        bot.process_new_updates([update])
-        return 'OK', 200
-    else:
-        abort(403)
+# @app.route(f"/{BOT_TOKEN}", methods=['POST'])
+# def telegram_webhook():
+#     if request.headers.get('content-type') == 'application/json':
+#         json_data = request.get_data().decode('utf-8')
+#         update = telebot.types.Update.de_json(json_data)
+#         bot.process_new_updates([update])
+#         return 'OK', 200
+#     else:
+#         abort(403)
 
 
 @bot.message_handler(commands=['start'])
@@ -53,7 +53,9 @@ def command_ping(message):
     if message.chat.id != int(OWNER_ID):
         bot.reply_to(message, "Sorry you are not allowed to use this command!")
     else:
-        bot.reply_to(message, "PONG!")
+        start_time = time.time()
+        ping = modules.get_running_time(start_time)
+        bot.reply_to(message, "PONG! Running time: {:.3f} s.".format(ping))
 
 
 @bot.message_handler(func=lambda message: modules.is_command(message.text))
