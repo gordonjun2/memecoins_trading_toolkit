@@ -1,6 +1,5 @@
 import telebot
 import os
-import time
 from flask import Flask, request, abort
 
 from modules import modules
@@ -54,9 +53,7 @@ def command_ping(message):
     if message.chat.id != int(OWNER_ID):
         bot.reply_to(message, "Sorry you are not allowed to use this command!")
     else:
-        start_time = time.time()
-        ping = modules.get_running_time(start_time)
-        bot.reply_to(message, "PONG! Running time: {:.3f} s.".format(ping))
+        bot.reply_to(message, "PONG!")
 
 
 @bot.message_handler(func=lambda message: modules.is_command(message.text))
