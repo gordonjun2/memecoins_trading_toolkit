@@ -2,7 +2,6 @@ import requests
 import os
 from urllib3.exceptions import InsecureRequestWarning
 import urllib3
-import sys
 import time
 import logging
 from utils import *
