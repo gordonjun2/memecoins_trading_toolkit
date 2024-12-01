@@ -7,6 +7,7 @@ import threading
 
 from modules import modules
 from handlers.routes import configure_routes
+from get_token_balances_change import get_token_balance_change
 
 from config import (TELEGRAM_BOT_TOKEN, TEST_TG_CHAT_ID, VERCEL_APP_URL,
                     OWNER_ID)
@@ -21,25 +22,33 @@ app = Flask(__name__)
 configure_routes(app)
 
 logging.basicConfig(level=logging.INFO,
-                    format='%(asctime)s [%(levelname)s] %(message)s',
+                    format='%(message)s',
                     handlers=[logging.StreamHandler()])
 
 logger = logging.getLogger(__name__)
 
 
-# Function to send "Hello!" every 10 seconds
-def send_hello_periodically():
+def run_get_token_balance_change_periodically():
     while True:
         try:
-            bot.send_message(OWNER_ID, "Hello!")
-            logger.info(f"Sent 'Hello!' to OWNER_ID: {OWNER_ID}")
+            bot.send_message(
+                OWNER_ID,
+                "Running function to get top traders' token balance change...")
+            tg_msg = get_token_balance_change(logger)
+            if tg_msg:
+                bot.send_message(OWNER_ID, tg_msg)
+            else:
+                bot.send_message(OWNER_ID, "No token balance changes found.")
+            logger.info("Successfully ran get_token_balance_change function.")
         except Exception as e:
-            logger.error(f"Error sending message to OWNER_ID: {OWNER_ID}, {e}")
-        time.sleep(10)  # Wait for 10 seconds before sending the next message
+            msg = f"Error running get_token_balance_change function: {e}"
+            bot.send_message(OWNER_ID, msg)
+            logger.error(msg)
+        time.sleep(3600)
 
 
-# Start the background thread to send 'Hello!' every 10 seconds
-threading.Thread(target=send_hello_periodically, daemon=True).start()
+threading.Thread(target=run_get_token_balance_change_periodically,
+                 daemon=True).start()
 
 
 @app.route(f"/{BOT_TOKEN}", methods=['POST'])
