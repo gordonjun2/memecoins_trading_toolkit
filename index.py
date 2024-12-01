@@ -1,14 +1,14 @@
 import telebot
 import os
+import requests
 from flask import Flask, request, abort
-
 from modules import modules
 from handlers.routes import configure_routes
-
 from config import (TELEGRAM_BOT_TOKEN, TEST_TG_CHAT_ID, VERCEL_APP_URL,
                     OWNER_ID)
 
 BOT_TOKEN = TELEGRAM_BOT_TOKEN or os.getenv('TELEGRAM_BOT_TOKEN')
+TELEGRAM_API_URL = f"https://api.telegram.org/bot{BOT_TOKEN}"
 APP_URL = VERCEL_APP_URL or os.getenv('VERCEL_APP_URL')
 CHAT_ID = TEST_TG_CHAT_ID or os.getenv('TEST_TG_CHAT_ID')
 OWNER_ID = OWNER_ID or os.getenv('OWNER_ID')
@@ -65,5 +65,12 @@ def command_unknown(message):
     )
 
 
+def set_webhook():
+    url = f"{TELEGRAM_API_URL}/setWebhook?url={APP_URL}/{BOT_TOKEN}"
+    response = requests.get(url)
+    print("Webhook set:", response.json())
+
+
 if __name__ == "__main__":
+    set_webhook()
     app.run(debug=True)
