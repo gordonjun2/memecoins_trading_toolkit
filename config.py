@@ -15,7 +15,10 @@ vybe_network = dict(cfg.items('vybe_network'))
 VYBE_NETWORK_X_API_KEY = vybe_network.get('vybe_network_x_api_key', '')
 
 telegram = dict(cfg.items('telegram'))
-TELEGRAM_BOT_TOKEN = vybe_network.get('telegram_bot_token', '')
+TELEGRAM_BOT_TOKEN = telegram.get('telegram_bot_token', '')
+
+vercel = dict(cfg.items('vercel'))
+VERCEL_APP_URL = vercel.get('vercel_app_url', '')
 
 BITQUERY_API_VERSION = 'EAP'
 BITQUERY_API_VERSION_URL_MAP = {
@@ -99,4 +102,3 @@ VYBE_NETWORK_QUERY_LIMIT = 1000
 EPSILON = 1e-4
 MIN_MARKETCAP = 1e6
 TEST_TG_CHAT_ID = -4217298172
-APP_URL = 'https://memecoins-trading-toolkit.vercel.app/'

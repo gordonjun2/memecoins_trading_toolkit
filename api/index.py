@@ -4,10 +4,10 @@ from flask import Flask
 import telegram
 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
-from config import TELEGRAM_BOT_TOKEN, TEST_TG_CHAT_ID, APP_URL
+from config import TELEGRAM_BOT_TOKEN, TEST_TG_CHAT_ID, VERCEL_APP_URL
 
 BOT_TOKEN = TELEGRAM_BOT_TOKEN or os.getenv('TELEGRAM_BOT_TOKEN')
-APP_URL = APP_URL or os.getenv('APP_URL')
+APP_URL = VERCEL_APP_URL or os.getenv('VERCEL_APP_URL')
 bot = telegram.Bot(token=BOT_TOKEN)
 
 app = Flask(__name__)
