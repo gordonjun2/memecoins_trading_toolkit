@@ -15,7 +15,7 @@ OWNER_ID = OWNER_ID or os.getenv('OWNER_ID')
 
 bot = telebot.TeleBot(token=BOT_TOKEN, threaded=False)
 app = Flask(__name__)
-configure_routes(app, bot, APP_URL)
+configure_routes(app, bot, BOT_TOKEN, APP_URL)
 
 
 # Telegram webhook endpoint
@@ -65,17 +65,6 @@ def command_unknown(message):
         message,
         f"Sorry, {command} command not found!\nPlease use /help to find all commands."
     )
-
-
-# Set webhook when deploying
-@app.route('/setwebhook', methods=['GET'])
-def set_webhook():
-    webhook_url = f"{APP_URL}/{BOT_TOKEN}"
-    success = bot.set_webhook(url=webhook_url)
-    if success:
-        return f"Webhook setup successful", 200
-    else:
-        return "Failed to set webhook", 500
 
 
 if __name__ == "__main__":
