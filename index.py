@@ -1,6 +1,5 @@
 import telebot
 import os
-import time
 from flask import Flask, request, abort
 
 from modules import modules
@@ -19,7 +18,6 @@ app = Flask(__name__)
 configure_routes(app, bot)
 
 
-# Telegram webhook endpoint
 @app.route(f"/{BOT_TOKEN}", methods=['POST'])
 def telegram_webhook():
     if request.headers.get('content-type') == 'application/json':
@@ -31,7 +29,6 @@ def telegram_webhook():
         abort(403)
 
 
-# Add bot commands
 @bot.message_handler(commands=['start'])
 def command_start(message):
     cid = message.chat.id
@@ -56,9 +53,7 @@ def command_ping(message):
     if message.chat.id != int(OWNER_ID):
         bot.reply_to(message, "Sorry you are not allowed to use this command!")
     else:
-        start_time = time.time()
-        ping = modules.get_running_time(start_time)
-        bot.reply_to(message, "PONG! Running time: {:.3f} s.".format(ping))
+        bot.reply_to(message, "PONG!")
 
 
 @bot.message_handler(func=lambda message: modules.is_command(message.text))
@@ -68,3 +63,7 @@ def command_unknown(message):
         message,
         f"Sorry, {command} command not found!\nPlease use /help to find all commands."
     )
+
+
+if __name__ == "__main__":
+    app.run(debug=True)
