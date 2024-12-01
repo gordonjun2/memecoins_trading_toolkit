@@ -4,10 +4,11 @@ from flask import Flask
 import telegram
 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
-from config import TELEGRAM_BOT_TOKEN, TEST_TG_CHAT_ID, VERCEL_APP_URL
+from config import (TELEGRAM_BOT_TOKEN, TEST_TG_CHAT_ID, VERCEL_APP_URL)
 
 BOT_TOKEN = TELEGRAM_BOT_TOKEN or os.getenv('TELEGRAM_BOT_TOKEN')
 APP_URL = VERCEL_APP_URL or os.getenv('VERCEL_APP_URL')
+CHAT_ID = TEST_TG_CHAT_ID or os.getenv('TEST_TG_CHAT_ID')
 bot = telegram.Bot(token=BOT_TOKEN)
 
 app = Flask(__name__)
@@ -23,8 +24,7 @@ def home():
 
 @app.route('/send_message')
 def send_message():
-    chat_id = TEST_TG_CHAT_ID
-    bot.send_message(chat_id=chat_id, text="Hello from Flask! Bot is running.")
+    bot.send_message(chat_id=CHAT_ID, text="Hello from Flask! Bot is running.")
     return "Message sent!"
 
 

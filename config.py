@@ -16,6 +16,7 @@ VYBE_NETWORK_X_API_KEY = vybe_network.get('vybe_network_x_api_key', '')
 
 telegram = dict(cfg.items('telegram'))
 TELEGRAM_BOT_TOKEN = telegram.get('telegram_bot_token', '')
+TEST_TG_CHAT_ID = telegram.get('test_tg_chat_id', '')
 
 vercel = dict(cfg.items('vercel'))
 VERCEL_APP_URL = vercel.get('vercel_app_url', '')
@@ -101,4 +102,3 @@ EDGE_POINTS_OPACITY = 0
 VYBE_NETWORK_QUERY_LIMIT = 1000
 EPSILON = 1e-4
 MIN_MARKETCAP = 1e6
-TEST_TG_CHAT_ID = -4217298172
