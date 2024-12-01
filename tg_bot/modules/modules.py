@@ -1,6 +1,6 @@
 import re
 import time
-from tests import test_routes
+from tg_bot.tests import test_routes
 
 COMMANDS = {
     'start': 'Gives information about the bot',
