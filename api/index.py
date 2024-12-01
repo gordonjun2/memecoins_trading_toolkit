@@ -14,7 +14,7 @@ CHAT_ID = TEST_TG_CHAT_ID or os.getenv('TEST_TG_CHAT_ID')
 OWNER_ID = OWNER_ID or os.getenv('OWNER_ID')
 
 bot = telebot.TeleBot(token=BOT_TOKEN, threaded=False)
-app = Flask(__name__)
+app = Flask(__name__, template_folder="../templates")
 configure_routes(app, bot, APP_URL)
 
 

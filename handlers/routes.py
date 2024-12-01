@@ -1,5 +1,5 @@
 from flask import request, render_template
-from tg_bot.modules import modules
+from modules import modules
 import telebot
 import time
 

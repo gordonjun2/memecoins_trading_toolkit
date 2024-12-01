@@ -1,14 +1,14 @@
 {
     "builds": [
         {
-            "src": "/tg_bot/app.py",
+            "src": "/api/index.py",
             "use": "@vercel/python"
         }
     ],
     "routes": [
         {
             "src": "/(.*)",
-            "dest": "/tg_bot/app.py"
+            "dest": "/api/index.py"
         }
     ]
 }
