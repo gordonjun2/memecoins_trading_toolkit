@@ -22,14 +22,13 @@ app = Flask(__name__)
 
 @app.route("/")
 def index():
-    # bot.remove_webhook()
-    # time.sleep(1)
-    # bot.set_webhook(url=APP_URL)
+    bot.remove_webhook()
+    time.sleep(1)
+    bot.set_webhook(url=APP_URL)
 
-    # hello = modules.hello()
-    # content = modules.content()
-    # return render_template("index.html", hello=hello, content=content)
-    return 'Bot is running.'
+    hello = modules.hello()
+    content = modules.content()
+    return render_template("index.html", hello=hello, content=content)
 
 
 @app.route('/webhook', methods=['POST'])
