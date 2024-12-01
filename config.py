@@ -31,9 +31,11 @@ if cfg:
         telegram = dict(cfg.items('telegram'))
         TELEGRAM_BOT_TOKEN = telegram.get('telegram_bot_token', '')
         TEST_TG_CHAT_ID = telegram.get('test_tg_chat_id', '')
+        OWNER_ID = telegram.get('owner_id', '')
     else:
         TELEGRAM_BOT_TOKEN = ''
         TEST_TG_CHAT_ID = ''
+        OWNER_ID = ''
 
     if cfg.has_section('vercel'):
         vercel = dict(cfg.items('vercel'))
