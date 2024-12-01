@@ -31,19 +31,24 @@ logger = logging.getLogger(__name__)
 def run_get_token_balance_change_periodically():
     while True:
         try:
+            logger.info(
+                f"Running function to get top traders' token balance change for: {OWNER_ID}"
+            )
             bot.send_message(
                 OWNER_ID,
                 "Running function to get top traders' token balance change...")
             tg_msg = get_token_balance_change(logger)
             if tg_msg:
+                logger.info(f"Sent token balance updates to: {OWNER_ID}")
                 bot.send_message(OWNER_ID, tg_msg)
             else:
+                logger.info("No token balance changes found.")
                 bot.send_message(OWNER_ID, "No token balance changes found.")
             logger.info("Successfully ran get_token_balance_change function.")
         except Exception as e:
             msg = f"Error running get_token_balance_change function: {e}"
-            bot.send_message(OWNER_ID, msg)
             logger.error(msg)
+            bot.send_message(OWNER_ID, msg)
         time.sleep(3600)
 
 
