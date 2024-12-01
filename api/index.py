@@ -40,8 +40,7 @@ def webhook():
         update = telegram.Update.de_json(request.get_json(force=True), bot)
 
         if update.message and update.message.text == '/status':
-            bot.send_message(chat_id=CHAT_ID,
-                             text="Hello from Flask! Bot is running.")
+            send_message()
 
     except Exception as e:
         print(f"Error handling update: {e}")
@@ -49,8 +48,7 @@ def webhook():
     return 'OK'
 
 
-@app.before_first_request
-def setup_webhook():
+def set_webhook():
     success = bot.setWebhook(f"{APP_URL}/webhook")
     if success:
         print("Webhook successfully set!")
@@ -59,4 +57,5 @@ def setup_webhook():
 
 
 if __name__ == '__main__':
+    set_webhook()
     app.run(threaded=True)
