@@ -1,5 +1,6 @@
 Flask==2.2.5
 pytelegrambotapi==4.24.0
+python-telegram-bot==21.8
 pytz
 requests
 tzlocal

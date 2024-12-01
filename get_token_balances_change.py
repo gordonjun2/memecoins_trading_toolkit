@@ -1,7 +1,5 @@
 import requests
 import os
-from urllib3.exceptions import InsecureRequestWarning
-import urllib3
 import time
 import logging
 from utils import *
@@ -9,7 +7,6 @@ import dexscreener
 from config import (VYBE_NETWORK_X_API_KEY, VYBE_NETWORK_QUERY_LIMIT,
                     MAX_RETRIES, RETRY_AFTER, EPSILON, MIN_MARKETCAP)
 
-urllib3.disable_warnings(InsecureRequestWarning)
 logging.basicConfig(level=logging.INFO,
                     format='%(message)s',
                     handlers=[logging.StreamHandler()])
@@ -164,4 +161,8 @@ def get_token_balance_change(logger=logger):
 
 
 if __name__ == "__main__":
+    from urllib3.exceptions import InsecureRequestWarning
+    import urllib3
+
+    urllib3.disable_warnings(InsecureRequestWarning)
     get_token_balance_change(logger)
