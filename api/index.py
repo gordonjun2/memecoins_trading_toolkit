@@ -18,20 +18,22 @@ bot.set_my_commands(commands)
 app = Flask(__name__)
 
 
+def send_message():
+    if not CHAT_ID:
+        msg = "TEST_TG_CHAT_ID is not set."
+        bot.send_message(chat_id=CHAT_ID, text=msg)
+        return msg
+
+    bot.send_message(chat_id=CHAT_ID, text="Hello from Flask! Bot is running.")
+    return "Message sent!"
+
+
 @app.route('/')
 def home():
     if not BOT_TOKEN:
         return "TELEGRAM_BOT_TOKEN is not set in the environment variables."
 
     return 'Bot is running.'
-
-
-@app.route('/status')
-def send_message():
-    if not CHAT_ID:
-        return "TEST_TG_CHAT_ID is not set."
-    bot.send_message(chat_id=CHAT_ID, text="Hello from Flask! Bot is running.")
-    return "Message sent!"
 
 
 @app.route('/webhook', methods=['POST'])
