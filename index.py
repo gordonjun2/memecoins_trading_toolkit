@@ -1,7 +1,9 @@
 import logging
 import telebot
 import os
+import time
 from flask import Flask, request, abort
+import threading
 
 from modules import modules
 from handlers.routes import configure_routes
@@ -23,6 +25,21 @@ logging.basicConfig(level=logging.INFO,
                     handlers=[logging.StreamHandler()])
 
 logger = logging.getLogger(__name__)
+
+
+# Function to send "Hello!" every 10 seconds
+def send_hello_periodically():
+    while True:
+        try:
+            bot.send_message(OWNER_ID, "Hello!")
+            logger.info(f"Sent 'Hello!' to OWNER_ID: {OWNER_ID}")
+        except Exception as e:
+            logger.error(f"Error sending message to OWNER_ID: {OWNER_ID}, {e}")
+        time.sleep(10)  # Wait for 10 seconds before sending the next message
+
+
+# Start the background thread to send 'Hello!' every 10 seconds
+threading.Thread(target=send_hello_periodically, daemon=True).start()
 
 
 @app.route(f"/{BOT_TOKEN}", methods=['POST'])

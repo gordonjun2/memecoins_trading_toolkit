@@ -4,7 +4,7 @@ import telebot
 import time
 
 
-def configure_routes(app, bot):
+def configure_routes(app):
 
     @app.route("/")
     def index():
