@@ -18,7 +18,7 @@ OWNER_ID = OWNER_ID or os.getenv('OWNER_ID')
 
 bot = telebot.TeleBot(token=BOT_TOKEN, threaded=False)
 app = Flask(__name__)
-configure_routes(app, bot)
+configure_routes(app)
 
 logging.basicConfig(level=logging.INFO,
                     format='%(asctime)s [%(levelname)s] %(message)s',
