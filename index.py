@@ -1,7 +1,6 @@
 import logging
 import telebot
 import os
-import time
 from flask import Flask, request, abort
 
 from modules import modules
@@ -19,29 +18,23 @@ bot = telebot.TeleBot(token=BOT_TOKEN, threaded=False)
 app = Flask(__name__)
 configure_routes(app, bot)
 
-# Configure Logging
-logging.basicConfig(
-    level=logging.INFO,  # Change to DEBUG for more verbosity
-    format='%(asctime)s [%(levelname)s] %(message)s',
-    handlers=[
-        logging.StreamHandler(
-        )  # Output logs to the console (Vercel compatible)
-    ])
+logging.basicConfig(level=logging.INFO,
+                    format='%(asctime)s [%(levelname)s] %(message)s',
+                    handlers=[logging.StreamHandler()])
 
 logger = logging.getLogger(__name__)
 
-
-@app.route(f"/{BOT_TOKEN}", methods=['POST'])
-def telegram_webhook():
-    if request.headers.get('content-type') == 'application/json':
-        json_data = request.get_data().decode('utf-8')
-        logger.debug(f"Received JSON: {json_data}")
-        update = telebot.types.Update.de_json(json_data)
-        bot.process_new_updates([update])
-        logger.info("Processed new update")
-        return 'OK', 200
-    else:
-        abort(403)
+# @app.route(f"/{BOT_TOKEN}", methods=['POST'])
+# def telegram_webhook():
+#     if request.headers.get('content-type') == 'application/json':
+#         json_data = request.get_data().decode('utf-8')
+#         logger.debug(f"Received JSON: {json_data}")
+#         update = telebot.types.Update.de_json(json_data)
+#         bot.process_new_updates([update])
+#         logger.info("Processed new update")
+#         return 'OK', 200
+#     else:
+#         abort(403)
 
 
 @bot.message_handler(commands=['start'])
@@ -73,9 +66,7 @@ def command_ping(message):
         logger.warning(
             f"Unauthorized /ping attempt from chat_id: {message.chat.id}")
     else:
-        start_time = time.time()
-        ping = modules.get_running_time(start_time)
-        bot.reply_to(message, "PONG! Running time: {:.3f} s.".format(ping))
+        bot.reply_to(message, "PONG!")
         logger.info(f"Responded to /ping to chat_id: {message.chat.id}")
 
 
@@ -88,10 +79,3 @@ def command_unknown(message):
         message,
         f"Sorry, {command} command not found!\nPlease use /help to find all commands."
     )
-
-
-logger.info("Test entry")
-
-if __name__ == "__main__":
-    logger.info("Starting Flask app")
-    app.run(debug=True)
