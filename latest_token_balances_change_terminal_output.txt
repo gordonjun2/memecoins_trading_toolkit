@@ -1,0 +1,26 @@
+
+
+Summarised token balances update (token marketcap >= 100000.0):
+Putin Trump (PutinTrump) [Y1mvcTt2e5yvr1G87njhaFPUvwsN7hQUSXuWBfu3KPd]:
+Net amount added: 1433089.216688
+No. of wallets interacted: 1
+Market cap: 9457939536
+Birdeye: https://www.birdeye.so/token/Y1mvcTt2e5yvr1G87njhaFPUvwsN7hQUSXuWBfu3KPd
+Twitter: https://x.com/MalihaSami72392
+Telegram: 
+
+USD Coin (USDC) [EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v]:
+Net amount added: -1500.0
+No. of wallets interacted: 1
+Market cap: 40256372599
+Birdeye: https://www.birdeye.so/token/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v
+Twitter: 
+Telegram: 
+
+Just a chill guy (CHILLGUY) [Df6yfrKC8kZE3KNkrHERKzAetSxbrWeniQfyJY4Jpump]:
+Net amount added: 924.4445180003531
+No. of wallets interacted: 1
+Market cap: 447082053
+Birdeye: https://www.birdeye.so/token/Df6yfrKC8kZE3KNkrHERKzAetSxbrWeniQfyJY4Jpump
+Twitter: https://x.com/chillguycto
+Telegram: https://t.me/chillguycto

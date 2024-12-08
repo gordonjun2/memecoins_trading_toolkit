@@ -1,14 +1,10 @@
 import logging
 import telebot
 import os
-import time
 from flask import Flask, request, abort
-import threading
-import schedule
 
 from modules import modules
 from handlers.routes import configure_routes
-from get_token_balances_change import get_token_balance_change
 
 from config import (TELEGRAM_BOT_TOKEN, TEST_TG_CHAT_ID, VERCEL_APP_URL,
                     OWNER_ID)
@@ -20,46 +16,13 @@ OWNER_ID = OWNER_ID or os.getenv('OWNER_ID')
 
 bot = telebot.TeleBot(token=BOT_TOKEN, threaded=False)
 app = Flask(__name__)
-configure_routes(app)
+configure_routes(app, bot)
 
 logging.basicConfig(level=logging.INFO,
-                    format='%(message)s',
+                    format='%(asctime)s [%(levelname)s] %(message)s',
                     handlers=[logging.StreamHandler()])
 
 logger = logging.getLogger(__name__)
-
-
-def job_to_run_periodically():
-    try:
-        logger.info(
-            f"Running function to get top traders' token balance change for: {OWNER_ID}"
-        )
-        bot.send_message(
-            OWNER_ID,
-            "Running function to get top traders' token balance change...")
-        tg_msg = get_token_balance_change(logger)
-        if tg_msg:
-            logger.info(f"Sent token balance updates to: {OWNER_ID}")
-            bot.send_message(OWNER_ID, tg_msg)
-        else:
-            logger.info("No token balance changes found.")
-            bot.send_message(OWNER_ID, "No token balance changes found.")
-        logger.info("Successfully ran get_token_balance_change function.")
-    except Exception as e:
-        msg = f"Error running get_token_balance_change function: {e}"
-        logger.error(msg)
-        bot.send_message(OWNER_ID, msg)
-
-
-def run_periodic_jobs():
-    schedule.every(1).hour.do(job_to_run_periodically)
-
-    while True:
-        schedule.run_pending()
-        time.sleep(1)
-
-
-threading.Thread(target=run_periodic_jobs, daemon=True).start()
 
 
 @app.route(f"/{BOT_TOKEN}", methods=['POST'])

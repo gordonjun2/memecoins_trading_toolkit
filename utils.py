@@ -4,6 +4,9 @@ import sys
 from datetime import datetime
 import pytz
 from tzlocal import get_localzone
+import requests
+import textwrap
+import telegramify_markdown
 
 
 def load_json_file(file_path):
@@ -60,3 +63,35 @@ def is_list_of_strings(variable):
 def is_list_of_dicts(variable):
     return isinstance(variable, list) and all(
         isinstance(item, dict) for item in variable)
+
+
+def send_telegram_message(bot_token, chat_id, message, verbose=True):
+    url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
+    payload = {"chat_id": chat_id, "text": message, "parse_mode": "MarkdownV2"}
+    response = requests.post(url, json=payload)
+
+    if verbose:
+        if response.status_code == 200:
+            print("Message sent to Telegram successfully!")
+        else:
+            print(f"Failed to send message. Error: {response.text}")
+
+
+def chunk_message(messages, max_length=4096):
+    chunks = []
+    current_chunk = ""
+
+    for message in messages:
+        markdown_text = textwrap.dedent(message)
+        can_be_sent = telegramify_markdown.markdownify(markdown_text)
+
+        if len(current_chunk) + len(can_be_sent) <= max_length:
+            current_chunk += can_be_sent + "\n"
+        else:
+            chunks.append(current_chunk.strip())
+            current_chunk = can_be_sent + "\n"
+
+    if current_chunk:
+        chunks.append(current_chunk.strip())
+
+    return chunks

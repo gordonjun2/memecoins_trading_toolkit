@@ -4,8 +4,10 @@ import time
 import logging
 from utils import *
 import dexscreener
-from config import (VYBE_NETWORK_X_API_KEY, VYBE_NETWORK_QUERY_LIMIT,
-                    MAX_RETRIES, RETRY_AFTER, EPSILON, MIN_MARKETCAP)
+import telebot
+from config import (VYBE_NETWORK_X_API_KEYS, VYBE_NETWORK_QUERY_LIMIT,
+                    MAX_RETRIES, RETRY_AFTER, EPSILON, MIN_MARKETCAP,
+                    WALLET_ADDRESSES_TO_INCLUDE, TELEGRAM_BOT_TOKEN, OWNER_ID)
 
 logging.basicConfig(level=logging.INFO,
                     format='%(message)s',
@@ -13,9 +15,12 @@ logging.basicConfig(level=logging.INFO,
 logger = logging.getLogger(__name__)
 
 
-def get_token_balance_change(logger=logger):
+def get_token_balance_change(logger=logger,
+                             get_token_details=True,
+                             send_to_tg=True):
 
-    X_API_KEY = VYBE_NETWORK_X_API_KEY or os.getenv('VYBE_NETWORK_X_API_KEY')
+    X_API_KEYS = VYBE_NETWORK_X_API_KEYS or os.getenv(
+        'VYBE_NETWORK_X_API_KEYS')
 
     start_time = time.time()
 
@@ -23,6 +28,8 @@ def get_token_balance_change(logger=logger):
     filtered_top_trader_addresses_dir = saved_data_base_dir + "/filtered_top_trader_addresses"
     loaded_top_trader_addresses = load_json_file(
         f"{filtered_top_trader_addresses_dir}/top_trader_addresses.json")
+    loaded_top_trader_addresses = list(loaded_top_trader_addresses.keys())
+    loaded_top_trader_addresses.extend(WALLET_ADDRESSES_TO_INCLUDE)
     top_trader_token_balances_dir = saved_data_base_dir + "/top_trader_token_balances"
     os.makedirs(top_trader_token_balances_dir, exist_ok=True)
     top_trader_token_balances_file_path = f"{top_trader_token_balances_dir}/top_trader_token_balances.json"
@@ -38,6 +45,7 @@ def get_token_balance_change(logger=logger):
     total_top_trader_addresses = len(loaded_top_trader_addresses)
     token_balances_update_dict = {}
     mint_address_list = []
+    loop_count = 0
 
     for wallet_address in loaded_top_trader_addresses:
 
@@ -50,7 +58,9 @@ def get_token_balance_change(logger=logger):
             url = "https://api.vybenetwork.xyz/account/token-balance/{}?includeNoPriceBalance=true&limit={}&page=0".format(
                 wallet_address, VYBE_NETWORK_QUERY_LIMIT)
 
-            headers = {"accept": "application/json", "X-API-KEY": X_API_KEY}
+            key_index = loop_count % len(X_API_KEYS)
+            api_key = X_API_KEYS[key_index]
+            headers = {"accept": "application/json", "X-API-KEY": api_key}
 
             response = requests.get(url, headers=headers, verify=False)
 
@@ -83,10 +93,13 @@ def get_token_balance_change(logger=logger):
                         logger.info('Add {} {} ({}) tokens'.format(
                             amount, symbol, name))
                         if key not in token_balances_update_dict:
-                            token_balances_update_dict[key] = amount
+                            token_balances_update_dict[key] = {}
+                            token_balances_update_dict[key]['amount'] = amount
+                            token_balances_update_dict[key]['count'] = 1
                             mint_address_list.append(mint_address)
                         else:
-                            token_balances_update_dict[key] += amount
+                            token_balances_update_dict[key]['amount'] += amount
+                            token_balances_update_dict[key]['count'] += 1
                     else:
                         prev_amount = top_trader_token_balances_dict[
                             wallet_address][mint_address]['amount']
@@ -96,23 +109,34 @@ def get_token_balance_change(logger=logger):
                             logger.info('Add {} {} ({}) tokens'.format(
                                 delta, symbol, name))
                             if key not in token_balances_update_dict:
-                                token_balances_update_dict[key] = delta
+                                token_balances_update_dict[key] = {}
+                                token_balances_update_dict[key][
+                                    'amount'] = delta
+                                token_balances_update_dict[key]['count'] = 1
                                 mint_address_list.append(mint_address)
                             else:
-                                token_balances_update_dict[key] += delta
+                                token_balances_update_dict[key][
+                                    'amount'] += delta
+                                token_balances_update_dict[key]['count'] += 1
                         elif amount < prev_amount - EPSILON:
                             delta = amount - prev_amount
                             key = f'{name} ({symbol}) [{mint_address}]'
                             logger.info('Subtract {} {} ({}) tokens'.format(
                                 prev_amount - amount, symbol, name))
                             if key not in token_balances_update_dict:
-                                token_balances_update_dict[key] = delta
+                                token_balances_update_dict[key] = {}
+                                token_balances_update_dict[key][
+                                    'amount'] = delta
+                                token_balances_update_dict[key]['count'] = 1
                                 mint_address_list.append(mint_address)
                             else:
-                                token_balances_update_dict[key] += delta
+                                token_balances_update_dict[key][
+                                    'amount'] += delta
+                                token_balances_update_dict[key]['count'] += 1
                         top_trader_token_balances_dict[wallet_address][
                             mint_address]['amount'] = amount
 
+                loop_count += 1
                 break_flag = True
                 break
 
@@ -123,6 +147,7 @@ def get_token_balance_change(logger=logger):
                 #     'Query failed and return code is {}. Retrying ({}) after {} seconds...'
                 #     .format(response.status_code, retry_count, RETRY_AFTER))
 
+                loop_count += 1
                 time.sleep(RETRY_AFTER)
 
         if not break_flag:
@@ -130,34 +155,84 @@ def get_token_balance_change(logger=logger):
 
         count += 1
 
-    token_details_dict = dexscreener.get_token_details(mint_address_list)
-    tg_msg = ""
-
-    logger.info(
-        f'\nSummarised token balances update (token marketcap >= {MIN_MARKETCAP}):'
-    )
-    tg_msg_title = f'**Summarised token balances update (token marketcap >= {MIN_MARKETCAP}):**\n'
-    for key, delta in token_balances_update_dict.items():
-        key_splitted = key.split(' ')
-        mint_address = key_splitted[-1][1:-1]
-        token_details = token_details_dict.get(mint_address, {})
-        market_cap = token_details.get('marketCap', 0)
-        if market_cap >= MIN_MARKETCAP:
-            print(f'{key}: {delta}')
-            tg_msg += f'_{key}_ : {delta}\n'
-
     if os.path.exists(top_trader_token_balances_file_path):
         os.remove(top_trader_token_balances_file_path)
     save_json_file(top_trader_token_balances_file_path,
                    top_trader_token_balances_dict)
 
-    logger.info('\nTotal time taken: {:.2f} seconds'.format(time.time() -
+    if get_token_details:
+        token_details_dict = dexscreener.get_token_details(mint_address_list)
+        tg_msg_list = []
+
+        terminal_msg = f'\nSummarised token balances update (token marketcap >= {MIN_MARKETCAP:,}):'
+        logger.info(terminal_msg)
+        terminal_output = terminal_msg
+        tg_msg_title_list = [
+            f'**Summarised token balances update (token marketcap >= {MIN_MARKETCAP:,}):**\n'
+        ]
+
+        sorted_data = [{
+            'key': key,
+            **value
+        } for key, value in sorted(token_balances_update_dict.items(),
+                                   key=lambda x: x[1]['count'],
+                                   reverse=True)]
+
+        for data in sorted_data:
+            key = data['key']
+            key_splitted = key.split(' ')
+            mint_address = key_splitted[-1][1:-1]
+            token_details = token_details_dict.get(mint_address, {})
+            market_cap = token_details.get('marketCap', 0)
+            if market_cap >= MIN_MARKETCAP:
+                delta = data['amount']
+                count = data['count']
+
+                token_birdeye = f'https://www.birdeye.so/token/{mint_address}'
+
+                token_telegram = ''
+                token_twitter = ''
+                token_socials_detail = token_details.get('info', {}).get(
+                    'socials', [])
+                for token_social in token_socials_detail:
+                    if token_social['type'] == 'telegram':
+                        token_telegram = token_social.get('url', '')
+                    elif token_social['type'] == 'twitter':
+                        token_twitter = token_social.get('url', '')
+
+                terminal_msg = f'{key}:\nNet amount added: {delta}\nNo. of smart wallets interacted: {count}\nMarket cap: {market_cap}\nBirdeye: {token_birdeye}\nTwitter: {token_twitter}\nTelegram: {token_telegram}\n'
+                logger.info(terminal_msg)
+                terminal_output += '\n' + terminal_msg
+                tg_msg_list.append(
+                    f"*_**{key}**_*\n"
+                    f"Net amount added: {delta}\n"
+                    f"No. of smart wallets interacted: {count}\n"
+                    f"Market cap: {market_cap:,}\n"
+                    f"[Birdeye]({token_birdeye}) | [Twitter]({token_twitter}) | [Telegram]({token_telegram})"
+                )
+
+        file_path = "latest_token_balances_change_terminal_output.txt"
+        with open(file_path, "w") as file:
+            file.write(terminal_output)
+
+        logger.info(f"\nTerminal output saved to {file_path}\n")
+
+        if send_to_tg:
+            if tg_msg_list:
+                bot = telebot.TeleBot(token=TELEGRAM_BOT_TOKEN, threaded=False)
+                tg_msg_title_list.extend(tg_msg_list)
+                chunks = chunk_message(tg_msg_title_list)
+                for chunk in chunks:
+                    bot.send_message(OWNER_ID, chunk, parse_mode='MarkdownV2')
+                logger.info('Token balances updates sent to Telegram.\n')
+
+            else:
+                logger.info(
+                    'No token balances update found, so no message sent to Telegram.\n'
+                )
+
+    logger.info('Total time taken: {:.2f} seconds\n'.format(time.time() -
                                                             start_time))
-
-    if tg_msg:
-        tg_msg = tg_msg_title + tg_msg
-
-    return tg_msg
 
 
 if __name__ == "__main__":

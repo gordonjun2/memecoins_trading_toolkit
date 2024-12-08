@@ -23,9 +23,13 @@ if cfg:
 
     if cfg.has_section('vybe_network'):
         vybe_network = dict(cfg.items('vybe_network'))
-        VYBE_NETWORK_X_API_KEY = vybe_network.get('vybe_network_x_api_key', '')
+        cleaned_keys = vybe_network.get('vybe_network_x_api_keys',
+                                        '').replace("\\\n", "")
+        VYBE_NETWORK_X_API_KEYS = [
+            item.strip() for item in cleaned_keys.split(",")
+        ]
     else:
-        VYBE_NETWORK_X_API_KEY = ''
+        VYBE_NETWORK_X_API_KEYS = ['']
 
     if cfg.has_section('telegram'):
         telegram = dict(cfg.items('telegram'))
@@ -46,7 +50,7 @@ else:
     BITQUERY_CLIENT_ID = ''
     BITQUERY_CLIENT_SECRET = ''
     BITQUERY_V1_API_KEY = ''
-    VYBE_NETWORK_X_API_KEY = ''
+    VYBE_NETWORK_X_API_KEYS = ['']
     TELEGRAM_BOT_TOKEN = ''
     TEST_TG_CHAT_ID = ''
     OWNER_ID = ''
@@ -81,12 +85,79 @@ MINT_ADDRESSES = [
     "DPaQfq5sFnoqw2Sh9WMmmASFL9LNu6RdtDqwE1tab2tB",  # SKBDI
     "Df6yfrKC8kZE3KNkrHERKzAetSxbrWeniQfyJY4Jpump",  # CHILLGUY
     "9psiRdn9cXYVps4F1kFuoNjd2EtmqNJXrCPmRppJpump",  # UBC
-    "GHichsGq8aPnqJyz6Jp1ASTK4PNLpB5KrD6XrfDjpump",  # $1
     "79yTpy8uwmAkrdgZdq6ZSBTvxKsgPrNqTLvYQBh1pump",  # BULLY
     "FQ1tyso61AH1tzodyJfSwmzsD3GToybbRNoZxUBz21p8",  # VVAIFU
     "GmbC2HgWpHpq9SHnmEXZNT5e1zgcU9oASDqbAkGTpump",  # CATANA
     "DDij7Dp8updt3XSCzeHCaAoDoFTSE5Y27i2EQ9qjMQtr",  # RURI
     "9qriMjPPAJTMCtfQnz7Mo9BsV2jAWTr2ff7yc3JWpump",  #  
+    "6b7NtVRo6jDSUZ75qfhHgpy99XVkSu1kfoTFu2E3pump",  # PRAWN
+    "4BBjpGwLgGmUxtT82YFK9xMhcvyy3zgf3HpxTRip1YoU",  # Mundi
+    "Gu3LDkn7Vx3bmCzLafYNKcDxv2mH7YN44NJZFXnypump",  # DEGENAI
+    "GfVkzaeEmgfP51zSESJydGmtFheud37LeQfm9WQ3pump",  # QWEN 
+    "HNg5PYJmtqcmzXrv6S9zP1CDKk5BgDuyFBxbvNApump",  # ALCH
+]
+
+WALLET_ADDRESSES_TO_INCLUDE = [
+    "nPosUpnDtaB4dBaJUMF1bm78E4BTZDwWQWGoEmEyESx",  # $QWEN early buyer
+    "H3ULqKdSDvXAz1UKQYyfauoak7ZF8ubjQtL6yPKxLVn9",  # $QWEN early buyer
+    "BZmxuXQ68QeZABbDFSzveHyrXCv5EG6Ut1ATw5qZgm2Q",  # $QWEN early buyer
+    "3PXphc83oYA6T9Xzi3c1q8ENQCSVRX1vofBJvQFGSU3P",  # PRAWN early buyer
+    "CYjF5avYZmEhC1DJyZfR9rKEYB2qNakAfxL4LKHW91Kh",  # PRAWN early buyer
+    "H6RErn6vTw3ZSLBN9iNpP3cAq8CETh6dy6HVkEwPonjE",  # CHILLGUY early buyer
+    "8WXKcUjwMU5TxiEN4mjw52iP4uPKx8VpXGozqMadqhyq",  # CHILLGUY early buyer
+    "3dzy3JJzfS882FsQvhLtoH7EVJhLM23UnMzb1movjeaM",  # CHILLGUY early buyer
+    "DFTvt9LdKLKVuLjXxyFsP2W7WQwDnawgpqUz5f6gkfxj",  # CHILLGUY early buyer
+    "928HvrAk5YVgksEP87KixnkhqjXTcagYYmZfZzSgLq8T",  # CHILLGUY early buyer
+    "4GwjiXRfCerHjrf7fjPPsewLMTu3gN7pMnkA3bGcANT3",  # CHILLGUY early buyer
+    "HfqgVXrKv8vBoqLGqGgEpxAR1vw6hUH28CUkdytU2Cuf",  # CHILLGUY early buyer
+    "FWuPsvShrLG4r6iYjc3dDCoPneHFdYqDGX4MXuhTDf6y",  # CHILLGUY early buyer
+    "799w4dfUDCLSvTynuWAB67rEmugUW68ZZzKUgr5k6isR",  # CHILLGUY early buyer
+    "5dDDSix4JDnGGRYxntQKpbnWzMyedu9euxy4Jc8D44yF",  # CHILLGUY early buyer
+    "68MbxgnxADFnkijppvw3dTPu3NRCiAYGtCCrkhUTUPfb",  # CHILLGUY early buyer
+    "6bVLiHHZUQnj5UsqMh9zTme7pzPLm4cVdnzkThQz5SRP",  # CHILLGUY early buyer
+    "2GTxgLAsbHPGUWSuj7n2kb7JpW2xQhzfXv3ukqpEjdDi",  # CHILLGUY early buyer
+    "2cyYy2zPyThCJAVcD4JhqnTWnsTVSVJe55Gw3NrPKBf8",  # RIF early buyer
+    "8RZdvcLRn6Cg9W2RnLiXAv8vxBujfEignbB2Nagoo1Lj",  # URO early buyer
+    "5mUat7qeNwrGPmWzHCJ1Lnw5eXXJhpq25zPHWMtZQaRy",  # ZEREBRO early buyer
+    "GB4PGoxJ5qaxmkdfBCxhw5Pcfet5Y5CpeMXdPwyBoj2R",  # ZEREBRO early buyer
+    "6MxgUd3C45Dmxr9qKKq6hpMiR6gFsziuDHRRDk5JK53L",  # ZEREBRO early buyer
+    "D8YvsyB39r1Crv8sYwLiZqrq5tGBUfhMv6nNBcaBbhVe",  # ZEREBRO early buyer
+    "3U6JNL6C4nwkr2GjKunqftQR84J9e6BHcd9d969zDgbr",  # AVA early buyer
+    "3TAUa4TSbxKEDTQciEUT75svJkwfUDaXw3PbeS5G9H7b",  # AVA early buyer
+    "BcHJmd3QK1Z2GxjQT4zymmiixRtfogUvfHR2gQo5ErWW",  # SKBDI early buyer
+    "8fF6jokXDo2f2TdV7KqHaWrxUHZV5xZbfeyBH49XQgWw",  # SKBDI early buyer
+    "HeBiD5qxwbaLXP9WxNtTca7hT9czsXwz2rbi4ugtmyzd",
+    "HYWo71Wk9PNDe5sBaRKazPnVyGnQDiwgXCFKvgAQ1ENp",  # MOODENG whale
+    "71m12A5zLEowFRkwunLvd1MgUUPRBbMCxQPafxkg9idF",  # insider
+    "xwgpZSfJfqDBW2UL7eSaQmcWx6JrFcCjXAvZqR7tfdr",  # insider
+    "j1oeQoPeuEDmjvyMwBmCWexzCQup77kbKKxV59CnYbd",  # insider
+    "FkZwrAbE7Zze4NdqcFVTXhM9fktyfzQ5Ufp8K7v2H6gY",  # MICHI top holder
+    "GednEH4dgpdvTdUgDNHg4BAHLa5KPQojbcHSF6eg38JB",
+    "HooderpigTVYapoXi6PQzxwtWhq3U1cuGvyu89fGjruY",
+    "Bqf76TrvZr637xvei14mHr1odxBTvKQccBYXhxJjp2RT",
+    "8icKqfmu95pCmfQLc2cLkmhB7LqN8tRaaE4cvKnGpwpq",
+    "Baoy8GbXcwP1VWmwZDnwFTsm5BedkxJTZydJ2rvZAHYu",
+    "9UWZFoiCHeYRLmzmDJhdMrP7wgrTw7DMSpPiT2eHgJHe",
+    "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "CNudZYFgpbT26fidsiNrWfHeGTBMMeVWqruZXsEkcUPc",
+    "4Be9CvxqHW6BYiRAxW9Q3xu1ycTMWaL5z8NX4HR3ha7t",
+    "3vWJYyyGYJzudZFjYWVMPLCFCuKnhSab6oDboD8WggBv",
+    "J7pcdtNbbjDWzz4k438aca3aUciq5PogbnMW4FpmZjJj",
+    "Ca1DdGgk1S8GAWsPAWGYG5ufafUofjGwutvt9cNRiW71",
+    "5sTQ5ih7xtctBhMXHr3f1aWdaXazWrWfoehqWdqWnTFP",
+    "jz1RPBQEEgroa63tqPfNWDUgEoJbDzLgz3TthDMHbB1",
+    "Hwz4dFRbEbUTeY4oxVXyQrxXdBtvqdGRH3qcgvYu7fs8",
+    "HVh6wHNBAsG3pq1Bj5oCzRjoWKVogEDHwUHkRz3ekFgt",
+    "AcUm7PunTqCYnLKD5ZbXaA4VtrWd8jccwPFCY3yMvLRa",
+    "5PAhQiYdLBd6SVdjzBQDxUAEFyDdF5ExNPQfcscnPRj5",
+    "8Hkbb3fkyBZi92dtGEXWuZyErRhUHSnHwTQJjxr32upg",
+    "8e2CGqUwRSTc6KW6a5PkTL4CQmkemdc86x7xWumdqiR",
+    "H1Tw7sVRuaSZTcWhEbCuKwFMSxUmqWRWmX1PLW1HxQ2B",
+    "4PstEU8cBCGG82B9cXuAXWqndzCgvD7KAGBDTvyKJ9SV",
+    "BQaNx1LdG7YsM5FNCHYszCDSeoXXEmjTgvaQzLngBuG4",
+    "GpNbukV5nggkJfsEEbKrJaZkdgYcNWCAaD91Mi4MmGQi",
+    "EoN2ef1hPAT9WCw6gjkgp6922WvagdCcjkJGkXqB33aW",
+    "AM84n1iLdxgVTAyENBcLdjXoyvjentTbu5Q6EpKV1PeG"
 ]
 
 EXCLUDED_ADDRESSES = {
@@ -132,4 +203,4 @@ EDGE_POINTS_QUANTITY = 100
 EDGE_POINTS_OPACITY = 0
 VYBE_NETWORK_QUERY_LIMIT = 1000
 EPSILON = 1e-4
-MIN_MARKETCAP = 1e6
+MIN_MARKETCAP = 1e5

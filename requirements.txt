@@ -1,9 +1,9 @@
 Flask==2.2.5
-pytelegrambotapi==4.24.0
-python-telegram-bot==21.8
+pytelegrambotapi==4.6.0
 pytz
 requests
 tzlocal
 urllib3==1.26.15
 dexscreener
 schedule
+telegramify-markdown
