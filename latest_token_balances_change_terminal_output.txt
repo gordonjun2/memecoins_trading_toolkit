@@ -1,26 +1,1297 @@
 
+Summarised token balances update (token marketcap >= 100,000.0):
+Just a chill guy (CHILLGUY) [Df6yfrKC8kZE3KNkrHERKzAetSxbrWeniQfyJY4Jpump]:
+Net amount added: 729892.8946670003
+No. of smart wallets interacted: 3
+Market cap: 414971938
+Birdeye: https://www.birdeye.so/token/Df6yfrKC8kZE3KNkrHERKzAetSxbrWeniQfyJY4Jpump
+Twitter: https://x.com/chillguycto
+Telegram: https://t.me/chillguycto
 
-Summarised token balances update (token marketcap >= 100000.0):
-Putin Trump (PutinTrump) [Y1mvcTt2e5yvr1G87njhaFPUvwsN7hQUSXuWBfu3KPd]:
-Net amount added: 1433089.216688
-No. of wallets interacted: 1
-Market cap: 9457939536
-Birdeye: https://www.birdeye.so/token/Y1mvcTt2e5yvr1G87njhaFPUvwsN7hQUSXuWBfu3KPd
-Twitter: https://x.com/MalihaSami72392
+First Convicted RACCON (FRED) [CNvitvFnSM5ed6K28RUNSaAjqqz5tX1rA5HgaBN9pump]:
+Net amount added: 807407.2822479971
+No. of smart wallets interacted: 3
+Market cap: 86694669
+Birdeye: https://www.birdeye.so/token/CNvitvFnSM5ed6K28RUNSaAjqqz5tX1rA5HgaBN9pump
+Twitter: https://x.com/fred_cto_sol
+Telegram: https://t.me/fredportala
+
+This is Bob. Copy and paste him (Bob) [5Q9XAG8b5JPrjkTwwRnQXDmAyQB8UuzrLYWbuKAdpump]:
+Net amount added: 9.602200999999923
+No. of smart wallets interacted: 3
+Market cap: 132191
+Birdeye: https://www.birdeye.so/token/5Q9XAG8b5JPrjkTwwRnQXDmAyQB8UuzrLYWbuKAdpump
+Twitter: https://twitter.com/intent/tweet?text=%E2%98%BB%2F%20%20%2F%E2%96%8C%20%2F%5C%20(fix%20and%20delete%20the%20brackets)%20%20%20%F0%9F%91%88%20This%20is%20%24Bob.%20Copy%20and%20paste%20him%20so%20he%20can%20take%20over%20the%20internet.&url=
+Telegram: https://t.me/bobsolana1
+
+Goatseus Maximus (GOAT) [CzLSujWBLFsSjncfkh59rUFqvafWcY5tzedWJSuypump]:
+Net amount added: 680812.013693
+No. of smart wallets interacted: 2
+Market cap: 812592221
+Birdeye: https://www.birdeye.so/token/CzLSujWBLFsSjncfkh59rUFqvafWcY5tzedWJSuypump
+Twitter: https://x.com/truth_terminal?s=21&t=vGsyxXKadHr8hUMHWu6Frg
+Telegram: https://t.me/GoatseusMaximusSolanaPortal
+
+Orca (ORCA) [orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE]:
+Net amount added: -33790.99786399999
+No. of smart wallets interacted: 2
+Market cap: 328774747
+Birdeye: https://www.birdeye.so/token/orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE
+Twitter: 
 Telegram: 
 
+Pyth Network (PYTH) [HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3RKwX8eACQBCt3]:
+Net amount added: -204552.88620299977
+No. of smart wallets interacted: 2
+Market cap: 1783670531
+Birdeye: https://www.birdeye.so/token/HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3RKwX8eACQBCt3
+Twitter: https://twitter.com/PythNetwork
+Telegram: https://telegram.me/Pyth_Network
+
+CatSolHat (SOLCAT) [E99fN4tCRb1tQphXK1DU7prXji6hMzxETyPNJro19Fwz]:
+Net amount added: 77.119536
+No. of smart wallets interacted: 2
+Market cap: 1243519
+Birdeye: https://www.birdeye.so/token/E99fN4tCRb1tQphXK1DU7prXji6hMzxETyPNJro19Fwz
+Twitter: https://twitter.com/catsolhat
+Telegram: https://t.me/catsolhat1
+
+Bonk (Bonk) [DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263]:
+Net amount added: -29999878038.89714
+No. of smart wallets interacted: 2
+Market cap: 3401378629
+Birdeye: https://www.birdeye.so/token/DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263
+Twitter: https://twitter.com/bonk_inu
+Telegram: https://t.me/Official_Bonk_Inu
+
+BOOK OF MEME (BOME) [ukHH6c7mMyiWCf1b9pnWe25TSpkDDt3H5pQZgZ74J82]:
+Net amount added: -19999999.362674
+No. of smart wallets interacted: 2
+Market cap: 700707710
+Birdeye: https://www.birdeye.so/token/ukHH6c7mMyiWCf1b9pnWe25TSpkDDt3H5pQZgZ74J82
+Twitter: https://twitter.com/Darkfarms1
+Telegram: https://t.me/BOOK_OF_MEME
+
+POPCAT (POPCAT) [7GCihgDB8fe6KNjn2MYtkzZcRjQy3t9GHdC8uHYmW2hr]:
+Net amount added: 183414.04465471787
+No. of smart wallets interacted: 2
+Market cap: 1486091115
+Birdeye: https://www.birdeye.so/token/7GCihgDB8fe6KNjn2MYtkzZcRjQy3t9GHdC8uHYmW2hr
+Twitter: https://twitter.com/POPCATSOLANA/
+Telegram: https://t.me/popcatsolana
+
+Official Mascot of the Holy Year (LUCE) [CBdCxKo9QavR9hfShgpEBG3zekorAeD7W1jfq2o3pump]:
+Net amount added: -2999999.955183
+No. of smart wallets interacted: 2
+Market cap: 159003981
+Birdeye: https://www.birdeye.so/token/CBdCxKo9QavR9hfShgpEBG3zekorAeD7W1jfq2o3pump
+Twitter: https://x.com/BelieveInLuce
+Telegram: https://t.me/believeinluce
+
+SPX6900 (Wormhole) (SPX) [J3NKxxXZcnNiMjKw9hYb2K4LUxgwB6t1FtPtQVsv3KFr]:
+Net amount added: -152985.27433021
+No. of smart wallets interacted: 2
+Market cap: 85597102
+Birdeye: https://www.birdeye.so/token/J3NKxxXZcnNiMjKw9hYb2K4LUxgwB6t1FtPtQVsv3KFr
+Twitter: https://twitter.com/spx6900
+Telegram: https://t.me/SPX6900Portal
+
+Urolithin A ($URO) [FvgqHMfL9yn39V79huDPy3YUNDoYJpuLWng2JfmQpump]:
+Net amount added: 3134813.256069
+No. of smart wallets interacted: 2
+Market cap: 64252910
+Birdeye: https://www.birdeye.so/token/FvgqHMfL9yn39V79huDPy3YUNDoYJpuLWng2JfmQpump
+Twitter: https://twitter.com/pumpdotscience
+Telegram: https://t.me/pump_science
+
+Render Token (RENDER) [rndrizKT3MK1iimdxRdWabcF7Zg7AR5T4nud4EkHBof]:
+Net amount added: -17319.870818740048
+No. of smart wallets interacted: 2
+Market cap: 5184291194
+Birdeye: https://www.birdeye.so/token/rndrizKT3MK1iimdxRdWabcF7Zg7AR5T4nud4EkHBof
+Twitter: 
+Telegram: 
+
+JITO (JTO) [jtojtomepa8beP8AuQc6eXt5FriJwfFMwQx2v2f9mCL]:
+Net amount added: -300005.999999998
+No. of smart wallets interacted: 2
+Market cap: 987170762
+Birdeye: https://www.birdeye.so/token/jtojtomepa8beP8AuQc6eXt5FriJwfFMwQx2v2f9mCL
+Twitter: 
+Telegram: 
+
+Typen (typen) [G3RdswoDRpEbWFCm2GYGQz42gnFWFF1jW6q5aKXzpump]:
+Net amount added: 6e-06
+No. of smart wallets interacted: 1
+Market cap: 357311
+Birdeye: https://www.birdeye.so/token/G3RdswoDRpEbWFCm2GYGQz42gnFWFF1jW6q5aKXzpump
+Twitter: https://x.com/0xtypen
+Telegram: https://t.me/typenportal
+
+one unchill gal (GAL) [7p2Rs9KkiWNKZkWNDFUCxG7EUBxbCByQC95fCNQ8pump]:
+Net amount added: 429.4530599999998
+No. of smart wallets interacted: 1
+Market cap: 4022623
+Birdeye: https://www.birdeye.so/token/7p2Rs9KkiWNKZkWNDFUCxG7EUBxbCByQC95fCNQ8pump
+Twitter: https://x.com/GalCTO
+Telegram: https://t.me/galCTO
+
+Pointing Orangutang (AMBER) [AwQejo6QzwXVhoqnQa4pDaYiFCnMEhpMeSr32vbkpump]:
+Net amount added: 825.766236
+No. of smart wallets interacted: 1
+Market cap: 286018
+Birdeye: https://www.birdeye.so/token/AwQejo6QzwXVhoqnQa4pDaYiFCnMEhpMeSr32vbkpump
+Twitter: https://x.com/AMBEROnSol
+Telegram: https://t.me/AmberOnSolana
+
+COMMUNITY COIN (COMMUNITY) [HYscbxmw3MdGVDWKVnBHJLiYFBL9qp6FBZn42rdAZpnn]:
+Net amount added: 243.857407607
+No. of smart wallets interacted: 1
+Market cap: 3031426
+Birdeye: https://www.birdeye.so/token/HYscbxmw3MdGVDWKVnBHJLiYFBL9qp6FBZn42rdAZpnn
+Twitter: https://x.com/communitycoin24?s=21&t=AW_yvFjtwDRJFgrx3DdHJQ
+Telegram: https://t.me/communitycoinpeople
+
+LIMBO (LIMBO) [5UAMZkfNmuVcKzr2wo8Jqw4R1k8vfdAVJNN6h3bVpump]:
+Net amount added: 29.286293000000114
+No. of smart wallets interacted: 1
+Market cap: 3496619
+Birdeye: https://www.birdeye.so/token/5UAMZkfNmuVcKzr2wo8Jqw4R1k8vfdAVJNN6h3bVpump
+Twitter: https://x.com/Limbo_ai
+Telegram: https://t.me/Limbo_ai
+
+Malakai (Malakai) [BAmHS42JqR51sZ6oqPhj4pcqi6dFFYDka77P4Q22pump]:
+Net amount added: 3780.5533729999997
+No. of smart wallets interacted: 1
+Market cap: 190701
+Birdeye: https://www.birdeye.so/token/BAmHS42JqR51sZ6oqPhj4pcqi6dFFYDka77P4Q22pump
+Twitter: https://x.com/bbymalakai
+Telegram: https://t.me/bbymalakai
+
+Smoking Chicken Fish (SCF) [GiG7Hr61RVm4CSUxJmgiCoySFQtdiwxtqf64MsRppump]:
+Net amount added: 328.1919880000005
+No. of smart wallets interacted: 1
+Market cap: 46337826
+Birdeye: https://www.birdeye.so/token/GiG7Hr61RVm4CSUxJmgiCoySFQtdiwxtqf64MsRppump
+Twitter:  https://x.com/ChurchOfTheSCF 
+Telegram: https://t.me/Smokingchickenfish
+
+Alchemist AI (ALCH) [HNg5PYJmtqcmzXrv6S9zP1CDKk5BgDuyFBxbvNApump]:
+Net amount added: 1.0595069999999396
+No. of smart wallets interacted: 1
+Market cap: 100616293
+Birdeye: https://www.birdeye.so/token/HNg5PYJmtqcmzXrv6S9zP1CDKk5BgDuyFBxbvNApump
+Twitter: https://x.com/alchemistAIapp
+Telegram: 
+
+Wrapped Matic (Wormhole) (WMATIC) [Gz7VkD4MacbEB6yC5XD3HcumEiYx2EtDYYrfikGsvopG]:
+Net amount added: 0.09909684000000007
+No. of smart wallets interacted: 1
+Market cap: 262150
+Birdeye: https://www.birdeye.so/token/Gz7VkD4MacbEB6yC5XD3HcumEiYx2EtDYYrfikGsvopG
+Twitter: 
+Telegram: 
+
+ORBIT (GRIFT) [GekTNfm84QfyP2GdAHZ5AgACBRd69aNmgA5FDhZupump]:
+Net amount added: 11288.322329999995
+No. of smart wallets interacted: 1
+Market cap: 19390406
+Birdeye: https://www.birdeye.so/token/GekTNfm84QfyP2GdAHZ5AgACBRd69aNmgA5FDhZupump
+Twitter: https://x.com/orbitcryptoai
+Telegram: 
+
+The Dissolution of Value (VALUE) [DcRHumYETnVKowMmDSXQ5RcGrFZFAnaqrQ1AZCHXpump]:
+Net amount added: 2.5506270000005316
+No. of smart wallets interacted: 1
+Market cap: 3098286
+Birdeye: https://www.birdeye.so/token/DcRHumYETnVKowMmDSXQ5RcGrFZFAnaqrQ1AZCHXpump
+Twitter: https://x.com/yudho_xyz
+Telegram: https://t.me/THEDISSOLUTIONOFVALUE
+
+Just A Chill Donkey Fr (DK) [4m87FF8osnNWU48A8PYJMEy7iA4fLiKXGETrjuSApump]:
+Net amount added: 2564.033166000001
+No. of smart wallets interacted: 1
+Market cap: 533821
+Birdeye: https://www.birdeye.so/token/4m87FF8osnNWU48A8PYJMEy7iA4fLiKXGETrjuSApump
+Twitter: https://x.com/chilldonkeyfr?s=11
+Telegram: https://t.me/AChillDonkey
+
+HARAMBE (HARAMBE) [Fch1oixTPri8zxBnmdCEADoJW2toyFHxqDZacQkwdvSP]:
+Net amount added: 10.944804530999988
+No. of smart wallets interacted: 1
+Market cap: 27646725
+Birdeye: https://www.birdeye.so/token/Fch1oixTPri8zxBnmdCEADoJW2toyFHxqDZacQkwdvSP
+Twitter: https://x.com/harambeonsolana
+Telegram: https://t.me/HarambeCommunity
+
+Bongo Cat (BONGO) [HUdqc5MR5h3FssESabPnQ1GTgTcPvnNudAuLj5J6a9sU]:
+Net amount added: 121.02467116699995
+No. of smart wallets interacted: 1
+Market cap: 49296660
+Birdeye: https://www.birdeye.so/token/HUdqc5MR5h3FssESabPnQ1GTgTcPvnNudAuLj5J6a9sU
+Twitter: https://x.com/TheBongoCat
+Telegram: https://t.me/thebongocat
+
+Morty (morty) [9rbVug7zTt4UPb1YuasTVUJVcaeb9JgJdJ2ejf7pump]:
+Net amount added: 572.2062849999929
+No. of smart wallets interacted: 1
+Market cap: 613559
+Birdeye: https://www.birdeye.so/token/9rbVug7zTt4UPb1YuasTVUJVcaeb9JgJdJ2ejf7pump
+Twitter: https://x.com/themortycto?s=21
+Telegram: https://t.me/MortyCTOgroup
+
+Convo.wtf (convo) [KnrmAHo1wW2fGqVXcSZSpo6kmiKam5vNbDByrURpump]:
+Net amount added: 291.89201100000014
+No. of smart wallets interacted: 1
+Market cap: 1168053
+Birdeye: https://www.birdeye.so/token/KnrmAHo1wW2fGqVXcSZSpo6kmiKam5vNbDByrURpump
+Twitter: https://x.com/convodotwtf?s=21&t=26PDo8NOq_Xvc0vcLj90Qg
+Telegram: https://t.me/convo_community
+
+BILLY (BILLY) [3B5wuUrMEi5yATD7on46hKfej3pfmd7t1RKgrsN3pump]:
+Net amount added: 5.465705000000071
+No. of smart wallets interacted: 1
+Market cap: 38837150
+Birdeye: https://www.birdeye.so/token/3B5wuUrMEi5yATD7on46hKfej3pfmd7t1RKgrsN3pump
+Twitter: https://x.com/billycoinsolana?s=21&t=jXhq254_BRhR8upcPcXfhA
+Telegram: https://t.me/billy_cto_sol
+
+Jupiter Perps LP (JLP) [27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4]:
+Net amount added: 1.4257729999999356
+No. of smart wallets interacted: 1
+Market cap: 1435284691
+Birdeye: https://www.birdeye.so/token/27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4
+Twitter: 
+Telegram: 
+
+theydontloveyoulikeiloveyou (WAIT) [CbUPTbC4K7zdAEWxfa1nad4468xpX3LpWPhZVnzybhfN]:
+Net amount added: 10156.151348
+No. of smart wallets interacted: 1
+Market cap: 1098730
+Birdeye: https://www.birdeye.so/token/CbUPTbC4K7zdAEWxfa1nad4468xpX3LpWPhZVnzybhfN
+Twitter: https://x.com/WAITOnSol
+Telegram: http://t.me/WAITonSOLcto
+
+Plump Fun (PLUMP) [AWrho36DHbuDWcGJ8fUpMXVhWxUmxMLupu7wDVZppump]:
+Net amount added: 320.707432
+No. of smart wallets interacted: 1
+Market cap: 577351
+Birdeye: https://www.birdeye.so/token/AWrho36DHbuDWcGJ8fUpMXVhWxUmxMLupu7wDVZppump
+Twitter: https://x.com/PlumpFunLabs
+Telegram: https://t.me/plumpfunlabs
+
+Agent Rogue (Rogue) [27yzfJSNvYLBjgSNbMyXMMUWzx6T9q4B9TP8Jt8MZ9mL]:
+Net amount added: 5782.237622999997
+No. of smart wallets interacted: 1
+Market cap: 3076420
+Birdeye: https://www.birdeye.so/token/27yzfJSNvYLBjgSNbMyXMMUWzx6T9q4B9TP8Jt8MZ9mL
+Twitter: https://x.com/0xRogueAgent
+Telegram: https://t.me/AgentRogue_Official
+
+coal (coal) [E3yUqBNTZxV8ELvW99oRLC7z4ddbJqqR4NphwrMug9zu]:
+Net amount added: 271.59565073107996
+No. of smart wallets interacted: 1
+Market cap: 811697
+Birdeye: https://www.birdeye.so/token/E3yUqBNTZxV8ELvW99oRLC7z4ddbJqqR4NphwrMug9zu
+Twitter: https://x.com/coalonsolana
+Telegram: 
+
+Mark-to-Market (MTM) [97RggLo3zV5kFGYW4yoQTxr4Xkz4Vg2WPHzNYXXWpump]:
+Net amount added: 14593.26165
+No. of smart wallets interacted: 1
+Market cap: 998449
+Birdeye: https://www.birdeye.so/token/97RggLo3zV5kFGYW4yoQTxr4Xkz4Vg2WPHzNYXXWpump
+Twitter: https://x.com/AFDudley0
+Telegram: https://t.me/mark_to_market_chat
+
+Bird Dog (BIRDDOG) [3XTp12PmKMHxB6YkejaGPUjMGBLKRGgzHWgJuVTsBCoP]:
+Net amount added: 659.060307136
+No. of smart wallets interacted: 1
+Market cap: 2406861
+Birdeye: https://www.birdeye.so/token/3XTp12PmKMHxB6YkejaGPUjMGBLKRGgzHWgJuVTsBCoP
+Twitter: https://twitter.com/SOLbirddog
+Telegram: https://t.me/birddogentry
+
+they will call us lucky (lucky) [ErWN3WNYYfLkYnL3QUQRzfhrfogCdWMbtfysopTYpump]:
+Net amount added: 0.002953
+No. of smart wallets interacted: 1
+Market cap: 251441
+Birdeye: https://www.birdeye.so/token/ErWN3WNYYfLkYnL3QUQRzfhrfogCdWMbtfysopTYpump
+Twitter: https://x.com/TycheChronicles
+Telegram: https://t.me/calluslucky
+
+Space Falcon (FCON) [HovGjrBGTfna4dvg6exkMxXuexB3tUfEZKcut8AWowXj]:
+Net amount added: 2305.6868999999933
+No. of smart wallets interacted: 1
+Market cap: 4570906
+Birdeye: https://www.birdeye.so/token/HovGjrBGTfna4dvg6exkMxXuexB3tUfEZKcut8AWowXj
+Twitter: 
+Telegram: 
+
+Helium Network Token (HNT) [hntyVP6YFm1Hg25TN9WGLqM12b8TQmcknKrdu1oxWux]:
+Net amount added: 0.010219800000000223
+No. of smart wallets interacted: 1
+Market cap: 1491433606
+Birdeye: https://www.birdeye.so/token/hntyVP6YFm1Hg25TN9WGLqM12b8TQmcknKrdu1oxWux
+Twitter: 
+Telegram: 
+
+BOSSU (BOSSU) [5h5YCbybHMpVj378FrxrypY9eXKoy92Vpw9xyru1pump]:
+Net amount added: 1240.6845210000001
+No. of smart wallets interacted: 1
+Market cap: 1602210
+Birdeye: https://www.birdeye.so/token/5h5YCbybHMpVj378FrxrypY9eXKoy92Vpw9xyru1pump
+Twitter: https://x.com/bossu_online
+Telegram: https://t.me/bossuportal
+
+Capricorn (CAPRICORN) [3C2SN1FjzE9MiLFFVRp7Jhkp8Gjwpk29S2TCSJ2jkHn2]:
+Net amount added: 31.194417000000158
+No. of smart wallets interacted: 1
+Market cap: 2193909
+Birdeye: https://www.birdeye.so/token/3C2SN1FjzE9MiLFFVRp7Jhkp8Gjwpk29S2TCSJ2jkHn2
+Twitter: https://x.com/astrofoliosol
+Telegram: https://t.me/astrofoliosol
+
+JailbreakMe (JAIL) [BdthjUNWWnAGLhdsCT3yGZ7ixpKTUUvY5bjEFAAcnMK8]:
+Net amount added: 17.0
+No. of smart wallets interacted: 1
+Market cap: 17240449
+Birdeye: https://www.birdeye.so/token/BdthjUNWWnAGLhdsCT3yGZ7ixpKTUUvY5bjEFAAcnMK8
+Twitter: 
+Telegram: 
+
+Voyager AI (VOYAGE) [CvwWh9NVQJ12KJ3xqe5SzWAvdohdfD8sePo8STQApump]:
+Net amount added: 1390.3309840000002
+No. of smart wallets interacted: 1
+Market cap: 6115220
+Birdeye: https://www.birdeye.so/token/CvwWh9NVQJ12KJ3xqe5SzWAvdohdfD8sePo8STQApump
+Twitter: https://x.com/VoyagerAixyz
+Telegram: https://t.me/voyageraiportal
+
+LOL (LOL) [LoL1RDQiUfifC2BX28xaef6r2G8ES8SEzgrzThJemMv]:
+Net amount added: 12.40046600000096
+No. of smart wallets interacted: 1
+Market cap: 10449139
+Birdeye: https://www.birdeye.so/token/LoL1RDQiUfifC2BX28xaef6r2G8ES8SEzgrzThJemMv
+Twitter: https://x.com/lolctolol
+Telegram: https://t.me/cto_lol
+
+TrackedBio (TrackedBio) [7t1T28iMh5GsW8oTMx52x3u3M3hDbaY8psbL3rZ6BMrn]:
+Net amount added: 238.64745600000003
+No. of smart wallets interacted: 1
+Market cap: 7644115
+Birdeye: https://www.birdeye.so/token/7t1T28iMh5GsW8oTMx52x3u3M3hDbaY8psbL3rZ6BMrn
+Twitter: https://x.com/TBDeSci
+Telegram: https://t.me/TBDeSci
+
+The Nutting Professor (PRONUT) [DHkguUzSuKRAZQTQ394tfQpa8CqrFoKSGggBr7XsawJr]:
+Net amount added: 10381.229433705
+No. of smart wallets interacted: 1
+Market cap: 4225467
+Birdeye: https://www.birdeye.so/token/DHkguUzSuKRAZQTQ394tfQpa8CqrFoKSGggBr7XsawJr
+Twitter: https://x.com/PRONUTSOL
+Telegram: https://t.me/PRONUTSOL
+
+JACK ($JACK) [4jSmoouAx1YrSJSFDg8jhmvPr8ArK5JSVpt8wMknpump]:
+Net amount added: 6667.752451
+No. of smart wallets interacted: 1
+Market cap: 133304
+Birdeye: https://www.birdeye.so/token/4jSmoouAx1YrSJSFDg8jhmvPr8ArK5JSVpt8wMknpump
+Twitter: https://x.com/JackSolanaX
+Telegram: https://t.me/JacksolanaX
+
+Baby Pnut (BABYPNUT) [z9ysNwXCYrh4xXRyQG9ujWqxNrdcChoicoJA9ebd7iF]:
+Net amount added: 1791.462032
+No. of smart wallets interacted: 1
+Market cap: 488019
+Birdeye: https://www.birdeye.so/token/z9ysNwXCYrh4xXRyQG9ujWqxNrdcChoicoJA9ebd7iF
+Twitter: https://x.com/babypnut_solana 
+Telegram: https://t.me/babypnut_solana
+
+LIL X (LILX) [BxjAigUiVaeKobgDZA8W3NVb2BMS52TYd8F7ejrUpump]:
+Net amount added: 2914.8478469999973
+No. of smart wallets interacted: 1
+Market cap: 416371
+Birdeye: https://www.birdeye.so/token/BxjAigUiVaeKobgDZA8W3NVb2BMS52TYd8F7ejrUpump
+Twitter: https://x.com/lilxsol
+Telegram: https://t.me/LilxSol
+
+Luna by Virtuals (Wormhole) (LUNA) [9se6kma7LeGcQWyRBNcYzyxZPE3r9t9qWZ8SnjnN3jJ7]:
+Net amount added: 10.855723859999998
+No. of smart wallets interacted: 1
+Market cap: 16636029
+Birdeye: https://www.birdeye.so/token/9se6kma7LeGcQWyRBNcYzyxZPE3r9t9qWZ8SnjnN3jJ7
+Twitter: https://x.com/luna_virtuals
+Telegram: https://t.me/virtuals/6595
+
+Bloodline Chanting My Name (CHANT) [GiUgtv3NiUteADLBUg2Sc8Y2c3d3doYLpnZkagZqpump]:
+Net amount added: 994.0464209999999
+No. of smart wallets interacted: 1
+Market cap: 1056447
+Birdeye: https://www.birdeye.so/token/GiUgtv3NiUteADLBUg2Sc8Y2c3d3doYLpnZkagZqpump
+Twitter: https://x.com/chantsolcto
+Telegram: https://t.me/bloodlinechanting
+
+Thales (Thales) [7yn2PRbB96TgcCkkMK4zD6vvMth6Co5B5Nma6XvPpump]:
+Net amount added: 3849.2175690000004
+No. of smart wallets interacted: 1
+Market cap: 3581122
+Birdeye: https://www.birdeye.so/token/7yn2PRbB96TgcCkkMK4zD6vvMth6Co5B5Nma6XvPpump
+Twitter: https://x.com/Thales_ai
+Telegram: https://t.me/thales_ai16z
+
+Nosana (NOS) [nosXBVoaCTtYdLvKY6Csb4AC8JCdQKKAaWYtx2ZMoo7]:
+Net amount added: 0.000194000000007577
+No. of smart wallets interacted: 1
+Market cap: 342274990
+Birdeye: https://www.birdeye.so/token/nosXBVoaCTtYdLvKY6Csb4AC8JCdQKKAaWYtx2ZMoo7
+Twitter: https://x.com/nosana_ai
+Telegram: https://t.me/NosanaCompute
+
+Slopfather (FATHA) [EWWDzCwq4UYW3ERTXbdgd6X6sdkKHFMJqRz1ZiFcpump]:
+Net amount added: 1338.9593220000024
+No. of smart wallets interacted: 1
+Market cap: 12490575
+Birdeye: https://www.birdeye.so/token/EWWDzCwq4UYW3ERTXbdgd6X6sdkKHFMJqRz1ZiFcpump
+Twitter: https://x.com/slopfather
+Telegram: https://t.me/slopfather
+
+Pudgy Penguins (PENGU) [9d24jNVbvHQH3pCB1ZzxRjpFuVV4j1MMJDU3SPxQpump]:
+Net amount added: 1311.0839479999995
+No. of smart wallets interacted: 1
+Market cap: 2848461
+Birdeye: https://www.birdeye.so/token/9d24jNVbvHQH3pCB1ZzxRjpFuVV4j1MMJDU3SPxQpump
+Twitter: https://x.com/PENGUINONSOL_
+Telegram: https://t.me/pudgypengu_sol
+
+Jupiter Staked SOL (JupSOL) [jupSoLaHXQiZZTSfEWMTRRgpnyFm8f6sZdosWBjx93v]:
+Net amount added: 0.000118308999999997
+No. of smart wallets interacted: 1
+Market cap: 963503073
+Birdeye: https://www.birdeye.so/token/jupSoLaHXQiZZTSfEWMTRRgpnyFm8f6sZdosWBjx93v
+Twitter: 
+Telegram: 
+
+monkey puppet (Pedro) [8HWCntWrLE4GJ6iK5cwvbhvuQSoRCiu3QB5jHyqLpump]:
+Net amount added: 3476.507375000001
+No. of smart wallets interacted: 1
+Market cap: 2586461
+Birdeye: https://www.birdeye.so/token/8HWCntWrLE4GJ6iK5cwvbhvuQSoRCiu3QB5jHyqLpump
+Twitter: https://x.com/MonkeyPupetCTO
+Telegram: https://t.me/MonkeyPuppetCTO
+
+Dogemas (DOGEMAS) [59UBR8NebtKoRwWDa4MeRWd2fpq5PQCABQKXKkn9pump]:
+Net amount added: 27058.202574
+No. of smart wallets interacted: 1
+Market cap: 569504
+Birdeye: https://www.birdeye.so/token/59UBR8NebtKoRwWDa4MeRWd2fpq5PQCABQKXKkn9pump
+Twitter: https://x.com/dogemasX
+Telegram: https://t.me/dogemastg
+
+SAD HAMSTER (HAMMY) [26KMQVgDUoB6rEfnJ51yAABWWJND8uMtpnQgsHQ64Udr]:
+Net amount added: 1045.6795630000006
+No. of smart wallets interacted: 1
+Market cap: 10396599
+Birdeye: https://www.birdeye.so/token/26KMQVgDUoB6rEfnJ51yAABWWJND8uMtpnQgsHQ64Udr
+Twitter: https://x.com/sadhamsterx
+Telegram: https://t.me/HammyArmy
+
+JUSTICE FOR Honey (Honey) [Dz6Pw2zMjXH4pY1bCkUeHvcTfrKGH5fHXZTgTUJZpump]:
+Net amount added: 7063.41152
+No. of smart wallets interacted: 1
+Market cap: 3356919
+Birdeye: https://www.birdeye.so/token/Dz6Pw2zMjXH4pY1bCkUeHvcTfrKGH5fHXZTgTUJZpump
+Twitter: https://x.com/HoneyOn_Sol
+Telegram: https://t.me/HoneysPortal
+
+Apple Dog (DOGA) [1PeYFmc663NYbEW7Mc8XdyrTzSJLrDE58Bawtx7pump]:
+Net amount added: 18.270258
+No. of smart wallets interacted: 1
+Market cap: 693648
+Birdeye: https://www.birdeye.so/token/1PeYFmc663NYbEW7Mc8XdyrTzSJLrDE58Bawtx7pump
+Twitter: https://x.com/AppleDog_Sol
+Telegram: https://t.me/doga_channel
+
+DEGEN8BALL (8BALL) [8iQCQd8TwARsBGyB7zUvEQqU3LCWXRFPmaKvyTPytPCP]:
+Net amount added: 845.33614
+No. of smart wallets interacted: 1
+Market cap: 578624
+Birdeye: https://www.birdeye.so/token/8iQCQd8TwARsBGyB7zUvEQqU3LCWXRFPmaKvyTPytPCP
+Twitter: https://x.com/degen8ball
+Telegram: https://t.me/degen8ballai
+
+Drift (DRIFT) [DriFtupJYLTosbwoN8koMbEYSx54aFAVLddWsbksjwg7]:
+Net amount added: 0.17057199999999995
+No. of smart wallets interacted: 1
+Market cap: 411632634
+Birdeye: https://www.birdeye.so/token/DriFtupJYLTosbwoN8koMbEYSx54aFAVLddWsbksjwg7
+Twitter: 
+Telegram: 
+
+JailbreakMe (JAIL) [8cNmp9T2CMQRNZhNRoeSvr57LDf1kbZ42SvgsSWfpump]:
+Net amount added: 550.326119
+No. of smart wallets interacted: 1
+Market cap: 18487759
+Birdeye: https://www.birdeye.so/token/8cNmp9T2CMQRNZhNRoeSvr57LDf1kbZ42SvgsSWfpump
+Twitter: https://x.com/jailbreakme_xyz
+Telegram: https://t.me/jailbreakme_xyz
+
+dog with apple in mouth (APPLE) [H33XL6HHDReCVRgSApZpsXM7Hy7JGyLztRJaGxjapump]:
+Net amount added: 18354.740093
+No. of smart wallets interacted: 1
+Market cap: 6600906
+Birdeye: https://www.birdeye.so/token/H33XL6HHDReCVRgSApZpsXM7Hy7JGyLztRJaGxjapump
+Twitter: https://x.com/Apple_Dog_Sol
+Telegram: https://t.me/AppleDogPortal
+
+FOMO RADIO AI  (RADIO ) [B4gipVUHKJ7keVN3MWEYDQCHjkdoXGsbmZoTSJDZpump]:
+Net amount added: 302.7154760000012
+No. of smart wallets interacted: 1
+Market cap: 3418478
+Birdeye: https://www.birdeye.so/token/B4gipVUHKJ7keVN3MWEYDQCHjkdoXGsbmZoTSJDZpump
+Twitter: https://x.com/FomoRadioAi
+Telegram: https://t.me/fomoradioai
+
+ai16z (ai16z) [HeLp6NuQkmYB4pYWo2zYs22mESHXPQYzXbB8n4V98jwC]:
+Net amount added: 0.03355044699992504
+No. of smart wallets interacted: 1
+Market cap: 540980222
+Birdeye: https://www.birdeye.so/token/HeLp6NuQkmYB4pYWo2zYs22mESHXPQYzXbB8n4V98jwC
+Twitter: https://x.com/ai16zdao
+Telegram: https://t.me/ai16zcommunity
+
+Cheyenne (Cheyenne) [UrAE9vVdrWxncikcCRp7TgNqEsArFtP22iXzH7gpump]:
+Net amount added: 110.462039
+No. of smart wallets interacted: 1
+Market cap: 3863239
+Birdeye: https://www.birdeye.so/token/UrAE9vVdrWxncikcCRp7TgNqEsArFtP22iXzH7gpump
+Twitter: https://x.com/CheyenneCTO
+Telegram: https://t.me/CheyennePortal
+
+His name gort  (gort) [5tZHKgJpnF1hsjSnQ5N9NA2c3S4QzaFw3uq2ARGspump]:
+Net amount added: 183.220106
+No. of smart wallets interacted: 1
+Market cap: 1473074
+Birdeye: https://www.birdeye.so/token/5tZHKgJpnF1hsjSnQ5N9NA2c3S4QzaFw3uq2ARGspump
+Twitter: https://x.com/churchofgort
+Telegram: https://t.me/churchofgortportal
+
+BROT (BROT) [DdEWen5QEDFZmBJLscgwY81mbZLNZ642zMuR5YLVv8vH]:
+Net amount added: 198.771193999999
+No. of smart wallets interacted: 1
+Market cap: 3838711
+Birdeye: https://www.birdeye.so/token/DdEWen5QEDFZmBJLscgwY81mbZLNZ642zMuR5YLVv8vH
+Twitter: https://x.com/blockrotbot
+Telegram: https://t.me/BROTCult
+
+jes (jes) [EcyxrW1WAeTtcwfZUynR64sSejFrUmxpSk7B7Qy6pump]:
+Net amount added: 9332.724987
+No. of smart wallets interacted: 1
+Market cap: 245526
+Birdeye: https://www.birdeye.so/token/EcyxrW1WAeTtcwfZUynR64sSejFrUmxpSk7B7Qy6pump
+Twitter: https://x.com/jesthecoin
+Telegram: https://t.me/jesportal
+
+upsidedowncat (USDCAT) [F23fFqpRNsmWjuUrFpfM1pvoVvMSpLuN6hY978Y1JXLt]:
+Net amount added: 1271.718553
+No. of smart wallets interacted: 1
+Market cap: 1185180
+Birdeye: https://www.birdeye.so/token/F23fFqpRNsmWjuUrFpfM1pvoVvMSpLuN6hY978Y1JXLt
+Twitter: https://twitter.com/upsidedowncat_
+Telegram: https://t.me/usdcat
+
+OCCUPY MARS (MARS) [GCzFp2JCc5nkPjsHjXnVPXD3dGDaUx33xHv9ezrUo7bv]:
+Net amount added: 974.5049706749999
+No. of smart wallets interacted: 1
+Market cap: 5012897
+Birdeye: https://www.birdeye.so/token/GCzFp2JCc5nkPjsHjXnVPXD3dGDaUx33xHv9ezrUo7bv
+Twitter: https://x.com/OccupyMarsSOL
+Telegram: https://t.me/OccupyMars_cto
+
+Ginnan Doge's Sister (GINNAN) [GinNabffZL4fUj9Vactxha74GDAW8kDPGaHqMtMzps2f]:
+Net amount added: 1136865.187272
+No. of smart wallets interacted: 1
+Market cap: 15377259
+Birdeye: https://www.birdeye.so/token/GinNabffZL4fUj9Vactxha74GDAW8kDPGaHqMtMzps2f
+Twitter: https://x.com/Ginnanthecat
+Telegram: https://t.me/ginnancatsol
+
+USDH Hubble Stablecoin (USDH) [USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX]:
+Net amount added: 0.12359099999999978
+No. of smart wallets interacted: 1
+Market cap: 2387454
+Birdeye: https://www.birdeye.so/token/USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX
+Twitter: 
+Telegram: 
+
+DAGOBERT DUCK ($DAGO) [3N7NF5G26HdviTsMRNjgmCDk28EUvfWQ6YHQ78aQmoon]:
+Net amount added: 35.250377308999305
+No. of smart wallets interacted: 1
+Market cap: 3790661
+Birdeye: https://www.birdeye.so/token/3N7NF5G26HdviTsMRNjgmCDk28EUvfWQ6YHQ78aQmoon
+Twitter: https://x.com/Dagocoinfam
+Telegram: https://t.me/jaluceworld_raid
+
+Artificial Goat Intelligence (GOATAGI) [33a14qXWo1MB7uXtTh5ifyvox7FdGRPQbsws41gfpump]:
+Net amount added: 62999.994083
+No. of smart wallets interacted: 1
+Market cap: 228673
+Birdeye: https://www.birdeye.so/token/33a14qXWo1MB7uXtTh5ifyvox7FdGRPQbsws41gfpump
+Twitter: https://x.com/goatofgamblers
+Telegram: https://t.me/goatagi
+
+Beast Games (BG) [HpaPfnQN3ATmMer8mN8i39zVwv618Hs4azXy9t48pump]:
+Net amount added: 101.183195
+No. of smart wallets interacted: 1
+Market cap: 4137786
+Birdeye: https://www.birdeye.so/token/HpaPfnQN3ATmMer8mN8i39zVwv618Hs4azXy9t48pump
+Twitter: https://x.com/MrBeast/status/1861121958122770860
+Telegram: https://t.me/BeastGamesPortal
+
+FWOG (FWOG) [A8C3xuqscfmyLrte3VmTqrAq8kgMASius9AFNANwpump]:
+Net amount added: 6.704527999999982
+No. of smart wallets interacted: 1
+Market cap: 421899900
+Birdeye: https://www.birdeye.so/token/A8C3xuqscfmyLrte3VmTqrAq8kgMASius9AFNANwpump
+Twitter: https://x.com/itsafwog
+Telegram: https://t.me/fwogportal
+
+Internosaur (INTERN) [6UxB5HCuuNm2HoHCp4TFVkPPE38L5zktESYKZ7Q5RC3f]:
+Net amount added: 39925.10047799998
+No. of smart wallets interacted: 1
+Market cap: 4894728
+Birdeye: https://www.birdeye.so/token/6UxB5HCuuNm2HoHCp4TFVkPPE38L5zktESYKZ7Q5RC3f
+Twitter: https://x.com/Internosaur
+Telegram: https://t.me/Internosaur
+
+Bitcoin Wizard Mascot (BTCWIZ) [GiSC3EA7C2kZwESb53cJybcmeRRExM4gqzV5UTz9pump]:
+Net amount added: 17836.274828
+No. of smart wallets interacted: 1
+Market cap: 295845
+Birdeye: https://www.birdeye.so/token/GiSC3EA7C2kZwESb53cJybcmeRRExM4gqzV5UTz9pump
+Twitter: https://x.com/BTCWizardX
+Telegram: https://t.me/+3npuka-w_3s4MmQ0
+
+XNET Mobile (XNET) [xNETbUB7cRb3AAu2pNG2pUwQcJ2BHcktfvSB8x1Pq6L]:
+Net amount added: 8.3677535999999
+No. of smart wallets interacted: 1
+Market cap: 6383251
+Birdeye: https://www.birdeye.so/token/xNETbUB7cRb3AAu2pNG2pUwQcJ2BHcktfvSB8x1Pq6L
+Twitter: https://x.com/XNET_Mobile
+Telegram: https://t.me/XNETgossip
+
+TerezaAI ($TEREZA) [9sqa899GR5UqAusC4nikGKRiVxi2d9MsNJcKLfAKpump]:
+Net amount added: 21136.672575999997
+No. of smart wallets interacted: 1
+Market cap: 1289354
+Birdeye: https://www.birdeye.so/token/9sqa899GR5UqAusC4nikGKRiVxi2d9MsNJcKLfAKpump
+Twitter: 
+Telegram: 
+
+Roastmaster9000 (RM9000) [G6haJithfeUgSghVpu1rDPCq2NFiYcJFHNpHEANbpump]:
+Net amount added: 20251.735125999996
+No. of smart wallets interacted: 1
+Market cap: 1902545
+Birdeye: https://www.birdeye.so/token/G6haJithfeUgSghVpu1rDPCq2NFiYcJFHNpHEANbpump
+Twitter: https://x.com/roastm4ster9000?s=21&t=MeH16yajDA4naUt3tfyYbw
+Telegram: https://t.me/roastmaster9000
+
+PAAL (PAAL AI) [DMc8e8iYrJ8pbubGTURVjFbRCzZQ6efPfAZYUWwa4UiH]:
+Net amount added: 12.616200519
+No. of smart wallets interacted: 1
+Market cap: 280459
+Birdeye: https://www.birdeye.so/token/DMc8e8iYrJ8pbubGTURVjFbRCzZQ6efPfAZYUWwa4UiH
+Twitter: https://twitter.com/PaalOnSolana
+Telegram: https://t.me/PaalOnSol
+
+Unbounded:Lilith -- Chapter I (MOTHER) [GyDid3W5nPxhZL9qjtcbyxhAc6f8jKGnBXbkeiRKpump]:
+Net amount added: 4498.5461159999995
+No. of smart wallets interacted: 1
+Market cap: 1730708
+Birdeye: https://www.birdeye.so/token/GyDid3W5nPxhZL9qjtcbyxhAc6f8jKGnBXbkeiRKpump
+Twitter: https://x.com/unboundedllm
+Telegram: https://t.me/UnboundedLLM
+
 USD Coin (USDC) [EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v]:
-Net amount added: -1500.0
-No. of wallets interacted: 1
-Market cap: 40256372599
+Net amount added: 447.22094300000754
+No. of smart wallets interacted: 1
+Market cap: 41067481804
 Birdeye: https://www.birdeye.so/token/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v
 Twitter: 
 Telegram: 
 
-Just a chill guy (CHILLGUY) [Df6yfrKC8kZE3KNkrHERKzAetSxbrWeniQfyJY4Jpump]:
-Net amount added: 924.4445180003531
-No. of wallets interacted: 1
-Market cap: 447082053
-Birdeye: https://www.birdeye.so/token/Df6yfrKC8kZE3KNkrHERKzAetSxbrWeniQfyJY4Jpump
-Twitter: https://x.com/chillguycto
-Telegram: https://t.me/chillguycto
+Moooooo  (MOOOO) [6xaLVgohU7ztwWT6GJ7o2vVaVGjzHUJtrY742aBhpump]:
+Net amount added: 5091.859557
+No. of smart wallets interacted: 1
+Market cap: 543253
+Birdeye: https://www.birdeye.so/token/6xaLVgohU7ztwWT6GJ7o2vVaVGjzHUJtrY742aBhpump
+Twitter: http://x.com/FLIPBIGMILK
+Telegram: https://t.me/MOOOO_SOL
+
+USDe (USDe) [DEkqHyPN7GMRJ5cArtQFAWefqbZb33Hyf6s5iCwjEonT]:
+Net amount added: 0.3241102320000002
+No. of smart wallets interacted: 1
+Market cap: 3842689
+Birdeye: https://www.birdeye.so/token/DEkqHyPN7GMRJ5cArtQFAWefqbZb33Hyf6s5iCwjEonT
+Twitter: 
+Telegram: 
+
+Keep It Kool (KIK) [8WyJerF9qG1aJT5Gb5f19WCMMayB5y1z6CdsrJ66pump]:
+Net amount added: 21175187.519861
+No. of smart wallets interacted: 1
+Market cap: 109958
+Birdeye: https://www.birdeye.so/token/8WyJerF9qG1aJT5Gb5f19WCMMayB5y1z6CdsrJ66pump
+Twitter: https://x.com/wekeepitkool
+Telegram: https://t.me/wekeepitkool
+
+dogwifhat ($WIF) [EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm]:
+Net amount added: -444255.999998
+No. of smart wallets interacted: 1
+Market cap: 3592917907
+Birdeye: https://www.birdeye.so/token/EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm
+Twitter: https://twitter.com/dogwifcoin
+Telegram: https://t.me/dogwifcoin
+
+Act I : The AI Prophecy (ACT) [GJAFwWjJ3vnTsrQVabjBVK2TYB1YtRCQXRDfDgUnpump]:
+Net amount added: 568769.0
+No. of smart wallets interacted: 1
+Market cap: 536170051
+Birdeye: https://www.birdeye.so/token/GJAFwWjJ3vnTsrQVabjBVK2TYB1YtRCQXRDfDgUnpump
+Twitter: https://x.com/ACTICOMMUNITY
+Telegram: https://t.me/actportal
+
+Moo Deng (MOODENG) [ED5nyyWEzpPPiWimP8vYm7sD7TD3LAt3Q3gRTWHzPJBY]:
+Net amount added: -3318484.9999969974
+No. of smart wallets interacted: 1
+Market cap: 447559845
+Birdeye: https://www.birdeye.so/token/ED5nyyWEzpPPiWimP8vYm7sD7TD3LAt3Q3gRTWHzPJBY
+Twitter: https://x.com/MooDengSOL
+Telegram: https://t.me/+hCTQLf149JNlZjgx
+
+MOTHER IGGY (MOTHER) [3S8qX1MsMqRbiwKg2cQyx7nis1oHMgaCuc9c4VfvVdPN]:
+Net amount added: -1532503.0
+No. of smart wallets interacted: 1
+Market cap: 64810185
+Birdeye: https://www.birdeye.so/token/3S8qX1MsMqRbiwKg2cQyx7nis1oHMgaCuc9c4VfvVdPN
+Twitter: https://x.com/MOTHERprovides
+Telegram: https://t.me/MOTHERprovides
+
+VitalikChiCAT (VCCT) [3o4JsWCsxUWbdGUPuexcVXVEgXWT542A5E3nQ6heXMH6]:
+Net amount added: 10000.0
+No. of smart wallets interacted: 1
+Market cap: 1230015
+Birdeye: https://www.birdeye.so/token/3o4JsWCsxUWbdGUPuexcVXVEgXWT542A5E3nQ6heXMH6
+Twitter: 
+Telegram: 
+
+cat in a dogs world (MEW) [MEW1gQWJ3nEXg2qgERiKu7FAFj79PHvQVREQUzScPP5]:
+Net amount added: -11041478.0
+No. of smart wallets interacted: 1
+Market cap: 850772741
+Birdeye: https://www.birdeye.so/token/MEW1gQWJ3nEXg2qgERiKu7FAFj79PHvQVREQUzScPP5
+Twitter: https://twitter.com/MewsWorld
+Telegram: https://t.me/mewsworld
+
+Wrapped Ether (Wormhole) (WETH) [7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs]:
+Net amount added: -25.399999990000197
+No. of smart wallets interacted: 1
+Market cap: 239770655
+Birdeye: https://www.birdeye.so/token/7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs
+Twitter: 
+Telegram: 
+
+TARS AI (TAI) [Hax9LTgsQkze1YFychnBLtFH8gYbQKtKfWKKg2SP6gdD]:
+Net amount added: -269914.0
+No. of smart wallets interacted: 1
+Market cap: 171442423
+Birdeye: https://www.birdeye.so/token/Hax9LTgsQkze1YFychnBLtFH8gYbQKtKfWKKg2SP6gdD
+Twitter: https://x.com/tarsprotocol
+Telegram: https://t.me/tars_pro
+
+PONKE (PONKE) [5z3EqYQo9HiCEs3R84RCDMu2n7anpDMxRhdK8PSWmrRC]:
+Net amount added: 12629.0983996219
+No. of smart wallets interacted: 1
+Market cap: 318852543
+Birdeye: https://www.birdeye.so/token/5z3EqYQo9HiCEs3R84RCDMu2n7anpDMxRhdK8PSWmrRC
+Twitter: https://x.com/ponkesol
+Telegram: https://t.me/ponkesol
+
+michi ($michi) [5mbK36SZ7J19An8jFochhQS4of8g6BwUjbeCSxBSoWdp]:
+Net amount added: 46791.738100999966
+No. of smart wallets interacted: 1
+Market cap: 143200666
+Birdeye: https://www.birdeye.so/token/5mbK36SZ7J19An8jFochhQS4of8g6BwUjbeCSxBSoWdp
+Twitter: https://twitter.com/michionsolana
+Telegram: https://t.me/michiportal
+
+Only1 (LIKE) (LIKE) [3bRTivrVsitbmCTGtqwp7hxXPsybkjn4XLNtPsHqa3zR]:
+Net amount added: -9999999.999999996
+No. of smart wallets interacted: 1
+Market cap: 19390176
+Birdeye: https://www.birdeye.so/token/3bRTivrVsitbmCTGtqwp7hxXPsybkjn4XLNtPsHqa3zR
+Twitter: 
+Telegram: 
+
+Metaplex Token (MPLX) [METAewgxyPbgwsseH8T16a39CQ5VyVxZi9zXiDPY18m]:
+Net amount added: -1000000.0
+No. of smart wallets interacted: 1
+Market cap: 260836810
+Birdeye: https://www.birdeye.so/token/METAewgxyPbgwsseH8T16a39CQ5VyVxZi9zXiDPY18m
+Twitter: 
+Telegram: 
+
+USDT (USDT) [Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB]:
+Net amount added: 43704.71702799946
+No. of smart wallets interacted: 1
+Market cap: 1891284590
+Birdeye: https://www.birdeye.so/token/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB
+Twitter: 
+Telegram: https://t.me/HardSnipe
+
+Star Atlas (ATLAS) [ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx]:
+Net amount added: -180000000.0
+No. of smart wallets interacted: 1
+Market cap: 97811625
+Birdeye: https://www.birdeye.so/token/ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx
+Twitter: 
+Telegram: 
+
+numogram  (GNON) [HeJUFDxfJSzYFUuHLxkMqCgytU31G6mjP4wKviwqpump]:
+Net amount added: 1358339.7296399996
+No. of smart wallets interacted: 1
+Market cap: 21484579
+Birdeye: https://www.birdeye.so/token/HeJUFDxfJSzYFUuHLxkMqCgytU31G6mjP4wKviwqpump
+Twitter: https://x.com/GnonOnSolana
+Telegram: https://t.me/numogramsolana
+
+Blockasset (BLOCK) [NFTUkR4u7wKxy9QLaX2TGvd9oZSWoMo4jqSJqdMb7Nk]:
+Net amount added: 20322.849828999955
+No. of smart wallets interacted: 1
+Market cap: 27117784
+Birdeye: https://www.birdeye.so/token/NFTUkR4u7wKxy9QLaX2TGvd9oZSWoMo4jqSJqdMb7Nk
+Twitter: https://x.com/Blockassetco
+Telegram: https://t.me/blockassetofficial
+
+Jupiter (JUP) [JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN]:
+Net amount added: -799999.9999999995
+No. of smart wallets interacted: 1
+Market cap: 1746984325
+Birdeye: https://www.birdeye.so/token/JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN
+Twitter: https://twitter.com/JupiterExchange
+Telegram: 
+
+CatDog (CATDOG) [CATTzAwLyADd2ekzVjTjX8tVUBYfrozdkJBkutJggdB7]:
+Net amount added: 103004729.05999756
+No. of smart wallets interacted: 1
+Market cap: 2400952
+Birdeye: https://www.birdeye.so/token/CATTzAwLyADd2ekzVjTjX8tVUBYfrozdkJBkutJggdB7
+Twitter: https://x.com/catdog_meme
+Telegram: https://t.me/catdog_meme
+
+Bonfida (FIDA) [EchesyfXePKdLtoiZSL8pBe8Myagyy8ZRqsACNCFGnvp]:
+Net amount added: -1000000.0
+No. of smart wallets interacted: 1
+Market cap: 365223945
+Birdeye: https://www.birdeye.so/token/EchesyfXePKdLtoiZSL8pBe8Myagyy8ZRqsACNCFGnvp
+Twitter: 
+Telegram: 
+
+Solama (SOLAMA) [AVLhahDcDQ4m4vHM4ug63oh7xc8Jtk49Dm5hoe9Sazqr]:
+Net amount added: 3050358.9987239987
+No. of smart wallets interacted: 1
+Market cap: 8116832
+Birdeye: https://www.birdeye.so/token/AVLhahDcDQ4m4vHM4ug63oh7xc8Jtk49Dm5hoe9Sazqr
+Twitter: https://x.com/SolamaSPL
+Telegram: https://t.me/SolamaOfficial
+
+Mongy (MONGY) [FsBPYiGZ4bhUxVSPP7XPJYfTPm5PsLJc2WGZaFaDpump]:
+Net amount added: 2746001.667525001
+No. of smart wallets interacted: 1
+Market cap: 201717
+Birdeye: https://www.birdeye.so/token/FsBPYiGZ4bhUxVSPP7XPJYfTPm5PsLJc2WGZaFaDpump
+Twitter: https://x.com/MongySol
+Telegram: https://t.me/MongySol
+
+Peanut the Squirrel  (Pnut ) [2qEHjDLDLbuBgRYvsxhc5D6uDWAivNFZGan56P1tpump]:
+Net amount added: 16250.19357500039
+No. of smart wallets interacted: 1
+Market cap: 1376300629
+Birdeye: https://www.birdeye.so/token/2qEHjDLDLbuBgRYvsxhc5D6uDWAivNFZGan56P1tpump
+Twitter: https://x.com/pnutsolana
+Telegram: https://t.me/pnutportal
+
+Dolos The Bully (BULLY) [79yTpy8uwmAkrdgZdq6ZSBTvxKsgPrNqTLvYQBh1pump]:
+Net amount added: 11286.567340000067
+No. of smart wallets interacted: 1
+Market cap: 104223474
+Birdeye: https://www.birdeye.so/token/79yTpy8uwmAkrdgZdq6ZSBTvxKsgPrNqTLvYQBh1pump
+Twitter: https://x.com/dolos_diary
+Telegram: https://t.me/dolosTheBully_portal
+
+IQ6900 (IQ) [AsyfR3e5JcPqWot4H5MMhQUm7DZ4zwQrcp2zbB7vpump]:
+Net amount added: -1418865.8563719988
+No. of smart wallets interacted: 1
+Market cap: 365080
+Birdeye: https://www.birdeye.so/token/AsyfR3e5JcPqWot4H5MMhQUm7DZ4zwQrcp2zbB7vpump
+Twitter: https://x.com/IQ6900_
+Telegram: https://t.me/IQ6900token
+
+Aimonica Brands (Aimonica) [FVdo7CDJarhYoH6McyTFqx71EtzCPViinvdd1v86Qmy5]:
+Net amount added: -179874.50441500545
+No. of smart wallets interacted: 1
+Market cap: 2514587
+Birdeye: https://www.birdeye.so/token/FVdo7CDJarhYoH6McyTFqx71EtzCPViinvdd1v86Qmy5
+Twitter: https://x.com/AimonicaBrands
+Telegram: https://t.me/AimonicaBrandsLFG
+
+pepeAI (PEPEAI) [2wqkw3idoEYFV8fyM54PvS5BYHieT8rAZqzdHg6aqZby]:
+Net amount added: -2000000.0
+No. of smart wallets interacted: 1
+Market cap: 237310
+Birdeye: https://www.birdeye.so/token/2wqkw3idoEYFV8fyM54PvS5BYHieT8rAZqzdHg6aqZby
+Twitter: https://x.com/pepeaiagent
+Telegram: https://t.me/pepeaiagent
+
+Monkey On Watermelon (MOW) [54nfJ5GStW6xLbFwbsakwrFUcBhjcWBiS1j7qe6GHkad]:
+Net amount added: 275327.656519
+No. of smart wallets interacted: 1
+Market cap: 789662
+Birdeye: https://www.birdeye.so/token/54nfJ5GStW6xLbFwbsakwrFUcBhjcWBiS1j7qe6GHkad
+Twitter: https://x.com/MowOnSol
+Telegram: https://t.me/monkey_on_watermelon
+
+Laika (Laika) [LAikaEyw7w4R4Tidue68Fs4N9ZsTTRSza8XR7bhCrxa]:
+Net amount added: 8700784.744324
+No. of smart wallets interacted: 1
+Market cap: 175977
+Birdeye: https://www.birdeye.so/token/LAikaEyw7w4R4Tidue68Fs4N9ZsTTRSza8XR7bhCrxa
+Twitter: https://twitter.com/DogLaikaSpace
+Telegram: https://t.me/DogLaikaSpace
+
+thought daughter (daughter) [57Kavh71Qkenni8APEsQqGfMAccJte3kyuxHa4c8pump]:
+Net amount added: 625451.455584
+No. of smart wallets interacted: 1
+Market cap: 143536
+Birdeye: https://www.birdeye.so/token/57Kavh71Qkenni8APEsQqGfMAccJte3kyuxHa4c8pump
+Twitter: https://x.com/thethoughtdghtr
+Telegram: https://t.me/thoughtdaughterspl
+
+Bitcoin breaking $100 in 2013 (isaac) [GTiMaW6FNPLrWNVLYk5KkLApxiHvCwbGr9KdueGypump]:
+Net amount added: 64783.768141
+No. of smart wallets interacted: 1
+Market cap: 3216990
+Birdeye: https://www.birdeye.so/token/GTiMaW6FNPLrWNVLYk5KkLApxiHvCwbGr9KdueGypump
+Twitter: https://x.com/isaacmeme100k
+Telegram: https://t.me/bitcointo100
+
+Ruby AI Agent (ruby) [ABHQGzXNoRbJ1sjUsCJ2TmTAo1uMx4EUpV1qYiSVpump]:
+Net amount added: 522008.624311
+No. of smart wallets interacted: 1
+Market cap: 149014
+Birdeye: https://www.birdeye.so/token/ABHQGzXNoRbJ1sjUsCJ2TmTAo1uMx4EUpV1qYiSVpump
+Twitter: https://x.com/rubyisnotabot
+Telegram: https://t.me/rubyaigent
+
+take a chance (chance) [4bLyzrVvz43NrDBu5J142wpbXNFaBfDQknRRqNoPpump]:
+Net amount added: 6628174.21946
+No. of smart wallets interacted: 1
+Market cap: 185438
+Birdeye: https://www.birdeye.so/token/4bLyzrVvz43NrDBu5J142wpbXNFaBfDQknRRqNoPpump
+Twitter: https://x.com/chanceonsol
+Telegram: https://t.me/chanceonsol
+
+jofrey epston (EPSTON) [GJVNVCfovYFWVQC62J2stXyCrawR5fAsC5HVpmZiaMkY]:
+Net amount added: 1.0
+No. of smart wallets interacted: 1
+Market cap: 210265
+Birdeye: https://www.birdeye.so/token/GJVNVCfovYFWVQC62J2stXyCrawR5fAsC5HVpmZiaMkY
+Twitter: https://x.com/jofreyepstonsol
+Telegram: https://t.me/EPSTONisland
+
+Way of The Future (WoTF) [yJcC48AWnaFQxb4CfZY6U19aQr3Pw6RKVhuGCLVpump]:
+Net amount added: 9365910.956597
+No. of smart wallets interacted: 1
+Market cap: 288429
+Birdeye: https://www.birdeye.so/token/yJcC48AWnaFQxb4CfZY6U19aQr3Pw6RKVhuGCLVpump
+Twitter: https://x.com/wotf_cto/
+Telegram: https://t.me/Way_Of_The_Future
+
+DeSci  (DeSci ) [24nieqR3QwoMxM79mvekz8SBUqzx26aNVUUmCUggpump]:
+Net amount added: 4625012.322906
+No. of smart wallets interacted: 1
+Market cap: 1346882
+Birdeye: https://www.birdeye.so/token/24nieqR3QwoMxM79mvekz8SBUqzx26aNVUUmCUggpump
+Twitter: https://x.com/DeSci_CTO
+Telegram: https://t.me/DeSci_Real_CTO
+
+Crypto AI Tech (CAT) (CAT) [Du5jeHGyytXijZ5JCnahMscVMYDghFazx7fb8P1sdXkC]:
+Net amount added: 5434973562.780115
+No. of smart wallets interacted: 1
+Market cap: 184363
+Birdeye: https://www.birdeye.so/token/Du5jeHGyytXijZ5JCnahMscVMYDghFazx7fb8P1sdXkC
+Twitter: https://twitter.com/CryptoAITechCAT
+Telegram: https://t.me/CryptoAITechCAT
+
+GPT-2/3/J token (Glitch Token) (Leilan ) [66irswy3sn6ueuW48jW8PKp1iumqKrD6U7tgCfuywm4]:
+Net amount added: 7500000.0
+No. of smart wallets interacted: 1
+Market cap: 1538471
+Birdeye: https://www.birdeye.so/token/66irswy3sn6ueuW48jW8PKp1iumqKrD6U7tgCfuywm4
+Twitter: https://x.com/OVS_Leilan
+Telegram: https://t.me/leilancommunity
+
+I'm like a bird (FREE) [GpzfLyHy9XCQHzaNAZ7wSCbexcxHbu8h6oJVJPZVpump]:
+Net amount added: 5000.0
+No. of smart wallets interacted: 1
+Market cap: 280017
+Birdeye: https://www.birdeye.so/token/GpzfLyHy9XCQHzaNAZ7wSCbexcxHbu8h6oJVJPZVpump
+Twitter: https://x.com/FreeHorseonSol
+Telegram: https://t.me/Imfreelikeabird
+
+MAX (MAX) [6QuZqQCxKbAp1tVMsxCxfoDE3AV6yFV1wWeW7nqBLpX2]:
+Net amount added: 66.0
+No. of smart wallets interacted: 1
+Market cap: 8619964
+Birdeye: https://www.birdeye.so/token/6QuZqQCxKbAp1tVMsxCxfoDE3AV6yFV1wWeW7nqBLpX2
+Twitter: 
+Telegram: 
+
+Janus (JANUS) [75dh1aVyE88DiDDqN396Lkbcf4Kxj2KNGJRCTkcUpump]:
+Net amount added: 9702833.605948
+No. of smart wallets interacted: 1
+Market cap: 208830
+Birdeye: https://www.birdeye.so/token/75dh1aVyE88DiDDqN396Lkbcf4Kxj2KNGJRCTkcUpump
+Twitter: https://x.com/repligate/status/1845985576794677480
+Telegram: 
+
+girl economy ai (GIRLE) [DmyYENoMKDFtbfUeBcMhAedi1amPSEvJC9Sy8R8VxQ8j]:
+Net amount added: 4047916.001438517
+No. of smart wallets interacted: 1
+Market cap: 1413765
+Birdeye: https://www.birdeye.so/token/DmyYENoMKDFtbfUeBcMhAedi1amPSEvJC9Sy8R8VxQ8j
+Twitter: https://x.com/girleconomyai
+Telegram: https://t.me/GirlEconomy
+
+LET HIM COOK (LETHIMCOOK) [CDgpSoqx7LVf8qTJe86JysqEX7W3VQpXrBwoY7VXpump]:
+Net amount added: 7149784.027247
+No. of smart wallets interacted: 1
+Market cap: 150022
+Birdeye: https://www.birdeye.so/token/CDgpSoqx7LVf8qTJe86JysqEX7W3VQpXrBwoY7VXpump
+Twitter: https://x.com/Vexbolts
+Telegram: https://t.me/lethimcookcoin
+
+chillcapy (chillcapy) [2pb1ny5NA51GbBFNGfo1XYyUpsAacuSdmFRByx6upump]:
+Net amount added: 5922421.615099
+No. of smart wallets interacted: 1
+Market cap: 215821
+Birdeye: https://www.birdeye.so/token/2pb1ny5NA51GbBFNGfo1XYyUpsAacuSdmFRByx6upump
+Twitter: https://x.com/ChillCapyGuy
+Telegram: https://t.me/chillcapyguy
+
+FREE Shayne Coplan (🦅) [AyxrBmqbzf169oe14XcSDMbgpUV1ntP6thcScYpYpump]:
+Net amount added: 4249493.695203
+No. of smart wallets interacted: 1
+Market cap: 652375
+Birdeye: https://www.birdeye.so/token/AyxrBmqbzf169oe14XcSDMbgpUV1ntP6thcScYpYpump
+Twitter: https://x.com/shayne_coplan/status/1856838409861386722
+Telegram: https://t.me/FreeShayne
+
+The First Youtube Cat (PAJAMAS) [FvER7SsvY5GqAMawf7Qfb5MnUUmDdbPNPg4nCa4zHoLw]:
+Net amount added: 1400000.0
+No. of smart wallets interacted: 1
+Market cap: 7568270
+Birdeye: https://www.birdeye.so/token/FvER7SsvY5GqAMawf7Qfb5MnUUmDdbPNPg4nCa4zHoLw
+Twitter: https://x.com/TheYoutubeCat
+Telegram: https://t.me/PajamasOfficialPortal
+
+GH0ST (GH0ST) [HbxiDXQxBKMNJqDsTavQE7LVwrTR36wjV2EaYEqUw6qH]:
+Net amount added: 3.659e-06
+No. of smart wallets interacted: 1
+Market cap: 336690
+Birdeye: https://www.birdeye.so/token/HbxiDXQxBKMNJqDsTavQE7LVwrTR36wjV2EaYEqUw6qH
+Twitter: https://twitter.com/GH0STC0IN
+Telegram: https://t.me/gh0stc0in
+
+Mona Lisa (MONA) [DjYrvmmY6ojf2f62TckYxBtCCHCJNbr9A4EXFwH3pump]:
+Net amount added: 1500000.0
+No. of smart wallets interacted: 1
+Market cap: 278645
+Birdeye: https://www.birdeye.so/token/DjYrvmmY6ojf2f62TckYxBtCCHCJNbr9A4EXFwH3pump
+Twitter: https://x.com/MonaLisaCTO
+Telegram: 
+
+RIMOR (RIMOR) [6Yik5FS857Fa7755vnGvMo4jpaETcUwDkceK9aopump]:
+Net amount added: 5495283.45366
+No. of smart wallets interacted: 1
+Market cap: 666369
+Birdeye: https://www.birdeye.so/token/6Yik5FS857Fa7755vnGvMo4jpaETcUwDkceK9aopump
+Twitter: https://x.com/rimorascends
+Telegram: https://t.me/rimorai
+
+Shoggoth (Shoggoth) [H2c31USxu35MDkBrGph8pUDUnmzo2e4Rf4hnvL2Upump]:
+Net amount added: 999999.999969
+No. of smart wallets interacted: 1
+Market cap: 42946063
+Birdeye: https://www.birdeye.so/token/H2c31USxu35MDkBrGph8pUDUnmzo2e4Rf4hnvL2Upump
+Twitter: https://x.com/Shoggoth_SOL
+Telegram: https://t.me/shoggothcoin
+
+moo waan (MOOWAAN) [iQuoGfqmXh6J3PShHDntayXGVixfp44wzGkVaH8r8RE]:
+Net amount added: 9201407.320412
+No. of smart wallets interacted: 1
+Market cap: 166431
+Birdeye: https://www.birdeye.so/token/iQuoGfqmXh6J3PShHDntayXGVixfp44wzGkVaH8r8RE
+Twitter: https://x.com/MooWaanCTO
+Telegram: https://t.me/MOOWAANCTOV2
+
+Lotus Sutra (Lotus) [GuwRqNESB6rjuWJa8YsJzoc9WinvWiti7bz3gqUqpump]:
+Net amount added: 5032423.031011
+No. of smart wallets interacted: 1
+Market cap: 627835
+Birdeye: https://www.birdeye.so/token/GuwRqNESB6rjuWJa8YsJzoc9WinvWiti7bz3gqUqpump
+Twitter: https://x.com/AwakenTheLotus
+Telegram: https://t.me/lotussutraonsol
+
+pump.science mascot (psmice) [HWnTV2PMEgaW8CBmW8mRyVsPCWQs954amFt1Qq7ipump]:
+Net amount added: 3823620.974778
+No. of smart wallets interacted: 1
+Market cap: 320257
+Birdeye: https://www.birdeye.so/token/HWnTV2PMEgaW8CBmW8mRyVsPCWQs954amFt1Qq7ipump
+Twitter: https://x.com/pumpsciencemice
+Telegram: 
+
+Minidoge (MINIDOGE) [8J6CexwfJ8CSzn2DgWhzQe1NHd2hK9DKX59FCNNMo2hu]:
+Net amount added: 4870670.155948
+No. of smart wallets interacted: 1
+Market cap: 1200686
+Birdeye: https://www.birdeye.so/token/8J6CexwfJ8CSzn2DgWhzQe1NHd2hK9DKX59FCNNMo2hu
+Twitter: https://x.com/Minidoge_cto
+Telegram: https://t.me/Minidoge_cto
+
+IQ50 (IQ50) [21rweMLGYeMNonHW7H3xa5py17X6ZFRcHirCp9inRBQA]:
+Net amount added: 1005932235.651532
+No. of smart wallets interacted: 1
+Market cap: 2924135
+Birdeye: https://www.birdeye.so/token/21rweMLGYeMNonHW7H3xa5py17X6ZFRcHirCp9inRBQA
+Twitter: https://twitter.com/IQ50BeRich
+Telegram: 
+
+first space coin (SNAP) [TDjz5Mz3wej2zJnJiHDEpXWX14YrY9DeB3bzbNZpump]:
+Net amount added: 1.0
+No. of smart wallets interacted: 1
+Market cap: 307838
+Birdeye: https://www.birdeye.so/token/TDjz5Mz3wej2zJnJiHDEpXWX14YrY9DeB3bzbNZpump
+Twitter: https://x.com/SnapCoinSol
+Telegram: https://t.me/SnapCoinSol
+
+SPQR (SPQR) [9wyheK9Eqy92cRPM4PBGmtZseizVJ4ZpZgF8Jcswpump]:
+Net amount added: 6230996.000863
+No. of smart wallets interacted: 1
+Market cap: 106874
+Birdeye: https://www.birdeye.so/token/9wyheK9Eqy92cRPM4PBGmtZseizVJ4ZpZgF8Jcswpump
+Twitter: https://x.com/SPQR_token
+Telegram: https://t.me/elson_SPQR
+
+Groink (GROINK) [F7ageQd88fCpRPfxmx29pm25wvhRvJ1kxpNQWyMT6X41]:
+Net amount added: 4146701.294268
+No. of smart wallets interacted: 1
+Market cap: 129320
+Birdeye: https://www.birdeye.so/token/F7ageQd88fCpRPfxmx29pm25wvhRvJ1kxpNQWyMT6X41
+Twitter: 
+Telegram: https://t.me/groinkportal
+
+SCALES (SCALES) [8FA3TPf84h9gEZAxDhiLkMN4vvZcdEUZxmGadbo12auh]:
+Net amount added: 100000000.0
+No. of smart wallets interacted: 1
+Market cap: 334486
+Birdeye: https://www.birdeye.so/token/8FA3TPf84h9gEZAxDhiLkMN4vvZcdEUZxmGadbo12auh
+Twitter: https://x.com/tryscales
+Telegram: https://t.me/Scales_Portal
+
+TRUMP MANIA (TMANIA) [HuPspkki5Qdnf5WAU7jtEThkeMhni6XQ23tunZRkZWUi]:
+Net amount added: 10.0
+No. of smart wallets interacted: 1
+Market cap: 165054
+Birdeye: https://www.birdeye.so/token/HuPspkki5Qdnf5WAU7jtEThkeMhni6XQ23tunZRkZWUi
+Twitter: https://x.com/realTrumpMania
+Telegram: https://t.me/TrumpManiaSol
+
+a16z AI Dog (Tilly) [HuiVprCHCucHUb5bX6EXFJd7wuwvdASFzzge4ahXpump]:
+Net amount added: 15787276.386338
+No. of smart wallets interacted: 1
+Market cap: 184882
+Birdeye: https://www.birdeye.so/token/HuiVprCHCucHUb5bX6EXFJd7wuwvdASFzzge4ahXpump
+Twitter: https://x.com/AiTillyCTO
+Telegram: https://t.me/tillya16zcto
+
+Dollar (DOLLAR) [5AnPDx9GposBi9jSW2dFfE5QQD3FmXbudoquMNDxpump]:
+Net amount added: 3000000.0
+No. of smart wallets interacted: 1
+Market cap: 365697
+Birdeye: https://www.birdeye.so/token/5AnPDx9GposBi9jSW2dFfE5QQD3FmXbudoquMNDxpump
+Twitter: https://x.com/DollarOnSolana
+Telegram: https://t.me/thedollaronsolana
+
+SPOOKY (SPOOKY AGI) [8oyxbtm1aT1BUNcoMua4rgycuyrc3cPc6iE7sRsypump]:
+Net amount added: 4994268.014459
+No. of smart wallets interacted: 1
+Market cap: 103278
+Birdeye: https://www.birdeye.so/token/8oyxbtm1aT1BUNcoMua4rgycuyrc3cPc6iE7sRsypump
+Twitter: 
+Telegram: 
+
+Spike (SPIKE) [BX9yEgW8WkoWV8SvqTMMCynkQWreRTJ9ZS81dRXYnnR9]:
+Net amount added: 5996212.378147
+No. of smart wallets interacted: 1
+Market cap: 220004
+Birdeye: https://www.birdeye.so/token/BX9yEgW8WkoWV8SvqTMMCynkQWreRTJ9ZS81dRXYnnR9
+Twitter: https://x.com/officialspikeog
+Telegram: https://t.me/originalspikeTG
+
+Cyborgism (Cyborgism) [8X7emJy8CV5pK7UjyBKCywdfc4MTKShpUddqrqyepump]:
+Net amount added: 8474969.138077
+No. of smart wallets interacted: 1
+Market cap: 289746
+Birdeye: https://www.birdeye.so/token/8X7emJy8CV5pK7UjyBKCywdfc4MTKShpUddqrqyepump
+Twitter:  https://x.com/i/communities/1856459666638942381
+Telegram: https://t.me/cyborgismportal
+
+No1 tiktok frog (Omochi) (omochi) [ESVRQ6phc55VCw7sWB6JgW3PeTB6N68kvwjfsMPcpump]:
+Net amount added: 6711664.593092
+No. of smart wallets interacted: 1
+Market cap: 381096
+Birdeye: https://www.birdeye.so/token/ESVRQ6phc55VCw7sWB6JgW3PeTB6N68kvwjfsMPcpump
+Twitter: https://x.com/omochi_cto
+Telegram: https://t.me/omochis
+
+Moosecoin (MOOSE) [6P4yBuWs6XnFf9hwyDsHVoqP4PnKtzKkcLhm4YFTyvWz]:
+Net amount added: 4581654.303476
+No. of smart wallets interacted: 1
+Market cap: 1508431
+Birdeye: https://www.birdeye.so/token/6P4yBuWs6XnFf9hwyDsHVoqP4PnKtzKkcLhm4YFTyvWz
+Twitter: https://x.com/moosecoinonsol
+Telegram: https://t.me/MOOSECOINONSOL
+
+Theory Of Gravity (THOG) [5CqfXex1knfRiozwDtgFFNaiGR9TsmSUcWDNUTUGZQru]:
+Net amount added: 2496088.249849
+No. of smart wallets interacted: 1
+Market cap: 415602
+Birdeye: https://www.birdeye.so/token/5CqfXex1knfRiozwDtgFFNaiGR9TsmSUcWDNUTUGZQru
+Twitter: https://x.com/THOGonSOL
+Telegram: https://t.me/thogxyz
+
+megs_io (megs) [GegBq6qGirNSVPbDcHNbG89xUcFTqNDwfSKt85T8pump]:
+Net amount added: 11971908.439644
+No. of smart wallets interacted: 1
+Market cap: 109819
+Birdeye: https://www.birdeye.so/token/GegBq6qGirNSVPbDcHNbG89xUcFTqNDwfSKt85T8pump
+Twitter: https://x.com/megs_io
+Telegram: https://t.me/megsportal
+
+Pesto the Baby King Penguin (PESTO) [34a8ALsPmbWxp7D3bQ6erERrCLz1ahr6u6o66Udmpump]:
+Net amount added: 4437274.295648
+No. of smart wallets interacted: 1
+Market cap: 4482641
+Birdeye: https://www.birdeye.so/token/34a8ALsPmbWxp7D3bQ6erERrCLz1ahr6u6o66Udmpump
+Twitter: https://x.com/PestoCTO
+Telegram: https://t.me/pestoCTO

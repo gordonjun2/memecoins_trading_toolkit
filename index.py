@@ -7,12 +7,12 @@ from modules import modules
 from handlers.routes import configure_routes
 
 from config import (TELEGRAM_BOT_TOKEN, TEST_TG_CHAT_ID, VERCEL_APP_URL,
-                    OWNER_ID)
+                    USER_ID)
 
 BOT_TOKEN = TELEGRAM_BOT_TOKEN or os.getenv('TELEGRAM_BOT_TOKEN')
 APP_URL = VERCEL_APP_URL or os.getenv('VERCEL_APP_URL')
 CHAT_ID = TEST_TG_CHAT_ID or os.getenv('TEST_TG_CHAT_ID')
-OWNER_ID = OWNER_ID or os.getenv('OWNER_ID')
+USER_ID = USER_ID or os.getenv('USER_ID')
 
 bot = telebot.TeleBot(token=BOT_TOKEN, threaded=False)
 app = Flask(__name__)
@@ -62,7 +62,7 @@ def command_help(message):
 @bot.message_handler(commands=['ping', 'p'])
 def command_ping(message):
     logger.info(f"Received /ping from chat_id: {message.chat.id}")
-    if message.chat.id != int(OWNER_ID):
+    if message.chat.id != int(USER_ID):
         bot.reply_to(message, "Sorry you are not allowed to use this command!")
         logger.warning(
             f"Unauthorized /ping attempt from chat_id: {message.chat.id}")

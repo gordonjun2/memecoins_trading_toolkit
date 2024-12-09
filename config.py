@@ -35,11 +35,11 @@ if cfg:
         telegram = dict(cfg.items('telegram'))
         TELEGRAM_BOT_TOKEN = telegram.get('telegram_bot_token', '')
         TEST_TG_CHAT_ID = telegram.get('test_tg_chat_id', '')
-        OWNER_ID = telegram.get('owner_id', '')
+        USER_ID = telegram.get('user_id', '')
     else:
         TELEGRAM_BOT_TOKEN = ''
         TEST_TG_CHAT_ID = ''
-        OWNER_ID = ''
+        USER_ID = ''
 
     if cfg.has_section('vercel'):
         vercel = dict(cfg.items('vercel'))
@@ -53,7 +53,7 @@ else:
     VYBE_NETWORK_X_API_KEYS = ['']
     TELEGRAM_BOT_TOKEN = ''
     TEST_TG_CHAT_ID = ''
-    OWNER_ID = ''
+    USER_ID = ''
     VERCEL_APP_URL = ''
 
 BITQUERY_API_VERSION = 'EAP'
@@ -157,7 +157,13 @@ WALLET_ADDRESSES_TO_INCLUDE = [
     "BQaNx1LdG7YsM5FNCHYszCDSeoXXEmjTgvaQzLngBuG4",
     "GpNbukV5nggkJfsEEbKrJaZkdgYcNWCAaD91Mi4MmGQi",
     "EoN2ef1hPAT9WCw6gjkgp6922WvagdCcjkJGkXqB33aW",
-    "AM84n1iLdxgVTAyENBcLdjXoyvjentTbu5Q6EpKV1PeG"
+    "AM84n1iLdxgVTAyENBcLdjXoyvjentTbu5Q6EpKV1PeG",
+    "3h65MmPZksoKKyEpEjnWU2Yk2iYT5oZDNitGy5cTaxoE",
+    "6pZYNHDpntcCxogx7gs5aVbTJGLDPZKCW3Nm8qV7BeBD",
+    "9U9ojKpGc65PT6vfzQVKsP53UNaaTiwgzjDUYcDNRywZ",
+    "4t9bWuZsXXKGMgmd96nFD4KWxyPNTsPm4q9jEMH4jD2i",
+    "71CPXu3TvH3iUKaY1bNkAAow24k6tjH473SsKprQBABC",
+    "8rkW2bDcurENSYaEhLBpZ1eSiJBy1bfSTrmHtrTcKqjT",  # OUTER early buyer, possibly @Weeb_Mcgee
 ]
 
 EXCLUDED_ADDRESSES = {

@@ -5,9 +5,12 @@ import logging
 from utils import *
 import dexscreener
 import telebot
+import re
+import argparse
 from config import (VYBE_NETWORK_X_API_KEYS, VYBE_NETWORK_QUERY_LIMIT,
                     MAX_RETRIES, RETRY_AFTER, EPSILON, MIN_MARKETCAP,
-                    WALLET_ADDRESSES_TO_INCLUDE, TELEGRAM_BOT_TOKEN, OWNER_ID)
+                    WALLET_ADDRESSES_TO_INCLUDE, TELEGRAM_BOT_TOKEN, USER_ID,
+                    TEST_TG_CHAT_ID)
 
 logging.basicConfig(level=logging.INFO,
                     format='%(message)s',
@@ -15,7 +18,8 @@ logging.basicConfig(level=logging.INFO,
 logger = logging.getLogger(__name__)
 
 
-def get_token_balance_change(logger=logger,
+def get_token_balance_change(chat_id,
+                             logger=logger,
                              get_token_details=True,
                              send_to_tg=True):
 
@@ -203,8 +207,10 @@ def get_token_balance_change(logger=logger,
                 terminal_msg = f'{key}:\nNet amount added: {delta}\nNo. of smart wallets interacted: {count}\nMarket cap: {market_cap}\nBirdeye: {token_birdeye}\nTwitter: {token_twitter}\nTelegram: {token_telegram}\n'
                 logger.info(terminal_msg)
                 terminal_output += '\n' + terminal_msg
+                escaped_key = re.escape(key)
+                escaped_key = escaped_key.replace(r'\ ', ' ')
                 tg_msg_list.append(
-                    f"*_**{key}**_*\n"
+                    f"*_**{escaped_key}**_*\n"
                     f"Net amount added: {delta}\n"
                     f"No. of smart wallets interacted: {count}\n"
                     f"Market cap: {market_cap:,}\n"
@@ -219,11 +225,27 @@ def get_token_balance_change(logger=logger,
 
         if send_to_tg:
             if tg_msg_list:
+                logger.info("Sending token balances updates to Telegram...\n")
                 bot = telebot.TeleBot(token=TELEGRAM_BOT_TOKEN, threaded=False)
                 tg_msg_title_list.extend(tg_msg_list)
                 chunks = chunk_message(tg_msg_title_list)
                 for chunk in chunks:
-                    bot.send_message(OWNER_ID, chunk, parse_mode='MarkdownV2')
+                    retry_count = 0
+                    while retry_count < MAX_RETRIES:
+                        try:
+                            bot.send_message(chat_id,
+                                             chunk,
+                                             parse_mode='MarkdownV2')
+                            break
+                        except:
+                            retry_count += 1
+                            time.sleep(60)
+                    else:
+                        logger.info(
+                            "Max retries reached. No new message will be sent.\n"
+                        )
+                        break
+
                 logger.info('Token balances updates sent to Telegram.\n')
 
             else:
@@ -240,4 +262,26 @@ if __name__ == "__main__":
     import urllib3
 
     urllib3.disable_warnings(InsecureRequestWarning)
-    get_token_balance_change(logger)
+
+    parser = argparse.ArgumentParser(
+        description="Get parameters for the script.")
+    parser.add_argument('-c',
+                        '--chat',
+                        type=str,
+                        default='GROUP',
+                        help="GROUP: Send to TEST_TG_CHAT_ID Telegram group, \
+        USER: Send to USER_ID Telegram user")
+    args = parser.parse_args()
+    chat = str(args.chat).upper()
+
+    if chat not in ['GROUP', 'USER']:
+        print(
+            "\nChat {} is not supported. Supported options are GROUP and USER.\n"
+            .format(chat))
+        sys.exit(1)
+    elif chat == 'GROUP':
+        chat_id = TEST_TG_CHAT_ID
+    else:
+        chat_id = USER_ID
+
+    get_token_balance_change(chat_id, logger)
