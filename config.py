@@ -164,6 +164,7 @@ WALLET_ADDRESSES_TO_INCLUDE = [
     "4t9bWuZsXXKGMgmd96nFD4KWxyPNTsPm4q9jEMH4jD2i",
     "71CPXu3TvH3iUKaY1bNkAAow24k6tjH473SsKprQBABC",
     "8rkW2bDcurENSYaEhLBpZ1eSiJBy1bfSTrmHtrTcKqjT",  # OUTER early buyer, possibly @Weeb_Mcgee
+    "CjUSBD8PktVf5SVbjGQKvnMF3wHZEhQFzV2VCRGT2oQG",  # JUSTIN early buyer
 ]
 
 EXCLUDED_ADDRESSES = {

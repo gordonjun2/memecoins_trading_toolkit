@@ -236,6 +236,7 @@ def get_token_balance_change(chat_id,
                             bot.send_message(chat_id,
                                              chunk,
                                              parse_mode='MarkdownV2')
+                            time.sleep(3)
                             break
                         except:
                             retry_count += 1
