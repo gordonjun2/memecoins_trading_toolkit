@@ -165,6 +165,15 @@ WALLET_ADDRESSES_TO_INCLUDE = [
     "71CPXu3TvH3iUKaY1bNkAAow24k6tjH473SsKprQBABC",
     "8rkW2bDcurENSYaEhLBpZ1eSiJBy1bfSTrmHtrTcKqjT",  # OUTER early buyer, possibly @Weeb_Mcgee
     "CjUSBD8PktVf5SVbjGQKvnMF3wHZEhQFzV2VCRGT2oQG",  # JUSTIN early buyer
+    "7dD5QNHJnrXt2HyFKLLcbu7ogd1VQ7sHxDoKu1SKXTa4",  # KOLIN smart buyer
+    "41U2ri3RLHHjdcyii4qENuvKGP9nD6r4U3EuaXsTMfJU",  # KOLIN smart buyer
+    "4ZgLmd9rv3TJTSXD2C2BowV6b5782mUxoB2e8fwYYoWG",  # KOLIN smart buyer
+    "959dbwct1iRhCTkrVrDCLgNZMHv1ubrcQATTi2xjfTcw",  # KOLIN smart buyer
+    "9c4kWxhCyLRxYi38fDcQpktqWWA44nxE5syedUsN1hr7",  # KOLIN smart buyer
+    "ANqwRG7pyjhsQTzxfNGU3K14DQnmK2U6r6CoqjyoJC8R",  # GATTA early buyer
+    "hJRWEXNPGcjvYyPqttHC4Fba3ZeNDBFkb15E32EwhAR",  # GATTA early buyer
+    "H7WkwWrQWTLNJfJhqjNV2DGM6hXxmvSBv7vEchQKa1ys",  # GATTA early buyer
+    "BJ7xvzDbcsX1JdgnLhwesnKB9pSjZWdCgbW9JBXB3qXa",  # GATTA early buyer
 ]
 
 EXCLUDED_ADDRESSES = {
