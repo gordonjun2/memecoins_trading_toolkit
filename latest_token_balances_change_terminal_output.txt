@@ -1,17 +1,113 @@
 
 Summarised token balances update (token marketcap >= 100,000.0):
-Goatseus Maximus (GOAT) [CzLSujWBLFsSjncfkh59rUFqvafWcY5tzedWJSuypump]:
-Net amount added: -349731.9999990016
+Degen The Otter (DGEN) [4VfSNfvfu1LaE7YQCKvgukrprnnJ3amw5aDqH1i2pump] 🆕:
+Net amount added: 203.891017
 No. of smart wallets interacted: 1
-Market cap: 808057218
-Birdeye: https://www.birdeye.so/token/CzLSujWBLFsSjncfkh59rUFqvafWcY5tzedWJSuypump
-Twitter: https://x.com/truth_terminal?s=21&t=vGsyxXKadHr8hUMHWu6Frg
-Telegram: https://t.me/GoatseusMaximusSolanaPortal
+Market cap: 989100
+Birdeye: https://www.birdeye.so/token/4VfSNfvfu1LaE7YQCKvgukrprnnJ3amw5aDqH1i2pump
+Twitter: https://x.com/Degen_otter
+Telegram: https://t.me/dgenotter
 
-Act I : The AI Prophecy (ACT) [GJAFwWjJ3vnTsrQVabjBVK2TYB1YtRCQXRDfDgUnpump]:
-Net amount added: 487274.0
+Just a chill guy (CHILLGUY) [Df6yfrKC8kZE3KNkrHERKzAetSxbrWeniQfyJY4Jpump]:
+Net amount added: -510214.501346
+No. of smart wallets interacted: 2
+Market cap: 198968781
+Birdeye: https://www.birdeye.so/token/Df6yfrKC8kZE3KNkrHERKzAetSxbrWeniQfyJY4Jpump
+Twitter: https://x.com/chillguycto
+Telegram: https://t.me/chillguycto
+
+fartcoin whitepaper (FW) [D45qbGyNUzR9fAMfbTx4gfavCaDbfrnoX9w63idsDzoo]:
+Net amount added: 14232343.582987
 No. of smart wallets interacted: 1
-Market cap: 539977379
-Birdeye: https://www.birdeye.so/token/GJAFwWjJ3vnTsrQVabjBVK2TYB1YtRCQXRDfDgUnpump
-Twitter: https://x.com/ACTICOMMUNITY
-Telegram: https://t.me/actportal
+Market cap: 874203
+Birdeye: https://www.birdeye.so/token/D45qbGyNUzR9fAMfbTx4gfavCaDbfrnoX9w63idsDzoo
+Twitter: https://x.com/og_fw_cto?s=21
+Telegram: https://t.me/fwcto
+
+USDT (USDT) [Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB]:
+Net amount added: 3.8485200000004625
+No. of smart wallets interacted: 1
+Market cap: 1888425288
+Birdeye: https://www.birdeye.so/token/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB
+Twitter: 
+Telegram: https://t.me/HardSnipe
+
+USD Coin (USDC) [EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v]:
+Net amount added: 9.419738999997207
+No. of smart wallets interacted: 1
+Market cap: 42451012585
+Birdeye: https://www.birdeye.so/token/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v
+Twitter: 
+Telegram: 
+
+Agent Aiora (AioraAI) [3Vh9jur61nKnKzf6HXvVpEsYaLrrSEDpSgfMSS3Bpump]:
+Net amount added: 17.267459000000144
+No. of smart wallets interacted: 1
+Market cap: 1365319
+Birdeye: https://www.birdeye.so/token/3Vh9jur61nKnKzf6HXvVpEsYaLrrSEDpSgfMSS3Bpump
+Twitter: https://x.com/AioraAI
+Telegram: https://t.me/AioraAI
+
+TINGUS (TINGUS) [FFMBajrDXwRwUw4j5D8XDN14Jp1Z72mnxjAoh34pump]:
+Net amount added: 1.2179180000093766
+No. of smart wallets interacted: 1
+Market cap: 1285417
+Birdeye: https://www.birdeye.so/token/FFMBajrDXwRwUw4j5D8XDN14Jp1Z72mnxjAoh34pump
+Twitter: https://x.com/mastertingus
+Telegram: 
+
+CHEX (CHEX) [6dKCoWjpj5MFU5gWDEFdpUUeBasBLK3wLEwhUzQPAa1e]:
+Net amount added: 0.9305994899999916
+No. of smart wallets interacted: 1
+Market cap: 58462074
+Birdeye: https://www.birdeye.so/token/6dKCoWjpj5MFU5gWDEFdpUUeBasBLK3wLEwhUzQPAa1e
+Twitter: https://twitter.com/ChintaiNexus
+Telegram: https://t.me/chex_token
+
+Dolan Duck (DOLAN) [4YK1njyeCkBuXG6phNtidJWKCbBhB659iwGkUJx98P5Z]:
+Net amount added: 0.9844840000000019
+No. of smart wallets interacted: 1
+Market cap: 19887725
+Birdeye: https://www.birdeye.so/token/4YK1njyeCkBuXG6phNtidJWKCbBhB659iwGkUJx98P5Z
+Twitter: https://twitter.com/DolanDuckSol69
+Telegram: https://t.me/+YuXzdVsgI3FjYTE5
+
+Effective accelerationism (e/acc) [GqmEdRD3zGUZdYPeuDeXxCc8Cj1DBmGSYK97TCwSpump]:
+Net amount added: 537.3832440000006
+No. of smart wallets interacted: 1
+Market cap: 2313388
+Birdeye: https://www.birdeye.so/token/GqmEdRD3zGUZdYPeuDeXxCc8Cj1DBmGSYK97TCwSpump
+Twitter: https://x.com/EaccOnSol
+Telegram: https://t.me/eaccportal
+
+JITO (JTO) [jtojtomepa8beP8AuQc6eXt5FriJwfFMwQx2v2f9mCL]:
+Net amount added: -76660.99999999994
+No. of smart wallets interacted: 1
+Market cap: 753165132
+Birdeye: https://www.birdeye.so/token/jtojtomepa8beP8AuQc6eXt5FriJwfFMwQx2v2f9mCL
+Twitter: 
+Telegram: 
+
+Wrapped Ether (Wormhole) (WETH) [7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs]:
+Net amount added: -28.90000000000009
+No. of smart wallets interacted: 1
+Market cap: 236711898
+Birdeye: https://www.birdeye.so/token/7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs
+Twitter: 
+Telegram: 
+
+GIGACHAD (GIGA) [63LfDmNb3MQ8mw9MtZ2To9bEA2M71kZUUGq5tiJxcqj9]:
+Net amount added: 1053225.52
+No. of smart wallets interacted: 1
+Market cap: 463561020
+Birdeye: https://www.birdeye.so/token/63LfDmNb3MQ8mw9MtZ2To9bEA2M71kZUUGq5tiJxcqj9
+Twitter: https://x.com/GIGACHAD_meme
+Telegram: https://t.me/GigaChadSol
+
+Autonomous Virtual Beings  (AVB) [6d5zHW5B8RkGKd51Lpb9RqFQSqDudr9GJgZ1SgQZpump]:
+Net amount added: 248744.15375000006
+No. of smart wallets interacted: 1
+Market cap: 12222745
+Birdeye: https://www.birdeye.so/token/6d5zHW5B8RkGKd51Lpb9RqFQSqDudr9GJgZ1SgQZpump
+Twitter: https://x.com/AVbeingsCTO
+Telegram: https://t.me/avbeings

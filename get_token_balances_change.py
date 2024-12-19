@@ -29,21 +29,30 @@ def get_token_balance_change(chat_id,
     start_time = time.time()
 
     saved_data_base_dir = "./saved_data"
+
     filtered_top_trader_addresses_dir = saved_data_base_dir + "/filtered_top_trader_addresses"
+
     loaded_top_trader_addresses = load_json_file(
         f"{filtered_top_trader_addresses_dir}/top_trader_addresses.json")
     loaded_top_trader_addresses = list(loaded_top_trader_addresses.keys())
     loaded_top_trader_addresses.extend(WALLET_ADDRESSES_TO_INCLUDE)
+
     top_trader_token_balances_dir = saved_data_base_dir + "/top_trader_token_balances"
     os.makedirs(top_trader_token_balances_dir, exist_ok=True)
     top_trader_token_balances_file_path = f"{top_trader_token_balances_dir}/top_trader_token_balances.json"
 
+    seen_token_addresses_dir = saved_data_base_dir + "/seen_token_addresses"
+    os.makedirs(seen_token_addresses_dir, exist_ok=True)
+    seen_token_addresses_file_path = f"{seen_token_addresses_dir}/seen_token_addresses.json"
+
     if not loaded_top_trader_addresses:
         logger.error("No top trader addresses found. Exiting...")
         return ''
-    else:
-        top_trader_token_balances_dict = load_json_file(
-            top_trader_token_balances_file_path)
+
+    top_trader_token_balances_dict = load_json_file(
+        top_trader_token_balances_file_path)
+    seen_token_addresses_dict = load_json_file(
+        seen_token_addresses_file_path)
 
     count = 1
     total_top_trader_addresses = len(loaded_top_trader_addresses)
@@ -70,7 +79,7 @@ def get_token_balance_change(chat_id,
 
             if response.status_code == 200:
                 tokens_data = response.json().get('data', [])
-                logger.info(
+                print(
                     'No. of tokens queried from wallet address {} ({}/{}): {}'.
                     format(wallet_address, count, total_top_trader_addresses,
                            len(tokens_data)))
@@ -82,6 +91,7 @@ def get_token_balance_change(chat_id,
                     symbol = token_data.get('symbol', '')
                     name = token_data.get('name', '')
                     mint_address = token_data.get('mintAddress', '')
+                    key = f'{name} ({symbol}) [{mint_address}]'
                     amount = token_data.get('amount', 0)
                     if isinstance(amount, str):
                         amount = float(amount)
@@ -93,8 +103,7 @@ def get_token_balance_change(chat_id,
                                 'name': name,
                                 'amount': amount,
                             }
-                        key = f'{name} ({symbol}) [{mint_address}]'
-                        logger.info('Add {} {} ({}) tokens'.format(
+                        print('Add {} {} ({}) tokens'.format(
                             amount, symbol, name))
                         if key not in token_balances_update_dict:
                             token_balances_update_dict[key] = {}
@@ -109,8 +118,7 @@ def get_token_balance_change(chat_id,
                             wallet_address][mint_address]['amount']
                         if amount > prev_amount + EPSILON:
                             delta = amount - prev_amount
-                            key = f'{name} ({symbol}) [{mint_address}]'
-                            logger.info('Add {} {} ({}) tokens'.format(
+                            print('Add {} {} ({}) tokens'.format(
                                 delta, symbol, name))
                             if key not in token_balances_update_dict:
                                 token_balances_update_dict[key] = {}
@@ -124,8 +132,7 @@ def get_token_balance_change(chat_id,
                                 token_balances_update_dict[key]['count'] += 1
                         elif amount < prev_amount - EPSILON:
                             delta = amount - prev_amount
-                            key = f'{name} ({symbol}) [{mint_address}]'
-                            logger.info('Subtract {} {} ({}) tokens'.format(
+                            print('Subtract {} {} ({}) tokens'.format(
                                 prev_amount - amount, symbol, name))
                             if key not in token_balances_update_dict:
                                 token_balances_update_dict[key] = {}
@@ -139,6 +146,11 @@ def get_token_balance_change(chat_id,
                                 token_balances_update_dict[key]['count'] += 1
                         top_trader_token_balances_dict[wallet_address][
                             mint_address]['amount'] = amount
+
+                    if mint_address not in seen_token_addresses_dict:
+                        if key in token_balances_update_dict:
+                            token_balances_update_dict[key]['is_new'] = True
+                        seen_token_addresses_dict[mint_address] = True
 
                 loop_count += 1
                 break_flag = True
@@ -164,12 +176,17 @@ def get_token_balance_change(chat_id,
     save_json_file(top_trader_token_balances_file_path,
                    top_trader_token_balances_dict)
 
+    if os.path.exists(seen_token_addresses_file_path):
+        os.remove(seen_token_addresses_file_path)
+    save_json_file(seen_token_addresses_file_path,
+                   seen_token_addresses_dict)
+
     if get_token_details:
         token_details_dict = dexscreener.get_token_details(mint_address_list)
         tg_msg_list = []
 
         terminal_msg = f'\nSummarised token balances update (token marketcap >= {MIN_MARKETCAP:,}):'
-        logger.info(terminal_msg)
+        print(terminal_msg)
         terminal_output = terminal_msg
         tg_msg_title_list = [
             f'**Summarised token balances update (token marketcap >= {MIN_MARKETCAP:,}):**\n'
@@ -179,8 +196,7 @@ def get_token_balance_change(chat_id,
             'key': key,
             **value
         } for key, value in sorted(token_balances_update_dict.items(),
-                                   key=lambda x: x[1]['count'],
-                                   reverse=True)]
+                                   key=lambda x: (not x[1].get('is_new', False), -x[1]['count']))]
 
         for data in sorted_data:
             key = data['key']
@@ -191,6 +207,9 @@ def get_token_balance_change(chat_id,
             if market_cap >= MIN_MARKETCAP:
                 delta = data['amount']
                 count = data['count']
+                is_new = data.get('is_new')
+                if is_new:
+                    key += ' 🆕'
 
                 token_birdeye = f'https://www.birdeye.so/token/{mint_address}'
 
@@ -205,7 +224,7 @@ def get_token_balance_change(chat_id,
                         token_twitter = token_social.get('url', '')
 
                 terminal_msg = f'{key}:\nNet amount added: {delta}\nNo. of smart wallets interacted: {count}\nMarket cap: {market_cap}\nBirdeye: {token_birdeye}\nTwitter: {token_twitter}\nTelegram: {token_telegram}\n'
-                logger.info(terminal_msg)
+                print(terminal_msg)
                 terminal_output += '\n' + terminal_msg
                 escaped_key = re.escape(key)
                 escaped_key = escaped_key.replace(r'\ ', ' ')
@@ -221,11 +240,11 @@ def get_token_balance_change(chat_id,
         with open(file_path, "w") as file:
             file.write(terminal_output)
 
-        logger.info(f"\nTerminal output saved to {file_path}\n")
+        print(f"\nTerminal output saved to {file_path}\n")
 
         if send_to_tg:
             if tg_msg_list:
-                logger.info("Sending token balances updates to Telegram...\n")
+                print("Sending token balances updates to Telegram...\n")
                 bot = telebot.TeleBot(token=TELEGRAM_BOT_TOKEN, threaded=False)
                 tg_msg_title_list.extend(tg_msg_list)
                 chunks = chunk_message(tg_msg_title_list)
@@ -242,19 +261,19 @@ def get_token_balance_change(chat_id,
                             retry_count += 1
                             time.sleep(60)
                     else:
-                        logger.info(
+                        print(
                             "Max retries reached. No new message will be sent.\n"
                         )
                         break
 
-                logger.info('Token balances updates sent to Telegram.\n')
+                print('Token balances updates sent to Telegram.\n')
 
             else:
-                logger.info(
+                print(
                     'No token balances update found, so no message sent to Telegram.\n'
                 )
 
-    logger.info('Total time taken: {:.2f} seconds\n'.format(time.time() -
+    print('Total time taken: {:.2f} seconds\n'.format(time.time() -
                                                             start_time))
 
 

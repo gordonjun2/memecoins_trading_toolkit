@@ -94,11 +94,12 @@ MINT_ADDRESSES = [
     "4BBjpGwLgGmUxtT82YFK9xMhcvyy3zgf3HpxTRip1YoU",  # Mundi
     "Gu3LDkn7Vx3bmCzLafYNKcDxv2mH7YN44NJZFXnypump",  # DEGENAI
     "GfVkzaeEmgfP51zSESJydGmtFheud37LeQfm9WQ3pump",  # QWEN 
-    "HNg5PYJmtqcmzXrv6S9zP1CDKk5BgDuyFBxbvNApump",  # ALCH
+    "HNg5PYJmtqcmzXrv6S9zP1CDKk5BgDuyFBxbvNApump",   # ALCH
+    "eL5fUxj2J4CiQsmW85k5FG9DvuQjjUoBHoQBi2Kpump",   # UFD
 ]
 
 WALLET_ADDRESSES_TO_INCLUDE = [
-    "nPosUpnDtaB4dBaJUMF1bm78E4BTZDwWQWGoEmEyESx",  # $QWEN early buyer
+    "nPosUpnDtaB4dBaJUMF1bm78E4BTZDwWQWGoEmEyESx",   # $QWEN early buyer
     "H3ULqKdSDvXAz1UKQYyfauoak7ZF8ubjQtL6yPKxLVn9",  # $QWEN early buyer
     "BZmxuXQ68QeZABbDFSzveHyrXCv5EG6Ut1ATw5qZgm2Q",  # $QWEN early buyer
     "3PXphc83oYA6T9Xzi3c1q8ENQCSVRX1vofBJvQFGSU3P",  # PRAWN early buyer
@@ -129,8 +130,8 @@ WALLET_ADDRESSES_TO_INCLUDE = [
     "HeBiD5qxwbaLXP9WxNtTca7hT9czsXwz2rbi4ugtmyzd",
     "HYWo71Wk9PNDe5sBaRKazPnVyGnQDiwgXCFKvgAQ1ENp",  # MOODENG whale
     "71m12A5zLEowFRkwunLvd1MgUUPRBbMCxQPafxkg9idF",  # insider
-    "xwgpZSfJfqDBW2UL7eSaQmcWx6JrFcCjXAvZqR7tfdr",  # insider
-    "j1oeQoPeuEDmjvyMwBmCWexzCQup77kbKKxV59CnYbd",  # insider
+    "xwgpZSfJfqDBW2UL7eSaQmcWx6JrFcCjXAvZqR7tfdr",   # insider
+    "j1oeQoPeuEDmjvyMwBmCWexzCQup77kbKKxV59CnYbd",   # insider
     "FkZwrAbE7Zze4NdqcFVTXhM9fktyfzQ5Ufp8K7v2H6gY",  # MICHI top holder
     "GednEH4dgpdvTdUgDNHg4BAHLa5KPQojbcHSF6eg38JB",
     "HooderpigTVYapoXi6PQzxwtWhq3U1cuGvyu89fGjruY",
@@ -171,9 +172,30 @@ WALLET_ADDRESSES_TO_INCLUDE = [
     "959dbwct1iRhCTkrVrDCLgNZMHv1ubrcQATTi2xjfTcw",  # KOLIN smart buyer
     "9c4kWxhCyLRxYi38fDcQpktqWWA44nxE5syedUsN1hr7",  # KOLIN smart buyer
     "ANqwRG7pyjhsQTzxfNGU3K14DQnmK2U6r6CoqjyoJC8R",  # GATTA early buyer
-    "hJRWEXNPGcjvYyPqttHC4Fba3ZeNDBFkb15E32EwhAR",  # GATTA early buyer
+    "hJRWEXNPGcjvYyPqttHC4Fba3ZeNDBFkb15E32EwhAR",   # GATTA early buyer
     "H7WkwWrQWTLNJfJhqjNV2DGM6hXxmvSBv7vEchQKa1ys",  # GATTA early buyer
     "BJ7xvzDbcsX1JdgnLhwesnKB9pSjZWdCgbW9JBXB3qXa",  # GATTA early buyer
+    "F8nt7vqkFrYbjPdRkKwuZGXoWZWX6Yg3vKdEX8TfvVY7",  # Possibly one of 0xGolden_'s wallet
+    "82kLuMXSns4aecHQoDm88g5v9sCzdhW2yiaQBoGvdxvm",  # IQ6900 top trader
+    "2Qt3jug4PNJuiGKx2XR7Bs3bk1nX8v9hArzCzkYABk1o",  # UFD top trader
+    "Hqkk2zNPZYiQL7c9JhVed1EyQppoZToBKMCzaCX1m21y",  # UFD top trader
+    "215nhcAHjQQGgwpQSJQ7zR26etbjjtVdW74NLzwEgQjP",  # UFD top trader
+    "5pRpKmNNskgSzeJ6S7Pr6KEHuLpBbQAgjKH74pMn1q62",  # UFD top trader
+    "CNudZYFgpbT26fidsiNrWfHeGTBMMeVWqruZXsEkcUPc",  # UFD top trader
+    "M5Q1hFKopMr2DyNabEkrgoh6tGaF6z6NVQZ5SGUPss8",   # UFD top trader
+    "5X4593sntQAyxwciqC87mdyZqVVk1Y9ydUPVUF9nUq7T",  # UFD top trader
+    "3h65MmPZksoKKyEpEjnWU2Yk2iYT5oZDNitGy5cTaxoE",  # UFD top trader
+    "8V4VX3Hg9gAhdx1Zr5y8tUGbzNGrZbzZ6s1Ca9UkF6vP",  # UFD top trader
+    "9e74ewGjXC7LMDYYsGewMuya8fpVcouviKgjSKijYjRg",  # UFD top trader
+    "CLegS2MSiCsBksVazCg4Y7Gz3NqeBK21QyvzK4Q7S168",  # UFD top trader
+    "DXSWECvcdajmyHhnSYaVKTXd28vFPgoDXTs1P2ppXoNX",  # UFD top trader
+    "687kTFNvKG9GXf8UsPzyrKbKpz5ExNrSCWfs7S4PTGiL",  # UFD top trader
+    "ACHhRQMbTxuWqU3bmbBbgUNGsPsYnvB8KLcPkkXCY1C7",  # UFD top trader
+    "CLpDttr14kM4svu7jypK4rzsMKdJYAR8emGNPaWs7omB",  # UFD top trader
+    "Fqgsp9CziV5DhyseYahkbFWLPFwFKsMyoK3abEjauw6Y",  # UFD top trader
+    "9AgRdvmNSgtyiKf6dYsBCPJDEXG6pNWKXswZabndYf7v",  # UFD top trader
+    "8zFZHuSRuDpuAR7J6FzwyF3vKNx4CVW3DFHJerQhc7Zd",  # UFD top trader
+    "2ssNnQ777XH4JZktYq6dh6bcMz5xdwP89pzTLPpEPkzK",  # UFD top trader
 ]
 
 EXCLUDED_ADDRESSES = {
