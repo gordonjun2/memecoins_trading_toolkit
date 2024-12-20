@@ -10,7 +10,7 @@ import argparse
 from config import (VYBE_NETWORK_X_API_KEYS, VYBE_NETWORK_QUERY_LIMIT,
                     MAX_RETRIES, RETRY_AFTER, EPSILON, MIN_MARKETCAP,
                     WALLET_ADDRESSES_TO_INCLUDE, TELEGRAM_BOT_TOKEN, USER_ID,
-                    TEST_TG_CHAT_ID)
+                    TEST_TG_CHAT_ID, MIN_AMOUNT_USD)
 
 logging.basicConfig(level=logging.INFO,
                     format='%(message)s',
@@ -58,6 +58,7 @@ def get_token_balance_change(chat_id,
     total_top_trader_addresses = len(loaded_top_trader_addresses)
     token_balances_update_dict = {}
     mint_address_list = []
+    mint_address_price_usd_map = {}
     loop_count = 0
 
     for wallet_address in loaded_top_trader_addresses:
@@ -93,8 +94,15 @@ def get_token_balance_change(chat_id,
                     mint_address = token_data.get('mintAddress', '')
                     key = f'{name} ({symbol}) [{mint_address}]'
                     amount = token_data.get('amount', 0)
+                    price_usd = token_data.get('priceUsd', 0)
+
                     if isinstance(amount, str):
                         amount = float(amount)
+                    if price_usd:
+                        if isinstance(price_usd, str):
+                            price_usd = float(price_usd)
+                        mint_address_price_usd_map[mint_address] = price_usd
+                    
                     if mint_address not in top_trader_token_balances_dict[
                             wallet_address]:
                         top_trader_token_balances_dict[wallet_address][
@@ -182,6 +190,14 @@ def get_token_balance_change(chat_id,
                    seen_token_addresses_dict)
 
     if get_token_details:
+        for key, value in token_balances_update_dict.items():
+            amount = value['amount']
+            key_splitted = key.split(' ')
+            mint_address = key_splitted[-1][1:-1]
+            price_usd = mint_address_price_usd_map.get(mint_address, 0)
+            amount_usd = amount * price_usd
+            value['amount_usd'] = amount_usd
+
         token_details_dict = dexscreener.get_token_details(mint_address_list)
         tg_msg_list = []
 
@@ -195,8 +211,14 @@ def get_token_balance_change(chat_id,
         sorted_data = [{
             'key': key,
             **value
-        } for key, value in sorted(token_balances_update_dict.items(),
-                                   key=lambda x: (not x[1].get('is_new', False), -x[1]['count']))]
+        } for key, value in sorted(
+            token_balances_update_dict.items(),
+            key=lambda x: (
+                not x[1].get('is_new', False),
+                -x[1]['count'],
+                -x[1].get('amount_usd', 0)
+            )
+        )]
 
         for data in sorted_data:
             key = data['key']
@@ -207,9 +229,20 @@ def get_token_balance_change(chat_id,
             if market_cap >= MIN_MARKETCAP:
                 delta = data['amount']
                 count = data['count']
+                delta_usd = data['amount_usd']
+                if delta_usd < MIN_AMOUNT_USD:
+                    continue
+
+                delta_usd_str = "{:,.2f}".format(delta_usd)
                 is_new = data.get('is_new')
+
+                key += ' '
                 if is_new:
-                    key += ' 🆕'
+                    key += '🆕'
+                if delta > 0:
+                    key += '🟢'
+                else:
+                    key += '🔴'
 
                 token_birdeye = f'https://www.birdeye.so/token/{mint_address}'
 
@@ -223,15 +256,16 @@ def get_token_balance_change(chat_id,
                     elif token_social['type'] == 'twitter':
                         token_twitter = token_social.get('url', '')
 
-                terminal_msg = f'{key}:\nNet amount added: {delta}\nNo. of smart wallets interacted: {count}\nMarket cap: {market_cap}\nBirdeye: {token_birdeye}\nTwitter: {token_twitter}\nTelegram: {token_telegram}\n'
+                terminal_msg = f'{key}:\nNo. of smart wallets interacted: {count}\nNet amount added: {delta}\nNet amount added (in USD): ${delta_usd_str}\nMarket cap: {market_cap}\nBirdeye: {token_birdeye}\nTwitter: {token_twitter}\nTelegram: {token_telegram}\n'
                 print(terminal_msg)
                 terminal_output += '\n' + terminal_msg
                 escaped_key = re.escape(key)
                 escaped_key = escaped_key.replace(r'\ ', ' ')
                 tg_msg_list.append(
                     f"*_**{escaped_key}**_*\n"
-                    f"Net amount added: {delta}\n"
                     f"No. of smart wallets interacted: {count}\n"
+                    f"Net amount added: {delta}\n"
+                    f"Net amount added (in USD): ${delta_usd_str}\n"
                     f"Market cap: {market_cap:,}\n"
                     f"[Birdeye]({token_birdeye}) | [Twitter]({token_twitter}) | [Telegram]({token_telegram})"
                 )
