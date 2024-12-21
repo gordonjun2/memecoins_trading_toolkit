@@ -96,107 +96,83 @@ MINT_ADDRESSES = [
     "GfVkzaeEmgfP51zSESJydGmtFheud37LeQfm9WQ3pump",  # QWEN 
     "HNg5PYJmtqcmzXrv6S9zP1CDKk5BgDuyFBxbvNApump",   # ALCH
     "eL5fUxj2J4CiQsmW85k5FG9DvuQjjUoBHoQBi2Kpump",   # UFD
+    "GAMwtMB6onAvBNBQJCJFuxoaqfPH8uCQ2dewNMVVpump",  # TANK
 ]
 
-WALLET_ADDRESSES_TO_INCLUDE = [
-    "nPosUpnDtaB4dBaJUMF1bm78E4BTZDwWQWGoEmEyESx",   # $QWEN early buyer
-    "H3ULqKdSDvXAz1UKQYyfauoak7ZF8ubjQtL6yPKxLVn9",  # $QWEN early buyer
-    "BZmxuXQ68QeZABbDFSzveHyrXCv5EG6Ut1ATw5qZgm2Q",  # $QWEN early buyer
-    "3PXphc83oYA6T9Xzi3c1q8ENQCSVRX1vofBJvQFGSU3P",  # PRAWN early buyer
-    "CYjF5avYZmEhC1DJyZfR9rKEYB2qNakAfxL4LKHW91Kh",  # PRAWN early buyer
-    "H6RErn6vTw3ZSLBN9iNpP3cAq8CETh6dy6HVkEwPonjE",  # CHILLGUY early buyer
-    "8WXKcUjwMU5TxiEN4mjw52iP4uPKx8VpXGozqMadqhyq",  # CHILLGUY early buyer
-    "3dzy3JJzfS882FsQvhLtoH7EVJhLM23UnMzb1movjeaM",  # CHILLGUY early buyer
-    "DFTvt9LdKLKVuLjXxyFsP2W7WQwDnawgpqUz5f6gkfxj",  # CHILLGUY early buyer
-    "928HvrAk5YVgksEP87KixnkhqjXTcagYYmZfZzSgLq8T",  # CHILLGUY early buyer
-    "4GwjiXRfCerHjrf7fjPPsewLMTu3gN7pMnkA3bGcANT3",  # CHILLGUY early buyer
-    "HfqgVXrKv8vBoqLGqGgEpxAR1vw6hUH28CUkdytU2Cuf",  # CHILLGUY early buyer
-    "FWuPsvShrLG4r6iYjc3dDCoPneHFdYqDGX4MXuhTDf6y",  # CHILLGUY early buyer
-    "799w4dfUDCLSvTynuWAB67rEmugUW68ZZzKUgr5k6isR",  # CHILLGUY early buyer
-    "5dDDSix4JDnGGRYxntQKpbnWzMyedu9euxy4Jc8D44yF",  # CHILLGUY early buyer
-    "68MbxgnxADFnkijppvw3dTPu3NRCiAYGtCCrkhUTUPfb",  # CHILLGUY early buyer
-    "6bVLiHHZUQnj5UsqMh9zTme7pzPLm4cVdnzkThQz5SRP",  # CHILLGUY early buyer
-    "2GTxgLAsbHPGUWSuj7n2kb7JpW2xQhzfXv3ukqpEjdDi",  # CHILLGUY early buyer
-    "2cyYy2zPyThCJAVcD4JhqnTWnsTVSVJe55Gw3NrPKBf8",  # RIF early buyer
-    "8RZdvcLRn6Cg9W2RnLiXAv8vxBujfEignbB2Nagoo1Lj",  # URO early buyer
-    "5mUat7qeNwrGPmWzHCJ1Lnw5eXXJhpq25zPHWMtZQaRy",  # ZEREBRO early buyer
-    "GB4PGoxJ5qaxmkdfBCxhw5Pcfet5Y5CpeMXdPwyBoj2R",  # ZEREBRO early buyer
-    "6MxgUd3C45Dmxr9qKKq6hpMiR6gFsziuDHRRDk5JK53L",  # ZEREBRO early buyer
-    "D8YvsyB39r1Crv8sYwLiZqrq5tGBUfhMv6nNBcaBbhVe",  # ZEREBRO early buyer
-    "3U6JNL6C4nwkr2GjKunqftQR84J9e6BHcd9d969zDgbr",  # AVA early buyer
-    "3TAUa4TSbxKEDTQciEUT75svJkwfUDaXw3PbeS5G9H7b",  # AVA early buyer
-    "BcHJmd3QK1Z2GxjQT4zymmiixRtfogUvfHR2gQo5ErWW",  # SKBDI early buyer
-    "8fF6jokXDo2f2TdV7KqHaWrxUHZV5xZbfeyBH49XQgWw",  # SKBDI early buyer
-    "HeBiD5qxwbaLXP9WxNtTca7hT9czsXwz2rbi4ugtmyzd",
-    "HYWo71Wk9PNDe5sBaRKazPnVyGnQDiwgXCFKvgAQ1ENp",  # MOODENG whale
-    "71m12A5zLEowFRkwunLvd1MgUUPRBbMCxQPafxkg9idF",  # insider
-    "xwgpZSfJfqDBW2UL7eSaQmcWx6JrFcCjXAvZqR7tfdr",   # insider
-    "j1oeQoPeuEDmjvyMwBmCWexzCQup77kbKKxV59CnYbd",   # insider
-    "FkZwrAbE7Zze4NdqcFVTXhM9fktyfzQ5Ufp8K7v2H6gY",  # MICHI top holder
-    "GednEH4dgpdvTdUgDNHg4BAHLa5KPQojbcHSF6eg38JB",
-    "HooderpigTVYapoXi6PQzxwtWhq3U1cuGvyu89fGjruY",
-    "Bqf76TrvZr637xvei14mHr1odxBTvKQccBYXhxJjp2RT",
-    "8icKqfmu95pCmfQLc2cLkmhB7LqN8tRaaE4cvKnGpwpq",
-    "Baoy8GbXcwP1VWmwZDnwFTsm5BedkxJTZydJ2rvZAHYu",
-    "9UWZFoiCHeYRLmzmDJhdMrP7wgrTw7DMSpPiT2eHgJHe",
-    "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
-    "CNudZYFgpbT26fidsiNrWfHeGTBMMeVWqruZXsEkcUPc",
-    "4Be9CvxqHW6BYiRAxW9Q3xu1ycTMWaL5z8NX4HR3ha7t",
-    "3vWJYyyGYJzudZFjYWVMPLCFCuKnhSab6oDboD8WggBv",
-    "J7pcdtNbbjDWzz4k438aca3aUciq5PogbnMW4FpmZjJj",
-    "Ca1DdGgk1S8GAWsPAWGYG5ufafUofjGwutvt9cNRiW71",
-    "5sTQ5ih7xtctBhMXHr3f1aWdaXazWrWfoehqWdqWnTFP",
-    "jz1RPBQEEgroa63tqPfNWDUgEoJbDzLgz3TthDMHbB1",
-    "Hwz4dFRbEbUTeY4oxVXyQrxXdBtvqdGRH3qcgvYu7fs8",
-    "HVh6wHNBAsG3pq1Bj5oCzRjoWKVogEDHwUHkRz3ekFgt",
-    "AcUm7PunTqCYnLKD5ZbXaA4VtrWd8jccwPFCY3yMvLRa",
-    "5PAhQiYdLBd6SVdjzBQDxUAEFyDdF5ExNPQfcscnPRj5",
-    "8Hkbb3fkyBZi92dtGEXWuZyErRhUHSnHwTQJjxr32upg",
-    "8e2CGqUwRSTc6KW6a5PkTL4CQmkemdc86x7xWumdqiR",
-    "H1Tw7sVRuaSZTcWhEbCuKwFMSxUmqWRWmX1PLW1HxQ2B",
-    "4PstEU8cBCGG82B9cXuAXWqndzCgvD7KAGBDTvyKJ9SV",
-    "BQaNx1LdG7YsM5FNCHYszCDSeoXXEmjTgvaQzLngBuG4",
-    "GpNbukV5nggkJfsEEbKrJaZkdgYcNWCAaD91Mi4MmGQi",
-    "EoN2ef1hPAT9WCw6gjkgp6922WvagdCcjkJGkXqB33aW",
-    "AM84n1iLdxgVTAyENBcLdjXoyvjentTbu5Q6EpKV1PeG",
-    "3h65MmPZksoKKyEpEjnWU2Yk2iYT5oZDNitGy5cTaxoE",
-    "6pZYNHDpntcCxogx7gs5aVbTJGLDPZKCW3Nm8qV7BeBD",
-    "9U9ojKpGc65PT6vfzQVKsP53UNaaTiwgzjDUYcDNRywZ",
-    "4t9bWuZsXXKGMgmd96nFD4KWxyPNTsPm4q9jEMH4jD2i",
-    "71CPXu3TvH3iUKaY1bNkAAow24k6tjH473SsKprQBABC",
-    "8rkW2bDcurENSYaEhLBpZ1eSiJBy1bfSTrmHtrTcKqjT",  # OUTER early buyer, possibly @Weeb_Mcgee
-    "CjUSBD8PktVf5SVbjGQKvnMF3wHZEhQFzV2VCRGT2oQG",  # JUSTIN early buyer
-    "7dD5QNHJnrXt2HyFKLLcbu7ogd1VQ7sHxDoKu1SKXTa4",  # KOLIN smart buyer
-    "41U2ri3RLHHjdcyii4qENuvKGP9nD6r4U3EuaXsTMfJU",  # KOLIN smart buyer
-    "4ZgLmd9rv3TJTSXD2C2BowV6b5782mUxoB2e8fwYYoWG",  # KOLIN smart buyer
-    "959dbwct1iRhCTkrVrDCLgNZMHv1ubrcQATTi2xjfTcw",  # KOLIN smart buyer
-    "9c4kWxhCyLRxYi38fDcQpktqWWA44nxE5syedUsN1hr7",  # KOLIN smart buyer
-    "ANqwRG7pyjhsQTzxfNGU3K14DQnmK2U6r6CoqjyoJC8R",  # GATTA early buyer
-    "hJRWEXNPGcjvYyPqttHC4Fba3ZeNDBFkb15E32EwhAR",   # GATTA early buyer
-    "H7WkwWrQWTLNJfJhqjNV2DGM6hXxmvSBv7vEchQKa1ys",  # GATTA early buyer
-    "BJ7xvzDbcsX1JdgnLhwesnKB9pSjZWdCgbW9JBXB3qXa",  # GATTA early buyer
-    "F8nt7vqkFrYbjPdRkKwuZGXoWZWX6Yg3vKdEX8TfvVY7",  # Possibly one of 0xGolden_'s wallet
-    "82kLuMXSns4aecHQoDm88g5v9sCzdhW2yiaQBoGvdxvm",  # IQ6900 top trader
-    "2Qt3jug4PNJuiGKx2XR7Bs3bk1nX8v9hArzCzkYABk1o",  # UFD top trader
-    "Hqkk2zNPZYiQL7c9JhVed1EyQppoZToBKMCzaCX1m21y",  # UFD top trader
-    "215nhcAHjQQGgwpQSJQ7zR26etbjjtVdW74NLzwEgQjP",  # UFD top trader
-    "5pRpKmNNskgSzeJ6S7Pr6KEHuLpBbQAgjKH74pMn1q62",  # UFD top trader
-    "CNudZYFgpbT26fidsiNrWfHeGTBMMeVWqruZXsEkcUPc",  # UFD top trader
-    "M5Q1hFKopMr2DyNabEkrgoh6tGaF6z6NVQZ5SGUPss8",   # UFD top trader
-    "5X4593sntQAyxwciqC87mdyZqVVk1Y9ydUPVUF9nUq7T",  # UFD top trader
-    "3h65MmPZksoKKyEpEjnWU2Yk2iYT5oZDNitGy5cTaxoE",  # UFD top trader
-    "8V4VX3Hg9gAhdx1Zr5y8tUGbzNGrZbzZ6s1Ca9UkF6vP",  # UFD top trader
-    "9e74ewGjXC7LMDYYsGewMuya8fpVcouviKgjSKijYjRg",  # UFD top trader
-    "CLegS2MSiCsBksVazCg4Y7Gz3NqeBK21QyvzK4Q7S168",  # UFD top trader
-    "DXSWECvcdajmyHhnSYaVKTXd28vFPgoDXTs1P2ppXoNX",  # UFD top trader
-    "687kTFNvKG9GXf8UsPzyrKbKpz5ExNrSCWfs7S4PTGiL",  # UFD top trader
-    "ACHhRQMbTxuWqU3bmbBbgUNGsPsYnvB8KLcPkkXCY1C7",  # UFD top trader
-    "CLpDttr14kM4svu7jypK4rzsMKdJYAR8emGNPaWs7omB",  # UFD top trader
-    "Fqgsp9CziV5DhyseYahkbFWLPFwFKsMyoK3abEjauw6Y",  # UFD top trader
-    "9AgRdvmNSgtyiKf6dYsBCPJDEXG6pNWKXswZabndYf7v",  # UFD top trader
-    "8zFZHuSRuDpuAR7J6FzwyF3vKNx4CVW3DFHJerQhc7Zd",  # UFD top trader
-    "2ssNnQ777XH4JZktYq6dh6bcMz5xdwP89pzTLPpEPkzK",  # UFD top trader
-]
+WALLET_ADDRESSES_TO_INCLUDE_DICT = {
+    'nPosUpnDtaB4dBaJUMF1bm78E4BTZDwWQWGoEmEyESx': 'nPos...yESx (Winrate: 50.00%, Tokens Traded: > 240)', 
+    '3PXphc83oYA6T9Xzi3c1q8ENQCSVRX1vofBJvQFGSU3P': '3PXp...SU3P (Winrate: 27.57%, Tokens Traded: > 300)', 
+    '4GwjiXRfCerHjrf7fjPPsewLMTu3gN7pMnkA3bGcANT3': '4Gwj...ANT3 (Winrate: 44.44%, Tokens Traded: > 10)', 
+    'HYWo71Wk9PNDe5sBaRKazPnVyGnQDiwgXCFKvgAQ1ENp': 'HYWo...1ENp (Winrate: 31.43%, Tokens Traded: > 210)', 
+    'FkZwrAbE7Zze4NdqcFVTXhM9fktyfzQ5Ufp8K7v2H6gY': 'FkZw...H6gY (Winrate: 27.61%, Tokens Traded: > 130)', 
+    'GednEH4dgpdvTdUgDNHg4BAHLa5KPQojbcHSF6eg38JB': 'Gedn...38JB (Winrate: 31.43%, Tokens Traded: > 30)', 
+    '9UWZFoiCHeYRLmzmDJhdMrP7wgrTw7DMSpPiT2eHgJHe': '9UWZ...gJHe (Winrate: 63.90%, Tokens Traded: > 240)', 
+    'DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj': 'DfMx...Xhzj (Winrate: 87.21%, Tokens Traded: > 1570)', 
+    'CNudZYFgpbT26fidsiNrWfHeGTBMMeVWqruZXsEkcUPc': 'Cnud...cUPc (Winrate: 92.31%, Tokens Traded: > 10)', 
+    'J7pcdtNbbjDWzz4k438aca3aUciq5PogbnMW4FpmZjJj': 'J7pc...ZjJj (Winrate: 48.65%, Tokens Traded: > 30)', 
+    'AcUm7PunTqCYnLKD5ZbXaA4VtrWd8jccwPFCY3yMvLRa': 'AcUm...vLRa (Winrate: 95.56%, Tokens Traded: > 90)', 
+    '8Hkbb3fkyBZi92dtGEXWuZyErRhUHSnHwTQJjxr32upg': '8Hkb...2upg (Winrate: 60.00%, Tokens Traded: > 5)', 
+    'GpNbukV5nggkJfsEEbKrJaZkdgYcNWCAaD91Mi4MmGQi': 'GpNb...mGQi (Winrate: 20.00%, Tokens Traded: > 10)', 
+    '3h65MmPZksoKKyEpEjnWU2Yk2iYT5oZDNitGy5cTaxoE': '3h65...axoE (Winrate: 27.73%, Tokens Traded: > 930)', 
+    '6pZYNHDpntcCxogx7gs5aVbTJGLDPZKCW3Nm8qV7BeBD': '6pZY...BeBD (Winrate: 61.54%, Tokens Traded: > 10)', 
+    '9U9ojKpGc65PT6vfzQVKsP53UNaaTiwgzjDUYcDNRywZ': '9U9o...RywZ (Winrate: 51.68%, Tokens Traded: > 140)', 
+    '4t9bWuZsXXKGMgmd96nFD4KWxyPNTsPm4q9jEMH4jD2i': '4t9b...jD2i (Winrate: 92.42%, Tokens Traded: > 60)', 
+    '71CPXu3TvH3iUKaY1bNkAAow24k6tjH473SsKprQBABC': '71CP...BABC (Winrate: 64.06%, Tokens Traded: > 60)', 
+    '8rkW2bDcurENSYaEhLBpZ1eSiJBy1bfSTrmHtrTcKqjT': '8rkW...KqjT (Winrate: 68.42%, Tokens Traded: > 10)', 
+    '41U2ri3RLHHjdcyii4qENuvKGP9nD6r4U3EuaXsTMfJU': '41U2...MfJU (Winrate: 57.89%, Tokens Traded: > 30)', 
+    '9c4kWxhCyLRxYi38fDcQpktqWWA44nxE5syedUsN1hr7': '9c4k...1hr7 (Winrate: 100.00%, Tokens Traded: > 0)', 
+    'ANqwRG7pyjhsQTzxfNGU3K14DQnmK2U6r6CoqjyoJC8R': 'Anqw...JC8R (Winrate: 40.09%, Tokens Traded: > 220)', 
+    'hJRWEXNPGcjvYyPqttHC4Fba3ZeNDBFkb15E32EwhAR': 'hJRW...whAR (Winrate: 27.72%, Tokens Traded: > 100)', 
+    'H7WkwWrQWTLNJfJhqjNV2DGM6hXxmvSBv7vEchQKa1ys': 'H7Wk...a1ys (Winrate: 21.17%, Tokens Traded: > 130)', 
+    'BJ7xvzDbcsX1JdgnLhwesnKB9pSjZWdCgbW9JBXB3qXa': 'BJ7x...3qXa (Winrate: 35.14%, Tokens Traded: > 30)', 
+    'F8nt7vqkFrYbjPdRkKwuZGXoWZWX6Yg3vKdEX8TfvVY7': 'F8nt...vVY7 (Winrate: 48.76%, Tokens Traded: > 120)', 
+    '82kLuMXSns4aecHQoDm88g5v9sCzdhW2yiaQBoGvdxvm': '82kL...dxvm (Winrate: 69.23%, Tokens Traded: > 30)', 
+    '2Qt3jug4PNJuiGKx2XR7Bs3bk1nX8v9hArzCzkYABk1o': '2Qt3...Bk1o (Winrate: 41.67%, Tokens Traded: > 10)', 
+    'Hqkk2zNPZYiQL7c9JhVed1EyQppoZToBKMCzaCX1m21y': 'Hqkk...m21y (Winrate: 27.11%, Tokens Traded: > 500)', 
+    '215nhcAHjQQGgwpQSJQ7zR26etbjjtVdW74NLzwEgQjP': '215n...gQjP (Winrate: 30.56%, Tokens Traded: > 580)', 
+    '5pRpKmNNskgSzeJ6S7Pr6KEHuLpBbQAgjKH74pMn1q62': '5pRp...1q62 (Winrate: 41.94%, Tokens Traded: > 180)', 
+    'M5Q1hFKopMr2DyNabEkrgoh6tGaF6z6NVQZ5SGUPss8': 'M5Q1...Pss8 (Winrate: 32.89%, Tokens Traded: > 750)', 
+    '5X4593sntQAyxwciqC87mdyZqVVk1Y9ydUPVUF9nUq7T': '5X45...Uq7T (Winrate: 23.81%, Tokens Traded: > 40)', 
+    'CLegS2MSiCsBksVazCg4Y7Gz3NqeBK21QyvzK4Q7S168': 'CLeg...S168 (Winrate: 30.59%, Tokens Traded: > 80)', 
+    'DXSWECvcdajmyHhnSYaVKTXd28vFPgoDXTs1P2ppXoNX': 'DXSW...XoNX (Winrate: 51.67%, Tokens Traded: > 180)', 
+    '687kTFNvKG9GXf8UsPzyrKbKpz5ExNrSCWfs7S4PTGiL': '687k...TGiL (Winrate: 46.71%, Tokens Traded: > 330)', 
+    'ACHhRQMbTxuWqU3bmbBbgUNGsPsYnvB8KLcPkkXCY1C7': 'ACHh...Y1C7 (Winrate: 40.82%, Tokens Traded: > 40)', 
+    'CLpDttr14kM4svu7jypK4rzsMKdJYAR8emGNPaWs7omB': 'CLpD...7omB (Winrate: 37.93%, Tokens Traded: > 170)', 
+    'Fqgsp9CziV5DhyseYahkbFWLPFwFKsMyoK3abEjauw6Y': 'Fqgs...uw6Y (Winrate: 48.15%, Tokens Traded: > 180)', 
+    '9AgRdvmNSgtyiKf6dYsBCPJDEXG6pNWKXswZabndYf7v': '9AgR...Yf7v (Winrate: 41.99%, Tokens Traded: > 1590)', 
+    '8zFZHuSRuDpuAR7J6FzwyF3vKNx4CVW3DFHJerQhc7Zd': '8zFZ...c7Zd (Winrate: 45.54%, Tokens Traded: > 100)', 
+    '2ssNnQ777XH4JZktYq6dh6bcMz5xdwP89pzTLPpEPkzK': '2ssN...PkzK (Winrate: 38.74%, Tokens Traded: > 300)', 
+    'HdxkiXqeN6qpK2YbG51W23QSWj3Yygc1eEk2zwmKJExp': 'Hdxk...Jexp (Winrate: 47.42%, Tokens Traded: > 980)', 
+    'ApH45VZp3bhgGeFb2UBHTymxkjsGvNbrfAybd8TfXQLu': 'ApH4...XQLu (Winrate: 49.28%, Tokens Traded: > 60)', 
+    '2DVbzAaaxyYUZJnYmmqfUned3t5SWVPZpFfrQcUvVnxW': '2DVb...VnxW (Winrate: 22.01%, Tokens Traded: > 300)', 
+    'BvpqgSpMAB1KmasdsTij52KZdSCPy87QMXypDy2b4n2R': 'Bvpq...4n2R (Winrate: 28.72%, Tokens Traded: > 90)', 
+    '6KVyzB7Sxx2Rnk7J8ZEhBZPbKyiRq3tPY9YNhtCjcems': '6KVy...cems (Winrate: 25.81%, Tokens Traded: > 30)', 
+    '8sHfJ1WTV3HsfDJwRHtiseMsBHVrE5qNNrZgSYswxpgv': '8sHf...xpgv (Winrate: 33.02%, Tokens Traded: > 840)', 
+    'Ay9wnuZCRTceZJuRpGZnuwYZuWdsviM4cMiCwFoSQiPH': 'Ay9w...QiPH (Winrate: 36.09%, Tokens Traded: > 230)', 
+    'AbcX4XBm7DJ3i9p29i6sU8WLmiW4FWY5tiwB9D6UBbcE': 'AbcX...BbcE (Winrate: 63.63%, Tokens Traded: > 180)', 
+    'FvUPaRvw86WugTBPCSJ2xdYatKn86FB17ThDwGc9D8Bj': 'FvUP...D8Bj (Winrate: 22.69%, Tokens Traded: > 1080)', 
+    'BZmxuXQ68QeZABbDFSzveHyrXCv5EG6Ut1ATw5qZgm2Q': 'BZmx...gm2Q (Winrate: 27.05%, Tokens Traded: > 120)', 
+    'FWuPsvShrLG4r6iYjc3dDCoPneHFdYqDGX4MXuhTDf6y': 'FwuP...Df6y (Winrate: 36.51%, Tokens Traded: > 60)', 
+    '2cyYy2zPyThCJAVcD4JhqnTWnsTVSVJe55Gw3NrPKBf8': '2cyY...KBf8 (Winrate: 44.44%, Tokens Traded: > 0)',
+    '2cqm3UDc7dh3EkkKeuQWDSdDBHuBY55W8ynHxy5ga3d2': '2cqm...a3d2 (Winrate: 87.67%, Tokens Traded: > 70)', 
+    '831qmkeGhfL8YpcXuhrug6nHj1YdK3aXMDQUCo85Auh1': '831q...Auh1 (Winrate: 77.12%, Tokens Traded: > 150)', 
+    'DjNjRmjMBso49J7sfJKH1rSS8pEvBMJk6ABFX7tNABWH': 'DjNj...ABWH (Winrate: 77.94%, Tokens Traded: > 60)', 
+    '5q7Xwc2T57sK1DKU6zuwVXvMPsxqB2xrJ3T5AonFYtcY': '5q7X...YtcY (Winrate: 83.95%, Tokens Traded: > 160)', 
+    '2RssnB7hcrnBEx55hXMKT1E7gN27g9ecQFbbCc5Zjajq': '2Rss...jajq (Winrate: 82.95%, Tokens Traded: > 350)', 
+    '2CXbN6nuTTb4vCrtYM89SfQHMMKGPAW4mvFe6Ht4Yo6z': '2CXb...Yo6z (Winrate: 82.42%, Tokens Traded: > 450)', 
+    'CRVidEDtEUTYZisCxBZkpELzhQc9eauMLR3FWg74tReL': 'CRVi...tReL (Winrate: 28.17%, Tokens Traded: > 1380)', 
+    'ApRnQN2HkbCn7W2WWiT2FEKvuKJp9LugRyAE1a9Hdz1': 'ApRn...Hdz1 (Winrate: 62.93%, Tokens Traded: > 370)', 
+    'HLv6yCEpgjQV9PcKsvJpem8ESyULTyh9HjHn9CtqSek1': 'HLv6...Sek1 (Winrate: 70.59%, Tokens Traded: > 10)', 
+    'Hvts7WUNA9k72kkVt2YP6z1R85U3C637XqfCNoaYSy3W': 'Hvts...Sy3W (Winrate: 50.47%, Tokens Traded: > 100)', 
+    '8rvAsDKeAcEjEkiZMug9k8v1y8mW6gQQiMobd89Uy7qR': '8rvA...y7qR (Winrate: 47.96%, Tokens Traded: > 1670)', 
+    '4q7rNU1nRUWY14vaLPpzpc2C756UQE36vaDwphBpLf2s': '4q7r...Lf2s (Winrate: 36.71%, Tokens Traded: > 310)', 
+    'HdxkiXqeN6qpK2YbG51W23QSWj3Yygc1eEk2zwmKJExp': 'Hdxk...Jexp (Winrate: 43.47%, Tokens Traded: > 1070)', 
+    'GeXAHmmETnizW6af4E2e64ju8mTkLdEQzxUiAjJVo6NZ': 'GeXA...o6NZ (Winrate: 38.46%, Tokens Traded: > 110)', 
+    'DNfuF1L62WWyW3pNakVkyGGFzVVhj4Yr52jSmdTyeBHm': 'Dnfu...eBHm (Winrate: 93.48%, Tokens Traded: > 40)', 
+    'BieeZkdnBAgNYknzo3RH2vku7FcPkFZMZmRJANh2TpW': 'Biee...2TpW (Winrate: 75.56%, Tokens Traded: > 260)', 
+    '71CPXu3TvH3iUKaY1bNkAAow24k6tjH473SsKprQBABC': '71CP...BABC (Winrate: 64.06%, Tokens Traded: > 60)', 
+    '8zFZHuSRuDpuAR7J6FzwyF3vKNx4CVW3DFHJerQhc7Zd': '8zFZ...c7Zd (Winrate: 45.54%, Tokens Traded: > 100)'
+    }
 
 EXCLUDED_ADDRESSES = {
     "BQ72nSv9f3PRyRKCBnHLVrerrv37CYTHm5h3s9VSGQDV":

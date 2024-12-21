@@ -9,7 +9,7 @@ import re
 import argparse
 from config import (VYBE_NETWORK_X_API_KEYS, VYBE_NETWORK_QUERY_LIMIT,
                     MAX_RETRIES, RETRY_AFTER, EPSILON, MIN_MARKETCAP,
-                    WALLET_ADDRESSES_TO_INCLUDE, TELEGRAM_BOT_TOKEN, USER_ID,
+                    WALLET_ADDRESSES_TO_INCLUDE_DICT, TELEGRAM_BOT_TOKEN, USER_ID,
                     TEST_TG_CHAT_ID, MIN_AMOUNT_USD)
 
 logging.basicConfig(level=logging.INFO,
@@ -35,7 +35,9 @@ def get_token_balance_change(chat_id,
     loaded_top_trader_addresses = load_json_file(
         f"{filtered_top_trader_addresses_dir}/top_trader_addresses.json")
     loaded_top_trader_addresses = list(loaded_top_trader_addresses.keys())
-    loaded_top_trader_addresses.extend(WALLET_ADDRESSES_TO_INCLUDE)
+    wallet_addresses_to_include = list(WALLET_ADDRESSES_TO_INCLUDE_DICT.keys())
+    loaded_top_trader_addresses.extend(wallet_addresses_to_include)
+    loaded_top_trader_addresses = set(loaded_top_trader_addresses)
 
     top_trader_token_balances_dir = saved_data_base_dir + "/top_trader_token_balances"
     os.makedirs(top_trader_token_balances_dir, exist_ok=True)
@@ -117,10 +119,12 @@ def get_token_balance_change(chat_id,
                             token_balances_update_dict[key] = {}
                             token_balances_update_dict[key]['amount'] = amount
                             token_balances_update_dict[key]['count'] = 1
+                            token_balances_update_dict[key]['wallet_addresses'] = [wallet_address]
                             mint_address_list.append(mint_address)
                         else:
                             token_balances_update_dict[key]['amount'] += amount
                             token_balances_update_dict[key]['count'] += 1
+                            token_balances_update_dict[key]['wallet_addresses'].append(wallet_address)
                     else:
                         prev_amount = top_trader_token_balances_dict[
                             wallet_address][mint_address]['amount']
@@ -133,11 +137,13 @@ def get_token_balance_change(chat_id,
                                 token_balances_update_dict[key][
                                     'amount'] = delta
                                 token_balances_update_dict[key]['count'] = 1
+                                token_balances_update_dict[key]['wallet_addresses'] = [wallet_address]
                                 mint_address_list.append(mint_address)
                             else:
                                 token_balances_update_dict[key][
                                     'amount'] += delta
                                 token_balances_update_dict[key]['count'] += 1
+                                token_balances_update_dict[key]['wallet_addresses'].append(wallet_address)
                         elif amount < prev_amount - EPSILON:
                             delta = amount - prev_amount
                             print('Subtract {} {} ({}) tokens'.format(
@@ -147,11 +153,13 @@ def get_token_balance_change(chat_id,
                                 token_balances_update_dict[key][
                                     'amount'] = delta
                                 token_balances_update_dict[key]['count'] = 1
+                                token_balances_update_dict[key]['wallet_addresses'] = [wallet_address]
                                 mint_address_list.append(mint_address)
                             else:
                                 token_balances_update_dict[key][
                                     'amount'] += delta
                                 token_balances_update_dict[key]['count'] += 1
+                                token_balances_update_dict[key]['wallet_addresses'].append(wallet_address)
                         top_trader_token_balances_dict[wallet_address][
                             mint_address]['amount'] = amount
 
@@ -245,7 +253,6 @@ def get_token_balance_change(chat_id,
                     key += '🔴'
 
                 token_birdeye = f'https://www.birdeye.so/token/{mint_address}'
-
                 token_telegram = ''
                 token_twitter = ''
                 token_socials_detail = token_details.get('info', {}).get(
@@ -256,19 +263,31 @@ def get_token_balance_change(chat_id,
                     elif token_social['type'] == 'twitter':
                         token_twitter = token_social.get('url', '')
 
-                terminal_msg = f'{key}:\nNo. of smart wallets interacted: {count}\nNet amount added: {delta}\nNet amount added (in USD): ${delta_usd_str}\nMarket cap: {market_cap}\nBirdeye: {token_birdeye}\nTwitter: {token_twitter}\nTelegram: {token_telegram}\n'
-                print(terminal_msg)
-                terminal_output += '\n' + terminal_msg
+                terminal_msg = f'{key}:\nNo. of smart wallets interacted: {count}\nNet amount added: {delta}\nNet amount added (in USD): ${delta_usd_str}\nMarket cap: {market_cap}\nBirdeye: {token_birdeye}\nTwitter: {token_twitter}\nTelegram: {token_telegram}\n\nSmart wallets that interacted:\n'
                 escaped_key = re.escape(key)
                 escaped_key = escaped_key.replace(r'\ ', ' ')
-                tg_msg_list.append(
-                    f"*_**{escaped_key}**_*\n"
-                    f"No. of smart wallets interacted: {count}\n"
-                    f"Net amount added: {delta}\n"
-                    f"Net amount added (in USD): ${delta_usd_str}\n"
-                    f"Market cap: {market_cap:,}\n"
-                    f"[Birdeye]({token_birdeye}) | [Twitter]({token_twitter}) | [Telegram]({token_telegram})"
-                )
+                tg_msg = (
+                        f"*_**{escaped_key}**_*\n"
+                        f"No. of smart wallets interacted: {count}\n"
+                        f"Net amount added: {delta}\n"
+                        f"Net amount added (in USD): ${delta_usd_str}\n"
+                        f"Market cap: {market_cap:,}\n"
+                        f"[Birdeye]({token_birdeye}) | [Twitter]({token_twitter}) | [Telegram]({token_telegram})\n"
+                        f"\n"
+                        f"Smart wallets that interacted:\n"
+                    )
+
+                wallet_addresses = data.get('wallet_addresses')
+
+                for wallet_address in wallet_addresses:
+                    wallet_info = WALLET_ADDRESSES_TO_INCLUDE_DICT.get(wallet_address, wallet_address[:4] + '...' + wallet_address[-4:])
+                    terminal_msg += f"- {wallet_info}\n"
+                    tg_msg += f"- {wallet_info}\n"
+
+                print(terminal_msg)
+                terminal_output += '\n' + terminal_msg
+                tg_msg += '\n---\n'
+                tg_msg_list.append(tg_msg)
 
         file_path = "latest_token_balances_change_terminal_output.txt"
         with open(file_path, "w") as file:
