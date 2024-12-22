@@ -171,7 +171,32 @@ WALLET_ADDRESSES_TO_INCLUDE_DICT = {
     'DNfuF1L62WWyW3pNakVkyGGFzVVhj4Yr52jSmdTyeBHm': 'Dnfu...eBHm (Winrate: 93.48%, Tokens Traded: > 40)', 
     'BieeZkdnBAgNYknzo3RH2vku7FcPkFZMZmRJANh2TpW': 'Biee...2TpW (Winrate: 75.56%, Tokens Traded: > 260)', 
     '71CPXu3TvH3iUKaY1bNkAAow24k6tjH473SsKprQBABC': '71CP...BABC (Winrate: 64.06%, Tokens Traded: > 60)', 
-    '8zFZHuSRuDpuAR7J6FzwyF3vKNx4CVW3DFHJerQhc7Zd': '8zFZ...c7Zd (Winrate: 45.54%, Tokens Traded: > 100)'
+    '8zFZHuSRuDpuAR7J6FzwyF3vKNx4CVW3DFHJerQhc7Zd': '8zFZ...c7Zd (Winrate: 45.54%, Tokens Traded: > 100)',
+    '2qvsbXgfKHaNk7S6bUM2Vbhp9E73yabdzWVYtTd6xgWy': '2qvs…xgWy (Winrate: 38.32%, Tokens Traded: > 480)',
+    '9wQpTf7HTSwLwtbi9m9KU43484rFPfM6AYwypa2NMzNu': '9wQp…MzNu (Winrate: 46.15%, Tokens Traded: > 20)',
+    '8VZec6dMJhsAh7iPkdUoDqPtge35yn22xibonAqAEhMZ': '8VZe…EhMZ (Winrate: 28.32%, Tokens Traded: > 390)',
+    'GXSnn8dApJCcNoKmBuguJY12Lo4bVLhPw1G4PdHkrCgQ': 'GXSn…rCgQ (Winrate: 27.73%, Tokens Traded: > 1120)',
+    '3biFgN17V4re69LZLJNW7k8zKGjJCFjwcwAWP9z3hBLs': '3biF…hBLs (Winrate: 27.74%, Tokens Traded: > 1200)',
+    'CipPqhxu4BaDM4QAhVaxEEtb2sweoRJDZ3knVrwPYEZx': 'CipP…YEZx (Winrate: 44.58%, Tokens Traded: > 80)',
+    '85pLpaUF2R9SDkGYUMc69gcfo4Xa8GzUwKVg68A6UFoq': '85pL…Ufoq (Winrate: 34.77%, Tokens Traded: > 410)',
+    'CmSnEzLRT53XmjSGbgbPNJmeiX3g8xP59j3t2TMc5Zce': 'CmSn…5Zce (Winrate: 26.83%, Tokens Traded: > 760)',
+    'DZWRFGfm5563GBniGAUKxmBzpHoEcr12Y1rGgzqujVFU': 'DZWR…jVFU (Winrate: 42.11%, Tokens Traded: > 190)',
+    '548Tz6GJZz1nC2faqQLNCpTs7JyvaPzv2fDGwD33Q7eM': '548T…Q7eM (Winrate: 35.94%, Tokens Traded: > 60)',
+    'FCtfuq9CtCZ4HG4u4zhem9ZyGnb4VEDb9Swxg5frRwDD': 'FCtf…RwDD (Winrate: 31.67%, Tokens Traded: > 60)',
+    'BHvUqX6mFBcgYRVwxCyh18yxgwhqq2jKQRnU6pSNvGWD': 'BHvU…vGWD (Winrate: 52.92%, Tokens Traded: > 560)',
+    'iWinRYGEWcaFFqWfgjh28jnqWL72XUMmUfhADpTQaRL': 'iWin…QaRL (Winrate: 53.03%, Tokens Traded: > 260)',
+    'F6n4Ha8irtGP18htXtebWeY1AqADQVmbqFFr6Xzjoq6U': 'F6n4…oq6U (Winrate: 29.10%, Tokens Traded: > 560)',
+    '8sGi4W7ZQCDMgzA17eF57voRUveXyT4XPA8WTsj6HLT8': '8sGi…HLT8 (Winrate: 23.33%, Tokens Traded: > 120)',
+    'F4FPCHxu19zRnSixDtCXDJC7YJTHb28n9nxZptaRq6Wp': 'F4FP…q6Wp (Winrate: 24.69%, Tokens Traded: > 80)',
+    'CW6XezzEftYw4aALKo96x6oudqBZ3sfVXrfF23hAezdX': 'CW6X…ezdX (Winrate: 38.14%, Tokens Traded: > 110)',
+    'EtTaTMBX9ErigazzzGmD8vq9mcwFoHrxchr2ewwzsefG': 'EtTa…sefG (Winrate: 34.14%, Tokens Traded: > 1310)',
+    'BZwuFHd1sLw7bMrMWVgoVhVVQAcb5bgi1JMVFTpHmcrh': 'Bzwu...mcrh (Winrate: 22.79%, Tokens Traded: > 130)',
+    '5AqbjAg3u2mSemHbmA3HPzcaTr3Xuosax4vsW3t8gPAr': '5Aqb…gPAr (Winrate: 49.49%, Tokens Traded: > 90)',
+    'suqh5sHtr8HyJ7q8scBimULPkPpA557prMG47xCHQfK': 'suqh…HQfK (Winrate: 75.94%, Tokens Traded: > 7800)',
+    'H6oeKZ78wouvRGVJXHioyPJuEBPh4H7UGvyxJ5rS95u1': 'H6oe…95u1 (Winrate: 25.95%, Tokens Traded: > 500)',
+    '34xpG819UcgHBGXDTVn5XBQy3qYM6DFPR3tvvPwcGTMs': '34xp…GTMs (Winrate: 42.37%, Tokens Traded: > 1520)',
+    '8bo92fMyMqgKD8zd83DLAp6F8nD2bCNpe3pj2aqY4QLq': '8bo9…4QLq (Winrate: 51.61%, Tokens Traded: > 30)',
+    'ATmKENkRrL1JQQnoUNAQvkiwgjiHKUkzyncxTGxyzQL1': 'ATmK…zQL1 (Winrate: 54.45%, Tokens Traded: > 470)',
     }
 
 EXCLUDED_ADDRESSES = {
@@ -219,3 +244,4 @@ VYBE_NETWORK_QUERY_LIMIT = 1000
 EPSILON = 1e-4
 MIN_MARKETCAP = 1e5
 MIN_AMOUNT_USD = 100
+RECENT_N_DAYS_INTEREST = 3

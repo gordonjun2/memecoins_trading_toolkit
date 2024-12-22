@@ -7,10 +7,12 @@ import dexscreener
 import telebot
 import re
 import argparse
+from pytrends.request import TrendReq
+import pandas as pd
 from config import (VYBE_NETWORK_X_API_KEYS, VYBE_NETWORK_QUERY_LIMIT,
                     MAX_RETRIES, RETRY_AFTER, EPSILON, MIN_MARKETCAP,
                     WALLET_ADDRESSES_TO_INCLUDE_DICT, TELEGRAM_BOT_TOKEN, USER_ID,
-                    TEST_TG_CHAT_ID, MIN_AMOUNT_USD)
+                    TEST_TG_CHAT_ID, MIN_AMOUNT_USD, RECENT_N_DAYS_INTEREST)
 
 logging.basicConfig(level=logging.INFO,
                     format='%(message)s',
@@ -228,6 +230,8 @@ def get_token_balance_change(chat_id,
             )
         )]
 
+        pytrends = TrendReq(hl='en-US', tz=360)
+
         for data in sorted_data:
             key = data['key']
             key_splitted = key.split(' ')
@@ -263,6 +267,19 @@ def get_token_balance_change(chat_id,
                     elif token_social['type'] == 'twitter':
                         token_twitter = token_social.get('url', '')
 
+                try:
+                    token_symbol = key_splitted[1][1:-1]
+                    pytrends.build_payload([token_symbol], cat=0, timeframe='today 1-m', geo='', gprop='')
+                    interest_over_time_df = pytrends.interest_over_time()
+                    interest_over_time_df.index = pd.to_datetime(interest_over_time_df.index)
+                    interest_over_time_df.index = interest_over_time_df.index.tz_localize('UTC').tz_convert('Asia/Singapore')
+                    recent_interest = interest_over_time_df.tail(RECENT_N_DAYS_INTEREST)
+                    recent_interest = recent_interest.astype(str)
+                    token_symbol_recent_interest_list = recent_interest[token_symbol].tolist()
+                    token_symbol_recent_interest_str = ', '.join(token_symbol_recent_interest_list)
+                except:
+                    token_symbol_recent_interest_str = 'Google Trends data unavailable'
+
                 terminal_msg = f'{key}:\nNo. of smart wallets interacted: {count}\nNet amount added: {delta}\nNet amount added (in USD): ${delta_usd_str}\nMarket cap: {market_cap}\nBirdeye: {token_birdeye}\nTwitter: {token_twitter}\nTelegram: {token_telegram}\n\nSmart wallets that interacted:\n'
                 escaped_key = re.escape(key)
                 escaped_key = escaped_key.replace(r'\ ', ' ')
@@ -281,8 +298,15 @@ def get_token_balance_change(chat_id,
 
                 for wallet_address in wallet_addresses:
                     wallet_info = WALLET_ADDRESSES_TO_INCLUDE_DICT.get(wallet_address, wallet_address[:4] + '...' + wallet_address[-4:])
-                    terminal_msg += f"- {wallet_info}\n"
-                    tg_msg += f"- {wallet_info}\n"
+                    msg = f"- {wallet_info}\n"
+                    terminal_msg += msg
+                    tg_msg += msg
+
+                msg = f"\nInterest score of the token symbol over the past {RECENT_N_DAYS_INTEREST} days:\n"
+                msg += f"{token_symbol_recent_interest_str}\n"
+
+                terminal_msg += msg
+                tg_msg += msg
 
                 print(terminal_msg)
                 terminal_output += '\n' + terminal_msg

@@ -10,3 +10,4 @@ telegramify-markdown
 networkx
 plotly
 matplotlib
+pytrends
