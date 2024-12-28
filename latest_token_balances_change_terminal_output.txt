@@ -1,298 +1,630 @@
 
 Summarised token balances update (token marketcap >= 100,000.0):
-Narwal Fart Dust (NFD) [FwMFqACwiG9yHoM2Kkyw4DuvUKs4griBwjVzFaLxmoon] 🆕🟢:
-No. of smart wallets interacted: 3
-Net amount added: 6461224.699447749
-Net amount added (in USD): $1,185.13
-Market cap: 181901
-Birdeye: https://www.birdeye.so/token/FwMFqACwiG9yHoM2Kkyw4DuvUKs4griBwjVzFaLxmoon
-Twitter: https://x.com/narwhalfar88113
-Telegram: https://t.me/narwalfartdust
-
-Smart wallets that interacted:
-- H6oe…95u1 (Winrate: 25.95%, Tokens Traded: > 500)
-- GXSn…rCgQ (Winrate: 27.73%, Tokens Traded: > 1120)
-- 34xp…GTMs (Winrate: 42.37%, Tokens Traded: > 1520)
-- 34xp…GTMs (Winrate: 42.37%, Tokens Traded: > 1520)
-
-Interest score of the token symbol over the past 3 days
-75, 73, 57
-
-NOWK (NOWK) [6dRKnReACYSNzE1Mef7BPR4Y1wEKZgmGZbHy5BdSpump] 🆕🟢:
-No. of smart wallets interacted: 3
-Net amount added: 6899160.41732
-Net amount added (in USD): $745.51
-Market cap: 103224
-Birdeye: https://www.birdeye.so/token/6dRKnReACYSNzE1Mef7BPR4Y1wEKZgmGZbHy5BdSpump
-Twitter: https://x.com/nowk_sol
-Telegram: https://t.me/NOWK_SOLA
-
-Smart wallets that interacted:
-- H6oe…95u1 (Winrate: 25.95%, Tokens Traded: > 500)
-- GXSn…rCgQ (Winrate: 27.73%, Tokens Traded: > 1120)
-- 34xp…GTMs (Winrate: 42.37%, Tokens Traded: > 1520)
-- 34xp…GTMs (Winrate: 42.37%, Tokens Traded: > 1520)
-
-Interest score of the token symbol over the past 3 days
-77, 48, 0
-
-invasion (invasion) [69uprjzCmwix1bBjS5sYqobRJXBjbAMrQzZzSaHLpump] 🆕🟢:
-No. of smart wallets interacted: 3
-Net amount added: 1762539.174366
-Net amount added (in USD): $203.61
-Market cap: 109637
-Birdeye: https://www.birdeye.so/token/69uprjzCmwix1bBjS5sYqobRJXBjbAMrQzZzSaHLpump
-Twitter: 
-Telegram: https://t.me/invasionCTO
-
-Smart wallets that interacted:
-- H6oe…95u1 (Winrate: 25.95%, Tokens Traded: > 500)
-- GXSn…rCgQ (Winrate: 27.73%, Tokens Traded: > 1120)
-- 34xp…GTMs (Winrate: 42.37%, Tokens Traded: > 1520)
-- 34xp…GTMs (Winrate: 42.37%, Tokens Traded: > 1520)
-
-Interest score of the token symbol over the past 3 days
-65, 64, 65
-
-SAT (SAT) [5obhH5YMvoSCjwgJgM95riz3wDpMEpMhzZyTrFVp9s8s] 🆕🟢:
-No. of smart wallets interacted: 1
-Net amount added: 10742.854360369
-Net amount added (in USD): $1,354.02
-Market cap: 255395
-Birdeye: https://www.birdeye.so/token/5obhH5YMvoSCjwgJgM95riz3wDpMEpMhzZyTrFVp9s8s
+memecore (mcore) [Fyvgif98qMsZ8anu4j8gy319ifXtruCo4gSzDVyepump] 🆕🟢:
+No. of smart wallets interacted: 4
+Net amount added: 29969482.075371
+Net amount added (in USD): $159,376.25
+Market cap: 4768048
+Birdeye: https://www.birdeye.so/token/Fyvgif98qMsZ8anu4j8gy319ifXtruCo4gSzDVyepump
 Twitter: 
 Telegram: 
 
 Smart wallets that interacted:
-- 4t9b...jD2i (Winrate: 92.42%, Tokens Traded: > 60)
-- 4t9b...jD2i (Winrate: 92.42%, Tokens Traded: > 60)
+- Cnud...cUPc (Winrate: 92.31%, Tokens Traded: > 10)
+- CRVi...tReL (Winrate: 28.17%, Tokens Traded: > 1380)
+- ApRn...Hdz1 (Winrate: 62.93%, Tokens Traded: > 370)
+- 9AgR...Yf7v (Winrate: 41.99%, Tokens Traded: > 1590)
 
-Interest score of the token symbol over the past 3 days
-100, 59, 40
+Interest score of the token symbol over the past 3 days:
+36, 39, 32
 
-Sol-Up (SOLUP) [8CF8vU3iD8MjpGK64mETc3FnLzWJdVRG5kjTyz3bpump] 🆕🟢:
+Sky the AI ✨ (SkyAI) [AC96m8vYAqtmY47QRvX3pfrPzmVmMWirAUyh5jvtpump] 🆕🟢:
+No. of smart wallets interacted: 4
+Net amount added: 23319196.419249
+Net amount added (in USD): $28,411.75
+Market cap: 1232665
+Birdeye: https://www.birdeye.so/token/AC96m8vYAqtmY47QRvX3pfrPzmVmMWirAUyh5jvtpump
+Twitter: 
+Telegram: https://t.me/SkytheAI
+
+Smart wallets that interacted:
+- nPos...yESx (Winrate: 50.00%, Tokens Traded: > 240)
+- CRVi...tReL (Winrate: 28.17%, Tokens Traded: > 1380)
+- DXSW...XoNX (Winrate: 51.67%, Tokens Traded: > 180)
+- ApH4...XQLu (Winrate: 49.28%, Tokens Traded: > 60)
+
+Interest score of the token symbol over the past 3 days:
+96, 89, 99
+
+Tiny Agent SPL (TinyAI) [DVgoKN4D5yEATnE58ztiSUerBrZKhSbYZL31EkdYpump] 🆕🟢:
 No. of smart wallets interacted: 1
-Net amount added: 170755.218161
-Net amount added (in USD): $163.03
-Market cap: 842824
-Birdeye: https://www.birdeye.so/token/8CF8vU3iD8MjpGK64mETc3FnLzWJdVRG5kjTyz3bpump
-Twitter: https://x.com/solupsol
-Telegram: https://t.me/solup_sol
+Net amount added: 23121133.141646
+Net amount added (in USD): $6,994.19
+Market cap: 305029
+Birdeye: https://www.birdeye.so/token/DVgoKN4D5yEATnE58ztiSUerBrZKhSbYZL31EkdYpump
+Twitter: https://x.com/tAgentSPL
+Telegram: 
 
 Smart wallets that interacted:
-- H9ZR...fEzb
-- H9ZR...fEzb
+- Hdxk...Jexp (Winrate: 43.47%, Tokens Traded: > 1070)
 
-Interest score of the token symbol over the past 3 days
-51, 0, 100
+Interest score of the token symbol over the past 3 days:
+90, 87, 85
 
-Lawn Rar (LAWN) [F15Vp1vqJdQ58Usk4T4GDcL7YGegcp1pznHrpt9opump] 🟢:
-No. of smart wallets interacted: 3
-Net amount added: 4409348.305512
-Net amount added (in USD): $4,973.10
-Market cap: 2724515
-Birdeye: https://www.birdeye.so/token/F15Vp1vqJdQ58Usk4T4GDcL7YGegcp1pznHrpt9opump
-Twitter: https://x.com/LawnRar_On_Sol
-Telegram: https://t.me/lawnrarcommunity
+Quantum Leap Cat (QLC) [t9cQdBV9rdsVP5fm9QizBXfWz6nLEwDR633WPu4pump] 🆕🟢:
+No. of smart wallets interacted: 1
+Net amount added: 8883392.133126
+Net amount added (in USD): $2,635.19
+Market cap: 313359
+Birdeye: https://www.birdeye.so/token/t9cQdBV9rdsVP5fm9QizBXfWz6nLEwDR633WPu4pump
+Twitter: https://x.com/QuantumCatOnSol
+Telegram: https://t.me/quantumleapcat
 
 Smart wallets that interacted:
-- Bzwu...mcrh (Winrate: 22.79%, Tokens Traded: > 130)
+- 9GaC…TxWF (Winrate: 65.19%, Tokens Traded: > 290)
+
+Interest score of the token symbol over the past 3 days:
+88, 84, 71
+
+Cedric & Edith (Cedric) [5vrbiBdRmh2KJgy1pimBctrfEChzEsf3D7mUjBTtpump] 🆕🟢:
+No. of smart wallets interacted: 1
+Net amount added: 8216942.863921
+Net amount added (in USD): $1,779.67
+Market cap: 216936
+Birdeye: https://www.birdeye.so/token/5vrbiBdRmh2KJgy1pimBctrfEChzEsf3D7mUjBTtpump
+Twitter: https://x.com/CedricCTO
+Telegram: https://t.me/cedricandedith
+
+Smart wallets that interacted:
+- Hqkk...m21y (Winrate: 27.11%, Tokens Traded: > 500)
+
+Interest score of the token symbol over the past 3 days:
+88, 84, 71
+
+Moot Up (Moot) [G2Sv3sESYwtaDFVgCuyGtNYkFS6TsAJ2kRrPLQaLpump] 🆕🟢:
+No. of smart wallets interacted: 1
+Net amount added: 2835544.189814
+Net amount added (in USD): $1,728.97
+Market cap: 634110
+Birdeye: https://www.birdeye.so/token/G2Sv3sESYwtaDFVgCuyGtNYkFS6TsAJ2kRrPLQaLpump
+Twitter: https://x.com/mootedup
+Telegram: https://t.me/mootedup
+
+Smart wallets that interacted:
 - DZWR…jVFU (Winrate: 42.11%, Tokens Traded: > 190)
-- AbcX...BbcE (Winrate: 63.63%, Tokens Traded: > 180)
-- AbcX...BbcE (Winrate: 63.63%, Tokens Traded: > 180)
 
-Interest score of the token symbol over the past 3 days
-92, 84, 72
+Interest score of the token symbol over the past 3 days:
+88, 84, 71
 
-Official Theme of the Holy Year (HOPE) [9gXt8nHvseR1NcqiYZEjSnVXoQvrwzvYQnq8Co4Fpump] 🟢:
-No. of smart wallets interacted: 2
-Net amount added: 14998577.626201
-Net amount added (in USD): $9,459.55
-Market cap: 636469
-Birdeye: https://www.birdeye.so/token/9gXt8nHvseR1NcqiYZEjSnVXoQvrwzvYQnq8Co4Fpump
-Twitter: 
-Telegram: https://t.me/OfficialThemeoftheHolyYear
-
-Smart wallets that interacted:
-- Bzwu...mcrh (Winrate: 22.79%, Tokens Traded: > 130)
-- 215n...gQjP (Winrate: 30.56%, Tokens Traded: > 580)
-- 215n...gQjP (Winrate: 30.56%, Tokens Traded: > 580)
-
-Interest score of the token symbol over the past 3 days
-83, 88, 78
-
-opaium (OPAIUM) [4HuSTfcJruukNbhrF9sc5iKrMeGxNBs6XpQ1L2hUpump] 🟢:
+AgentX AI  (AGENTX) [3vZ13Ub9VmR6oRYsv7B39zmLW7zybCiostdy8Snkpump] 🆕🟢:
 No. of smart wallets interacted: 1
-Net amount added: 3601669.474684
-Net amount added (in USD): $38,566.54
-Market cap: 10732840
-Birdeye: https://www.birdeye.so/token/4HuSTfcJruukNbhrF9sc5iKrMeGxNBs6XpQ1L2hUpump
-Twitter: https://x.com/opaiumdao
+Net amount added: 12181243.458996
+Net amount added (in USD): $1,345.80
+Market cap: 124809
+Birdeye: https://www.birdeye.so/token/3vZ13Ub9VmR6oRYsv7B39zmLW7zybCiostdy8Snkpump
+Twitter: https://x.com/TerminalAgentX
 Telegram: 
 
 Smart wallets that interacted:
-- Dnfu...eBHm (Winrate: 93.48%, Tokens Traded: > 40)
-- Dnfu...eBHm (Winrate: 93.48%, Tokens Traded: > 40)
+- CRVi...tReL (Winrate: 28.17%, Tokens Traded: > 1380)
 
-Interest score of the token symbol over the past 3 days
+Interest score of the token symbol over the past 3 days:
+88, 84, 71
+
+NIPPLECOIN (NIPPLECOIN) [7YkyNhzP2qGUknwkVWq48q1dCdNwLxkSMzyQT7appump] 🆕🟢:
+No. of smart wallets interacted: 1
+Net amount added: 1305467.289236
+Net amount added (in USD): $1,302.95
+Market cap: 975284
+Birdeye: https://www.birdeye.so/token/7YkyNhzP2qGUknwkVWq48q1dCdNwLxkSMzyQT7appump
+Twitter: https://x.com/NIPPLECOINsola
+Telegram: https://t.me/NipplecoinOnSolana
+
+Smart wallets that interacted:
+- 548T…Q7eM (Winrate: 35.94%, Tokens Traded: > 60)
+
+Interest score of the token symbol over the past 3 days:
+0, 27, 100
+
+Shit & Piss 500 (SP500) [CaM41daLtWdzzQkfzphhai6dHu8KiC9wy59edrsspump] 🟢:
+No. of smart wallets interacted: 6
+Net amount added: 13064222.233691
+Net amount added (in USD): $36,690.72
+Market cap: 2882848
+Birdeye: https://www.birdeye.so/token/CaM41daLtWdzzQkfzphhai6dHu8KiC9wy59edrsspump
+Twitter: https://x.com/ShitandPiss500?t=mpw2Uxp6Rnot6EHz8d0epQ&s=09
+Telegram: https://t.me/ShitNPiss500
+
+Smart wallets that interacted:
+- 5X45...Uq7T (Winrate: 23.81%, Tokens Traded: > 40)
+- Cnud...cUPc (Winrate: 92.31%, Tokens Traded: > 10)
+- 9UWZ...gJHe (Winrate: 63.90%, Tokens Traded: > 240)
+- DXSW...XoNX (Winrate: 51.67%, Tokens Traded: > 180)
+- 85pL…Ufoq (Winrate: 34.77%, Tokens Traded: > 410)
+- 6KVy...cems (Winrate: 25.81%, Tokens Traded: > 30)
+
+Interest score of the token symbol over the past 3 days:
+0, 27, 100
+
+A Guy From India (AGI) [61rqAaTpuSZ6uiFcndgFV9rs5woXEWLfhX7dCDBQpump] 🟢:
+No. of smart wallets interacted: 2
+Net amount added: 10924378.327068001
+Net amount added (in USD): $4,343.44
+Market cap: 390914
+Birdeye: https://www.birdeye.so/token/61rqAaTpuSZ6uiFcndgFV9rs5woXEWLfhX7dCDBQpump
+Twitter: https://x.com/agicoinsol
+Telegram: 
+
+Smart wallets that interacted:
+- 8VZe…EhMZ (Winrate: 28.32%, Tokens Traded: > 390)
+- Hdxk...Jexp (Winrate: 43.47%, Tokens Traded: > 1070)
+
+Interest score of the token symbol over the past 3 days:
+87, 84, 80
+
+print (print) [14hoAyXpbKktF6erNV5R2Q9KkmGeZY6ZzzxxB11jprnt] 🟢:
+No. of smart wallets interacted: 2
+Net amount added: 15822685.602982
+Net amount added (in USD): $4,072.73
+Market cap: 239969
+Birdeye: https://www.birdeye.so/token/14hoAyXpbKktF6erNV5R2Q9KkmGeZY6ZzzxxB11jprnt
+Twitter: https://x.com/printworldinc
+Telegram: 
+
+Smart wallets that interacted:
+- 8sHf...xpgv (Winrate: 33.02%, Tokens Traded: > 840)
+- Hdxk...Jexp (Winrate: 43.47%, Tokens Traded: > 1070)
+
+Interest score of the token symbol over the past 3 days:
+78, 81, 75
+
+Dogecast (DOGECAST) [ChHAfQsUznqUpvFSNQsu42KsRr1t3ct56fBigVSHpump] 🟢:
+No. of smart wallets interacted: 2
+Net amount added: 663750.3388180003
+Net amount added (in USD): $1,859.39
+Market cap: 2801003
+Birdeye: https://www.birdeye.so/token/ChHAfQsUznqUpvFSNQsu42KsRr1t3ct56fBigVSHpump
+Twitter: https://x.com/dogecast_sol
+Telegram: https://t.me/dogecastsol
+
+Smart wallets that interacted:
+- 8sHf...xpgv (Winrate: 33.02%, Tokens Traded: > 840)
+- 3eJk...H34o
+
+Interest score of the token symbol over the past 3 days:
+49, 35, 100
+
+Realis Worlds (REALIS) [EBGaJP7srpUUN8eRdta1MsojrNtweuHYsdP3P1TRpump] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 2979292.434916001
+Net amount added (in USD): $36,048.41
+Market cap: 11619608
+Birdeye: https://www.birdeye.so/token/EBGaJP7srpUUN8eRdta1MsojrNtweuHYsdP3P1TRpump
+Twitter: https://x.com/realisworlds
+Telegram: 
+
+Smart wallets that interacted:
+- ApRn...Hdz1 (Winrate: 62.93%, Tokens Traded: > 370)
+
+Interest score of the token symbol over the past 3 days:
+60, 66, 70
+
+POPPY (POPPY) [GD1AR5uHytu7nHJ9zWYEEHytmLe7MaD8wg6Tzesdpump] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 3266292.431274
+Net amount added (in USD): $16,670.19
+Market cap: 5211982
+Birdeye: https://www.birdeye.so/token/GD1AR5uHytu7nHJ9zWYEEHytmLe7MaD8wg6Tzesdpump
+Twitter: https://x.com/POPPYCTOSOL
+Telegram: https://t.me/POPPYSOLCTO
+
+Smart wallets that interacted:
+- CRVi...tReL (Winrate: 28.17%, Tokens Traded: > 1380)
+
+Interest score of the token symbol over the past 3 days:
+89, 88, 87
+
+swarms (swarms) [74SBV4zDXxTRgv1pEMoECskKBkZHc2yGPnc7GYVepump] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 561351.247806
+Net amount added (in USD): $14,166.74
+Market cap: 24433714
+Birdeye: https://www.birdeye.so/token/74SBV4zDXxTRgv1pEMoECskKBkZHc2yGPnc7GYVepump
+Twitter: https://x.com/swarms_corp
+Telegram: 
+
+Smart wallets that interacted:
+- Ay9w...QiPH (Winrate: 36.09%, Tokens Traded: > 230)
+
+Interest score of the token symbol over the past 3 days:
+71, 57, 60
+
+bro (bro) [7AXpjANY9e4XmD4yCgRnkJk8RmkgmbmHcMgFsUnrpump] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 21698083.850165
+Net amount added (in USD): $5,816.24
+Market cap: 278980
+Birdeye: https://www.birdeye.so/token/7AXpjANY9e4XmD4yCgRnkJk8RmkgmbmHcMgFsUnrpump
+Twitter: 
+Telegram: https://t.me/broctotelegram
+
+Smart wallets that interacted:
+- DZWR…jVFU (Winrate: 42.11%, Tokens Traded: > 190)
+
+Interest score of the token symbol over the past 3 days:
+90, 96, 100
+
+Soul Graph (GRPH) [9doRRAik5gvhbEwjbZDbZR6GxXSAfdoomyJR57xKpump] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 584741.671386
+Net amount added (in USD): $5,359.61
+Market cap: 8948584
+Birdeye: https://www.birdeye.so/token/9doRRAik5gvhbEwjbZDbZR6GxXSAfdoomyJR57xKpump
+Twitter: https://x.com/Soulgra_ph
+Telegram: 
+
+Smart wallets that interacted:
+- 8bo9…4QLq (Winrate: 51.61%, Tokens Traded: > 30)
+
+Interest score of the token symbol over the past 3 days:
+76, 79, 85
+
+Chippy The Dog (CHIPPY) [kW6APhttcGbdMYC5LD3nQ2H9NNxKBiMDswV73hopump] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 13259762.174011
+Net amount added (in USD): $4,537.46
+Market cap: 339065
+Birdeye: https://www.birdeye.so/token/kW6APhttcGbdMYC5LD3nQ2H9NNxKBiMDswV73hopump
+Twitter: https://x.com/chippyonsolana
+Telegram: https://t.me/chippycommunity
+
+Smart wallets that interacted:
+- 8rvA...y7qR (Winrate: 47.96%, Tokens Traded: > 1670)
+
+Interest score of the token symbol over the past 3 days:
+96, 89, 99
+
+Antitoken (ANTI) [HB8KrN7Bb3iLWUPsozp67kS4gxtbA4W5QJX4wKPvpump] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 1831809.205168
+Net amount added (in USD): $4,511.28
+Market cap: 2268357
+Birdeye: https://www.birdeye.so/token/HB8KrN7Bb3iLWUPsozp67kS4gxtbA4W5QJX4wKPvpump
+Twitter: https://x.com/antitokens
+Telegram: https://t.me/antitokengroup
+
+Smart wallets that interacted:
+- Hqkk...m21y (Winrate: 27.11%, Tokens Traded: > 500)
+
+Interest score of the token symbol over the past 3 days:
+87, 92, 100
+
+Seals-Ready to Crack Pengu's Ice (Seals) [BKQwzUrcibzZsm1Sm9TVgzxA9G7bAYszCaGJcALMpump] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 17581895.199584
+Net amount added (in USD): $4,479.12
+Market cap: 255358
+Birdeye: https://www.birdeye.so/token/BKQwzUrcibzZsm1Sm9TVgzxA9G7bAYszCaGJcALMpump
+Twitter: https://x.com/sealarmyhq
+Telegram: https://t.me/SealsArmyHQ
+
+Smart wallets that interacted:
+- DZWR…jVFU (Winrate: 42.11%, Tokens Traded: > 190)
+
+Interest score of the token symbol over the past 3 days:
+87, 92, 100
+
+Degen Spartan ARC (degenARC) [3PM3odxRh7dYDEXj8ZBBC5tSNE3h7EJPw9pvcG7Upump] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 13049259.064321
+Net amount added (in USD): $4,412.20
+Market cap: 337049
+Birdeye: https://www.birdeye.so/token/3PM3odxRh7dYDEXj8ZBBC5tSNE3h7EJPw9pvcG7Upump
+Twitter: https://x.com/ARCDegenSpartan
+Telegram: 
+
+Smart wallets that interacted:
+- 8sHf...xpgv (Winrate: 33.02%, Tokens Traded: > 840)
+
+Interest score of the token symbol over the past 3 days:
+85, 86, 83
+
+Protoken (PRO) [CWFa2nxUMf5d1WwKtG9FS9kjUKGwKXWSjH8hFdWspump] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 1937996.353387
+Net amount added (in USD): $4,390.22
+Market cap: 2154473
+Birdeye: https://www.birdeye.so/token/CWFa2nxUMf5d1WwKtG9FS9kjUKGwKXWSjH8hFdWspump
+Twitter: https://x.com/antitokens
+Telegram: https://t.me/antitokengroup
+
+Smart wallets that interacted:
+- Hqkk...m21y (Winrate: 27.11%, Tokens Traded: > 500)
+
+Interest score of the token symbol over the past 3 days:
+85, 84, 80
+
+neur.sh (NEUR) [3N2ETvNpPNAxhcaXgkhKoY1yDnQfs41Wnxsx5qNJpump] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 110871.495767
+Net amount added (in USD): $1,920.39
+Market cap: 17160759
+Birdeye: https://www.birdeye.so/token/3N2ETvNpPNAxhcaXgkhKoY1yDnQfs41Wnxsx5qNJpump
+Twitter: https://x.com/neur_sh
+Telegram: 
+
+Smart wallets that interacted:
+- 2cqm...a3d2 (Winrate: 87.67%, Tokens Traded: > 70)
+
+Interest score of the token symbol over the past 3 days:
+61, 60, 60
+
+SkyNet (DRONES) [95WzV2CsTRFBjPCBhQRR4TGVp5kXo8f8qZVt7iVwpump] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 1846241.054357
+Net amount added (in USD): $1,887.07
+Market cap: 1026320
+Birdeye: https://www.birdeye.so/token/95WzV2CsTRFBjPCBhQRR4TGVp5kXo8f8qZVt7iVwpump
+Twitter: https://x.com/SkynetDronesCTO
+Telegram: https://t.me/dronestakeover
+
+Smart wallets that interacted:
+- Ay9w...QiPH (Winrate: 36.09%, Tokens Traded: > 230)
+
+Interest score of the token symbol over the past 3 days:
+14, 13, 13
+
+lou (lou) [5DQSDg6SGkbsbykq4mQstpcL4d5raEHc6rY7LgBwpump] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 1286502.124603
+Net amount added (in USD): $1,858.32
+Market cap: 1451325
+Birdeye: https://www.birdeye.so/token/5DQSDg6SGkbsbykq4mQstpcL4d5raEHc6rY7LgBwpump
+Twitter: https://x.com/Loucoinonsol
+Telegram: https://t.me/Loucoinsol
+
+Smart wallets that interacted:
+- Ay9w...QiPH (Winrate: 36.09%, Tokens Traded: > 230)
+
+Interest score of the token symbol over the past 3 days:
+82, 73, 68
+
+kanye (YE) [CQSPU12VppGZB7LeRkEaKzrRBzvo1LyA9mR2ydiwKHaL] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 178568.93101
+Net amount added (in USD): $1,807.60
+Market cap: 100881
+Birdeye: https://www.birdeye.so/token/CQSPU12VppGZB7LeRkEaKzrRBzvo1LyA9mR2ydiwKHaL
+Twitter: https://twitter.com/Yecoinsol
+Telegram: https://t.me/KANYEsol
+
+Smart wallets that interacted:
+- Biee...2TpW (Winrate: 75.56%, Tokens Traded: > 260)
+
+Interest score of the token symbol over the past 3 days:
+74, 71, 76
+
+HYPERBOREAL INFINITY (HYPR∞) [FEiphCSAqjAxvtyMxj8boFTABrZBFyngfyrZueqeMw3q] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 4575843.196598
+Net amount added (in USD): $1,798.16
+Market cap: 343607
+Birdeye: https://www.birdeye.so/token/FEiphCSAqjAxvtyMxj8boFTABrZBFyngfyrZueqeMw3q
+Twitter: https://x.com/hyprinf
+Telegram: https://t.me/hyprinfinity
+
+Smart wallets that interacted:
+- DXSW...XoNX (Winrate: 51.67%, Tokens Traded: > 180)
+
+Interest score of the token symbol over the past 3 days:
+Google Trends data unavailable
+
+Freaky Lovehound (lovehound) [64S7KKw8B1UmZ7oAhT5LjC7PanGYDodUMUWfwZtmpump] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 15599513.136698
+Net amount added (in USD): $1,786.45
+Market cap: 142273
+Birdeye: https://www.birdeye.so/token/64S7KKw8B1UmZ7oAhT5LjC7PanGYDodUMUWfwZtmpump
+Twitter: https://x.com/lovehound_cto/
+Telegram: https://t.me/lovehoundcto
+
+Smart wallets that interacted:
+- 8sHf...xpgv (Winrate: 33.02%, Tokens Traded: > 840)
+
+Interest score of the token symbol over the past 3 days:
+Google Trends data unavailable
+
+Pillzumi (PILLZUMI) [97Mbx6Jym1iEkQdVfLf5PMWL5tARGnQ5na5jhR9Lpump] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 811691.8230959997
+Net amount added (in USD): $1,648.75
+Market cap: 2034781
+Birdeye: https://www.birdeye.so/token/97Mbx6Jym1iEkQdVfLf5PMWL5tARGnQ5na5jhR9Lpump
+Twitter: https://x.com/pillzumi
+Telegram: https://t.me/pillzumi
+
+Smart wallets that interacted:
+- 9AgR...Yf7v (Winrate: 41.99%, Tokens Traded: > 1590)
+
+Interest score of the token symbol over the past 3 days:
 0, 0, 0
 
-h2w6gm6jz (h2w6gm6jz) [FNqJtYs7rsP1H9GXWTtc5VnDoL2GhXEUKhYN46EEpump] 🟢:
+LOCKED IN ALIEN (ALIEN) [BJ19Mjzyaw9RmzhK2AKifohrz8DMhDgtEkUKHDGqpump] 🟢:
 No. of smart wallets interacted: 1
-Net amount added: 9221312.293532
-Net amount added (in USD): $9,977.21
-Market cap: 991842
-Birdeye: https://www.birdeye.so/token/FNqJtYs7rsP1H9GXWTtc5VnDoL2GhXEUKhYN46EEpump
-Twitter: https://x.com/h2w6gm6jz
+Net amount added: 1891058.023427
+Net amount added (in USD): $1,517.98
+Market cap: 804596
+Birdeye: https://www.birdeye.so/token/BJ19Mjzyaw9RmzhK2AKifohrz8DMhDgtEkUKHDGqpump
+Twitter: https://x.com/alienonsol_?s=21
+Telegram: https://t.me/LockedInAlienCto
+
+Smart wallets that interacted:
+- Ay9w...QiPH (Winrate: 36.09%, Tokens Traded: > 230)
+
+Interest score of the token symbol over the past 3 days:
+0, 0, 0
+
+Relaxed Boy (relaxboy) [AprPuvV2RsepnqN1ED3KFVtSDZRLKbChh6y57r8Spump] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 8511756.568241
+Net amount added (in USD): $1,124.51
+Market cap: 132675
+Birdeye: https://www.birdeye.so/token/AprPuvV2RsepnqN1ED3KFVtSDZRLKbChh6y57r8Spump
+Twitter: https://x.com/RelaxedBoyCTO
+Telegram: https://t.me/relaxboycto
+
+Smart wallets that interacted:
+- Ay9w...QiPH (Winrate: 36.09%, Tokens Traded: > 230)
+
+Interest score of the token symbol over the past 3 days:
+85, 89, 67
+
+AlexCipher.com | News Protocol (Cipher) [7P4FDjSjNjsR7C9i1vJXurCxPwn3KZAbL1rNVHQPpump] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 2444497.572019
+Net amount added (in USD): $974.31
+Market cap: 398001
+Birdeye: https://www.birdeye.so/token/7P4FDjSjNjsR7C9i1vJXurCxPwn3KZAbL1rNVHQPpump
+Twitter: https://x.com/alexcipherai
 Telegram: 
 
 Smart wallets that interacted:
-- DZWR…jVFU (Winrate: 42.11%, Tokens Traded: > 190)
-- DZWR…jVFU (Winrate: 42.11%, Tokens Traded: > 190)
+- DXSW...XoNX (Winrate: 51.67%, Tokens Traded: > 180)
 
-Interest score of the token symbol over the past 3 days
-48, 25, 79
+Interest score of the token symbol over the past 3 days:
+85, 89, 67
 
-Comedian (Ban) [9PR7nCP9DpcUotnDPVLUBUZKu5WAYkwrCUx9wDnSpump] 🟢:
+JailbreakMe (JAIL) [8cNmp9T2CMQRNZhNRoeSvr57LDf1kbZ42SvgsSWfpump] 🟢:
 No. of smart wallets interacted: 1
-Net amount added: 139970.466693
-Net amount added (in USD): $7,269.36
-Market cap: 51520588
-Birdeye: https://www.birdeye.so/token/9PR7nCP9DpcUotnDPVLUBUZKu5WAYkwrCUx9wDnSpump
-Twitter: https://x.com/rwa_ban?s=21
-Telegram: https://t.me/bansolgroup
+Net amount added: 290995.52458900027
+Net amount added (in USD): $925.90
+Market cap: 3216934
+Birdeye: https://www.birdeye.so/token/8cNmp9T2CMQRNZhNRoeSvr57LDf1kbZ42SvgsSWfpump
+Twitter: https://x.com/jailbreakme_xyz
+Telegram: https://t.me/jailbreakme_xyz
 
 Smart wallets that interacted:
-- Dnfu...eBHm (Winrate: 93.48%, Tokens Traded: > 40)
-- Dnfu...eBHm (Winrate: 93.48%, Tokens Traded: > 40)
+- 41U2...MfJU (Winrate: 57.89%, Tokens Traded: > 30)
 
-Interest score of the token symbol over the past 3 days
-67, 63, 73
+Interest score of the token symbol over the past 3 days:
+89, 89, 97
 
-OCTULUS (OCT) [8ziyy3aHz71ryNRPvmNDZ64uibGZ35pD8EaF8A48pump] 🟢:
+FREGO (FREGO) [F9GqoJRPzQnGzvP7cQzLHB7C22DToHQYWfsPvhKwqrpC] 🟢:
 No. of smart wallets interacted: 1
-Net amount added: 13939464.505292
-Net amount added (in USD): $6,803.98
-Market cap: 544597
-Birdeye: https://www.birdeye.so/token/8ziyy3aHz71ryNRPvmNDZ64uibGZ35pD8EaF8A48pump
-Twitter: https://x.com/OCTULUSx
-Telegram: 
+Net amount added: 107257.82631571102
+Net amount added (in USD): $702.73
+Market cap: 6039409
+Birdeye: https://www.birdeye.so/token/F9GqoJRPzQnGzvP7cQzLHB7C22DToHQYWfsPvhKwqrpC
+Twitter: https://x.com/FregoDotAI
+Telegram: https://t.me/fregoai
 
 Smart wallets that interacted:
-- 215n...gQjP (Winrate: 30.56%, Tokens Traded: > 580)
-- 215n...gQjP (Winrate: 30.56%, Tokens Traded: > 580)
+- 8bo9…4QLq (Winrate: 51.61%, Tokens Traded: > 30)
 
-Interest score of the token symbol over the past 3 days
-73, 61, 63
+Interest score of the token symbol over the past 3 days:
+61, 70, 70
 
-ZODs (ZODs) [J1ow1c3ExcJYQmgNFRPfCp1LMYRf6P3A33isDcBmpump] 🟢:
+Quantum Gospel (QOAT) [7F9bK2Gj7X5YY3dYfojoWVQYerFYcaGCni6Czt8Xpump] 🟢:
 No. of smart wallets interacted: 1
-Net amount added: 286023.33551600017
-Net amount added (in USD): $5,362.98
-Market cap: 15822678
-Birdeye: https://www.birdeye.so/token/J1ow1c3ExcJYQmgNFRPfCp1LMYRf6P3A33isDcBmpump
-Twitter: https://x.com/zodsonsol
-Telegram: https://t.me/zodsolana
+Net amount added: 719694.3125130001
+Net amount added (in USD): $696.85
+Market cap: 976330
+Birdeye: https://www.birdeye.so/token/7F9bK2Gj7X5YY3dYfojoWVQYerFYcaGCni6Czt8Xpump
+Twitter: https://x.com/Eternal_Shift/status/1872367080760283166
+Telegram: https://t.me/QOATofficial
 
 Smart wallets that interacted:
-- CRVi...tReL (Winrate: 28.17%, Tokens Traded: > 1380)
-- CRVi...tReL (Winrate: 28.17%, Tokens Traded: > 1380)
+- 5X45...Uq7T (Winrate: 23.81%, Tokens Traded: > 40)
 
-Interest score of the token symbol over the past 3 days
-97, 97, 88
+Interest score of the token symbol over the past 3 days:
+79, 78, 35
 
-Solanaris (SOLis) [66JQF6jBQCy8DRbzUt74w2x5sXyqLkcS8KdFn8pSpump] 🟢:
+Kosher Katz (k) [BjbGn2b2R6sbvAqqEC157CFznKXaDw3hoomhxatkpump] 🟢:
 No. of smart wallets interacted: 1
-Net amount added: 17714820.300597
-Net amount added (in USD): $2,917.38
-Market cap: 165895
-Birdeye: https://www.birdeye.so/token/66JQF6jBQCy8DRbzUt74w2x5sXyqLkcS8KdFn8pSpump
+Net amount added: 1000000.0
+Net amount added (in USD): $617.32
+Market cap: 619403
+Birdeye: https://www.birdeye.so/token/BjbGn2b2R6sbvAqqEC157CFznKXaDw3hoomhxatkpump
 Twitter: 
 Telegram: 
 
 Smart wallets that interacted:
-- Hdxk...Jexp (Winrate: 43.47%, Tokens Traded: > 1070)
-- Hdxk...Jexp (Winrate: 43.47%, Tokens Traded: > 1070)
+- DjNj...ABWH (Winrate: 77.94%, Tokens Traded: > 60)
 
-Interest score of the token symbol over the past 3 days
-90, 88, 84
+Interest score of the token symbol over the past 3 days:
+94, 95, 93
 
-Optimus (OPTIMUS) [9fURVh8YkzXDch2KmiBK7YT1zPYGC9UcWfXATvcupump] 🟢:
+PIXOCRACY (PIX) [3bGuPexrqNdmXkSxeUuMavYDFdjpQTSDt9ZusDgDpump] 🟢:
 No. of smart wallets interacted: 1
-Net amount added: 11228505.707547
-Net amount added (in USD): $1,695.60
-Market cap: 151111
-Birdeye: https://www.birdeye.so/token/9fURVh8YkzXDch2KmiBK7YT1zPYGC9UcWfXATvcupump
-Twitter: https://x.com/ctoOptimus
-Telegram: https://t.me/OptimusBotOnSol
+Net amount added: 634286.9846729999
+Net amount added (in USD): $367.73
+Market cap: 581454
+Birdeye: https://www.birdeye.so/token/3bGuPexrqNdmXkSxeUuMavYDFdjpQTSDt9ZusDgDpump
+Twitter: https://x.com/mayor_pixelbro
+Telegram: 
 
 Smart wallets that interacted:
-- Dnfu...eBHm (Winrate: 93.48%, Tokens Traded: > 40)
-- Dnfu...eBHm (Winrate: 93.48%, Tokens Traded: > 40)
+- DXSW...XoNX (Winrate: 51.67%, Tokens Traded: > 180)
 
-Interest score of the token symbol over the past 3 days
-79, 85, 85
+Interest score of the token symbol over the past 3 days:
+70, 73, 53
 
-Bet more (BET) [5CLSw4viyMLfnRHHxZpDF8CuZt5e1ceq1AJqd4GjAJNX] 🟢:
+Fartcoin Strategic Reserve (FSR) [2iLNwaXLEEqCeQPenSMJu52nwGGbL8zDn2FysHj7pump] 🟢:
 No. of smart wallets interacted: 1
-Net amount added: 428746.454361
-Net amount added (in USD): $1,011.88
-Market cap: 2348052
-Birdeye: https://www.birdeye.so/token/5CLSw4viyMLfnRHHxZpDF8CuZt5e1ceq1AJqd4GjAJNX
-Twitter: https://twitter.com/betmoreonsol
-Telegram: https://t.me/betmoreonsol
+Net amount added: 1130268.8484610002
+Net amount added (in USD): $296.48
+Market cap: 266240
+Birdeye: https://www.birdeye.so/token/2iLNwaXLEEqCeQPenSMJu52nwGGbL8zDn2FysHj7pump
+Twitter: https://x.com/fartcoinofsol?s=21&t=wgf5lq8bQUcMNcC3F6L7Sg
+Telegram: 
 
 Smart wallets that interacted:
-- Biee...2TpW (Winrate: 75.56%, Tokens Traded: > 260)
-- Biee...2TpW (Winrate: 75.56%, Tokens Traded: > 260)
+- 41U2...MfJU (Winrate: 57.89%, Tokens Traded: > 30)
 
-Interest score of the token symbol over the past 3 days
-80, 73, 73
+Interest score of the token symbol over the past 3 days:
+0, 0, 0
 
-MOSS (MOSS) [9bNUjxEvygayUE2ZRN5zh9Hhjh6cN6GPK4zoHzXXpump] 🟢:
+mind zero (mind ) [27265MRQFxz2LSTnn4mNTmcz1HJsjJVBST1cozxzpump] 🟢:
 No. of smart wallets interacted: 1
-Net amount added: 2436311.3392229993
-Net amount added (in USD): $746.63
-Market cap: 278139
-Birdeye: https://www.birdeye.so/token/9bNUjxEvygayUE2ZRN5zh9Hhjh6cN6GPK4zoHzXXpump
-Twitter: https://x.com/realMOSSCoin
-Telegram: https://t.me/realMOSSCoin
+Net amount added: 1345631.3766740002
+Net amount added (in USD): $208.42
+Market cap: 155025
+Birdeye: https://www.birdeye.so/token/27265MRQFxz2LSTnn4mNTmcz1HJsjJVBST1cozxzpump
+Twitter: https://x.com/MindZero__
+Telegram: https://t.me/mindzeroportal
 
 Smart wallets that interacted:
-- 9c4k...1hr7 (Winrate: 100.00%, Tokens Traded: > 0)
-- 9c4k...1hr7 (Winrate: 100.00%, Tokens Traded: > 0)
+- BHvU…vGWD (Winrate: 52.92%, Tokens Traded: > 560)
 
-Interest score of the token symbol over the past 3 days
-40, 41, 39
+Interest score of the token symbol over the past 3 days:
+87, 84, 66
 
-LLM (LLM) [DyT6mdhiAYbHPML2AVXviGVxMQbc6Z3VmPZ2MQG6pump] 🟢:
+HYBE (HYBE) [BZMiJhHsBBzWL93y83xhGkA2J5NxSMw572z4BLxBpump] 🟢:
 No. of smart wallets interacted: 1
-Net amount added: 1395107.39887
-Net amount added (in USD): $572.14
-Market cap: 410931
-Birdeye: https://www.birdeye.so/token/DyT6mdhiAYbHPML2AVXviGVxMQbc6Z3VmPZ2MQG6pump
-Twitter: https://x.com/MemePlagueLLM
-Telegram: https://t.me/latent_liberated_movement
+Net amount added: 243791.115071
+Net amount added (in USD): $140.73
+Market cap: 577102
+Birdeye: https://www.birdeye.so/token/BZMiJhHsBBzWL93y83xhGkA2J5NxSMw572z4BLxBpump
+Twitter: https://x.com/HYBECA
+Telegram: 
 
 Smart wallets that interacted:
-- 9c4k...1hr7 (Winrate: 100.00%, Tokens Traded: > 0)
-- 9c4k...1hr7 (Winrate: 100.00%, Tokens Traded: > 0)
+- BHvU…vGWD (Winrate: 52.92%, Tokens Traded: > 560)
 
-Interest score of the token symbol over the past 3 days
-88, 59, 64
+Interest score of the token symbol over the past 3 days:
+22, 22, 25
 
-the huzz (HUZZ) [D1khZH8Kz255iw8VLiACCPiYgC4XdnAFD3sYsusupump] 🟢:
+HOPECOIN (HOPE) [FhEMPJoeRvBN5j8M5BxWYNLJ3XtEmL1AS5oiUHefpump] 🟢:
 No. of smart wallets interacted: 1
-Net amount added: 1225613.245932
-Net amount added (in USD): $211.56
-Market cap: 172749
-Birdeye: https://www.birdeye.so/token/D1khZH8Kz255iw8VLiACCPiYgC4XdnAFD3sYsusupump
-Twitter: https://x.com/huzzonsolana
-Telegram: https://t.me/thehuzzsolana
+Net amount added: 314791.27804
+Net amount added (in USD): $103.29
+Market cap: 289020
+Birdeye: https://www.birdeye.so/token/FhEMPJoeRvBN5j8M5BxWYNLJ3XtEmL1AS5oiUHefpump
+Twitter: 
+Telegram: 
 
 Smart wallets that interacted:
-- Dnfu...eBHm (Winrate: 93.48%, Tokens Traded: > 40)
-- Dnfu...eBHm (Winrate: 93.48%, Tokens Traded: > 40)
+- 4t9b...jD2i (Winrate: 92.42%, Tokens Traded: > 60)
 
-Interest score of the token symbol over the past 3 days
-87, 71, 57
+Interest score of the token symbol over the past 3 days:
+87, 87, 82

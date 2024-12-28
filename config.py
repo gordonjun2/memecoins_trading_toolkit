@@ -197,6 +197,13 @@ WALLET_ADDRESSES_TO_INCLUDE_DICT = {
     '34xpG819UcgHBGXDTVn5XBQy3qYM6DFPR3tvvPwcGTMs': '34xp…GTMs (Winrate: 42.37%, Tokens Traded: > 1520)',
     '8bo92fMyMqgKD8zd83DLAp6F8nD2bCNpe3pj2aqY4QLq': '8bo9…4QLq (Winrate: 51.61%, Tokens Traded: > 30)',
     'ATmKENkRrL1JQQnoUNAQvkiwgjiHKUkzyncxTGxyzQL1': 'ATmK…zQL1 (Winrate: 54.45%, Tokens Traded: > 470)',
+    '9KWS5Apsi1UBzceKvACJG5VqAE1XBA3Y8E7EER73W96a': '9KWS…W96a (Winrate: 53.85%, Tokens Traded: > 20)',
+    '7dczvwnWqNE9RFe1AeECa6D9n38KN5AMiPcCWxjEVVp5': '7dcz…VVp5 (Winrate: 57.14%, Tokens Traded: > 10)',
+    'EKuzYQe3J5iojMbwAeac35FgcoDvhRTSYmHYmpNpYxHc': 'Ekuz...YxHc (Winrate: 25.76%, Tokens Traded: > 60)',
+    '9GaCA6ZsamjTtSrGLZ2gXfFPDVX62bU3YozzDfQJTxWF': '9GaC…TxWF (Winrate: 65.19%, Tokens Traded: > 290)',
+    'c62pW6EY3gQPEpDwCW72di1bmgQaFE1z5d4yAho4pqQ': 'c62p…4pqQ (Winrate: 31.25%, Tokens Traded: > 40)',
+    'CVAfeFP7PoF7qpzaeYrut7tDY2WeMHZBUYujQyasKW4f': 'CVAf…KW4f (Winrate: 30.91%, Tokens Traded: > 110)',
+    'FavwU7cTsftNwXNjwfKjY26KziuasnbWD1R4xcRY4oUq': 'Favw…4oUq (Winrate: 19.35%, Tokens Traded: >30)',
     }
 
 EXCLUDED_ADDRESSES = {

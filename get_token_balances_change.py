@@ -242,7 +242,7 @@ def get_token_balance_change(chat_id,
                 delta = data['amount']
                 count = data['count']
                 delta_usd = data['amount_usd']
-                if delta_usd < MIN_AMOUNT_USD:
+                if abs(delta_usd) < MIN_AMOUNT_USD:
                     continue
 
                 delta_usd_str = "{:,.2f}".format(delta_usd)
