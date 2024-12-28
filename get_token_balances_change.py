@@ -62,7 +62,6 @@ def get_token_balance_change(chat_id,
     total_top_trader_addresses = len(loaded_top_trader_addresses)
     token_balances_update_dict = {}
     mint_address_list = []
-    mint_address_price_usd_map = {}
     loop_count = 0
 
     for wallet_address in loaded_top_trader_addresses:
@@ -105,7 +104,9 @@ def get_token_balance_change(chat_id,
                     if price_usd:
                         if isinstance(price_usd, str):
                             price_usd = float(price_usd)
-                        mint_address_price_usd_map[mint_address] = price_usd
+                    else:
+                        price_usd = 0
+                    amount_usd = round(amount * price_usd, 2)
                     
                     if mint_address not in top_trader_token_balances_dict[
                             wallet_address]:
@@ -120,13 +121,15 @@ def get_token_balance_change(chat_id,
                         if key not in token_balances_update_dict:
                             token_balances_update_dict[key] = {}
                             token_balances_update_dict[key]['amount'] = amount
+                            token_balances_update_dict[key]['amount_usd'] = amount_usd
                             token_balances_update_dict[key]['count'] = 1
-                            token_balances_update_dict[key]['wallet_addresses'] = [wallet_address]
+                            token_balances_update_dict[key]['wallet_addresses'] = { wallet_address: amount_usd }
                             mint_address_list.append(mint_address)
                         else:
                             token_balances_update_dict[key]['amount'] += amount
+                            token_balances_update_dict[key]['amount_usd'] += amount_usd
                             token_balances_update_dict[key]['count'] += 1
-                            token_balances_update_dict[key]['wallet_addresses'].append(wallet_address)
+                            token_balances_update_dict[key]['wallet_addresses'][wallet_address] = amount_usd
                     else:
                         prev_amount = top_trader_token_balances_dict[
                             wallet_address][mint_address]['amount']
@@ -134,34 +137,40 @@ def get_token_balance_change(chat_id,
                             delta = amount - prev_amount
                             print('Add {} {} ({}) tokens'.format(
                                 delta, symbol, name))
+                            delta_usd = round(delta * price_usd, 2)
                             if key not in token_balances_update_dict:
                                 token_balances_update_dict[key] = {}
                                 token_balances_update_dict[key][
                                     'amount'] = delta
+                                token_balances_update_dict[key]['amount_usd'] = delta_usd
                                 token_balances_update_dict[key]['count'] = 1
-                                token_balances_update_dict[key]['wallet_addresses'] = [wallet_address]
+                                token_balances_update_dict[key]['wallet_addresses'] = { wallet_address: delta_usd }
                                 mint_address_list.append(mint_address)
                             else:
                                 token_balances_update_dict[key][
                                     'amount'] += delta
+                                token_balances_update_dict[key]['amount_usd'] += delta_usd
                                 token_balances_update_dict[key]['count'] += 1
-                                token_balances_update_dict[key]['wallet_addresses'].append(wallet_address)
+                                token_balances_update_dict[key]['wallet_addresses'][wallet_address] = delta_usd
                         elif amount < prev_amount - EPSILON:
                             delta = amount - prev_amount
                             print('Subtract {} {} ({}) tokens'.format(
                                 prev_amount - amount, symbol, name))
+                            delta_usd = round(delta * price_usd, 2)
                             if key not in token_balances_update_dict:
                                 token_balances_update_dict[key] = {}
                                 token_balances_update_dict[key][
                                     'amount'] = delta
+                                token_balances_update_dict[key]['amount_usd'] = delta_usd
                                 token_balances_update_dict[key]['count'] = 1
-                                token_balances_update_dict[key]['wallet_addresses'] = [wallet_address]
+                                token_balances_update_dict[key]['wallet_addresses'] = { wallet_address: delta_usd }
                                 mint_address_list.append(mint_address)
                             else:
                                 token_balances_update_dict[key][
                                     'amount'] += delta
+                                token_balances_update_dict[key]['amount_usd'] += delta_usd
                                 token_balances_update_dict[key]['count'] += 1
-                                token_balances_update_dict[key]['wallet_addresses'].append(wallet_address)
+                                token_balances_update_dict[key]['wallet_addresses'][wallet_address] = delta_usd
                         top_trader_token_balances_dict[wallet_address][
                             mint_address]['amount'] = amount
 
@@ -200,14 +209,6 @@ def get_token_balance_change(chat_id,
                    seen_token_addresses_dict)
 
     if get_token_details:
-        for key, value in token_balances_update_dict.items():
-            amount = value['amount']
-            key_splitted = key.split(' ')
-            mint_address = key_splitted[-1][1:-1]
-            price_usd = mint_address_price_usd_map.get(mint_address, 0)
-            amount_usd = amount * price_usd
-            value['amount_usd'] = amount_usd
-
         token_details_dict = dexscreener.get_token_details(mint_address_list)
         tg_msg_list = []
 
@@ -296,9 +297,13 @@ def get_token_balance_change(chat_id,
 
                 wallet_addresses = data.get('wallet_addresses')
 
-                for wallet_address in wallet_addresses:
-                    wallet_info = WALLET_ADDRESSES_TO_INCLUDE_DICT.get(wallet_address, wallet_address[:4] + '...' + wallet_address[-4:])
-                    msg = f"- {wallet_info}\n"
+                for wallet_address, delta_usd in wallet_addresses.items():
+                    wallet_label = WALLET_ADDRESSES_TO_INCLUDE_DICT.get(wallet_address, wallet_address[:4] + '...' + wallet_address[-4:])
+                    delta_usd_str = "{:,.2f}".format(abs(delta_usd))
+                    if delta_usd > 0:
+                        msg = f"- {wallet_label} bought ${delta_usd_str} worth.\n"
+                    else:
+                        msg = f"- {wallet_label} sold ${delta_usd_str} worth.\n"
                     terminal_msg += msg
                     tg_msg += msg
 
