@@ -257,7 +257,7 @@ def get_token_balance_change(chat_id,
                 else:
                     key += '🔴'
 
-                token_birdeye = f'https://www.birdeye.so/token/{mint_address}'
+                token_dexscreener = f'https://dexscreener.com/solana/{mint_address}'
                 token_telegram = ''
                 token_twitter = ''
                 token_socials_detail = token_details.get('info', {}).get(
@@ -279,9 +279,9 @@ def get_token_balance_change(chat_id,
                     token_symbol_recent_interest_list = recent_interest[token_symbol].tolist()
                     token_symbol_recent_interest_str = ', '.join(token_symbol_recent_interest_list)
                 except:
-                    token_symbol_recent_interest_str = 'Google Trends data unavailable'
+                    token_symbol_recent_interest_str = 'Data unavailable'
 
-                terminal_msg = f'{key}:\nNo. of smart wallets interacted: {count}\nNet amount added: {delta}\nNet amount added (in USD): ${delta_usd_str}\nMarket cap: {market_cap}\nBirdeye: {token_birdeye}\nTwitter: {token_twitter}\nTelegram: {token_telegram}\n\nSmart wallets that interacted:\n'
+                terminal_msg = f'{key}:\nNo. of smart wallets interacted: {count}\nNet amount added: {delta}\nNet amount added (in USD): ${delta_usd_str}\nMarket cap: {market_cap}\nDEX Screener: {token_dexscreener}\nTwitter: {token_twitter}\nTelegram: {token_telegram}\n\nSmart wallets that interacted:\n'
                 escaped_key = re.escape(key)
                 escaped_key = escaped_key.replace(r'\ ', ' ')
                 tg_msg = (
@@ -290,7 +290,7 @@ def get_token_balance_change(chat_id,
                         f"Net amount added: {delta}\n"
                         f"Net amount added (in USD): ${delta_usd_str}\n"
                         f"Market cap: {market_cap:,}\n"
-                        f"[Birdeye]({token_birdeye}) | [Twitter]({token_twitter}) | [Telegram]({token_telegram})\n"
+                        f"[DEX Screener]({token_dexscreener}) | [Twitter]({token_twitter}) | [Telegram]({token_telegram})\n"
                         f"\n"
                         f"Smart wallets that interacted:\n"
                     )
@@ -307,7 +307,7 @@ def get_token_balance_change(chat_id,
                     terminal_msg += msg
                     tg_msg += msg
 
-                msg = f"\nInterest score of the token symbol over the past {RECENT_N_DAYS_INTEREST} days:\n"
+                msg = f"\nGoogle Trends' interest score of the token symbol over the past {RECENT_N_DAYS_INTEREST} days:\n"
                 msg += f"{token_symbol_recent_interest_str}\n"
 
                 terminal_msg += msg
