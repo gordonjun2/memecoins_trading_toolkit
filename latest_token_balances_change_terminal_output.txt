@@ -1,476 +1,2656 @@
 
 Summarised token balances update (token marketcap >= 100,000.0):
-Forex Lens (ForexLens) [aSCcjVmMJttZQNYtzhFXmqmUiTm8xkJBggn4sj8pump] 🆕🟢:
-No. of smart wallets interacted: 2
-Net amount added: 3747732.7277659997
-Net amount added (in USD): $10,225.95
-Market cap: 2787375
-DEX Screener: https://dexscreener.com/solana/aSCcjVmMJttZQNYtzhFXmqmUiTm8xkJBggn4sj8pump
-Twitter: 
-Telegram: https://t.me/ForexLensSOL
-
-Smart wallets that interacted:
-- 4t9b...jD2i (Winrate: 92.42%, Tokens Traded: > 60) bought $2,606.77 worth.
-- 215n...gQjP (Winrate: 30.56%, Tokens Traded: > 580) bought $7,619.18 worth.
-
-Google Trends' interest score of the token symbol over the past 7 days:
-83, 82, 78, 92, 92, 88, 74
-
-The Standard Model Lagrangian (Quant) [4SEtSmsmj8ezCEZekPJFyuhMLJVRCP9Nk828Yvmcpump] 🆕🟢:
-No. of smart wallets interacted: 2
-Net amount added: 10258510.523863
-Net amount added (in USD): $1,262.12
-Market cap: 127149
-DEX Screener: https://dexscreener.com/solana/4SEtSmsmj8ezCEZekPJFyuhMLJVRCP9Nk828Yvmcpump
-Twitter: 
-Telegram: https://t.me/QuantCommunityy
-
-Smart wallets that interacted:
-- 548T…Q7eM (Winrate: 35.94%, Tokens Traded: > 60) bought $39.15 worth.
-- AbcX...BbcE (Winrate: 63.63%, Tokens Traded: > 180) bought $1,222.97 worth.
-
-Google Trends' interest score of the token symbol over the past 7 days:
-33, 32, 23, 29, 36, 27, 33
-
-Ball Dog (BALLDOG) [As447im4qYzvqaAnFBiWdWeYmLB9DE82rw4x7pDxpump] 🆕🟢:
-No. of smart wallets interacted: 1
-Net amount added: 6923657.931213
-Net amount added (in USD): $1,041.40
-Market cap: 172535
-DEX Screener: https://dexscreener.com/solana/As447im4qYzvqaAnFBiWdWeYmLB9DE82rw4x7pDxpump
-Twitter: https://x.com/i/communities/1873243203182211151
-Telegram: https://t.me/BALLDOG_CTO
-
-Smart wallets that interacted:
-- 85pL…Ufoq (Winrate: 34.77%, Tokens Traded: > 410) bought $1,041.40 worth.
-
-Google Trends' interest score of the token symbol over the past 7 days:
-78, 81, 80, 89, 90, 85, 70
-
-INVASION (INVASION) [EVygb6wUjcdVmtNxUzW1FSxGcPPMA2pmbANSP4LMpump] 🆕🟢:
-No. of smart wallets interacted: 1
-Net amount added: 496534.518896
-Net amount added (in USD): $113.31
-Market cap: 217772
-DEX Screener: https://dexscreener.com/solana/EVygb6wUjcdVmtNxUzW1FSxGcPPMA2pmbANSP4LMpump
-Twitter: https://x.com/invasionon_sol
-Telegram: https://t.me/invasionportal
-
-Smart wallets that interacted:
-- H9ZR...fEzb bought $113.31 worth.
-
-Google Trends' interest score of the token symbol over the past 7 days:
-62, 61, 66, 64, 63, 70, 70
-
-FiFi (FiFi) [HdkPQfhUhtew1wPH5hp33q9AJcC2XmAqWJNRLj5fpump] 🟢:
-No. of smart wallets interacted: 4
-Net amount added: 14556547.611373
-Net amount added (in USD): $8,109.81
-Market cap: 536120
-DEX Screener: https://dexscreener.com/solana/HdkPQfhUhtew1wPH5hp33q9AJcC2XmAqWJNRLj5fpump
-Twitter: https://x.com/FreeFifiOnSol
-Telegram: https://t.me/freefifionsol
-
-Smart wallets that interacted:
-- CRVi...tReL (Winrate: 28.17%, Tokens Traded: > 1380) bought $1,890.48 worth.
-- Hdxk...Jexp (Winrate: 43.47%, Tokens Traded: > 1070) sold $5,475.54 worth.
-- HDU1…Acza (Winrate: 26.77%, Tokens Traded: > 390) bought $5,647.82 worth.
-- AbcX...BbcE (Winrate: 63.63%, Tokens Traded: > 180) bought $6,047.05 worth.
-
-Google Trends' interest score of the token symbol over the past 7 days:
-77, 81, 86, 81, 81, 88, 80
-
-JUSTICE FOR SUCHIR (SUCHIR) [ByXTsen3ftsd7SsqgXpSZqrEeoMV8Smhz1vox9j6pump] 🟢:
-No. of smart wallets interacted: 3
-Net amount added: 6816169.574185001
-Net amount added (in USD): $26,973.01
-Market cap: 4067163
-DEX Screener: https://dexscreener.com/solana/ByXTsen3ftsd7SsqgXpSZqrEeoMV8Smhz1vox9j6pump
-Twitter: https://x.com/SuchirJustice
-Telegram: https://t.me/SuchirJustice
-
-Smart wallets that interacted:
-- CmSn…5Zce (Winrate: 26.83%, Tokens Traded: > 760) bought $13,355.18 worth.
-- H9ZR...fEzb bought $29.29 worth.
-- Hqkk...m21y (Winrate: 27.11%, Tokens Traded: > 500) bought $13,588.54 worth.
-
-Google Trends' interest score of the token symbol over the past 7 days:
-79, 80, 81, 87, 93, 85, 68
-
-AI Rig Complex (arc) [61V8vBaqAGMpgDQi4JcAwo1dmBGHsyhzodcPqnEVpump] 🟢:
-No. of smart wallets interacted: 2
-Net amount added: 100407.338239
-Net amount added (in USD): $29,830.86
-Market cap: 295963429
-DEX Screener: https://dexscreener.com/solana/61V8vBaqAGMpgDQi4JcAwo1dmBGHsyhzodcPqnEVpump
-Twitter: https://x.com/arcdotfun
-Telegram: https://t.me/arcfunportal
-
-Smart wallets that interacted:
-- 8sHf...xpgv (Winrate: 33.02%, Tokens Traded: > 840) bought $38,325.56 worth.
-- 9AgR...Yf7v (Winrate: 41.99%, Tokens Traded: > 1590) sold $8,494.70 worth.
-
-Google Trends' interest score of the token symbol over the past 7 days:
-93, 95, 95, 95, 97, 100, 94
-
-Shit & Piss 500 (SP500) [CaM41daLtWdzzQkfzphhai6dHu8KiC9wy59edrsspump] 🟢:
-No. of smart wallets interacted: 2
-Net amount added: 1571435.7619189995
-Net amount added (in USD): $2,026.92
-Market cap: 1259070
-DEX Screener: https://dexscreener.com/solana/CaM41daLtWdzzQkfzphhai6dHu8KiC9wy59edrsspump
-Twitter: https://x.com/ShitandPiss500?t=mpw2Uxp6Rnot6EHz8d0epQ&s=09
-Telegram: https://t.me/ShitNPiss500
-
-Smart wallets that interacted:
-- 85pL…Ufoq (Winrate: 34.77%, Tokens Traded: > 410) bought $1,870.46 worth.
-- H9ZR...fEzb bought $156.46 worth.
-
-Google Trends' interest score of the token symbol over the past 7 days:
-93, 95, 95, 95, 97, 100, 94
-
-tsotchke (TSOTCHKE) [4mbdysBik3jmzD7mt6FGPDsMxnYcxExSQRFjPucdpump] 🔴:
-No. of smart wallets interacted: 2
-Net amount added: -1694266.2250650001
-Net amount added (in USD): $-31,618.46
-Market cap: 16683027
-DEX Screener: https://dexscreener.com/solana/4mbdysBik3jmzD7mt6FGPDsMxnYcxExSQRFjPucdpump
-Twitter: https://twitter.com/tsotchkecoin
-Telegram: https://t.me/tsotchkecoinOFFICIAL
-
-Smart wallets that interacted:
-- 2cqm...a3d2 (Winrate: 87.67%, Tokens Traded: > 70) bought $2,913.85 worth.
-- RFSq…G6iB (Winrate: 19.56%, Tokens Traded: > 580) sold $34,532.31 worth.
-
-Google Trends' interest score of the token symbol over the past 7 days:
-0, 0, 0, 6, 0, 0, 100
-
-PYTHIA (PYTHIA) [CreiuhfwdWCN5mJbMJtA9bBpYQrQF2tCBuZwSPWfpump] 🟢:
-No. of smart wallets interacted: 1
-Net amount added: 1947513.986755
-Net amount added (in USD): $25,130.36
-Market cap: 12391802
-DEX Screener: https://dexscreener.com/solana/CreiuhfwdWCN5mJbMJtA9bBpYQrQF2tCBuZwSPWfpump
-Twitter: https://x.com/ratpythia
-Telegram: https://t.me/ratpythia
-
-Smart wallets that interacted:
-- Cuo3…dz7L (Winrate: 48.58%, Tokens Traded: > 350) bought $25,130.36 worth.
-
-Google Trends' interest score of the token symbol over the past 7 days:
-49, 52, 54, 71, 59, 93, 100
-
-REX (REX) [CNKEXXypBC66cZ111Mg3JUxyczXS1E9T6MWEufzQZVMo] 🟢:
-No. of smart wallets interacted: 1
-Net amount added: 1017607.827933701
-Net amount added (in USD): $5,922.28
-Market cap: 5634476
-DEX Screener: https://dexscreener.com/solana/CNKEXXypBC66cZ111Mg3JUxyczXS1E9T6MWEufzQZVMo
-Twitter: https://x.com/0xnavir
+OFFICIAL TRUMP (TRUMP) [6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN] 🆕🟢:
+No. of smart wallets interacted: 29
+Net amount added: 2562560.63636
+Net amount added (in USD): $60,654,502.67
+Market cap: 4781808102
+DEX Screener: https://dexscreener.com/solana/6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN
+Twitter: https://x.com/GetTrumpMemes
 Telegram: 
 
 Smart wallets that interacted:
-- CRVi...tReL (Winrate: 28.17%, Tokens Traded: > 1380) bought $5,922.28 worth.
+- E4Bd…PdVJ (Winrate: 31.37%, Tokens Traded: > 320) bought $1,146,247.75 worth.
+- CU35…n2kK (Winrate: 43.40%, Tokens Traded: > 580) bought $1,019,123.72 worth.
+- CLpD...7omB (Winrate: 37.93%, Tokens Traded: > 170) bought $139,095.58 worth.
+- 6neo…zzvL (Winrate: 30.90%, Tokens Traded: > 280) bought $503,595.16 worth.
+- Hqkk...m21y (Winrate: 27.11%, Tokens Traded: > 500) bought $1,737,686.05 worth.
+- 6KVy...cems (Winrate: 25.81%, Tokens Traded: > 30) bought $1,922,714.79 worth.
+- 687k...TGiL (Winrate: 46.71%, Tokens Traded: > 330) bought $21.80 worth.
+- M5Q1...Pss8 (Winrate: 32.89%, Tokens Traded: > 750) bought $27,164.41 worth.
+- GpNb...mGQi (Winrate: 20.00%, Tokens Traded: > 10) bought $4,464,931.67 worth.
+- Fqgs...uw6Y (Winrate: 48.15%, Tokens Traded: > 180) bought $3,167,207.43 worth.
+- 4XL3…6iuF (Winrate: 24.35%, Tokens Traded: > 110) bought $182,546.70 worth.
+- RFSq…G6iB (Winrate: 18.96%, Tokens Traded: > 570) bought $277,068.23 worth.
+- 2ssN...PkzK (Winrate: 38.74%, Tokens Traded: > 300) bought $6,490,693.96 worth.
+- 5X45...Uq7T (Winrate: 23.81%, Tokens Traded: > 40) bought $1,383,484.21 worth.
+- 3h65...axoE (Winrate: 27.73%, Tokens Traded: > 930) bought $274,338.26 worth.
+- 9AgR...Yf7v (Winrate: 41.99%, Tokens Traded: > 1590) bought $76,883.04 worth.
+- hJRW...whAR (Winrate: 27.72%, Tokens Traded: > 100) bought $333,572.94 worth.
+- ApH4...XQLu (Winrate: 49.28%, Tokens Traded: > 60) bought $1,906,441.82 worth.
+- ATmK…zQL1 (Winrate: 54.45%, Tokens Traded: > 470) bought $5,343,604.44 worth.
+- ECCK…zqgP (Winrate: 43.91%, Tokens Traded: > 1070) bought $2,359,221.75 worth.
+- HYWo...1ENp (Winrate: 31.43%, Tokens Traded: > 210) bought $5,957,630.68 worth.
+- ACHh...Y1C7 (Winrate: 40.82%, Tokens Traded: > 40) bought $1,080,415.26 worth.
+- 8rkW...KqjT (Winrate: 68.42%, Tokens Traded: > 10) bought $61,732.45 worth.
+- Biee...2TpW (Winrate: 75.56%, Tokens Traded: > 260) bought $668,114.21 worth.
+- 8sHf...xpgv (Winrate: 33.02%, Tokens Traded: > 840) bought $4,766,104.55 worth.
+- 8VZe…EhMZ (Winrate: 28.32%, Tokens Traded: > 390) bought $1,613,093.92 worth.
+- CLeg...S168 (Winrate: 30.59%, Tokens Traded: > 80) bought $3,555,533.11 worth.
+- nPos...yESx (Winrate: 50.00%, Tokens Traded: > 240) bought $721,563.88 worth.
+- 8zFZ...c7Zd (Winrate: 45.54%, Tokens Traded: > 100) bought $9,474,670.90 worth.
 
 Google Trends' interest score of the token symbol over the past 7 days:
-40, 41, 48, 43, 43, 44, 42
+47, 34, 34, 36, 37, 43, 44
+
+OFFICIAL TRUMP (TRUMP) [9J5dhatiCeDtxEUj2g4pQtckvEyNiDwzL9ypmeCL7bTA] 🆕🟢:
+No. of smart wallets interacted: 22
+Net amount added: 616.0
+Net amount added (in USD): $3,080.00
+Market cap: 11633364251
+DEX Screener: https://dexscreener.com/solana/9J5dhatiCeDtxEUj2g4pQtckvEyNiDwzL9ypmeCL7bTA
+Twitter: 
+Telegram: 
+
+Smart wallets that interacted:
+- CW6X…ezdX (Winrate: 38.14%, Tokens Traded: > 110) bought $110.00 worth.
+- E4Bd…PdVJ (Winrate: 31.37%, Tokens Traded: > 320) bought $330.00 worth.
+- 2Qt3...Bk1o (Winrate: 41.67%, Tokens Traded: > 10) bought $110.00 worth.
+- 57JM…Cd9B (Winrate: 36.14%, Tokens Traded: > 2300) bought $110.00 worth.
+- 6neo…zzvL (Winrate: 30.90%, Tokens Traded: > 280) bought $110.00 worth.
+- 6KVy...cems (Winrate: 25.81%, Tokens Traded: > 30) bought $110.00 worth.
+- 65ba…Wdg1 (Winrate: 37.70%, Tokens Traded: > 510) bought $110.00 worth.
+- Ay9w...QiPH (Winrate: 36.09%, Tokens Traded: > 230) bought $110.00 worth.
+- 687k...TGiL (Winrate: 46.71%, Tokens Traded: > 330) bought $110.00 worth.
+- GpNb...mGQi (Winrate: 20.00%, Tokens Traded: > 10) bought $110.00 worth.
+- Fqgs...uw6Y (Winrate: 48.15%, Tokens Traded: > 180) bought $110.00 worth.
+- 4XL3…6iuF (Winrate: 24.35%, Tokens Traded: > 110) bought $110.00 worth.
+- RFSq…G6iB (Winrate: 18.96%, Tokens Traded: > 570) bought $330.00 worth.
+- 2ssN...PkzK (Winrate: 38.74%, Tokens Traded: > 300) bought $110.00 worth.
+- 5X45...Uq7T (Winrate: 23.81%, Tokens Traded: > 40) bought $220.00 worth.
+- ApH4...XQLu (Winrate: 49.28%, Tokens Traded: > 60) bought $110.00 worth.
+- ATmK…zQL1 (Winrate: 54.45%, Tokens Traded: > 470) bought $110.00 worth.
+- ECCK…zqgP (Winrate: 43.91%, Tokens Traded: > 1070) bought $110.00 worth.
+- HYWo...1ENp (Winrate: 31.43%, Tokens Traded: > 210) bought $110.00 worth.
+- ACHh...Y1C7 (Winrate: 40.82%, Tokens Traded: > 40) bought $220.00 worth.
+- 8VZe…EhMZ (Winrate: 28.32%, Tokens Traded: > 390) bought $110.00 worth.
+- CLeg...S168 (Winrate: 30.59%, Tokens Traded: > 80) bought $110.00 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+47, 34, 34, 36, 37, 43, 44
+
+OFFICIAL TRUMP (TRUMP) [HnFrSEaRJ6QjWJdncQMthUDHFbbAm3kkCFmcAPsVMQoe] 🆕🟢:
+No. of smart wallets interacted: 20
+Net amount added: 1020.0
+Net amount added (in USD): $12,778.78
+Market cap: 12530599194
+DEX Screener: https://dexscreener.com/solana/HnFrSEaRJ6QjWJdncQMthUDHFbbAm3kkCFmcAPsVMQoe
+Twitter: 
+Telegram: 
+
+Smart wallets that interacted:
+- CW6X…ezdX (Winrate: 38.14%, Tokens Traded: > 110) bought $225.51 worth.
+- CU35…n2kK (Winrate: 43.40%, Tokens Traded: > 580) bought $1,102.48 worth.
+- 2Qt3...Bk1o (Winrate: 41.67%, Tokens Traded: > 10) bought $851.92 worth.
+- 6neo…zzvL (Winrate: 30.90%, Tokens Traded: > 280) bought $851.92 worth.
+- Ay9w...QiPH (Winrate: 36.09%, Tokens Traded: > 230) bought $1,102.48 worth.
+- CRVi...tReL (Winrate: 28.17%, Tokens Traded: > 1380) bought $225.51 worth.
+- 687k...TGiL (Winrate: 46.71%, Tokens Traded: > 330) bought $225.51 worth.
+- 4XL3…6iuF (Winrate: 24.35%, Tokens Traded: > 110) bought $1,102.48 worth.
+- RFSq…G6iB (Winrate: 18.96%, Tokens Traded: > 570) bought $225.51 worth.
+- 2ssN...PkzK (Winrate: 38.74%, Tokens Traded: > 300) bought $225.51 worth.
+- 3h65...axoE (Winrate: 27.73%, Tokens Traded: > 930) bought $476.07 worth.
+- hJRW...whAR (Winrate: 27.72%, Tokens Traded: > 100) bought $1,102.48 worth.
+- ApH4...XQLu (Winrate: 49.28%, Tokens Traded: > 60) bought $1,102.48 worth.
+- ATmK…zQL1 (Winrate: 54.45%, Tokens Traded: > 470) bought $225.51 worth.
+- ECCK…zqgP (Winrate: 43.91%, Tokens Traded: > 1070) bought $851.92 worth.
+- HYWo...1ENp (Winrate: 31.43%, Tokens Traded: > 210) bought $851.92 worth.
+- ACHh...Y1C7 (Winrate: 40.82%, Tokens Traded: > 40) bought $476.07 worth.
+- 71CP...BABC (Winrate: 64.06%, Tokens Traded: > 60) bought $225.51 worth.
+- 8sHf...xpgv (Winrate: 33.02%, Tokens Traded: > 840) bought $851.92 worth.
+- 8VZe…EhMZ (Winrate: 28.32%, Tokens Traded: > 390) bought $476.07 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+47, 34, 34, 36, 37, 43, 44
+
+Kaida (KAIDA) [7sh1NtGJXRDouh14eVyLsPRYefmKTkxLSBR7ErAbJ1BC] 🆕🟢:
+No. of smart wallets interacted: 13
+Net amount added: 68744.0
+Net amount added (in USD): $216.19
+Market cap: 3144019
+DEX Screener: https://dexscreener.com/solana/7sh1NtGJXRDouh14eVyLsPRYefmKTkxLSBR7ErAbJ1BC
+Twitter: 
+Telegram: 
+
+Smart wallets that interacted:
+- suqh…HQfK (Winrate: 75.94%, Tokens Traded: > 7800) bought $16.63 worth.
+- CU35…n2kK (Winrate: 43.40%, Tokens Traded: > 580) bought $16.63 worth.
+- 57JM…Cd9B (Winrate: 36.14%, Tokens Traded: > 2300) bought $16.63 worth.
+- 6neo…zzvL (Winrate: 30.90%, Tokens Traded: > 280) bought $16.63 worth.
+- DXSW...XoNX (Winrate: 51.67%, Tokens Traded: > 180) bought $16.63 worth.
+- 4jgi…PJKP (Winrate: 54.12%, Tokens Traded: > 80) bought $16.63 worth.
+- 215n...gQjP (Winrate: 30.56%, Tokens Traded: > 580) bought $16.63 worth.
+- mW4P…gTsM (Winrate: 50.67%, Tokens Traded: > 150) bought $16.63 worth.
+- RFSq…G6iB (Winrate: 18.96%, Tokens Traded: > 570) bought $16.63 worth.
+- 3h65...axoE (Winrate: 27.73%, Tokens Traded: > 930) bought $16.63 worth.
+- Cuo3…dz7L (Winrate: 48.58%, Tokens Traded: > 350) bought $16.63 worth.
+- HYWo...1ENp (Winrate: 31.43%, Tokens Traded: > 210) bought $16.63 worth.
+- H7Wk...a1ys (Winrate: 21.17%, Tokens Traded: > 130) bought $16.63 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+64, 70, 61, 62, 65, 79, 71
+
+OFFICIAL TRUMP (TRUMP) [4eh94VbwktHyZGDr1hRUp2Pv2VuxeShZYejpwN91rZt9] 🆕🟢:
+No. of smart wallets interacted: 11
+Net amount added: 827.0
+Net amount added (in USD): $1,004.54
+Market cap: 1211658914
+DEX Screener: https://dexscreener.com/solana/4eh94VbwktHyZGDr1hRUp2Pv2VuxeShZYejpwN91rZt9
+Twitter: 
+Telegram: 
+
+Smart wallets that interacted:
+- E4Bd…PdVJ (Winrate: 31.37%, Tokens Traded: > 320) bought $60.73 worth.
+- CU35…n2kK (Winrate: 43.40%, Tokens Traded: > 580) bought $244.15 worth.
+- Ay9w...QiPH (Winrate: 36.09%, Tokens Traded: > 230) bought $121.47 worth.
+- 2Rss...jajq (Winrate: 82.95%, Tokens Traded: > 350) bought $122.68 worth.
+- F8nt...vVY7 (Winrate: 48.76%, Tokens Traded: > 120) bought $48.59 worth.
+- hJRW...whAR (Winrate: 27.72%, Tokens Traded: > 100) bought $121.47 worth.
+- ECCK…zqgP (Winrate: 43.91%, Tokens Traded: > 1070) bought $24.29 worth.
+- ACHh...Y1C7 (Winrate: 40.82%, Tokens Traded: > 40) bought $121.47 worth.
+- 71CP...BABC (Winrate: 64.06%, Tokens Traded: > 60) bought $42.51 worth.
+- 8rkW...KqjT (Winrate: 68.42%, Tokens Traded: > 10) bought $48.59 worth.
+- nPos...yESx (Winrate: 50.00%, Tokens Traded: > 240) bought $48.59 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+47, 34, 34, 36, 37, 43, 44
+
+quarm (quarm) [AqV6Jx5hv2XT2WBWPe3LgtiJa1TvCBAnNxpjk74p5WSJ] 🆕🟢:
+No. of smart wallets interacted: 9
+Net amount added: 48192.0
+Net amount added (in USD): $268.75
+Market cap: 5577171
+DEX Screener: https://dexscreener.com/solana/AqV6Jx5hv2XT2WBWPe3LgtiJa1TvCBAnNxpjk74p5WSJ
+Twitter: 
+Telegram: 
+
+Smart wallets that interacted:
+- HBNH…jFuR (Winrate: 41.74%, Tokens Traded: > 350) bought $29.49 worth.
+- JDPj…MFjk (Winrate: 32.99%, Tokens Traded: > 570) bought $29.49 worth.
+- 5vSg…QbJK (Winrate: 34.52%, Tokens Traded: > 80) bought $31.16 worth.
+- 8sGi…HLT8 (Winrate: 23.33%, Tokens Traded: > 120) bought $29.49 worth.
+- 215n...gQjP (Winrate: 30.56%, Tokens Traded: > 580) bought $29.49 worth.
+- RFSq…G6iB (Winrate: 18.96%, Tokens Traded: > 570) bought $29.49 worth.
+- 9AgR...Yf7v (Winrate: 41.99%, Tokens Traded: > 1590) bought $29.49 worth.
+- CLeg...S168 (Winrate: 30.59%, Tokens Traded: > 80) bought $29.49 worth.
+- 3eJk...H34o bought $31.16 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+49, 39, 43, 34, 39, 100, 73
+
+OFFICIAL TRUMP (TRUMP) [HcpyqnQZ33YYZ2wf2dK5AuM7DjtC3k93izu37Px6nwmv] 🆕🟢:
+No. of smart wallets interacted: 8
+Net amount added: 21345032.1599217
+Net amount added (in USD): $59,761,886.88
+Market cap: 2800083336
+DEX Screener: https://dexscreener.com/solana/HcpyqnQZ33YYZ2wf2dK5AuM7DjtC3k93izu37Px6nwmv
+Twitter: 
+Telegram: 
+
+Smart wallets that interacted:
+- CipP…YEZx (Winrate: 44.58%, Tokens Traded: > 80) bought $59,756,864.04 worth.
+- 57JM…Cd9B (Winrate: 36.14%, Tokens Traded: > 2300) bought $2,797.00 worth.
+- 6neo…zzvL (Winrate: 30.90%, Tokens Traded: > 280) bought $839.94 worth.
+- 2ssN...PkzK (Winrate: 38.74%, Tokens Traded: > 300) bought $277.18 worth.
+- ApH4...XQLu (Winrate: 49.28%, Tokens Traded: > 60) bought $277.18 worth.
+- ATmK…zQL1 (Winrate: 54.45%, Tokens Traded: > 470) bought $277.18 worth.
+- ECCK…zqgP (Winrate: 43.91%, Tokens Traded: > 1070) bought $277.18 worth.
+- ACHh...Y1C7 (Winrate: 40.82%, Tokens Traded: > 40) bought $277.18 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+47, 34, 34, 36, 37, 43, 44
+
+OFFICIAL TRUMP​ (TRUMP​) [FEpUaZVQAegxuApYReBGGd3sXeYzwpbzbm8BnZw8LCoF] 🆕🟢:
+No. of smart wallets interacted: 8
+Net amount added: 67.98
+Net amount added (in USD): $413.03
+Market cap: 8869236654
+DEX Screener: https://dexscreener.com/solana/FEpUaZVQAegxuApYReBGGd3sXeYzwpbzbm8BnZw8LCoF
+Twitter: 
+Telegram: 
+
+Smart wallets that interacted:
+- F8nt...vVY7 (Winrate: 48.76%, Tokens Traded: > 120) bought $52.01 worth.
+- RFSq…G6iB (Winrate: 18.96%, Tokens Traded: > 570) bought $51.40 worth.
+- 9AgR...Yf7v (Winrate: 41.99%, Tokens Traded: > 1590) bought $51.40 worth.
+- ApH4...XQLu (Winrate: 49.28%, Tokens Traded: > 60) bought $51.40 worth.
+- 2cqm...a3d2 (Winrate: 87.67%, Tokens Traded: > 70) bought $52.01 worth.
+- ATmK…zQL1 (Winrate: 54.45%, Tokens Traded: > 470) bought $51.40 worth.
+- ECCK…zqgP (Winrate: 43.91%, Tokens Traded: > 1070) bought $51.40 worth.
+- 8rkW...KqjT (Winrate: 68.42%, Tokens Traded: > 10) bought $52.01 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+80, 57, 57, 55, 56, 58, 76
+
+PYTHIA (PYTHIA) [FvAoJufTDXqCVEjXMpcdi3eF99Pbf1pvNXrwLNixnHK] 🆕🟢:
+No. of smart wallets interacted: 7
+Net amount added: 9016.0
+Net amount added (in USD): $149.52
+Market cap: 16577483
+DEX Screener: https://dexscreener.com/solana/FvAoJufTDXqCVEjXMpcdi3eF99Pbf1pvNXrwLNixnHK
+Twitter: 
+Telegram: 
+
+Smart wallets that interacted:
+- 65ba…Wdg1 (Winrate: 37.70%, Tokens Traded: > 510) bought $21.36 worth.
+- HBNH…jFuR (Winrate: 41.74%, Tokens Traded: > 350) bought $21.36 worth.
+- CRVi...tReL (Winrate: 28.17%, Tokens Traded: > 1380) bought $21.36 worth.
+- F8nt...vVY7 (Winrate: 48.76%, Tokens Traded: > 120) bought $21.36 worth.
+- 5pRp...1q62 (Winrate: 41.94%, Tokens Traded: > 180) bought $21.36 worth.
+- 2ssN...PkzK (Winrate: 38.74%, Tokens Traded: > 300) bought $21.36 worth.
+- ACHh...Y1C7 (Winrate: 40.82%, Tokens Traded: > 40) bought $21.36 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+61, 53, 53, 52, 61, 54, 51
+
+Pyano (pno) [Dq24jPYZBrsaSr3Lk4AeMgqjdyUrckyesm6g4zfUaZfC] 🆕🟢:
+No. of smart wallets interacted: 6
+Net amount added: 19794.0
+Net amount added (in USD): $221.46
+Market cap: 11187910
+DEX Screener: https://dexscreener.com/solana/Dq24jPYZBrsaSr3Lk4AeMgqjdyUrckyesm6g4zfUaZfC
+Twitter: 
+Telegram: 
+
+Smart wallets that interacted:
+- Ay9w...QiPH (Winrate: 36.09%, Tokens Traded: > 230) bought $36.91 worth.
+- DXSW...XoNX (Winrate: 51.67%, Tokens Traded: > 180) bought $36.91 worth.
+- dc5c...3P6J bought $36.91 worth.
+- RFSq…G6iB (Winrate: 18.96%, Tokens Traded: > 570) bought $36.91 worth.
+- 9UWZ...gJHe (Winrate: 63.90%, Tokens Traded: > 240) bought $36.91 worth.
+- 8rvA...y7qR (Winrate: 47.96%, Tokens Traded: > 1670) bought $36.91 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+71, 92, 97, 98, 100, 95, 96
+
+FIGHT (FIGHT) [AAp6ZXk1Lyf175xDWxqdzmDz76toaTsxi1XZhE2L182N] 🆕🟢:
+No. of smart wallets interacted: 5
+Net amount added: 6440.0
+Net amount added (in USD): $105.45
+Market cap: 16374060
+DEX Screener: https://dexscreener.com/solana/AAp6ZXk1Lyf175xDWxqdzmDz76toaTsxi1XZhE2L182N
+Twitter: 
+Telegram: 
+
+Smart wallets that interacted:
+- Ay9w...QiPH (Winrate: 36.09%, Tokens Traded: > 230) bought $21.09 worth.
+- 3imB…VyKo (Winrate: 68.75%, Tokens Traded: > 30) bought $21.09 worth.
+- ECCK…zqgP (Winrate: 43.91%, Tokens Traded: > 1070) bought $21.09 worth.
+- ACHh...Y1C7 (Winrate: 40.82%, Tokens Traded: > 40) bought $21.09 worth.
+- 3eJk...H34o bought $21.09 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+39, 32, 36, 31, 32, 36, 44
+
+Goonicide (GOONICIDE) [GchCmiqeYoRPCHwS9Biww4edK7nDe1mCVzEZ7s3wpump] 🆕🟢:
+No. of smart wallets interacted: 4
+Net amount added: 33268707.956977997
+Net amount added (in USD): $4,718.00
+Market cap: 169354
+DEX Screener: https://dexscreener.com/solana/GchCmiqeYoRPCHwS9Biww4edK7nDe1mCVzEZ7s3wpump
+Twitter: https://x.com/GoonicideSol
+Telegram: https://t.me/gooniverseportal
+
+Smart wallets that interacted:
+- 4t9b...jD2i (Winrate: 92.42%, Tokens Traded: > 60) bought $6.10 worth.
+- AbcX...BbcE (Winrate: 63.63%, Tokens Traded: > 180) bought $2,837.06 worth.
+- 3eJk...H34o sold $0.00 worth.
+- 831q...Auh1 (Winrate: 77.12%, Tokens Traded: > 150) bought $1,874.84 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+0, 0, 0, 0, 1, 19, 100
+
+never sleeping again (NSA) [BsVNT3sNn954uWL44gBQPpUVJBnsxcs2drqVJiMpump] 🆕🟢:
+No. of smart wallets interacted: 3
+Net amount added: 36059114.837241
+Net amount added (in USD): $69,912.78
+Market cap: 1630874
+DEX Screener: https://dexscreener.com/solana/BsVNT3sNn954uWL44gBQPpUVJBnsxcs2drqVJiMpump
+Twitter: https://x.com/search?q=%24NSA&src=typed_query
+Telegram: https://t.me/NeverSleepingAgainOnSOL
+
+Smart wallets that interacted:
+- JDPj…MFjk (Winrate: 32.99%, Tokens Traded: > 570) bought $3,345.54 worth.
+- Ekuz...YxHc (Winrate: 25.76%, Tokens Traded: > 60) bought $22,242.91 worth.
+- 9UWZ...gJHe (Winrate: 63.90%, Tokens Traded: > 240) bought $44,324.33 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+0, 0, 0, 0, 0, 0, 0
+
+Rhun Capital (RHUN) [Gh8yeA9vH5Fun7J6esFH3mV65cQTBpxk9Z5XpzU7pump] 🆕🟢:
+No. of smart wallets interacted: 3
+Net amount added: 24985166.892816
+Net amount added (in USD): $21,016.72
+Market cap: 881667
+DEX Screener: https://dexscreener.com/solana/Gh8yeA9vH5Fun7J6esFH3mV65cQTBpxk9Z5XpzU7pump
+Twitter: https://x.com/rhuncapital
+Telegram: https://t.me/rhuncapital
+
+Smart wallets that interacted:
+- HBNH…jFuR (Winrate: 41.74%, Tokens Traded: > 350) bought $20,967.64 worth.
+- dc5c...3P6J bought $49.08 worth.
+- 3eJk...H34o sold $0.00 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+63, 55, 55, 65, 61, 60, 66
+
+DigiCash (ECASH) [HnCFZNScMWycGAnXUVmj8vHgf9AeWfhTWsVTRzzb4L7s] 🆕🟢:
+No. of smart wallets interacted: 3
+Net amount added: 24188079.583706997
+Net amount added (in USD): $4,279.81
+Market cap: 174747
+DEX Screener: https://dexscreener.com/solana/HnCFZNScMWycGAnXUVmj8vHgf9AeWfhTWsVTRzzb4L7s
+Twitter: https://x.com/ecashonsolana
+Telegram: https://t.me/ecashonsolana
+
+Smart wallets that interacted:
+- AbcX...BbcE (Winrate: 63.63%, Tokens Traded: > 180) bought $1,093.40 worth.
+- ACHh...Y1C7 (Winrate: 40.82%, Tokens Traded: > 40) bought $3,186.41 worth.
+- 3eJk...H34o sold $0.00 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+45, 55, 58, 59, 58, 71, 85
+
+Kaida (KAIDA) [34xtE4vUQ6gpJEqsBkFtzgSedFrhx55jBrn9XDydpump] 🆕🟢:
+No. of smart wallets interacted: 3
+Net amount added: 2498231.878031
+Net amount added (in USD): $992.89
+Market cap: 394069
+DEX Screener: https://dexscreener.com/solana/34xtE4vUQ6gpJEqsBkFtzgSedFrhx55jBrn9XDydpump
+Twitter: https://x.com/heykaida
+Telegram: 
+
+Smart wallets that interacted:
+- 4t9b...jD2i (Winrate: 92.42%, Tokens Traded: > 60) bought $148.69 worth.
+- DXSW...XoNX (Winrate: 51.67%, Tokens Traded: > 180) bought $832.46 worth.
+- DjNj...ABWH (Winrate: 77.94%, Tokens Traded: > 60) bought $11.74 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+64, 70, 61, 62, 65, 79, 71
+
+Make Europe Great Again (MEGA) [4Luvg77ta3WMwjekLvWxp3XfUkY6sSeV8HYNsKogpump] 🆕🟢:
+No. of smart wallets interacted: 2
+Net amount added: 5969863.567064
+Net amount added (in USD): $19,716.43
+Market cap: 2392865
+DEX Screener: https://dexscreener.com/solana/4Luvg77ta3WMwjekLvWxp3XfUkY6sSeV8HYNsKogpump
+Twitter: 
+Telegram: 
+
+Smart wallets that interacted:
+- iWin…QaRL (Winrate: 53.03%, Tokens Traded: > 260) bought $11,182.06 worth.
+- 3imB…VyKo (Winrate: 68.75%, Tokens Traded: > 30) bought $8,534.37 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+71, 90, 85, 86, 90, 81, 74
+
+GEOTUS MAXIMUS (GEOTUS) [J1DXMwq5yincKD2gZZ2LtPiFYpKwsNAqHiie9sPXpump] 🆕🟢:
+No. of smart wallets interacted: 2
+Net amount added: 38207975.814971
+Net amount added (in USD): $3,867.37
+Market cap: 104227
+DEX Screener: https://dexscreener.com/solana/J1DXMwq5yincKD2gZZ2LtPiFYpKwsNAqHiie9sPXpump
+Twitter: https://x.com/geotusmaxonsol?s=21
+Telegram: 
+
+Smart wallets that interacted:
+- ApRn...Hdz1 (Winrate: 62.93%, Tokens Traded: > 370) bought $3,714.95 worth.
+- dc5c...3P6J bought $152.42 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+Data unavailable
+
+AoseAI (AoseAI) [DLRh6v21wqVAeSz58syp6hiJS2PWLyrDN6u1Sbt9pump] 🆕🟢:
+No. of smart wallets interacted: 2
+Net amount added: 876761.483942
+Net amount added (in USD): $571.96
+Market cap: 632713
+DEX Screener: https://dexscreener.com/solana/DLRh6v21wqVAeSz58syp6hiJS2PWLyrDN6u1Sbt9pump
+Twitter: https://x.com/AoseAI
+Telegram: https://t.me/AoseAI
+
+Smart wallets that interacted:
+- DXSW...XoNX (Winrate: 51.67%, Tokens Traded: > 180) bought $523.05 worth.
+- dc5c...3P6J bought $48.91 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+0, 0, 0, 0, 0, 100, 0
+
+PsyNova (PSY) [AcWMeyDqe6FGHK77JRS6zW6PcrS66F7THdB9WpBTpump] 🆕🟢:
+No. of smart wallets interacted: 2
+Net amount added: 722066.132992
+Net amount added (in USD): $112.82
+Market cap: 156334
+DEX Screener: https://dexscreener.com/solana/AcWMeyDqe6FGHK77JRS6zW6PcrS66F7THdB9WpBTpump
+Twitter: https://x.com/PsyNova_AI
+Telegram: https://t.me/PsyNova_AI
+
+Smart wallets that interacted:
+- dc5c...3P6J bought $100.07 worth.
+- DjNj...ABWH (Winrate: 77.94%, Tokens Traded: > 60) bought $12.75 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+94, 85, 85, 93, 89, 88, 66
+
+White Mountain Ermine (Ermine) [81XXRV3BBR3UCNssE7GFDTPZhucVZi9LHTwu1kdPpump] 🆕🟢:
+No. of smart wallets interacted: 2
+Net amount added: 678986.4357990001
+Net amount added (in USD): $110.17
+Market cap: 179631
+DEX Screener: https://dexscreener.com/solana/81XXRV3BBR3UCNssE7GFDTPZhucVZi9LHTwu1kdPpump
+Twitter: https://x.com/erminecto
+Telegram: https://t.me/erminecommunity
+
+Smart wallets that interacted:
+- dc5c...3P6J bought $100.66 worth.
+- DjNj...ABWH (Winrate: 77.94%, Tokens Traded: > 60) bought $9.51 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+Data unavailable
+
+OFFlClAL TRUMP (TRUMP) [D1Wkwp32DLvwRsVFXEv6iCMtK3yYs5PtVdVbCpXYtk8x] 🆕🟢:
+No. of smart wallets interacted: 1
+Net amount added: 8787654.023742534
+Net amount added (in USD): $71,168,040.63
+Market cap: 8099449302
+DEX Screener: https://dexscreener.com/solana/D1Wkwp32DLvwRsVFXEv6iCMtK3yYs5PtVdVbCpXYtk8x
+Twitter: 
+Telegram: 
+
+Smart wallets that interacted:
+- CipP…YEZx (Winrate: 44.58%, Tokens Traded: > 80) bought $71,168,040.63 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+47, 34, 34, 36, 37, 43, 44
+
+AIFI (AIFI) [CPXyYGv4hgxL9JHAsyXDa9wwKUPNkKbWihMWFvPnusJ3] 🆕🟢:
+No. of smart wallets interacted: 1
+Net amount added: 14234516.341712
+Net amount added (in USD): $45,373.09
+Market cap: 3199365
+DEX Screener: https://dexscreener.com/solana/CPXyYGv4hgxL9JHAsyXDa9wwKUPNkKbWihMWFvPnusJ3
+Twitter: 
+Telegram: 
+
+Smart wallets that interacted:
+- Hdxk...Jexp (Winrate: 43.47%, Tokens Traded: > 1070) bought $45,373.09 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+69, 91, 96, 97, 86, 100, 87
+
+Make Europe Great Again (MEGA) [5mfWKJrjVtpZo8EvwbytFWH5X6T8YecxrrYCgskjpump] 🆕🟢:
+No. of smart wallets interacted: 1
+Net amount added: 15941264.023189
+Net amount added (in USD): $28,585.50
+Market cap: 1602469
+DEX Screener: https://dexscreener.com/solana/5mfWKJrjVtpZo8EvwbytFWH5X6T8YecxrrYCgskjpump
+Twitter: https://x.com/search?q=%24MEGA&src=typed_query
+Telegram: https://t.me/makeeuropegreatagainportal
+
+Smart wallets that interacted:
+- 3h65...axoE (Winrate: 27.73%, Tokens Traded: > 930) bought $28,585.50 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+71, 90, 85, 86, 90, 81, 74
+
+47TH (47TH) [3GQaPLQQpEGtftd9n3pbL5Gy3qbH73LkJaSmu7FMhwY8] 🆕🟢:
+No. of smart wallets interacted: 1
+Net amount added: 4594454.5464
+Net amount added (in USD): $12,655.39
+Market cap: 2417300
+DEX Screener: https://dexscreener.com/solana/3GQaPLQQpEGtftd9n3pbL5Gy3qbH73LkJaSmu7FMhwY8
+Twitter: 
+Telegram: 
+
+Smart wallets that interacted:
+- iWin…QaRL (Winrate: 53.03%, Tokens Traded: > 260) bought $12,655.39 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+47, 61, 62, 64, 78, 80, 71
+
+Crime Cycle  (CRIME ) [7ZCvH6kWacXk3Qg3LAqHuMEKCPuACJ8pBGHMWieqpump] 🆕🟢:
+No. of smart wallets interacted: 1
+Net amount added: 1833451.296059
+Net amount added (in USD): $1,494.08
+Market cap: 815947
+DEX Screener: https://dexscreener.com/solana/7ZCvH6kWacXk3Qg3LAqHuMEKCPuACJ8pBGHMWieqpump
+Twitter: https://x.com/TheCrimeCycle
+Telegram: 
+
+Smart wallets that interacted:
+- HUzZ…cVhe (Winrate: 21.56%, Tokens Traded: > 380) bought $1,494.08 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+73, 81, 77, 84, 82, 80, 85
+
+OFFICIAL TRUMP (TRUMP) [7bMQQSYmrJjgDcqxYEpyMdPVp65k1VKAe5ZhjAWwAT2j] 🆕🟢:
+No. of smart wallets interacted: 1
+Net amount added: 100.0
+Net amount added (in USD): $849.94
+Market cap: 8498533916
+DEX Screener: https://dexscreener.com/solana/7bMQQSYmrJjgDcqxYEpyMdPVp65k1VKAe5ZhjAWwAT2j
+Twitter: 
+Telegram: 
+
+Smart wallets that interacted:
+- 687k...TGiL (Winrate: 46.71%, Tokens Traded: > 330) bought $849.94 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+47, 34, 34, 36, 37, 43, 44
+
+QudeAI Framework (Qude) [3MyaQBG7y3SHLQZa282Jh2xtB2TZKHGzNp1CuZ4Cpump] 🆕🟢:
+No. of smart wallets interacted: 1
+Net amount added: 71560.183594
+Net amount added (in USD): $359.72
+Market cap: 4987984
+DEX Screener: https://dexscreener.com/solana/3MyaQBG7y3SHLQZa282Jh2xtB2TZKHGzNp1CuZ4Cpump
+Twitter: https://x.com/Qudeai
+Telegram: https://t.me/qudeai
+
+Smart wallets that interacted:
+- 4t9b...jD2i (Winrate: 92.42%, Tokens Traded: > 60) bought $359.72 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+Data unavailable
+
+Official Barron Trump (BARRON) [6bVpJrLd2ydeEFbXWdWs7BJF6NHucgVvN8kXQDSEpump] 🆕🟢:
+No. of smart wallets interacted: 1
+Net amount added: 1980733.807568
+Net amount added (in USD): $160.22
+Market cap: 129688
+DEX Screener: https://dexscreener.com/solana/6bVpJrLd2ydeEFbXWdWs7BJF6NHucgVvN8kXQDSEpump
+Twitter: 
+Telegram: 
+
+Smart wallets that interacted:
+- dc5c...3P6J bought $160.22 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+87, 84, 100, 88, 81, 81, 73
 
 USD Coin (USDC) [EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v] 🟢:
-No. of smart wallets interacted: 1
-Net amount added: 4767.8251820000005
-Net amount added (in USD): $4,768.19
-Market cap: 43605644292
+No. of smart wallets interacted: 20
+Net amount added: 3436642.212365
+Net amount added (in USD): $3,439,719.90
+Market cap: 47444616520
 DEX Screener: https://dexscreener.com/solana/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v
 Twitter: 
 Telegram: 
 
 Smart wallets that interacted:
-- 8bo9…4QLq (Winrate: 51.61%, Tokens Traded: > 30) bought $4,768.19 worth.
+- CipP…YEZx (Winrate: 44.58%, Tokens Traded: > 80) bought $192.38 worth.
+- suqh…HQfK (Winrate: 75.94%, Tokens Traded: > 7800) bought $220,361.19 worth.
+- CW6X…ezdX (Winrate: 38.14%, Tokens Traded: > 110) bought $61.91 worth.
+- E4Bd…PdVJ (Winrate: 31.37%, Tokens Traded: > 320) sold $6,160.07 worth.
+- 2Qt3...Bk1o (Winrate: 41.67%, Tokens Traded: > 10) sold $0.00 worth.
+- 57JM…Cd9B (Winrate: 36.14%, Tokens Traded: > 2300) bought $0.50 worth.
+- 9U9o...RywZ (Winrate: 51.68%, Tokens Traded: > 140) sold $56,324.33 worth.
+- F8nt...vVY7 (Winrate: 48.76%, Tokens Traded: > 120) sold $300.17 worth.
+- GpNb...mGQi (Winrate: 20.00%, Tokens Traded: > 10) bought $66.49 worth.
+- 4XL3…6iuF (Winrate: 24.35%, Tokens Traded: > 110) bought $316,323.93 worth.
+- 2ssN...PkzK (Winrate: 38.74%, Tokens Traded: > 300) bought $432,072.90 worth.
+- 8bo9…4QLq (Winrate: 51.61%, Tokens Traded: > 30) bought $2,592.69 worth.
+- ApH4...XQLu (Winrate: 49.28%, Tokens Traded: > 60) bought $1,801,304.69 worth.
+- ATmK…zQL1 (Winrate: 54.45%, Tokens Traded: > 470) bought $170,796.70 worth.
+- ECCK…zqgP (Winrate: 43.91%, Tokens Traded: > 1070) bought $32,451.44 worth.
+- 6Lbu…9Y4t (Winrate: 54.22%, Tokens Traded: > 160) sold $95,780.82 worth.
+- 5ea1…2NX8 (Winrate: 26.67%, Tokens Traded: > 120) bought $89,695.43 worth.
+- CLeg...S168 (Winrate: 30.59%, Tokens Traded: > 80) bought $6,001.63 worth.
+- 831q...Auh1 (Winrate: 77.12%, Tokens Traded: > 150) bought $875.03 worth.
+- Dnfu...eBHm (Winrate: 93.48%, Tokens Traded: > 40) bought $525,488.38 worth.
 
 Google Trends' interest score of the token symbol over the past 7 days:
-82, 77, 69, 89, 81, 75, 61
+72, 100, 90, 94, 93, 89, 73
 
-Big Pharmai (DRUGS) [CX9YDTED9TWgVXVoFy8JL9gSSAEWcTv4mzjLSv17LQsj] 🟢:
-No. of smart wallets interacted: 1
-Net amount added: 120548.211763445
-Net amount added (in USD): $3,660.78
-Market cap: 33741494
-DEX Screener: https://dexscreener.com/solana/CX9YDTED9TWgVXVoFy8JL9gSSAEWcTv4mzjLSv17LQsj
-Twitter: https://x.com/Big_Pharmai
-Telegram: https://t.me/big_pharmai_portal
+Red Siberian Husky  (KOVU) [Acud16jqA9j1Hc83JrHYeiN2BpK8LYYQ1h6FGnYrpump] 🔴:
+No. of smart wallets interacted: 20
+Net amount added: -9191497.508456
+Net amount added (in USD): $-24,042.70
+Market cap: 2598085
+DEX Screener: https://dexscreener.com/solana/Acud16jqA9j1Hc83JrHYeiN2BpK8LYYQ1h6FGnYrpump
+Twitter: https://x.com/kovubp
+Telegram: https://t.me/Kovu_CTO
 
 Smart wallets that interacted:
-- DjNj...ABWH (Winrate: 77.94%, Tokens Traded: > 60) bought $3,660.78 worth.
+- E4Bd…PdVJ (Winrate: 31.37%, Tokens Traded: > 320) bought $0.18 worth.
+- CU35…n2kK (Winrate: 43.40%, Tokens Traded: > 580) bought $0.18 worth.
+- Hqkk...m21y (Winrate: 27.11%, Tokens Traded: > 500) bought $0.18 worth.
+- 6KVy...cems (Winrate: 25.81%, Tokens Traded: > 30) bought $0.18 worth.
+- 687k...TGiL (Winrate: 46.71%, Tokens Traded: > 330) bought $18.18 worth.
+- GpNb...mGQi (Winrate: 20.00%, Tokens Traded: > 10) bought $0.18 worth.
+- Fqgs...uw6Y (Winrate: 48.15%, Tokens Traded: > 180) bought $0.18 worth.
+- RFSq…G6iB (Winrate: 18.96%, Tokens Traded: > 570) bought $0.18 worth.
+- 2ssN...PkzK (Winrate: 38.74%, Tokens Traded: > 300) bought $18.27 worth.
+- 5X45...Uq7T (Winrate: 23.81%, Tokens Traded: > 40) bought $0.18 worth.
+- hJRW...whAR (Winrate: 27.72%, Tokens Traded: > 100) bought $0.18 worth.
+- ApH4...XQLu (Winrate: 49.28%, Tokens Traded: > 60) bought $0.18 worth.
+- ATmK…zQL1 (Winrate: 54.45%, Tokens Traded: > 470) bought $18.23 worth.
+- ECCK…zqgP (Winrate: 43.91%, Tokens Traded: > 1070) bought $0.18 worth.
+- HYWo...1ENp (Winrate: 31.43%, Tokens Traded: > 210) bought $18.23 worth.
+- ACHh...Y1C7 (Winrate: 40.82%, Tokens Traded: > 40) sold $24,136.36 worth.
+- 8sHf...xpgv (Winrate: 33.02%, Tokens Traded: > 840) bought $18.23 worth.
+- 8VZe…EhMZ (Winrate: 28.32%, Tokens Traded: > 390) bought $0.18 worth.
+- CLeg...S168 (Winrate: 30.59%, Tokens Traded: > 80) bought $0.18 worth.
+- nPos...yESx (Winrate: 50.00%, Tokens Traded: > 240) bought $0.18 worth.
 
 Google Trends' interest score of the token symbol over the past 7 days:
-73, 79, 74, 68, 77, 72, 69
+84, 95, 95, 93, 86, 87, 52
 
-burnt.fun (BURNT) [burnt3JjFJvvAbKznwrDKxW5U9ZcsKUuCyJVCjKdSVB] 🟢:
-No. of smart wallets interacted: 1
-Net amount added: 4524206.430668
-Net amount added (in USD): $2,379.39
-Market cap: 523400
-DEX Screener: https://dexscreener.com/solana/burnt3JjFJvvAbKznwrDKxW5U9ZcsKUuCyJVCjKdSVB
-Twitter: https://x.com/burntdotfun
-Telegram: https://t.me/burntfun_bot
+Telegram Engine (AIGRAM) [H6EnL9x9ycxcNdQ8YnuxfE4iCnQFcKADC7eoGd9npump] 🟢:
+No. of smart wallets interacted: 15
+Net amount added: 7833814.037005
+Net amount added (in USD): $7,068.87
+Market cap: 894350
+DEX Screener: https://dexscreener.com/solana/H6EnL9x9ycxcNdQ8YnuxfE4iCnQFcKADC7eoGd9npump
+Twitter: https://x.com/aigram_software
+Telegram: https://t.me/aigram_software
 
 Smart wallets that interacted:
-- Dnfu...eBHm (Winrate: 93.48%, Tokens Traded: > 40) bought $2,379.39 worth.
+- CU35…n2kK (Winrate: 43.40%, Tokens Traded: > 580) bought $1.79 worth.
+- CRVi...tReL (Winrate: 28.17%, Tokens Traded: > 1380) bought $1.79 worth.
+- 687k...TGiL (Winrate: 46.71%, Tokens Traded: > 330) bought $1.79 worth.
+- AbcX...BbcE (Winrate: 63.63%, Tokens Traded: > 180) bought $1.80 worth.
+- GpNb...mGQi (Winrate: 20.00%, Tokens Traded: > 10) bought $1.80 worth.
+- 5pRp...1q62 (Winrate: 41.94%, Tokens Traded: > 180) bought $1.80 worth.
+- RFSq…G6iB (Winrate: 18.96%, Tokens Traded: > 570) bought $1.80 worth.
+- 3imB…VyKo (Winrate: 68.75%, Tokens Traded: > 30) bought $7,045.55 worth.
+- 5X45...Uq7T (Winrate: 23.81%, Tokens Traded: > 40) bought $1.80 worth.
+- hJRW...whAR (Winrate: 27.72%, Tokens Traded: > 100) bought $1.79 worth.
+- 8VZe…EhMZ (Winrate: 28.32%, Tokens Traded: > 390) bought $1.79 worth.
+- CLeg...S168 (Winrate: 30.59%, Tokens Traded: > 80) bought $1.79 worth.
+- nPos...yESx (Winrate: 50.00%, Tokens Traded: > 240) bought $1.79 worth.
+- 3eJk...H34o sold $0.00 worth.
+- 8zFZ...c7Zd (Winrate: 45.54%, Tokens Traded: > 100) bought $1.79 worth.
 
 Google Trends' interest score of the token symbol over the past 7 days:
-88, 100, 89, 78, 78, 83, 79
+59, 52, 66, 62, 59, 62, 55
 
-FXN (fxn) [92cRC6kV5D7TiHX1j56AbkPbffo9jwcXxSDQZ8Mopump] 🟢:
-No. of smart wallets interacted: 1
-Net amount added: 26541.392724000005
-Net amount added (in USD): $1,981.02
-Market cap: 67637409
-DEX Screener: https://dexscreener.com/solana/92cRC6kV5D7TiHX1j56AbkPbffo9jwcXxSDQZ8Mopump
-Twitter: https://x.com/joinFXN
-Telegram: https://t.me/fxnfxnfxn
-
-Smart wallets that interacted:
-- 41U2...MfJU (Winrate: 57.89%, Tokens Traded: > 30) bought $1,981.02 worth.
-
-Google Trends' interest score of the token symbol over the past 7 days:
-39, 39, 35, 34, 41, 41, 39
-
-god bless you with mountains (BLESS) [36FWitiFoUybrW9ois4EzMjfBYNhW38Vxsv2Pdwfpump] 🟢:
-No. of smart wallets interacted: 1
-Net amount added: 4291685.978667
-Net amount added (in USD): $843.33
-Market cap: 196435
-DEX Screener: https://dexscreener.com/solana/36FWitiFoUybrW9ois4EzMjfBYNhW38Vxsv2Pdwfpump
-Twitter: https://x.com/blesscto
-Telegram: https://t.me/BLESScto
-
-Smart wallets that interacted:
-- Dnfu...eBHm (Winrate: 93.48%, Tokens Traded: > 40) bought $843.33 worth.
-
-Google Trends' interest score of the token symbol over the past 7 days:
-91, 88, 89, 90, 88, 91, 82
-
-Schizo Terminal (SCHIZO) [H1NPJkh3KUJGbpjkyQD5qG1nrpFW7tHiqek5SAbMpump] 🟢:
-No. of smart wallets interacted: 1
-Net amount added: 59200.893891999964
-Net amount added (in USD): $797.27
-Market cap: 13552624
-DEX Screener: https://dexscreener.com/solana/H1NPJkh3KUJGbpjkyQD5qG1nrpFW7tHiqek5SAbMpump
-Twitter: https://x.com/SchizoTerminal
-Telegram: http://t.me/schizoterminalsol
-
-Smart wallets that interacted:
-- 9GaC…TxWF (Winrate: 65.19%, Tokens Traded: > 290) bought $797.27 worth.
-
-Google Trends' interest score of the token symbol over the past 7 days:
-42, 44, 42, 35, 39, 44, 34
-
-Fartcoin Strategic Reserve (FSR) [2iLNwaXLEEqCeQPenSMJu52nwGGbL8zDn2FysHj7pump] 🟢:
-No. of smart wallets interacted: 1
-Net amount added: 4305788.710507999
-Net amount added (in USD): $553.25
-Market cap: 128312
-DEX Screener: https://dexscreener.com/solana/2iLNwaXLEEqCeQPenSMJu52nwGGbL8zDn2FysHj7pump
-Twitter: https://x.com/fartcoinofsol?s=21&t=wgf5lq8bQUcMNcC3F6L7Sg
+Beenz (Beenz) [9sbrLLnk4vxJajnZWXP9h5qk1NDFw7dz2eHjgemcpump] 🟢:
+No. of smart wallets interacted: 9
+Net amount added: 7897633.489098
+Net amount added (in USD): $88,473.64
+Market cap: 11100816
+DEX Screener: https://dexscreener.com/solana/9sbrLLnk4vxJajnZWXP9h5qk1NDFw7dz2eHjgemcpump
+Twitter: https://x.com/BeenzonSOL
 Telegram: 
 
 Smart wallets that interacted:
-- 41U2...MfJU (Winrate: 57.89%, Tokens Traded: > 30) bought $553.25 worth.
+- 57JM…Cd9B (Winrate: 36.14%, Tokens Traded: > 2300) bought $10,466.68 worth.
+- FCtf…RwDD (Winrate: 31.67%, Tokens Traded: > 60) sold $6,416.81 worth.
+- RFSq…G6iB (Winrate: 18.96%, Tokens Traded: > 570) bought $37,867.78 worth.
+- 5X45...Uq7T (Winrate: 23.81%, Tokens Traded: > 40) sold $23,351.63 worth.
+- ECCK…zqgP (Winrate: 43.91%, Tokens Traded: > 1070) bought $5,641.90 worth.
+- ACHh...Y1C7 (Winrate: 40.82%, Tokens Traded: > 40) bought $87,720.17 worth.
+- CLeg...S168 (Winrate: 30.59%, Tokens Traded: > 80) sold $17,445.59 worth.
+- 3eJk...H34o sold $0.00 worth.
+- 831q...Auh1 (Winrate: 77.12%, Tokens Traded: > 150) sold $6,008.86 worth.
 
 Google Trends' interest score of the token symbol over the past 7 days:
-0, 55, 50, 54, 0, 0, 0
+14, 9, 10, 14, 81, 100, 99
 
-neur.sh (NEUR) [3N2ETvNpPNAxhcaXgkhKoY1yDnQfs41Wnxsx5qNJpump] 🔴:
-No. of smart wallets interacted: 1
-Net amount added: -9306.158085
-Net amount added (in USD): $-344.62
-Market cap: 36912173
-DEX Screener: https://dexscreener.com/solana/3N2ETvNpPNAxhcaXgkhKoY1yDnQfs41Wnxsx5qNJpump
-Twitter: https://x.com/neur_sh
+AGiXT (AGiXT) [F9TgEJLLRUKDRF16HgjUCdJfJ5BK6ucyiW8uJxVPpump] 🟢:
+No. of smart wallets interacted: 8
+Net amount added: 1978886.4786799995
+Net amount added (in USD): $107,756.46
+Market cap: 54482319
+DEX Screener: https://dexscreener.com/solana/F9TgEJLLRUKDRF16HgjUCdJfJ5BK6ucyiW8uJxVPpump
+Twitter: https://x.com/agi_xt
 Telegram: 
 
 Smart wallets that interacted:
-- 4t9b...jD2i (Winrate: 92.42%, Tokens Traded: > 60) sold $344.62 worth.
+- Hedm...NGPe (Winrate: 66.17%, Tokens Traded: > 130) bought $2,724.31 worth.
+- Ay9w...QiPH (Winrate: 36.09%, Tokens Traded: > 230) bought $41,823.10 worth.
+- 5pRp...1q62 (Winrate: 41.94%, Tokens Traded: > 180) bought $58,223.45 worth.
+- DjNj...ABWH (Winrate: 77.94%, Tokens Traded: > 60) bought $78.29 worth.
+- RFSq…G6iB (Winrate: 18.96%, Tokens Traded: > 570) bought $11,484.47 worth.
+- 9AgR...Yf7v (Winrate: 41.99%, Tokens Traded: > 1590) bought $7,817.91 worth.
+- hJRW...whAR (Winrate: 27.72%, Tokens Traded: > 100) sold $19,222.49 worth.
+- 2cqm...a3d2 (Winrate: 87.67%, Tokens Traded: > 70) bought $4,827.42 worth.
 
 Google Trends' interest score of the token symbol over the past 7 days:
-50, 68, 69, 62, 65, 60, 75
+0, 0, 0, 0, 0, 100, 41
 
-kanye (YE) [CQSPU12VppGZB7LeRkEaKzrRBzvo1LyA9mR2ydiwKHaL] 🔴:
-No. of smart wallets interacted: 1
-Net amount added: -59089.28354999999
-Net amount added (in USD): $-685.11
-Market cap: 115647
-DEX Screener: https://dexscreener.com/solana/CQSPU12VppGZB7LeRkEaKzrRBzvo1LyA9mR2ydiwKHaL
-Twitter: https://twitter.com/Yecoinsol
-Telegram: https://t.me/KANYEsol
+FIGHT (FIGHT) [KMnDBXcPXoz6oMJW5XG4tXdwSWpmWEP2RQM1Uujpump] 🟢:
+No. of smart wallets interacted: 6
+Net amount added: 10196790.287682999
+Net amount added (in USD): $210,006.13
+Market cap: 21066580
+DEX Screener: https://dexscreener.com/solana/KMnDBXcPXoz6oMJW5XG4tXdwSWpmWEP2RQM1Uujpump
+Twitter: https://x.com/Fight_on_Solana
+Telegram: https://t.me/FightCoinSolana
 
 Smart wallets that interacted:
-- Biee...2TpW (Winrate: 75.56%, Tokens Traded: > 260) sold $685.11 worth.
+- Hqkk...m21y (Winrate: 27.11%, Tokens Traded: > 500) bought $41,392.60 worth.
+- Ay9w...QiPH (Winrate: 36.09%, Tokens Traded: > 230) bought $42,541.08 worth.
+- dc5c...3P6J bought $49.23 worth.
+- 3imB…VyKo (Winrate: 68.75%, Tokens Traded: > 30) bought $44,462.30 worth.
+- ECCK…zqgP (Winrate: 43.91%, Tokens Traded: > 1070) bought $81,560.92 worth.
+- 3eJk...H34o sold $0.00 worth.
 
 Google Trends' interest score of the token symbol over the past 7 days:
-78, 94, 100, 76, 72, 79, 84
+39, 32, 36, 31, 32, 36, 44
 
-George Droyd (FLOYDAI) [J7tYmq2JnQPvxyhcXpCDrvJnc9R5ts8rv7tgVHDPsw7U] 🔴:
-No. of smart wallets interacted: 1
-Net amount added: -177570.14036800002
-Net amount added (in USD): $-894.38
-Market cap: 5036952
-DEX Screener: https://dexscreener.com/solana/J7tYmq2JnQPvxyhcXpCDrvJnc9R5ts8rv7tgVHDPsw7U
-Twitter: https://x.com/FloydTerminal
-Telegram: https://t.me/FloydTerminal
+Bonk (Bonk) [DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263] 🟢:
+No. of smart wallets interacted: 4
+Net amount added: 79905436649.44493
+Net amount added (in USD): $2,667,068.55
+Market cap: 2567742693
+DEX Screener: https://dexscreener.com/solana/DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263
+Twitter: https://twitter.com/bonk_inu
+Telegram: https://t.me/Official_Bonk_Inu
 
 Smart wallets that interacted:
-- CRVi...tReL (Winrate: 28.17%, Tokens Traded: > 1380) sold $894.38 worth.
+- DjNj...ABWH (Winrate: 77.94%, Tokens Traded: > 60) sold $3,065.77 worth.
+- 4q7r...Lf2s (Winrate: 36.71%, Tokens Traded: > 310) sold $218.18 worth.
+- HYWo...1ENp (Winrate: 31.43%, Tokens Traded: > 210) bought $2,670,276.37 worth.
+- HDU1…Acza (Winrate: 26.77%, Tokens Traded: > 390) bought $76.13 worth.
 
 Google Trends' interest score of the token symbol over the past 7 days:
-77, 81, 82, 76, 84, 100, 86
+27, 31, 35, 38, 39, 48, 54
 
-Digicoin (Digi) [AUdUEc98MGfEHJiJfCgMaW8gKdcfNDio8BFzGKBwjztC] 🔴:
-No. of smart wallets interacted: 1
-Net amount added: -9476097441.155
-Net amount added (in USD): $-971.39
-Market cap: 1985307
-DEX Screener: https://dexscreener.com/solana/AUdUEc98MGfEHJiJfCgMaW8gKdcfNDio8BFzGKBwjztC
-Twitter: https://x.com/Digicoin19
-Telegram: https://t.me/Digicoin19
+AGiXT (AGiXT) [37od1veYNUSyjAywta65nti7Ubpegn3AYVJhHW7Kr75q] 🟢:
+No. of smart wallets interacted: 4
+Net amount added: 18652.0
+Net amount added (in USD): $1,359.88
+Market cap: 72912097
+DEX Screener: https://dexscreener.com/solana/37od1veYNUSyjAywta65nti7Ubpegn3AYVJhHW7Kr75q
+Twitter: 
+Telegram: 
 
 Smart wallets that interacted:
-- H9ZR...fEzb sold $971.39 worth.
+- CW6X…ezdX (Winrate: 38.14%, Tokens Traded: > 110) bought $414.70 worth.
+- 57JM…Cd9B (Winrate: 36.14%, Tokens Traded: > 2300) bought $414.70 worth.
+- CRVi...tReL (Winrate: 28.17%, Tokens Traded: > 1380) bought $414.70 worth.
+- GpNb...mGQi (Winrate: 20.00%, Tokens Traded: > 10) bought $115.78 worth.
 
 Google Trends' interest score of the token symbol over the past 7 days:
-64, 56, 53, 60, 58, 52, 50
+0, 0, 0, 0, 0, 100, 41
 
-SuperFruits AI (SUPAI) [B9QxfiMd6tjSGnJ8nzFK3XbtuQNPKCNkQeehMqgxpump] 🔴:
-No. of smart wallets interacted: 1
-Net amount added: -2143502.9886829993
-Net amount added (in USD): $-2,166.53
-Market cap: 999094
-DEX Screener: https://dexscreener.com/solana/B9QxfiMd6tjSGnJ8nzFK3XbtuQNPKCNkQeehMqgxpump
-Twitter: https://x.com/SuperfruitsAi
-Telegram: https://t.me/superfruitsai
+Buttholes (bhole) [EVgPUtiE6Fg7T6RY16ACmydX7uucpCaqsK3es3u2pump] 🔴:
+No. of smart wallets interacted: 4
+Net amount added: -445724.98887500004
+Net amount added (in USD): $-257.01
+Market cap: 575924
+DEX Screener: https://dexscreener.com/solana/EVgPUtiE6Fg7T6RY16ACmydX7uucpCaqsK3es3u2pump
+Twitter: https://x.com/BholeCoin
+Telegram: https://t.me/buttholes_xyz
 
 Smart wallets that interacted:
-- CRVi...tReL (Winrate: 28.17%, Tokens Traded: > 1380) sold $2,166.53 worth.
+- 687k...TGiL (Winrate: 46.71%, Tokens Traded: > 330) sold $0.00 worth.
+- 2ssN...PkzK (Winrate: 38.74%, Tokens Traded: > 300) sold $257.01 worth.
+- 3h65...axoE (Winrate: 27.73%, Tokens Traded: > 930) sold $0.00 worth.
+- ECCK…zqgP (Winrate: 43.91%, Tokens Traded: > 1070) sold $0.00 worth.
 
 Google Trends' interest score of the token symbol over the past 7 days:
-64, 56, 53, 60, 58, 52, 50
+82, 86, 74, 72, 71, 69, 98
 
-POPPY (POPPY) [GD1AR5uHytu7nHJ9zWYEEHytmLe7MaD8wg6Tzesdpump] 🔴:
-No. of smart wallets interacted: 1
-Net amount added: -1422275.1588689992
-Net amount added (in USD): $-2,926.24
-Market cap: 2104443
-DEX Screener: https://dexscreener.com/solana/GD1AR5uHytu7nHJ9zWYEEHytmLe7MaD8wg6Tzesdpump
-Twitter: https://x.com/POPPYCTOSOL
-Telegram: https://t.me/POPPYSOLCTO
+Block 879613 mined by MARA Pool (879613) [7hGY9j9MQHs9T6P1mxfk4ZyFta25AFB343W9MQnHpump] 🔴:
+No. of smart wallets interacted: 4
+Net amount added: -742017.1140080012
+Net amount added (in USD): $-1,249.59
+Market cap: 1792618
+DEX Screener: https://dexscreener.com/solana/7hGY9j9MQHs9T6P1mxfk4ZyFta25AFB343W9MQnHpump
+Twitter: 
+Telegram: 
 
 Smart wallets that interacted:
-- CRVi...tReL (Winrate: 28.17%, Tokens Traded: > 1380) sold $2,926.24 worth.
+- CLpD...7omB (Winrate: 37.93%, Tokens Traded: > 170) sold $1,389.99 worth.
+- DjNj...ABWH (Winrate: 77.94%, Tokens Traded: > 60) bought $176.24 worth.
+- 2ssN...PkzK (Winrate: 38.74%, Tokens Traded: > 300) sold $35.84 worth.
+- 3eJk...H34o sold $0.00 worth.
 
 Google Trends' interest score of the token symbol over the past 7 days:
-87, 92, 90, 87, 84, 88, 85
+33, 53, 63, 54, 55, 60, 40
 
-BreakBot (BREAK) [6SsQttgcaUa5eSkfmGEbrZCaJfns3hQTywNjAtqNpump] 🔴:
-No. of smart wallets interacted: 1
-Net amount added: -2874761.449188
-Net amount added (in USD): $-3,180.47
-Market cap: 1275167
-DEX Screener: https://dexscreener.com/solana/6SsQttgcaUa5eSkfmGEbrZCaJfns3hQTywNjAtqNpump
-Twitter: https://x.com/breakbotai
-Telegram: https://t.me/breakbotai
+Unicorn Fart Dust (UFD) [eL5fUxj2J4CiQsmW85k5FG9DvuQjjUoBHoQBi2Kpump] 🔴:
+No. of smart wallets interacted: 4
+Net amount added: -46989.96103400001
+Net amount added (in USD): $-11,404.72
+Market cap: 240764598
+DEX Screener: https://dexscreener.com/solana/eL5fUxj2J4CiQsmW85k5FG9DvuQjjUoBHoQBi2Kpump
+Twitter: https://x.com/BasementRon
+Telegram: 
 
 Smart wallets that interacted:
-- CRVi...tReL (Winrate: 28.17%, Tokens Traded: > 1380) sold $3,180.47 worth.
+- DXSW...XoNX (Winrate: 51.67%, Tokens Traded: > 180) sold $1,482.25 worth.
+- DjNj...ABWH (Winrate: 77.94%, Tokens Traded: > 60) sold $662.36 worth.
+- Cnud...cUPc (Winrate: 92.31%, Tokens Traded: > 10) sold $9,206.82 worth.
+- 2cqm...a3d2 (Winrate: 87.67%, Tokens Traded: > 70) sold $53.29 worth.
 
 Google Trends' interest score of the token symbol over the past 7 days:
-91, 79, 81, 91, 96, 93, 94
+76, 91, 92, 90, 87, 92, 76
 
-Shoggoth (Shoggoth) [H2c31USxu35MDkBrGph8pUDUnmzo2e4Rf4hnvL2Upump] 🔴:
-No. of smart wallets interacted: 1
-Net amount added: -88188.44424699998
-Net amount added (in USD): $-3,888.58
-Market cap: 44298222
-DEX Screener: https://dexscreener.com/solana/H2c31USxu35MDkBrGph8pUDUnmzo2e4Rf4hnvL2Upump
-Twitter: https://x.com/Shoggoth_SOL
-Telegram: https://t.me/shoggothcoin
+@POTUS (POTUS) [FtJ6YFiCRFSH1kA4Mo2z1uNuih5bg8Yuye9Hawtpump] 🔴:
+No. of smart wallets interacted: 4
+Net amount added: -29866295.949224997
+Net amount added (in USD): $-20,511.40
+Market cap: 691865
+DEX Screener: https://dexscreener.com/solana/FtJ6YFiCRFSH1kA4Mo2z1uNuih5bg8Yuye9Hawtpump
+Twitter: https://x.com/POTUS
+Telegram: 
 
 Smart wallets that interacted:
-- 8sGi…HLT8 (Winrate: 23.33%, Tokens Traded: > 120) sold $3,888.58 worth.
+- 687k...TGiL (Winrate: 46.71%, Tokens Traded: > 330) bought $2,205.96 worth.
+- DfMx...Xhzj (Winrate: 87.21%, Tokens Traded: > 1570) sold $1,006.99 worth.
+- 2ssN...PkzK (Winrate: 38.74%, Tokens Traded: > 300) bought $2,283.60 worth.
+- 5ea1…2NX8 (Winrate: 26.67%, Tokens Traded: > 120) sold $23,993.97 worth.
 
 Google Trends' interest score of the token symbol over the past 7 days:
-51, 49, 56, 52, 45, 50, 53
+74, 66, 71, 71, 82, 87, 81
 
-TRI SIGMA (TRISIG) [BLDiYcvm3CLcgZ7XUBPgz6idSAkNmWY6MBbm8Xpjpump] 🔴:
-No. of smart wallets interacted: 1
-Net amount added: -191381.921265
-Net amount added (in USD): $-6,426.82
-Market cap: 33622124
-DEX Screener: https://dexscreener.com/solana/BLDiYcvm3CLcgZ7XUBPgz6idSAkNmWY6MBbm8Xpjpump
-Twitter: https://x.com/tri_sigma_
-Telegram: https://t.me/trisigmaaiportal
+AI Rig Complex (arc) [61V8vBaqAGMpgDQi4JcAwo1dmBGHsyhzodcPqnEVpump] 🟢:
+No. of smart wallets interacted: 3
+Net amount added: 260178.33443600003
+Net amount added (in USD): $103,717.74
+Market cap: 402415786
+DEX Screener: https://dexscreener.com/solana/61V8vBaqAGMpgDQi4JcAwo1dmBGHsyhzodcPqnEVpump
+Twitter: https://x.com/arcdotfun
+Telegram: https://t.me/arcfunportal
 
 Smart wallets that interacted:
-- DjNj...ABWH (Winrate: 77.94%, Tokens Traded: > 60) sold $6,426.82 worth.
+- dc5c...3P6J bought $0.02 worth.
+- 2cqm...a3d2 (Winrate: 87.67%, Tokens Traded: > 70) sold $1,879.34 worth.
+- 8sHf...xpgv (Winrate: 33.02%, Tokens Traded: > 840) bought $105,597.06 worth.
 
 Google Trends' interest score of the token symbol over the past 7 days:
-83, 73, 47, 79, 73, 66, 45
+91, 87, 90, 95, 90, 90, 93
 
-AImerica (UAI) [haahyN2RTafHNNySeXKoowgGF7DdX5b5nGNGmghpump] 🔴:
-No. of smart wallets interacted: 1
-Net amount added: -452472.8988310001
-Net amount added (in USD): $-7,126.79
-Market cap: 15762514
-DEX Screener: https://dexscreener.com/solana/haahyN2RTafHNNySeXKoowgGF7DdX5b5nGNGmghpump
-Twitter: https://x.com/aimericauai
-Telegram: https://t.me/aimericaverify
+Zero Ontology System (SOLFUNMEME) [BwUTq7fS6sfUmHDwAiCQZ3asSiPEapW5zDrsbwtapump] 🟢:
+No. of smart wallets interacted: 3
+Net amount added: 5000021.326294001
+Net amount added (in USD): $29,484.75
+Market cap: 6283275
+DEX Screener: https://dexscreener.com/solana/BwUTq7fS6sfUmHDwAiCQZ3asSiPEapW5zDrsbwtapump
+Twitter: https://twitter.com/introsp3ctor/
+Telegram: https://t.me/introsp3ctor
 
 Smart wallets that interacted:
-- Hdxk...Jexp (Winrate: 43.47%, Tokens Traded: > 1070) sold $7,126.79 worth.
+- 3h65...axoE (Winrate: 27.73%, Tokens Traded: > 930) bought $38,995.79 worth.
+- HDU1…Acza (Winrate: 26.77%, Tokens Traded: > 390) sold $9,511.04 worth.
+- 3eJk...H34o sold $0.00 worth.
 
 Google Trends' interest score of the token symbol over the past 7 days:
-81, 53, 47, 87, 81, 54, 45
+Data unavailable
 
-Autonomous Virtual Beings  (AVB) [6d5zHW5B8RkGKd51Lpb9RqFQSqDudr9GJgZ1SgQZpump] 🔴:
-No. of smart wallets interacted: 1
-Net amount added: -506372.36149599985
-Net amount added (in USD): $-7,348.14
-Market cap: 14557224
-DEX Screener: https://dexscreener.com/solana/6d5zHW5B8RkGKd51Lpb9RqFQSqDudr9GJgZ1SgQZpump
-Twitter: https://x.com/AVbeingsCTO
-Telegram: https://t.me/avbeings
+USDT (USDT) [Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB] 🟢:
+No. of smart wallets interacted: 3
+Net amount added: 16846.288181
+Net amount added (in USD): $16,768.67
+Market cap: 1890776112
+DEX Screener: https://dexscreener.com/solana/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB
+Twitter: 
+Telegram: https://t.me/HardSnipe
 
 Smart wallets that interacted:
-- 41U2...MfJU (Winrate: 57.89%, Tokens Traded: > 30) sold $7,348.14 worth.
+- DjNj...ABWH (Winrate: 77.94%, Tokens Traded: > 60) sold $479.80 worth.
+- ATmK…zQL1 (Winrate: 54.45%, Tokens Traded: > 470) bought $0.05 worth.
+- ECCK…zqgP (Winrate: 43.91%, Tokens Traded: > 1070) bought $17,248.42 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+65, 76, 76, 82, 85, 89, 90
+
+CodeCraft AI (CRAFT) [DFkp2Jd5y4rCuPJAz9djtqUMHyVF5FxRkVgjztyGpump] 🟢:
+No. of smart wallets interacted: 3
+Net amount added: 12192586.973051999
+Net amount added (in USD): $10,205.04
+Market cap: 891853
+DEX Screener: https://dexscreener.com/solana/DFkp2Jd5y4rCuPJAz9djtqUMHyVF5FxRkVgjztyGpump
+Twitter: https://x.com/CodeCraftiAI
+Telegram: https://t.me/CodeCraftAI_SOL
+
+Smart wallets that interacted:
+- 41U2...MfJU (Winrate: 57.89%, Tokens Traded: > 30) bought $2,813.31 worth.
+- dc5c...3P6J bought $48.00 worth.
+- HDU1…Acza (Winrate: 26.77%, Tokens Traded: > 390) bought $7,343.73 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+65, 76, 76, 82, 85, 89, 90
+
+Alana AI (LANA) [CFiSLiazrErH5bTgm9QmMmmAJ75QM1fno84PXyGYpump] 🟢:
+No. of smart wallets interacted: 3
+Net amount added: 3697557.435757001
+Net amount added (in USD): $9,971.57
+Market cap: 2677348
+DEX Screener: https://dexscreener.com/solana/CFiSLiazrErH5bTgm9QmMmmAJ75QM1fno84PXyGYpump
+Twitter: https://x.com/alana_nectar
+Telegram: https://t.me/alana_nectar
+
+Smart wallets that interacted:
+- RFSq…G6iB (Winrate: 18.96%, Tokens Traded: > 570) sold $4,882.32 worth.
+- ApH4...XQLu (Winrate: 49.28%, Tokens Traded: > 60) bought $14,853.89 worth.
+- 3eJk...H34o sold $0.00 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+65, 76, 76, 82, 85, 89, 90
+
+quarm (quarm) [2zEgJriivukRSTsmCpGGjn3Kf8SykUixf3M7ct3Hpump] 🟢:
+No. of smart wallets interacted: 3
+Net amount added: 2306116.2884840006
+Net amount added (in USD): $5,366.14
+Market cap: 2282101
+DEX Screener: https://dexscreener.com/solana/2zEgJriivukRSTsmCpGGjn3Kf8SykUixf3M7ct3Hpump
+Twitter: https://x.com/miao16z
+Telegram: https://t.me/quarmportal
+
+Smart wallets that interacted:
+- CLpD...7omB (Winrate: 37.93%, Tokens Traded: > 170) bought $1,123.94 worth.
+- 5vSg…QbJK (Winrate: 34.52%, Tokens Traded: > 80) bought $4,242.20 worth.
+- 3eJk...H34o sold $0.00 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+49, 39, 43, 34, 39, 100, 73
+
+Pippin (pippin) [Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump] 🟢:
+No. of smart wallets interacted: 3
+Net amount added: 48543.72817599989
+Net amount added (in USD): $5,185.85
+Market cap: 106732354
+DEX Screener: https://dexscreener.com/solana/Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump
+Twitter: https://x.com/pippinlovesyou
+Telegram: https://t.me/PippinPortal
+
+Smart wallets that interacted:
+- ApH4...XQLu (Winrate: 49.28%, Tokens Traded: > 60) sold $23,448.65 worth.
+- 2cqm...a3d2 (Winrate: 87.67%, Tokens Traded: > 70) bought $5,550.89 worth.
+- 8sHf...xpgv (Winrate: 33.02%, Tokens Traded: > 840) bought $23,083.61 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+95, 87, 78, 72, 69, 73, 79
+
+First Crypto President (FCP) [ix6yKSNAFZwxAigWDnYcCNW5kqUAgSmVwysx1MKpump] 🟢:
+No. of smart wallets interacted: 3
+Net amount added: 299769.01847
+Net amount added (in USD): $215.36
+Market cap: 719027
+DEX Screener: https://dexscreener.com/solana/ix6yKSNAFZwxAigWDnYcCNW5kqUAgSmVwysx1MKpump
+Twitter: https://x.com/fcpsol
+Telegram: https://t.me/firstcryptopresidentcoin
+
+Smart wallets that interacted:
+- 2qvs…xgWy (Winrate: 38.32%, Tokens Traded: > 480) bought $114.53 worth.
+- 687k...TGiL (Winrate: 46.71%, Tokens Traded: > 330) bought $50.18 worth.
+- 8zFZ...c7Zd (Winrate: 45.54%, Tokens Traded: > 100) bought $50.65 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+30, 86, 93, 73, 52, 71, 100
+
+AlphaArc (alpha) [Cg93SZJkHePybZqGDuyXLf5Ag5sB2cpWfHUG8wNPpump] 🔴:
+No. of smart wallets interacted: 3
+Net amount added: -44139.84370899999
+Net amount added (in USD): $-1,534.33
+Market cap: 34083930
+DEX Screener: https://dexscreener.com/solana/Cg93SZJkHePybZqGDuyXLf5Ag5sB2cpWfHUG8wNPpump
+Twitter: https://x.com/AlphaArc4k
+Telegram: 
+
+Smart wallets that interacted:
+- dc5c...3P6J sold $11.30 worth.
+- 2cqm...a3d2 (Winrate: 87.67%, Tokens Traded: > 70) sold $1,523.03 worth.
+- 3eJk...H34o sold $0.00 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+81, 90, 91, 91, 86, 91, 86
+
+Fartcoin  (Fartcoin ) [9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump] 🟢:
+No. of smart wallets interacted: 2
+Net amount added: 227183.816871
+Net amount added (in USD): $335,793.32
+Market cap: 1471308239
+DEX Screener: https://dexscreener.com/solana/9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump
+Twitter: https://x.com/FartCoinOfSOL
+Telegram: 
+
+Smart wallets that interacted:
+- 2Qt3...Bk1o (Winrate: 41.67%, Tokens Traded: > 10) bought $307,365.45 worth.
+- Biee...2TpW (Winrate: 75.56%, Tokens Traded: > 260) bought $28,427.87 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+81, 90, 91, 91, 86, 91, 86
+
+dog with apple in mouth (APPLE) [H33XL6HHDReCVRgSApZpsXM7Hy7JGyLztRJaGxjapump] 🟢:
+No. of smart wallets interacted: 2
+Net amount added: 4918036.068821001
+Net amount added (in USD): $101,429.24
+Market cap: 20435586
+DEX Screener: https://dexscreener.com/solana/H33XL6HHDReCVRgSApZpsXM7Hy7JGyLztRJaGxjapump
+Twitter: https://x.com/Apple_Dog_Sol
+Telegram: https://t.me/AppleDogPortal
+
+Smart wallets that interacted:
+- 6KVy...cems (Winrate: 25.81%, Tokens Traded: > 30) bought $101,408.92 worth.
+- dc5c...3P6J bought $20.32 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+91, 92, 99, 99, 94, 96, 100
+
+360noscope420blazeit (MLG) [7XJiwLDrjzxDYdZipnJXzpr1iDTmK55XixSFAa7JgNEL] 🟢:
+No. of smart wallets interacted: 2
+Net amount added: 1318394.7099789993
+Net amount added (in USD): $91,230.29
+Market cap: 70321574
+DEX Screener: https://dexscreener.com/solana/7XJiwLDrjzxDYdZipnJXzpr1iDTmK55XixSFAa7JgNEL
+Twitter: https://x.com/MLGsolana420
+Telegram: https://t.me/MLGCTOPORTAL
+
+Smart wallets that interacted:
+- 9jyq…AVVz (Winrate: 41.67%, Tokens Traded: > 880) sold $27,231.71 worth.
+- 8zFZ...c7Zd (Winrate: 45.54%, Tokens Traded: > 100) bought $118,462.00 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+61, 63, 65, 69, 67, 63, 65
+
+ROSSCOIN (ROSSCOIN) [EkVYMGehJKAFowTQpGoxiCpDTRNEoGanwvNUYXhqpump] 🟢:
+No. of smart wallets interacted: 2
+Net amount added: 4311105.9099510005
+Net amount added (in USD): $84,855.07
+Market cap: 19552665
+DEX Screener: https://dexscreener.com/solana/EkVYMGehJKAFowTQpGoxiCpDTRNEoGanwvNUYXhqpump
+Twitter: https://x.com/RealRossCoin
+Telegram: https://t.me/RossCoin
+
+Smart wallets that interacted:
+- 6Lbu…9Y4t (Winrate: 54.22%, Tokens Traded: > 160) bought $26,485.88 worth.
+- HDU1…Acza (Winrate: 26.77%, Tokens Traded: > 390) bought $58,369.19 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+0, 0, 8, 0, 100, 80, 27
+
+yesnoerror (YNE) [7D1iYWfhw2cr9yBZBFE6nZaaSUvXHqG5FizFFEZwpump] 🟢:
+No. of smart wallets interacted: 2
+Net amount added: 786212.001405
+Net amount added (in USD): $43,001.91
+Market cap: 55542025
+DEX Screener: https://dexscreener.com/solana/7D1iYWfhw2cr9yBZBFE6nZaaSUvXHqG5FizFFEZwpump
+Twitter: https://x.com/yesnoerror
+Telegram: https://t.me/yes_no_error
+
+Smart wallets that interacted:
+- Biee...2TpW (Winrate: 75.56%, Tokens Traded: > 260) sold $2,078.78 worth.
+- 8sHf...xpgv (Winrate: 33.02%, Tokens Traded: > 840) bought $45,080.69 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+89, 78, 78, 77, 70, 72, 68
+
+trump pump (TP) [6XFudZ7DDQq633Wad8cQmV7vTN5SdkE82GG6JDUzpump] 🟢:
+No. of smart wallets interacted: 2
+Net amount added: 23350633.616614
+Net amount added (in USD): $31,719.76
+Market cap: 1357023
+DEX Screener: https://dexscreener.com/solana/6XFudZ7DDQq633Wad8cQmV7vTN5SdkE82GG6JDUzpump
+Twitter: https://x.com/trumppumpsolana
+Telegram: https://t.me/TrumpPumpOnSolana
+
+Smart wallets that interacted:
+- mW4P…gTsM (Winrate: 50.67%, Tokens Traded: > 150) bought $5,673.03 worth.
+- 5ea1…2NX8 (Winrate: 26.67%, Tokens Traded: > 120) bought $26,046.73 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+83, 90, 92, 93, 90, 93, 63
+
+M3M3 (M3M3) [M3M3pSFptfpZYnWNUgAbyWzKKgPo5d1eWmX6tbiSF2K] 🟢:
+No. of smart wallets interacted: 2
+Net amount added: 227050.72279979198
+Net amount added (in USD): $31,010.73
+Market cap: 141133088
+DEX Screener: https://dexscreener.com/solana/M3M3pSFptfpZYnWNUgAbyWzKKgPo5d1eWmX6tbiSF2K
+Twitter: https://x.com/WEAREM3M3_
+Telegram: https://t.me/WEAREM3M3
+
+Smart wallets that interacted:
+- 8Hkb...2upg (Winrate: 60.00%, Tokens Traded: > 5) bought $18,413.22 worth.
+- 8bo9…4QLq (Winrate: 51.61%, Tokens Traded: > 30) bought $12,597.51 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+20, 26, 28, 26, 39, 40, 49
+
+TopDawg.fun (TopD) [36RdKLxTawWTw1M5KJJpHc77ShLrcFjQyfBby4nopump] 🟢:
+No. of smart wallets interacted: 2
+Net amount added: 8449897.406772
+Net amount added (in USD): $17,192.84
+Market cap: 2024668
+DEX Screener: https://dexscreener.com/solana/36RdKLxTawWTw1M5KJJpHc77ShLrcFjQyfBby4nopump
+Twitter: https://x.com/0xTopDawg
+Telegram: https://t.me/topdawg_fun
+
+Smart wallets that interacted:
+- ApRn...Hdz1 (Winrate: 62.93%, Tokens Traded: > 370) bought $17,192.84 worth.
+- 3eJk...H34o sold $0.00 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+61, 56, 52, 47, 55, 59, 64
+
+cat wif hat (CWH) [2gkevSAUExkSUwwwj6uNbzwwNCXyzEBkGLg4wAyUpump] 🟢:
+No. of smart wallets interacted: 2
+Net amount added: 4113869.9322339986
+Net amount added (in USD): $16,515.12
+Market cap: 4174887
+DEX Screener: https://dexscreener.com/solana/2gkevSAUExkSUwwwj6uNbzwwNCXyzEBkGLg4wAyUpump
+Twitter: https://x.com/CatWifHatCWH
+Telegram: https://t.me/CWHcommunity
+
+Smart wallets that interacted:
+- ACHh...Y1C7 (Winrate: 40.82%, Tokens Traded: > 40) bought $16,515.12 worth.
+- 3eJk...H34o sold $0.00 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+91, 87, 90, 95, 90, 90, 93
+
+Elon Coin (ELONCOIN) [68ezQzEjRkHDCrhLYCpzvoY4ADKct6GdVZKPSMCJpump] 🟢:
+No. of smart wallets interacted: 2
+Net amount added: 34138252.77952
+Net amount added (in USD): $9,197.75
+Market cap: 268658
+DEX Screener: https://dexscreener.com/solana/68ezQzEjRkHDCrhLYCpzvoY4ADKct6GdVZKPSMCJpump
+Twitter: 
+Telegram: 
+
+Smart wallets that interacted:
+- suqh…HQfK (Winrate: 75.94%, Tokens Traded: > 7800) bought $6,525.05 worth.
+- ECCK…zqgP (Winrate: 43.91%, Tokens Traded: > 1070) bought $2,672.70 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+72, 100, 90, 94, 93, 89, 73
+
+Pillzumi (PILLZUMI) [97Mbx6Jym1iEkQdVfLf5PMWL5tARGnQ5na5jhR9Lpump] 🟢:
+No. of smart wallets interacted: 2
+Net amount added: 1794473.340757
+Net amount added (in USD): $7,908.15
+Market cap: 4235332
+DEX Screener: https://dexscreener.com/solana/97Mbx6Jym1iEkQdVfLf5PMWL5tARGnQ5na5jhR9Lpump
+Twitter: https://x.com/pillzumi
+Telegram: https://t.me/pillzumi
+
+Smart wallets that interacted:
+- H7Wk...a1ys (Winrate: 21.17%, Tokens Traded: > 130) bought $7,908.15 worth.
+- 3eJk...H34o sold $0.00 worth.
 
 Google Trends' interest score of the token symbol over the past 7 days:
 0, 0, 0, 0, 0, 0, 0
 
-Kolin (KOLIN) [4q3Z58YxrZEAVMLtMwnm7eHtodSD3LSpSNt3pDnqpump] 🔴:
-No. of smart wallets interacted: 1
-Net amount added: -1335956.0611220002
-Net amount added (in USD): $-14,364.36
-Market cap: 10746714
-DEX Screener: https://dexscreener.com/solana/4q3Z58YxrZEAVMLtMwnm7eHtodSD3LSpSNt3pDnqpump
-Twitter: https://x.com/kolin_ai
-Telegram: https://t.me/kolin_ai
+Realis Worlds (REALIS) [EBGaJP7srpUUN8eRdta1MsojrNtweuHYsdP3P1TRpump] 🟢:
+No. of smart wallets interacted: 2
+Net amount added: 536068.2929410003
+Net amount added (in USD): $7,065.87
+Market cap: 12659578
+DEX Screener: https://dexscreener.com/solana/EBGaJP7srpUUN8eRdta1MsojrNtweuHYsdP3P1TRpump
+Twitter: https://x.com/realisworlds
+Telegram: 
 
 Smart wallets that interacted:
-- 41U2...MfJU (Winrate: 57.89%, Tokens Traded: > 30) sold $14,364.36 worth.
+- ApRn...Hdz1 (Winrate: 62.93%, Tokens Traded: > 370) bought $13,070.33 worth.
+- Cnud...cUPc (Winrate: 92.31%, Tokens Traded: > 10) sold $6,004.46 worth.
 
 Google Trends' interest score of the token symbol over the past 7 days:
-89, 73, 84, 83, 96, 92, 87
+67, 75, 69, 71, 68, 70, 61
 
-Alchemist AI (ALCH) [HNg5PYJmtqcmzXrv6S9zP1CDKk5BgDuyFBxbvNApump] 🔴:
-No. of smart wallets interacted: 1
-Net amount added: -500127.468408
-Net amount added (in USD): $-38,638.88
-Market cap: 65499143
+Mements (MEMENTS) [FB4oRMhbV8kD6YH6hRErmdUxPPFrz1LdQfwE9JDNpump] 🟢:
+No. of smart wallets interacted: 2
+Net amount added: 1538196.6626970002
+Net amount added (in USD): $6,871.62
+Market cap: 4478891
+DEX Screener: https://dexscreener.com/solana/FB4oRMhbV8kD6YH6hRErmdUxPPFrz1LdQfwE9JDNpump
+Twitter: https://x.com/Mementsofficial
+Telegram: https://t.me/mementsofficial
+
+Smart wallets that interacted:
+- 3h65...axoE (Winrate: 27.73%, Tokens Traded: > 930) bought $6,871.62 worth.
+- 3eJk...H34o sold $0.00 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+37, 48, 55, 35, 44, 50, 0
+
+RIP ETH _/\_ (RIPETH) [HHyqD6kLviJzTHxrNzgzjXLr2WLprbJBbzwziybKpump] 🟢:
+No. of smart wallets interacted: 2
+Net amount added: 22147900.059694
+Net amount added (in USD): $6,200.63
+Market cap: 243289
+DEX Screener: https://dexscreener.com/solana/HHyqD6kLviJzTHxrNzgzjXLr2WLprbJBbzwziybKpump
+Twitter: https://x.com/ripeth_cto
+Telegram: https://t.me/Ripethcommunity
+
+Smart wallets that interacted:
+- 3imB…VyKo (Winrate: 68.75%, Tokens Traded: > 30) bought $2,906.85 worth.
+- 71CP...BABC (Winrate: 64.06%, Tokens Traded: > 60) bought $3,293.78 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+92, 92, 93, 98, 90, 93, 100
+
+Alchemist AI (ALCH) [HNg5PYJmtqcmzXrv6S9zP1CDKk5BgDuyFBxbvNApump] 🟢:
+No. of smart wallets interacted: 2
+Net amount added: 48719.971386000005
+Net amount added (in USD): $4,789.56
+Market cap: 82726299
 DEX Screener: https://dexscreener.com/solana/HNg5PYJmtqcmzXrv6S9zP1CDKk5BgDuyFBxbvNApump
 Twitter: https://x.com/alchemistAIapp
 Telegram: 
 
 Smart wallets that interacted:
-- CRVi...tReL (Winrate: 28.17%, Tokens Traded: > 1380) sold $38,638.88 worth.
+- dc5c...3P6J bought $24.01 worth.
+- 2cqm...a3d2 (Winrate: 87.67%, Tokens Traded: > 70) bought $4,765.55 worth.
 
 Google Trends' interest score of the token symbol over the past 7 days:
-89, 73, 84, 83, 96, 92, 87
+92, 92, 93, 98, 90, 93, 100
+
+Z̶A̴I̴L̶G̶O̸ (ZAILGO) [GorvUUSkJGSzJUebM5W6berUkZ5pG8nmnn7tmk74pump] 🟢:
+No. of smart wallets interacted: 2
+Net amount added: 297139.093584
+Net amount added (in USD): $2,272.21
+Market cap: 7665898
+DEX Screener: https://dexscreener.com/solana/GorvUUSkJGSzJUebM5W6berUkZ5pG8nmnn7tmk74pump
+Twitter: https://x.com/wedtm
+Telegram: 
+
+Smart wallets that interacted:
+- 2cqm...a3d2 (Winrate: 87.67%, Tokens Traded: > 70) bought $2,272.21 worth.
+- 3eJk...H34o sold $0.00 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+7, 5, 6, 7, 0, 0, 0
+
+smol bun (BUN) [GjCqkMr8uvYibgummgXXcrD7jtxUQ17Ljtr8uo4zRULC] 🟢:
+No. of smart wallets interacted: 2
+Net amount added: 8477685.678005999
+Net amount added (in USD): $2,239.34
+Market cap: 242374
+DEX Screener: https://dexscreener.com/solana/GjCqkMr8uvYibgummgXXcrD7jtxUQ17Ljtr8uo4zRULC
+Twitter: https://x.com/bunsolanacto?s=21
+Telegram: https://t.me/bunctoofficial
+
+Smart wallets that interacted:
+- dc5c...3P6J bought $100.80 worth.
+- Biee...2TpW (Winrate: 75.56%, Tokens Traded: > 260) bought $2,138.54 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+95, 77, 80, 79, 81, 84, 85
+
+neur.sh (NEUR) [3N2ETvNpPNAxhcaXgkhKoY1yDnQfs41Wnxsx5qNJpump] 🟢:
+No. of smart wallets interacted: 2
+Net amount added: 57276.61631700001
+Net amount added (in USD): $1,934.79
+Market cap: 29716351
+DEX Screener: https://dexscreener.com/solana/3N2ETvNpPNAxhcaXgkhKoY1yDnQfs41Wnxsx5qNJpump
+Twitter: https://x.com/neur_sh
+Telegram: 
+
+Smart wallets that interacted:
+- DjNj...ABWH (Winrate: 77.94%, Tokens Traded: > 60) bought $1,350.55 worth.
+- 2cqm...a3d2 (Winrate: 87.67%, Tokens Traded: > 70) bought $584.24 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+66, 73, 73, 73, 73, 68, 59
+
+SwarmNode.ai (SNAI) [Hjw6bEcHtbHGpQr8onG3izfJY5DJiWdt7uk2BfdSpump] 🟢:
+No. of smart wallets interacted: 2
+Net amount added: 27815.955270000093
+Net amount added (in USD): $1,039.35
+Market cap: 34202594
+DEX Screener: https://dexscreener.com/solana/Hjw6bEcHtbHGpQr8onG3izfJY5DJiWdt7uk2BfdSpump
+Twitter: https://x.com/swarmnode
+Telegram: 
+
+Smart wallets that interacted:
+- DfMx...Xhzj (Winrate: 87.21%, Tokens Traded: > 1570) sold $1,489.07 worth.
+- 2cqm...a3d2 (Winrate: 87.67%, Tokens Traded: > 70) bought $2,528.42 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+80, 68, 69, 64, 63, 69, 56
+
+Vectorobot (Vectorbot) [HaK57tEYZZs7ud3uCwkBUe2QKf3YW2Skp6fZ5Ea7pump] 🟢:
+No. of smart wallets interacted: 2
+Net amount added: 5708455.137666
+Net amount added (in USD): $968.31
+Market cap: 170662
+DEX Screener: https://dexscreener.com/solana/HaK57tEYZZs7ud3uCwkBUe2QKf3YW2Skp6fZ5Ea7pump
+Twitter: https://x.com/Vectorobot
+Telegram: https://t.me/firstvectorobot
+
+Smart wallets that interacted:
+- dc5c...3P6J bought $48.82 worth.
+- AVCX…x9Fz (Winrate: 24.24%, Tokens Traded: > 130) bought $919.49 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+0, 0, 0, 0, 0, 0, 0
+
+ORBIT (GRIFT) [GekTNfm84QfyP2GdAHZ5AgACBRd69aNmgA5FDhZupump] 🟢:
+No. of smart wallets interacted: 2
+Net amount added: 9495.183792000003
+Net amount added (in USD): $941.17
+Market cap: 85114139
+DEX Screener: https://dexscreener.com/solana/GekTNfm84QfyP2GdAHZ5AgACBRd69aNmgA5FDhZupump
+Twitter: https://x.com/orbitcryptoai
+Telegram: 
+
+Smart wallets that interacted:
+- DjNj...ABWH (Winrate: 77.94%, Tokens Traded: > 60) bought $2,258.16 worth.
+- 2cqm...a3d2 (Winrate: 87.67%, Tokens Traded: > 70) sold $1,316.99 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+75, 71, 72, 76, 73, 74, 75
+
+SYMBaiEX (symx) [Fu4jQQpUnECSVQrVfeeVPpQpXQffM75LL328EJPtpump] 🟢:
+No. of smart wallets interacted: 2
+Net amount added: 1103828.507788
+Net amount added (in USD): $733.39
+Market cap: 666015
+DEX Screener: https://dexscreener.com/solana/Fu4jQQpUnECSVQrVfeeVPpQpXQffM75LL328EJPtpump
+Twitter: https://x.com/SYMBiEX
+Telegram: https://t.me/SYMBaiEX
+
+Smart wallets that interacted:
+- Hedm...NGPe (Winrate: 66.17%, Tokens Traded: > 130) bought $665.29 worth.
+- dc5c...3P6J bought $68.10 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+0, 0, 0, 0, 100, 0, 0
+
+Trump (TRUMP) [DBNLn6C32cMmbh8ABcioWgv3ninciwUyfjgL1wyCpSxG] 🟢:
+No. of smart wallets interacted: 2
+Net amount added: 4577548.23497
+Net amount added (in USD): $691.69
+Market cap: 151677
+DEX Screener: https://dexscreener.com/solana/DBNLn6C32cMmbh8ABcioWgv3ninciwUyfjgL1wyCpSxG
+Twitter: https://x.com/1st_TrumpOnPump
+Telegram: https://t.me/First_Trump_On_Pump_CTO_Portal
+
+Smart wallets that interacted:
+- dc5c...3P6J bought $28.14 worth.
+- 5ea1…2NX8 (Winrate: 26.67%, Tokens Traded: > 120) bought $663.55 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+49, 49, 56, 55, 66, 78, 100
+
+mind zero (mind ) [27265MRQFxz2LSTnn4mNTmcz1HJsjJVBST1cozxzpump] 🟢:
+No. of smart wallets interacted: 2
+Net amount added: 239658.95511199965
+Net amount added (in USD): $111.84
+Market cap: 469978
+DEX Screener: https://dexscreener.com/solana/27265MRQFxz2LSTnn4mNTmcz1HJsjJVBST1cozxzpump
+Twitter: https://x.com/MindZero__
+Telegram: https://t.me/mindzeroportal
+
+Smart wallets that interacted:
+- dc5c...3P6J bought $22.24 worth.
+- BHvU…vGWD (Winrate: 52.92%, Tokens Traded: > 560) bought $89.60 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+84, 94, 96, 95, 90, 89, 68
+
+The Last Play (retire) [zGh48JtNHVBb5evgoZLXwgPD2Qu4MhkWdJLGDAupump] 🟢:
+No. of smart wallets interacted: 2
+Net amount added: 79607.289656
+Net amount added (in USD): $102.09
+Market cap: 1305054
+DEX Screener: https://dexscreener.com/solana/zGh48JtNHVBb5evgoZLXwgPD2Qu4MhkWdJLGDAupump
+Twitter: https://x.com/thelastplaysol
+Telegram: https://t.me/retireportal
+
+Smart wallets that interacted:
+- dc5c...3P6J bought $102.09 worth.
+- 3eJk...H34o sold $0.00 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+90, 99, 98, 100, 97, 94, 84
+
+Forex Lens (ForexLens) [aSCcjVmMJttZQNYtzhFXmqmUiTm8xkJBggn4sj8pump] 🔴:
+No. of smart wallets interacted: 2
+Net amount added: -395892.49540899997
+Net amount added (in USD): $-155.79
+Market cap: 393468
+DEX Screener: https://dexscreener.com/solana/aSCcjVmMJttZQNYtzhFXmqmUiTm8xkJBggn4sj8pump
+Twitter: https://x.com/ForexLens
+Telegram: 
+
+Smart wallets that interacted:
+- 4t9b...jD2i (Winrate: 92.42%, Tokens Traded: > 60) sold $168.52 worth.
+- dc5c...3P6J bought $12.73 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+97, 96, 100, 100, 100, 95, 84
+
+FXN (fxn) [92cRC6kV5D7TiHX1j56AbkPbffo9jwcXxSDQZ8Mopump] 🔴:
+No. of smart wallets interacted: 2
+Net amount added: -5918.718665999999
+Net amount added (in USD): $-220.01
+Market cap: 32486795
+DEX Screener: https://dexscreener.com/solana/92cRC6kV5D7TiHX1j56AbkPbffo9jwcXxSDQZ8Mopump
+Twitter: https://x.com/joinFXN
+Telegram: https://t.me/fxnfxnfxn
+
+Smart wallets that interacted:
+- dc5c...3P6J bought $15.88 worth.
+- DjNj...ABWH (Winrate: 77.94%, Tokens Traded: > 60) sold $235.89 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+57, 73, 77, 70, 90, 66, 79
+
+JailbreakMe (JAIL) [8cNmp9T2CMQRNZhNRoeSvr57LDf1kbZ42SvgsSWfpump] 🔴:
+No. of smart wallets interacted: 2
+Net amount added: -101664.78426399999
+Net amount added (in USD): $-560.05
+Market cap: 5453194
+DEX Screener: https://dexscreener.com/solana/8cNmp9T2CMQRNZhNRoeSvr57LDf1kbZ42SvgsSWfpump
+Twitter: https://x.com/jailbreakme_xyz
+Telegram: https://t.me/jailbreakme_xyz
+
+Smart wallets that interacted:
+- Biee...2TpW (Winrate: 75.56%, Tokens Traded: > 260) sold $560.05 worth.
+- 3eJk...H34o sold $0.00 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+82, 86, 81, 85, 83, 87, 100
+
+TAY (TAY) [F5z4iCEsgDU3V4xdvQDykffjoDnePNprvVCjhbDVCDg6] 🔴:
+No. of smart wallets interacted: 2
+Net amount added: -231359.935952
+Net amount added (in USD): $-632.66
+Market cap: 1473154
+DEX Screener: https://dexscreener.com/solana/F5z4iCEsgDU3V4xdvQDykffjoDnePNprvVCjhbDVCDg6
+Twitter: https://x.com/fission_web3
+Telegram: https://t.me/fission_official
+
+Smart wallets that interacted:
+- DjNj...ABWH (Winrate: 77.94%, Tokens Traded: > 60) bought $50.97 worth.
+- ATmK…zQL1 (Winrate: 54.45%, Tokens Traded: > 470) sold $683.63 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+79, 73, 75, 71, 77, 75, 100
+
+PIXOCRACY (PIX) [3bGuPexrqNdmXkSxeUuMavYDFdjpQTSDt9ZusDgDpump] 🔴:
+No. of smart wallets interacted: 2
+Net amount added: -1246068.0489280003
+Net amount added (in USD): $-1,423.65
+Market cap: 1177929
+DEX Screener: https://dexscreener.com/solana/3bGuPexrqNdmXkSxeUuMavYDFdjpQTSDt9ZusDgDpump
+Twitter: https://x.com/pixocracy
+Telegram: 
+
+Smart wallets that interacted:
+- Biee...2TpW (Winrate: 75.56%, Tokens Traded: > 260) sold $1,423.65 worth.
+- 3eJk...H34o sold $0.00 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+38, 50, 47, 100, 64, 35, 21
+
+WHISP (WHISP) [whispF7G9DHaojYHe2cdhRX5EMJzGBdqq7R57kL6inL] 🔴:
+No. of smart wallets interacted: 2
+Net amount added: -256234.30386699995
+Net amount added (in USD): $-2,995.51
+Market cap: 11398001
+DEX Screener: https://dexscreener.com/solana/whispF7G9DHaojYHe2cdhRX5EMJzGBdqq7R57kL6inL
+Twitter: https://x.com/whispersai
+Telegram: 
+
+Smart wallets that interacted:
+- Cnud...cUPc (Winrate: 92.31%, Tokens Traded: > 10) sold $4,898.54 worth.
+- 831q...Auh1 (Winrate: 77.12%, Tokens Traded: > 150) bought $1,903.03 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+45, 41, 41, 41, 55, 47, 44
+
+Holozone (HOLO) [B8hCuoikV9gLeuwmTyhNdLbPnb5k3P77Q7WTtEM7pump] 🔴:
+No. of smart wallets interacted: 2
+Net amount added: -1615793.2445739992
+Net amount added (in USD): $-20,203.08
+Market cap: 11315137
+DEX Screener: https://dexscreener.com/solana/B8hCuoikV9gLeuwmTyhNdLbPnb5k3P77Q7WTtEM7pump
+Twitter: https://x.com/HolozoneAI
+Telegram: https://t.me/holozoneofficial
+
+Smart wallets that interacted:
+- CLpD...7omB (Winrate: 37.93%, Tokens Traded: > 170) sold $20,267.13 worth.
+- DjNj...ABWH (Winrate: 77.94%, Tokens Traded: > 60) bought $64.05 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+67, 65, 64, 65, 64, 73, 88
+
+Just a chill guy (CHILLGUY) [Df6yfrKC8kZE3KNkrHERKzAetSxbrWeniQfyJY4Jpump] 🔴:
+No. of smart wallets interacted: 2
+Net amount added: -430426.501446
+Net amount added (in USD): $-45,471.18
+Market cap: 105864267
+DEX Screener: https://dexscreener.com/solana/Df6yfrKC8kZE3KNkrHERKzAetSxbrWeniQfyJY4Jpump
+Twitter: https://x.com/chillguycto
+Telegram: https://t.me/chillguycto
+
+Smart wallets that interacted:
+- 6KVy...cems (Winrate: 25.81%, Tokens Traded: > 30) sold $41,475.42 worth.
+- DjNj...ABWH (Winrate: 77.94%, Tokens Traded: > 60) sold $3,995.76 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+67, 65, 64, 65, 64, 73, 88
+
+Project89 (Project89) [Bz4MhmVRQENiCou7ZpJ575wpjNFjBjVBSiVhuNg1pump] 🔴:
+No. of smart wallets interacted: 2
+Net amount added: -4574954.839227
+Net amount added (in USD): $-71,102.03
+Market cap: 15951581
+DEX Screener: https://dexscreener.com/solana/Bz4MhmVRQENiCou7ZpJ575wpjNFjBjVBSiVhuNg1pump
+Twitter: https://x.com/project_89
+Telegram: https://t.me/project89sol
+
+Smart wallets that interacted:
+- CLpD...7omB (Winrate: 37.93%, Tokens Traded: > 170) sold $71,129.63 worth.
+- dc5c...3P6J bought $27.60 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+0, 0, 0, 59, 0, 0, 0
+
+GIGACHAD (GIGA) [63LfDmNb3MQ8mw9MtZ2To9bEA2M71kZUUGq5tiJxcqj9] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 7500000.0
+Net amount added (in USD): $532,479.31
+Market cap: 682102130
+DEX Screener: https://dexscreener.com/solana/63LfDmNb3MQ8mw9MtZ2To9bEA2M71kZUUGq5tiJxcqj9
+Twitter: https://x.com/GIGACHAD_meme
+Telegram: https://t.me/GigaChadSol
+
+Smart wallets that interacted:
+- HYWo...1ENp (Winrate: 31.43%, Tokens Traded: > 210) bought $532,479.31 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+89, 85, 91, 93, 91, 91, 83
+
+koto (koto) [BfdVHnbt9LSNAFCZU9kvTjbrH3jX78sv2siLKGQ7pump] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 5844561.450722
+Net amount added (in USD): $58,193.49
+Market cap: 9768782
+DEX Screener: https://dexscreener.com/solana/BfdVHnbt9LSNAFCZU9kvTjbrH3jX78sv2siLKGQ7pump
+Twitter: https://x.com/koto9x
+Telegram: https://t.me/+WAT5mcMeOxRmNzYx
+
+Smart wallets that interacted:
+- HDU1…Acza (Winrate: 26.77%, Tokens Traded: > 390) bought $58,193.49 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+100, 84, 76, 80, 72, 78, 97
+
+tsotchke (TSOTCHKE) [4mbdysBik3jmzD7mt6FGPDsMxnYcxExSQRFjPucdpump] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 2188334.467887
+Net amount added (in USD): $40,322.03
+Market cap: 17258507
+DEX Screener: https://dexscreener.com/solana/4mbdysBik3jmzD7mt6FGPDsMxnYcxExSQRFjPucdpump
+Twitter: https://twitter.com/tsotchkecoin
+Telegram: https://t.me/tsotchkecoinOFFICIAL
+
+Smart wallets that interacted:
+- 6Lbu…9Y4t (Winrate: 54.22%, Tokens Traded: > 160) bought $40,322.03 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+27, 36, 27, 30, 0, 22, 0
+
+Lumo-8B-Instruct (LUMO) [4FkNq8RcCYg4ZGDWh14scJ7ej3m5vMjYTcWoJVkupump] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 6764848.839658
+Net amount added (in USD): $36,840.80
+Market cap: 5359294
+DEX Screener: https://dexscreener.com/solana/4FkNq8RcCYg4ZGDWh14scJ7ej3m5vMjYTcWoJVkupump
+Twitter: https://x.com/lumolabsdotai
+Telegram: 
+
+Smart wallets that interacted:
+- HBNH…jFuR (Winrate: 41.74%, Tokens Traded: > 350) bought $36,840.80 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+66, 79, 75, 76, 72, 74, 64
+
+PYTHIA (PYTHIA) [CreiuhfwdWCN5mJbMJtA9bBpYQrQF2tCBuZwSPWfpump] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 2094063.026745
+Net amount added (in USD): $36,523.06
+Market cap: 17037123
+DEX Screener: https://dexscreener.com/solana/CreiuhfwdWCN5mJbMJtA9bBpYQrQF2tCBuZwSPWfpump
+Twitter: https://x.com/neirylab
+Telegram: https://t.me/pythiaportal
+
+Smart wallets that interacted:
+- 65ba…Wdg1 (Winrate: 37.70%, Tokens Traded: > 510) bought $36,523.06 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+61, 53, 53, 52, 61, 54, 51
+
+Daige (daige) [HsNx7RirehVMy54xnFtcgCBPDMrwNnJKykageqdWpump] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 3557231.188646
+Net amount added (in USD): $34,881.86
+Market cap: 9545567
+DEX Screener: https://dexscreener.com/solana/HsNx7RirehVMy54xnFtcgCBPDMrwNnJKykageqdWpump
+Twitter: https://x.com/daigeagi
+Telegram: https://t.me/daigeai
+
+Smart wallets that interacted:
+- 8sHf...xpgv (Winrate: 33.02%, Tokens Traded: > 840) bought $34,881.86 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+18, 23, 25, 16, 20, 26, 0
+
+Ultra Sigma Donald Trump (USDT) [5VwjSJDYSbb9XHWFmcfuGKGnBQJKfLsqBRzNX5Khpump] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 10921026.008829001
+Net amount added (in USD): $13,142.24
+Market cap: 1174550
+DEX Screener: https://dexscreener.com/solana/5VwjSJDYSbb9XHWFmcfuGKGnBQJKfLsqBRzNX5Khpump
+Twitter: https://x.com/UltraSigmaDT47?mx=2
+Telegram: https://t.me/UltraSigmaDT
+
+Smart wallets that interacted:
+- 5ea1…2NX8 (Winrate: 26.67%, Tokens Traded: > 120) bought $13,142.24 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+45, 96, 89, 90, 91, 90, 75
+
+Hive AI (BUZZ) [9DHe3pycTuymFk4H4bbPoAJ4hQrr2kaLDF6J6aAKpump] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 140142.81344399997
+Net amount added (in USD): $10,639.70
+Market cap: 72732156
+DEX Screener: https://dexscreener.com/solana/9DHe3pycTuymFk4H4bbPoAJ4hQrr2kaLDF6J6aAKpump
+Twitter: https://x.com/askthehive_ai
+Telegram: 
+
+Smart wallets that interacted:
+- 8sHf...xpgv (Winrate: 33.02%, Tokens Traded: > 840) bought $10,639.70 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+45, 96, 89, 90, 91, 90, 75
+
+TrustInWeb3 (T3AI) [CckLtcfEtsYzg8sUrVBBrFKt16iExpvEurc1dhKmmoon] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 1111154.100222743
+Net amount added (in USD): $9,039.25
+Market cap: 7880428
+DEX Screener: https://dexscreener.com/solana/CckLtcfEtsYzg8sUrVBBrFKt16iExpvEurc1dhKmmoon
+Twitter: https://x.com/trustInWeb3
+Telegram: https://t.me/trustInWeb3_AI
+
+Smart wallets that interacted:
+- HLv6...Sek1 (Winrate: 70.59%, Tokens Traded: > 10) bought $9,039.25 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+0, 0, 46, 66, 100, 24, 0
+
+Time Traveler (Barron) [HmAgiwjjP9CXqK5wQNsHKtjAt2CH3Kv8Q7xH5kGL2nqZ] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 2655604.96137
+Net amount added (in USD): $8,838.65
+Market cap: 3328728
+DEX Screener: https://dexscreener.com/solana/HmAgiwjjP9CXqK5wQNsHKtjAt2CH3Kv8Q7xH5kGL2nqZ
+Twitter: https://twitter.com/Barronsolana
+Telegram: http://t.me/BARRONTRVMP
+
+Smart wallets that interacted:
+- Biee...2TpW (Winrate: 75.56%, Tokens Traded: > 260) bought $8,838.65 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+Data unavailable
+
+ai16z (ai16z) [HeLp6NuQkmYB4pYWo2zYs22mESHXPQYzXbB8n4V98jwC] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 7849.404487303
+Net amount added (in USD): $7,662.66
+Market cap: 1058897379
+DEX Screener: https://dexscreener.com/solana/HeLp6NuQkmYB4pYWo2zYs22mESHXPQYzXbB8n4V98jwC
+Twitter: https://x.com/ai16zdao
+Telegram: https://t.me/ai16zcommunity
+
+Smart wallets that interacted:
+- Hedm...NGPe (Winrate: 66.17%, Tokens Traded: > 130) bought $7,662.66 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+Data unavailable
+
+MOSS (MOSS) [9bNUjxEvygayUE2ZRN5zh9Hhjh6cN6GPK4zoHzXXpump] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 732054.1471229999
+Net amount added (in USD): $6,591.81
+Market cap: 8175660
+DEX Screener: https://dexscreener.com/solana/9bNUjxEvygayUE2ZRN5zh9Hhjh6cN6GPK4zoHzXXpump
+Twitter: https://x.com/realMOSSCoin
+Telegram: https://t.me/realMOSSCoin
+
+Smart wallets that interacted:
+- 8VZe…EhMZ (Winrate: 28.32%, Tokens Traded: > 390) bought $6,591.81 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+Data unavailable
+
+Dolos The Bully (BULLY) [79yTpy8uwmAkrdgZdq6ZSBTvxKsgPrNqTLvYQBh1pump] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 141468.14661700002
+Net amount added (in USD): $6,239.90
+Market cap: 42014763
+DEX Screener: https://dexscreener.com/solana/79yTpy8uwmAkrdgZdq6ZSBTvxKsgPrNqTLvYQBh1pump
+Twitter: https://x.com/dolos_diary
+Telegram: https://t.me/dolosTheBully_portal
+
+Smart wallets that interacted:
+- 41U2...MfJU (Winrate: 57.89%, Tokens Traded: > 30) bought $6,239.90 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+Data unavailable
+
+tole tole (tole) [HiR73MGyBDTJBivKUSd4PJcMTp4YjntfhAvvGJdXpump] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 8673811.244658
+Net amount added (in USD): $5,824.47
+Market cap: 405728
+DEX Screener: https://dexscreener.com/solana/HiR73MGyBDTJBivKUSd4PJcMTp4YjntfhAvvGJdXpump
+Twitter: https://x.com/toletole_sol
+Telegram: https://t.me/toletolecatportal
+
+Smart wallets that interacted:
+- 6Lbu…9Y4t (Winrate: 54.22%, Tokens Traded: > 160) bought $5,824.47 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+Data unavailable
+
+Official Token of SEC  (HoweyCoins) [27vqye5ESCqahZKcDsTKyK2fpm39oBmtNeqxhpiTpump] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 21747692.177819
+Net amount added (in USD): $5,570.27
+Market cap: 255217
+DEX Screener: https://dexscreener.com/solana/27vqye5ESCqahZKcDsTKyK2fpm39oBmtNeqxhpiTpump
+Twitter: https://x.com/i/communities/1879685619703587228
+Telegram: 
+
+Smart wallets that interacted:
+- RFSq…G6iB (Winrate: 18.96%, Tokens Traded: > 570) bought $5,570.27 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+Data unavailable
+
+swarms (swarms) [74SBV4zDXxTRgv1pEMoECskKBkZHc2yGPnc7GYVepump] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 44110.044883
+Net amount added (in USD): $5,504.78
+Market cap: 124125809
+DEX Screener: https://dexscreener.com/solana/74SBV4zDXxTRgv1pEMoECskKBkZHc2yGPnc7GYVepump
+Twitter: https://x.com/swarms_corp
+Telegram: 
+
+Smart wallets that interacted:
+- 2cqm...a3d2 (Winrate: 87.67%, Tokens Traded: > 70) bought $5,504.78 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+Data unavailable
+
+raticoin ($RATi) [Ci6Y1UX8bY4jxn6YiogJmdCxFEu2jmZhCcG65PStpump] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 7320219.033261
+Net amount added (in USD): $5,305.88
+Market cap: 724283
+DEX Screener: https://dexscreener.com/solana/Ci6Y1UX8bY4jxn6YiogJmdCxFEu2jmZhCcG65PStpump
+Twitter: https://x.com/rati_ai
+Telegram: https://t.me/ratichat
+
+Smart wallets that interacted:
+- ECCK…zqgP (Winrate: 43.91%, Tokens Traded: > 1070) bought $5,305.88 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+Data unavailable
+
+Trump Was Right About Everything (TWRAE) [6bda6LhSpg59yQoVSvw5yQ6rd3TRcFANQPjhTLfpump] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 5551519.035483001
+Net amount added (in USD): $4,757.08
+Market cap: 858820
+DEX Screener: https://dexscreener.com/solana/6bda6LhSpg59yQoVSvw5yQ6rd3TRcFANQPjhTLfpump
+Twitter: https://x.com/twraesol
+Telegram: https://t.me/TWRAESOL
+
+Smart wallets that interacted:
+- RFSq…G6iB (Winrate: 18.96%, Tokens Traded: > 570) bought $4,757.08 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+Data unavailable
+
+BUILD (BUILD) [AuLFCTA8V8katsgpkFsezQtkHodJby5M4KB2VryTpump] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 203297.29197900003
+Net amount added (in USD): $4,607.97
+Market cap: 23269350
+DEX Screener: https://dexscreener.com/solana/AuLFCTA8V8katsgpkFsezQtkHodJby5M4KB2VryTpump
+Twitter: https://x.com/usebuildfun
+Telegram: https://t.me/usebuilddotfun
+
+Smart wallets that interacted:
+- 2cqm...a3d2 (Winrate: 87.67%, Tokens Traded: > 70) bought $4,607.97 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+Data unavailable
+
+Butthole Coin (Butthole) [CboMcTUYUcy9E6B3yGdFn6aEsGUnYV6yWeoeukw6pump] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 87874.27712600003
+Net amount added (in USD): $4,419.54
+Market cap: 51772880
+DEX Screener: https://dexscreener.com/solana/CboMcTUYUcy9E6B3yGdFn6aEsGUnYV6yWeoeukw6pump
+Twitter: https://x.com/thebuttholecoin
+Telegram: https://t.me/buttholecoin
+
+Smart wallets that interacted:
+- ACHh...Y1C7 (Winrate: 40.82%, Tokens Traded: > 40) bought $4,419.54 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+Data unavailable
+
+qAI (qAI) [ERKbvKU1Md4AXNyzWQbagRJWpGE7rwUxGep9ESaxpump] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 4039925.6545869987
+Net amount added (in USD): $4,145.19
+Market cap: 1021383
+DEX Screener: https://dexscreener.com/solana/ERKbvKU1Md4AXNyzWQbagRJWpGE7rwUxGep9ESaxpump
+Twitter: https://x.com/Quark20HQ
+Telegram: 
+
+Smart wallets that interacted:
+- ECCK…zqgP (Winrate: 43.91%, Tokens Traded: > 1070) bought $4,145.19 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+Data unavailable
+
+TRUMP SEASON (trump/szn) [8qiVWSZ1HYsnA7Z79j3jwhbDJTxqjosZVWAsajSkpump] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 33552016.213744007
+Net amount added (in USD): $3,554.53
+Market cap: 106118
+DEX Screener: https://dexscreener.com/solana/8qiVWSZ1HYsnA7Z79j3jwhbDJTxqjosZVWAsajSkpump
+Twitter: https://x.com/i/communities/1878917989116047579
+Telegram: 
+
+Smart wallets that interacted:
+- 5ea1…2NX8 (Winrate: 26.67%, Tokens Traded: > 120) bought $3,554.53 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+Data unavailable
+
+MATES (MATES) [MAtesZXcU38mgPuteRFo9ApCauYRRuwn3xf1cs5y7ZX] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 505720.231137
+Net amount added (in USD): $3,436.91
+Market cap: 15167733
+DEX Screener: https://dexscreener.com/solana/MAtesZXcU38mgPuteRFo9ApCauYRRuwn3xf1cs5y7ZX
+Twitter: https://x.com/moemateai
+Telegram: https://t.me/nebulamoemate
+
+Smart wallets that interacted:
+- DjNj...ABWH (Winrate: 77.94%, Tokens Traded: > 60) bought $3,436.91 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+Data unavailable
+
+Soul Graph (GRPH) [9doRRAik5gvhbEwjbZDbZR6GxXSAfdoomyJR57xKpump] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 98442.619706
+Net amount added (in USD): $2,844.74
+Market cap: 30200508
+DEX Screener: https://dexscreener.com/solana/9doRRAik5gvhbEwjbZDbZR6GxXSAfdoomyJR57xKpump
+Twitter: https://x.com/Soulgra_ph
+Telegram: 
+
+Smart wallets that interacted:
+- 2cqm...a3d2 (Winrate: 87.67%, Tokens Traded: > 70) bought $2,844.74 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+Data unavailable
+
+Eliza (ELIZA) [5voS9evDjxF589WuEub5i4ti7FWQmZCsAsyD5ucbuRqM] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 35470.794475
+Net amount added (in USD): $2,767.45
+Market cap: 77253121
+DEX Screener: https://dexscreener.com/solana/5voS9evDjxF589WuEub5i4ti7FWQmZCsAsyD5ucbuRqM
+Twitter: https://x.com/elizawakesup
+Telegram: https://t.me/ElizaWakesUpOfficial
+
+Smart wallets that interacted:
+- DjNj...ABWH (Winrate: 77.94%, Tokens Traded: > 60) bought $2,767.45 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+82, 79, 79, 75, 79, 78, 89
+
+MAKE AMERICA AFFORDABLE AGAIN (MAAA) [Am1eSzfcXZwKYirLyEyBB7EyaQ2udbK7KApkowbtpump] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 19972550.636459004
+Net amount added (in USD): $2,630.84
+Market cap: 130933
+DEX Screener: https://dexscreener.com/solana/Am1eSzfcXZwKYirLyEyBB7EyaQ2udbK7KApkowbtpump
+Twitter: https://x.com/GOP/status/1879174654004273393
+Telegram: 
+
+Smart wallets that interacted:
+- 8sGi…HLT8 (Winrate: 23.33%, Tokens Traded: > 120) bought $2,630.84 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+Data unavailable
+
+bob the snek (bob) [2CzW1Z6zGqvVHTfF9yeKFsgR5Swq6D2ySETXHTiWpump] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 15760962.706047
+Net amount added (in USD): $2,322.52
+Market cap: 147260
+DEX Screener: https://dexscreener.com/solana/2CzW1Z6zGqvVHTfF9yeKFsgR5Swq6D2ySETXHTiWpump
+Twitter: https://x.com/bobthesnek
+Telegram: https://t.me/bobthesnekcto
+
+Smart wallets that interacted:
+- ECCK…zqgP (Winrate: 43.91%, Tokens Traded: > 1070) bought $2,322.52 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+Data unavailable
+
+MAGANOMICS (MAGANOMICS) [z2H5voMVaszFgeNFm5sT2dZfrJF35pvVj6wvXfRpump] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 4095494.582370002
+Net amount added (in USD): $2,042.71
+Market cap: 502454
+DEX Screener: https://dexscreener.com/solana/z2H5voMVaszFgeNFm5sT2dZfrJF35pvVj6wvXfRpump
+Twitter: https://x.com/i/communities/1878444722408087794
+Telegram: https://t.me/maganomicssol
+
+Smart wallets that interacted:
+- 5ea1…2NX8 (Winrate: 26.67%, Tokens Traded: > 120) bought $2,042.71 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+Data unavailable
+
+Billions N Billions (BNB) [3yhxJSWGbQbeSambJ91itqarAVibuxHom3czw7qZpump] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 6238183.971259005
+Net amount added (in USD): $2,038.18
+Market cap: 288629
+DEX Screener: https://dexscreener.com/solana/3yhxJSWGbQbeSambJ91itqarAVibuxHom3czw7qZpump
+Twitter: https://x.com/i/communities/1878990229710762359
+Telegram: https://t.me/+73q-h6sQ9mQxOGRk
+
+Smart wallets that interacted:
+- 5ea1…2NX8 (Winrate: 26.67%, Tokens Traded: > 120) bought $2,038.18 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+Data unavailable
+
+Yi Long Ma (YILONG) [AcqYPc7z4M3PgTZH4v5j4G4NU6SZ28z55QGtZ4Ujpump] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 5122306.717795
+Net amount added (in USD): $2,012.84
+Market cap: 415257
+DEX Screener: https://dexscreener.com/solana/AcqYPc7z4M3PgTZH4v5j4G4NU6SZ28z55QGtZ4Ujpump
+Twitter: https://x.com/YiLongMaOn_Sol
+Telegram: https://t.me/YiLongMaOn_Sol
+
+Smart wallets that interacted:
+- HLv6...Sek1 (Winrate: 70.59%, Tokens Traded: > 10) bought $2,012.84 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+Data unavailable
+
+elizabath whoren (whoren) [EF23Avq2cTPnMVTfHacZ3SG5Z8misHmFA2gbt2rKqiYH] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 1065655.670960575
+Net amount added (in USD): $1,988.68
+Market cap: 187974
+DEX Screener: https://dexscreener.com/solana/EF23Avq2cTPnMVTfHacZ3SG5Z8misHmFA2gbt2rKqiYH
+Twitter: https://twitter.com/WhorenOnSol
+Telegram: https://t.me/WhorenSol
+
+Smart wallets that interacted:
+- Biee...2TpW (Winrate: 75.56%, Tokens Traded: > 260) bought $1,988.68 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+Data unavailable
+
+MetAIverse (METAIVERSE) [BeJNBP3zFjeCuwde3bNS8piuQQc8ZpE5rdo2tWuJgmvf] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 787621.891258
+Net amount added (in USD): $1,419.68
+Market cap: 1671671
+DEX Screener: https://dexscreener.com/solana/BeJNBP3zFjeCuwde3bNS8piuQQc8ZpE5rdo2tWuJgmvf
+Twitter: https://x.com/openmetaiverse
+Telegram: https://t.me/metaiverse
+
+Smart wallets that interacted:
+- 8sHf...xpgv (Winrate: 33.02%, Tokens Traded: > 840) bought $1,419.68 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+Data unavailable
+
+trump effect (TF) [B4bztDWcEqkWxFHMgjzvyjVu2urS12SwNs7YCY9jpump] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 10120164.73765999
+Net amount added (in USD): $1,375.56
+Market cap: 146824
+DEX Screener: https://dexscreener.com/solana/B4bztDWcEqkWxFHMgjzvyjVu2urS12SwNs7YCY9jpump
+Twitter: https://x.com/search?q=trump%20effect&src=typeahead_click
+Telegram: 
+
+Smart wallets that interacted:
+- 5ea1…2NX8 (Winrate: 26.67%, Tokens Traded: > 120) bought $1,375.56 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+Data unavailable
+
+sentient memes producer (MΞMΞTIC) [J73VLpgUiWxooiTwbQyae7h5e29kGrC5RqrbicW2pump] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 973797.6038629999
+Net amount added (in USD): $1,291.06
+Market cap: 1234142
+DEX Screener: https://dexscreener.com/solana/J73VLpgUiWxooiTwbQyae7h5e29kGrC5RqrbicW2pump
+Twitter: https://x.com/memeticink
+Telegram: https://t.me/memetic_chat
+
+Smart wallets that interacted:
+- Biee...2TpW (Winrate: 75.56%, Tokens Traded: > 260) bought $1,291.06 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+Data unavailable
+
+hispanic pepe (CONCHO) [89q6aHpZ1fXhuwpnrBgqmCvuAX4GaCrRPQNp5xVHpump] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 283217.977174
+Net amount added (in USD): $1,200.95
+Market cap: 3965069
+DEX Screener: https://dexscreener.com/solana/89q6aHpZ1fXhuwpnrBgqmCvuAX4GaCrRPQNp5xVHpump
+Twitter: https://x.com/sapoconchito?s=21
+Telegram: https://t.me/SapoConchitosRoom
+
+Smart wallets that interacted:
+- Hvts...Sy3W (Winrate: 50.47%, Tokens Traded: > 100) bought $1,200.95 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+Data unavailable
+
+Meow Meow Meow Meow (MEOW) [AcJTj14wb9VjVtVrR7E7eoxeK4HayqZ9bPdNvkiEpump] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 125764.54291800002
+Net amount added (in USD): $798.45
+Market cap: 6518272
+DEX Screener: https://dexscreener.com/solana/AcJTj14wb9VjVtVrR7E7eoxeK4HayqZ9bPdNvkiEpump
+Twitter: https://x.com/Meowmeow_onSOL
+Telegram: https://t.me/meowwmeowwwmeowwmeowww
+
+Smart wallets that interacted:
+- DjNj...ABWH (Winrate: 77.94%, Tokens Traded: > 60) bought $798.45 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+Data unavailable
+
+Physical accelerationism (phy/acc) [5rqhdv5VQv6RniJZC69ZZmTR3d9gxcqYSyZ8tXAypump] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 1208117.483511
+Net amount added (in USD): $767.78
+Market cap: 634369
+DEX Screener: https://dexscreener.com/solana/5rqhdv5VQv6RniJZC69ZZmTR3d9gxcqYSyZ8tXAypump
+Twitter: https://x.com/i/communities/1877722245616861227
+Telegram: https://t.me/Phyacc
+
+Smart wallets that interacted:
+- 41U2...MfJU (Winrate: 57.89%, Tokens Traded: > 30) bought $767.78 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+Data unavailable
+
+Chinese TikTok (REDnote) [BgpmfuCZxrbvD6wrybrT7ztwtf8vwKW94kc39MAdpump] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 2488418.564894
+Net amount added (in USD): $756.60
+Market cap: 302062
+DEX Screener: https://dexscreener.com/solana/BgpmfuCZxrbvD6wrybrT7ztwtf8vwKW94kc39MAdpump
+Twitter: https://x.com/REDnoteSOL
+Telegram: https://t.me/REDNoteCTOsol
+
+Smart wallets that interacted:
+- Favw…4oUq (Winrate: 19.35%, Tokens Traded: >30) bought $756.60 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+Data unavailable
+
+spencience (SPENCE) [7hfP5T1rirsb1EhhLrRnsM8EN3FCaio7cmAwMdcypump] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 2900635.349583
+Net amount added (in USD): $671.00
+Market cap: 231104
+DEX Screener: https://dexscreener.com/solana/7hfP5T1rirsb1EhhLrRnsM8EN3FCaio7cmAwMdcypump
+Twitter: https://x.com/spencience
+Telegram: https://t.me/spencience
+
+Smart wallets that interacted:
+- Biee...2TpW (Winrate: 75.56%, Tokens Traded: > 260) bought $671.00 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+Data unavailable
+
+V1 (V1) [3TDdSCw5xgBa4g6jk5oaQFGAaBcsP1Md7vEovrWzi2dE] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 283830.780970116
+Net amount added (in USD): $665.55
+Market cap: 2217240
+DEX Screener: https://dexscreener.com/solana/3TDdSCw5xgBa4g6jk5oaQFGAaBcsP1Md7vEovrWzi2dE
+Twitter: https://x.com/v1_agent_ai
+Telegram: https://t.me/v1_agent
+
+Smart wallets that interacted:
+- 41U2...MfJU (Winrate: 57.89%, Tokens Traded: > 30) bought $665.55 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+Data unavailable
+
+PROL.AI (PROL) [3ZAS5KKKd6cPrk9sBHS3ndpRiEbRPD23G8cAQncSpump] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 1395688.592806
+Net amount added (in USD): $568.10
+Market cap: 407860
+DEX Screener: https://dexscreener.com/solana/3ZAS5KKKd6cPrk9sBHS3ndpRiEbRPD23G8cAQncSpump
+Twitter: https://x.com/prol_ai
+Telegram: https://t.me/prol_ai
+
+Smart wallets that interacted:
+- Biee...2TpW (Winrate: 75.56%, Tokens Traded: > 260) bought $568.10 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+Data unavailable
+
+trumpcycle (trumpcycle) [9toYTsRE7fceYGPnQYdNdD6uJZLTxmLU83hLysp9pump] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 968988.736378
+Net amount added (in USD): $467.42
+Market cap: 509404
+DEX Screener: https://dexscreener.com/solana/9toYTsRE7fceYGPnQYdNdD6uJZLTxmLU83hLysp9pump
+Twitter: https://x.com/Trumpcyclereal
+Telegram: https://t.me/trumpcycle
+
+Smart wallets that interacted:
+- Biee...2TpW (Winrate: 75.56%, Tokens Traded: > 260) bought $467.42 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+Data unavailable
+
+AGiXT​ (AGiXT​) [CtnSv5wSG1rbVXrVktrigR4kThNLSdkzz479WTqz2J6x] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 3485.26
+Net amount added (in USD): $236.69
+Market cap: 67894587
+DEX Screener: https://dexscreener.com/solana/CtnSv5wSG1rbVXrVktrigR4kThNLSdkzz479WTqz2J6x
+Twitter: 
+Telegram: 
+
+Smart wallets that interacted:
+- GpNb...mGQi (Winrate: 20.00%, Tokens Traded: > 10) bought $236.69 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+Data unavailable
+
+Fartcoin Strategic Reserve (FSR) [2iLNwaXLEEqCeQPenSMJu52nwGGbL8zDn2FysHj7pump] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 1535887.8545919973
+Net amount added (in USD): $216.37
+Market cap: 142569
+DEX Screener: https://dexscreener.com/solana/2iLNwaXLEEqCeQPenSMJu52nwGGbL8zDn2FysHj7pump
+Twitter: https://x.com/fartcoinofsol?s=21&t=wgf5lq8bQUcMNcC3F6L7Sg
+Telegram: 
+
+Smart wallets that interacted:
+- 41U2...MfJU (Winrate: 57.89%, Tokens Traded: > 30) bought $216.37 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+Data unavailable
+
+Chuan Pu (CHUANPU) [4gBDhgCqTtzyJocskewXARgcLoAfSxkmmoUwwfhbpump] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 930118.051034
+Net amount added (in USD): $158.29
+Market cap: 168242
+DEX Screener: https://dexscreener.com/solana/4gBDhgCqTtzyJocskewXARgcLoAfSxkmmoUwwfhbpump
+Twitter: https://x.com/chuanPuSupreme/
+Telegram: https://t.me/chuanpucommunity
+
+Smart wallets that interacted:
+- dc5c...3P6J bought $158.29 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+Data unavailable
+
+ROSSCOIN (ROSSCOIN) [4ovibCsh4BbKrqadjA5YREEVW7NRG9f7WxozCJw7MXV8] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 4588.0
+Net amount added (in USD): $137.62
+Market cap: 29984539
+DEX Screener: https://dexscreener.com/solana/4ovibCsh4BbKrqadjA5YREEVW7NRG9f7WxozCJw7MXV8
+Twitter: 
+Telegram: 
+
+Smart wallets that interacted:
+- 8zFZ...c7Zd (Winrate: 45.54%, Tokens Traded: > 100) bought $137.62 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+Data unavailable
+
+Rick the NPC (RICK) [9ncLaQhTpKCyq542mH5fWeW6cL5BNmiCsToCcJyVpump] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 182070.124254
+Net amount added (in USD): $136.80
+Market cap: 762458
+DEX Screener: https://dexscreener.com/solana/9ncLaQhTpKCyq542mH5fWeW6cL5BNmiCsToCcJyVpump
+Twitter: https://x.com/rickthenpc
+Telegram: https://t.me/rickthenpc
+
+Smart wallets that interacted:
+- dc5c...3P6J bought $136.80 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+Data unavailable
+
+Damasco AI (MASCO) [A6C1zM4nBf8jr8tRxQskytusNQNQT9kpkWKUUjAgpump] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 63501.83468099999
+Net amount added (in USD): $123.25
+Market cap: 1953800
+DEX Screener: https://dexscreener.com/solana/A6C1zM4nBf8jr8tRxQskytusNQNQT9kpkWKUUjAgpump
+Twitter: https://x.com/damascoai/
+Telegram: https://t.me/damascoai
+
+Smart wallets that interacted:
+- dc5c...3P6J bought $123.25 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+Data unavailable
+
+Sheerluck AI (SHEERLUCK) [DhteZLhKP6xPNcHVtdYvcE5FFcPN5smU7pxJw14Cpump] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 41266.27238100002
+Net amount added (in USD): $120.16
+Market cap: 2779885
+DEX Screener: https://dexscreener.com/solana/DhteZLhKP6xPNcHVtdYvcE5FFcPN5smU7pxJw14Cpump
+Twitter: https://x.com/SheerluckAI
+Telegram: https://t.me/sheerluck_ai
+
+Smart wallets that interacted:
+- Hedm...NGPe (Winrate: 66.17%, Tokens Traded: > 130) bought $120.16 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+Data unavailable
+
+BLUE LOCK (EGO) [ARkR4tCPRwSrbnYUfSabPPYEK8WwDcniA4USTt8Npump] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 149473.96591199999
+Net amount added (in USD): $108.78
+Market cap: 711212
+DEX Screener: https://dexscreener.com/solana/ARkR4tCPRwSrbnYUfSabPPYEK8WwDcniA4USTt8Npump
+Twitter: https://x.com/bluelock
+Telegram: https://t.me/bluelocksol
+
+Smart wallets that interacted:
+- dc5c...3P6J bought $108.78 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+Data unavailable
+
+Cynthia Lummis (LUMMIS) [4xehxamn6REQJtHrs28AjURXeNCL2jVT6sy9vAPjQJLa] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 1050623.174765
+Net amount added (in USD): $102.05
+Market cap: 101199
+DEX Screener: https://dexscreener.com/solana/4xehxamn6REQJtHrs28AjURXeNCL2jVT6sy9vAPjQJLa
+Twitter: https://twitter.com/Lummis_SOL
+Telegram: https://t.me/lummis_sol
+
+Smart wallets that interacted:
+- dc5c...3P6J bought $102.05 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+Data unavailable
+
+ALP (ALP) [8ThSrRA6qpkva4bGE6DNfFKnuKuCPM22Db16zS1Mpump] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 145860.671024
+Net amount added (in USD): $101.78
+Market cap: 570185
+DEX Screener: https://dexscreener.com/solana/8ThSrRA6qpkva4bGE6DNfFKnuKuCPM22Db16zS1Mpump
+Twitter: https://x.com/AlpCoinSol
+Telegram: https://t.me/ALP_PORTAL
+
+Smart wallets that interacted:
+- dc5c...3P6J bought $101.78 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+Data unavailable
+
+LIMITLESS (LIMITLESS) [44o1iDPGuzHxQgDrPE3HRb2WXwGLsBsY7yMttX47pump] 🟢:
+No. of smart wallets interacted: 1
+Net amount added: 20238.807347
+Net amount added (in USD): $100.22
+Market cap: 4921965
+DEX Screener: https://dexscreener.com/solana/44o1iDPGuzHxQgDrPE3HRb2WXwGLsBsY7yMttX47pump
+Twitter: https://x.com/onlywithneo
+Telegram: https://t.me/transcend_reality
+
+Smart wallets that interacted:
+- dc5c...3P6J bought $100.22 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+Data unavailable
+
+External Revenue Service (ERS) [CgMfCgDUi3VYDyTYMy41oLC2fEviVZJ3kHSM7wA6im3d] 🔴:
+No. of smart wallets interacted: 1
+Net amount added: -119795.16710899999
+Net amount added (in USD): $-115.12
+Market cap: 846637
+DEX Screener: https://dexscreener.com/solana/CgMfCgDUi3VYDyTYMy41oLC2fEviVZJ3kHSM7wA6im3d
+Twitter: https://x.com/ERSSolana
+Telegram: https://t.me/ERSonSolOfficial
+
+Smart wallets that interacted:
+- dc5c...3P6J sold $115.12 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+Data unavailable
+
+Calvin in the Cabal (CALVIN) [229vWzBTiUNdraYpVtSH9usTwwVxcyPDbBWf1zEPpump] 🔴:
+No. of smart wallets interacted: 1
+Net amount added: -38872.983357000005
+Net amount added (in USD): $-118.90
+Market cap: 2957310
+DEX Screener: https://dexscreener.com/solana/229vWzBTiUNdraYpVtSH9usTwwVxcyPDbBWf1zEPpump
+Twitter: https://x.com/cabalcalvin
+Telegram: https://t.me/calvinonsolana
+
+Smart wallets that interacted:
+- dc5c...3P6J sold $118.90 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+Data unavailable
+
+Justice for TIKTOK (TIKTOK) [65CFQVF1tfDMAtXrGDZR61M24D6eWrA8FpCDg44Jpump] 🔴:
+No. of smart wallets interacted: 1
+Net amount added: -111537.57583900001
+Net amount added (in USD): $-131.51
+Market cap: 1153827
+DEX Screener: https://dexscreener.com/solana/65CFQVF1tfDMAtXrGDZR61M24D6eWrA8FpCDg44Jpump
+Twitter: https://x.com/TikTok__Justice
+Telegram: https://t.me/justicefortiktokcoin
+
+Smart wallets that interacted:
+- dc5c...3P6J sold $131.51 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+Data unavailable
+
+ai GCR (AIGCR) [9vtNLbN2qxPbrx666rP34s9PBGtyLrsupMGdVyqG7FzH] 🔴:
+No. of smart wallets interacted: 1
+Net amount added: -139464.291141
+Net amount added (in USD): $-140.74
+Market cap: 1000848
+DEX Screener: https://dexscreener.com/solana/9vtNLbN2qxPbrx666rP34s9PBGtyLrsupMGdVyqG7FzH
+Twitter: https://x.com/aiGCR_agent 
+Telegram: https://t.me/aiGCR1
+
+Smart wallets that interacted:
+- 4t9b...jD2i (Winrate: 92.42%, Tokens Traded: > 60) sold $140.74 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+Data unavailable
+
+Buthole Coin (Butthole) [FQRh4fVt5RcSqbYaUdz5PSGQZ6AXkc6faSWk1aSfQeiC] 🔴:
+No. of smart wallets interacted: 1
+Net amount added: -9106.14028223604
+Net amount added (in USD): $-218.00
+Market cap: 23999355
+DEX Screener: https://dexscreener.com/solana/FQRh4fVt5RcSqbYaUdz5PSGQZ6AXkc6faSWk1aSfQeiC
+Twitter: 
+Telegram: 
+
+Smart wallets that interacted:
+- CipP…YEZx (Winrate: 44.58%, Tokens Traded: > 80) sold $218.00 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+Data unavailable
+
+We Love Tits (TITS) [23CTZMjEYNNZUE4itfn3iv6kgM4xn7X7dx1kVX1Gr8Xi] 🔴:
+No. of smart wallets interacted: 1
+Net amount added: -6038.752159200001
+Net amount added (in USD): $-279.47
+Market cap: 45448573
+DEX Screener: https://dexscreener.com/solana/23CTZMjEYNNZUE4itfn3iv6kgM4xn7X7dx1kVX1Gr8Xi
+Twitter: https://twitter.com/weloveetits
+Telegram: https://t.me/WELOVEETITS
+
+Smart wallets that interacted:
+- DjNj...ABWH (Winrate: 77.94%, Tokens Traded: > 60) sold $279.47 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+Data unavailable
+
+TRI SIGMA (TRISIG) [BLDiYcvm3CLcgZ7XUBPgz6idSAkNmWY6MBbm8Xpjpump] 🔴:
+No. of smart wallets interacted: 1
+Net amount added: -23479.302224000014
+Net amount added (in USD): $-506.30
+Market cap: 21417048
+DEX Screener: https://dexscreener.com/solana/BLDiYcvm3CLcgZ7XUBPgz6idSAkNmWY6MBbm8Xpjpump
+Twitter: https://x.com/tri_sigma_
+Telegram: https://t.me/trisigmaaiportal
+
+Smart wallets that interacted:
+- Biee...2TpW (Winrate: 75.56%, Tokens Traded: > 260) sold $506.30 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+Data unavailable
+
+QUID GAME (QUID) [H3uV2P7sFto4U9jtYXToYXehPchvya4S18nDKjafEA3Y] 🔴:
+No. of smart wallets interacted: 1
+Net amount added: -2355271.710055
+Net amount added (in USD): $-613.18
+Market cap: 261630
+DEX Screener: https://dexscreener.com/solana/H3uV2P7sFto4U9jtYXToYXehPchvya4S18nDKjafEA3Y
+Twitter: https://x.com/QuidGamesSol
+Telegram: 
+
+Smart wallets that interacted:
+- 2ssN...PkzK (Winrate: 38.74%, Tokens Traded: > 300) sold $613.18 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+Data unavailable
+
+Nexus Erebus (NXR) [88dnPHaZDxwCm9xiDgB15uPwGdgE2y7ALcqsgRTopump] 🔴:
+No. of smart wallets interacted: 1
+Net amount added: -1000000.0
+Net amount added (in USD): $-640.10
+Market cap: 599041
+DEX Screener: https://dexscreener.com/solana/88dnPHaZDxwCm9xiDgB15uPwGdgE2y7ALcqsgRTopump
+Twitter: https://x.com/Nexus_Erebus
+Telegram: https://t.me/nexus_community_Portal
+
+Smart wallets that interacted:
+- 486Z…dAGs (Winrate: 19.57%, Tokens Traded: > 235) sold $640.10 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+Data unavailable
+
+spinning cat (OIIAOIIA) [VaxZxmFXV8tmsd72hUn22ex6GFzZ5uq9DVJ5wA5pump] 🔴:
+No. of smart wallets interacted: 1
+Net amount added: -47394.48712200002
+Net amount added (in USD): $-807.97
+Market cap: 17080563
+DEX Screener: https://dexscreener.com/solana/VaxZxmFXV8tmsd72hUn22ex6GFzZ5uq9DVJ5wA5pump
+Twitter: https://x.com/OIIAOIIA_COIN_
+Telegram: https://t.me/oiiaoiiacatportal
+
+Smart wallets that interacted:
+- Hvts...Sy3W (Winrate: 50.47%, Tokens Traded: > 100) sold $807.97 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+Data unavailable
+
+OnChain Economy ETF (NODE) [DhDf7X9aChmwSJY8QZmY7hvQNNoyP2Dnum7197zApump] 🔴:
+No. of smart wallets interacted: 1
+Net amount added: -10560197.340179998
+Net amount added (in USD): $-1,629.73
+Market cap: 154432
+DEX Screener: https://dexscreener.com/solana/DhDf7X9aChmwSJY8QZmY7hvQNNoyP2Dnum7197zApump
+Twitter: 
+Telegram: 
+
+Smart wallets that interacted:
+- suqh…HQfK (Winrate: 75.94%, Tokens Traded: > 7800) sold $1,629.73 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+Data unavailable
+
+Grass (GRASS) [Grass7B4RdKfBCjTKgSqnXkqjwiGvQyFbuSCUJr3XXjs] 🔴:
+No. of smart wallets interacted: 1
+Net amount added: -770.560400005
+Net amount added (in USD): $-1,846.29
+Market cap: 573421225
+DEX Screener: https://dexscreener.com/solana/Grass7B4RdKfBCjTKgSqnXkqjwiGvQyFbuSCUJr3XXjs
+Twitter: https://x.com/getgrass_io
+Telegram: 
+
+Smart wallets that interacted:
+- Biee...2TpW (Winrate: 75.56%, Tokens Traded: > 260) sold $1,846.29 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+Data unavailable
+
+Shoggoth (Shoggoth) [H2c31USxu35MDkBrGph8pUDUnmzo2e4Rf4hnvL2Upump] 🔴:
+No. of smart wallets interacted: 1
+Net amount added: -72120.301698
+Net amount added (in USD): $-2,207.03
+Market cap: 30731599
+DEX Screener: https://dexscreener.com/solana/H2c31USxu35MDkBrGph8pUDUnmzo2e4Rf4hnvL2Upump
+Twitter: https://x.com/Shoggoth_SOL
+Telegram: https://t.me/shoggothcoin
+
+Smart wallets that interacted:
+- 8sGi…HLT8 (Winrate: 23.33%, Tokens Traded: > 120) sold $2,207.03 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+Data unavailable
+
+Goatse (GOATSE) [4f9Nc1vPWvcbGP9Zfi6TWD9tApyMgBrqmXexNZnR4Wmo] 🔴:
+No. of smart wallets interacted: 1
+Net amount added: -86619873.93225598
+Net amount added (in USD): $-2,320.78
+Market cap: 274558
+DEX Screener: https://dexscreener.com/solana/4f9Nc1vPWvcbGP9Zfi6TWD9tApyMgBrqmXexNZnR4Wmo
+Twitter: https://x.com/goatsedotcx
+Telegram: https://t.me/goatseentry
+
+Smart wallets that interacted:
+- Dnfu...eBHm (Winrate: 93.48%, Tokens Traded: > 40) sold $2,320.78 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+Data unavailable
+
+dante (dGPU) [7xUV6YR3rZMfExPqZiovQSUxpnHxr2KJJqFg1bFrpump] 🔴:
+No. of smart wallets interacted: 1
+Net amount added: -697570.0126520004
+Net amount added (in USD): $-2,891.93
+Market cap: 3803891
+DEX Screener: https://dexscreener.com/solana/7xUV6YR3rZMfExPqZiovQSUxpnHxr2KJJqFg1bFrpump
+Twitter: https://x.com/dantegpu
+Telegram: https://t.me/dantegpu
+
+Smart wallets that interacted:
+- ECCK…zqgP (Winrate: 43.91%, Tokens Traded: > 1070) sold $2,891.93 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+Data unavailable
+
+magacycle (magacycle) [7R4JxJm2tQM6LoGD42MrpExxMTUnbRivs7ZPpCWmpump] 🔴:
+No. of smart wallets interacted: 1
+Net amount added: -15132199.437363997
+Net amount added (in USD): $-6,961.69
+Market cap: 470075
+DEX Screener: https://dexscreener.com/solana/7R4JxJm2tQM6LoGD42MrpExxMTUnbRivs7ZPpCWmpump
+Twitter: https://x.com/Magacycleszn
+Telegram: https://t.me/magacycleszn
+
+Smart wallets that interacted:
+- 5ea1…2NX8 (Winrate: 26.67%, Tokens Traded: > 120) sold $6,961.69 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+Data unavailable
+
+MAGA (MAGA) [sfYDFZJguyF4YLZjje7qwwh41NRymFfZ3QXZbVm7Eyg] 🔴:
+No. of smart wallets interacted: 1
+Net amount added: -615003.505776
+Net amount added (in USD): $-10,934.63
+Market cap: 802301
+DEX Screener: https://dexscreener.com/solana/sfYDFZJguyF4YLZjje7qwwh41NRymFfZ3QXZbVm7Eyg
+Twitter: https://x.com/magamemesol
+Telegram: https://t.me/MAGASOLcto
+
+Smart wallets that interacted:
+- 5ea1…2NX8 (Winrate: 26.67%, Tokens Traded: > 120) sold $10,934.63 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+Data unavailable
+
+dogwifhat ($WIF) [EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm] 🔴:
+No. of smart wallets interacted: 1
+Net amount added: -6215.201272000002
+Net amount added (in USD): $-11,649.49
+Market cap: 1870948529
+DEX Screener: https://dexscreener.com/solana/EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm
+Twitter: https://twitter.com/dogwifcoin
+Telegram: https://t.me/dogwifcoin
+
+Smart wallets that interacted:
+- DjNj...ABWH (Winrate: 77.94%, Tokens Traded: > 60) sold $11,649.49 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+Data unavailable
+
+numogram  (GNON) [HeJUFDxfJSzYFUuHLxkMqCgytU31G6mjP4wKviwqpump] 🔴:
+No. of smart wallets interacted: 1
+Net amount added: -1050000.0
+Net amount added (in USD): $-18,577.21
+Market cap: 16613553
+DEX Screener: https://dexscreener.com/solana/HeJUFDxfJSzYFUuHLxkMqCgytU31G6mjP4wKviwqpump
+Twitter: https://x.com/GnonOnSolana
+Telegram: https://t.me/numogramsolana
+
+Smart wallets that interacted:
+- 8Hkb...2upg (Winrate: 60.00%, Tokens Traded: > 5) sold $18,577.21 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+Data unavailable
+
+Large Language Model (LLM) [98mb39tPFKQJ4Bif8iVg9mYb9wsfPZgpgN1sxoVTpump] 🔴:
+No. of smart wallets interacted: 1
+Net amount added: -603331.5609820001
+Net amount added (in USD): $-43,217.54
+Market cap: 69596573
+DEX Screener: https://dexscreener.com/solana/98mb39tPFKQJ4Bif8iVg9mYb9wsfPZgpgN1sxoVTpump
+Twitter: https://x.com/ai160kg
+Telegram: https://t.me/largelanguagemodelsolchannel
+
+Smart wallets that interacted:
+- 486Z…dAGs (Winrate: 19.57%, Tokens Traded: > 235) sold $43,217.54 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+Data unavailable
+
+Goatseus Maximus (GOAT) [CzLSujWBLFsSjncfkh59rUFqvafWcY5tzedWJSuypump] 🔴:
+No. of smart wallets interacted: 1
+Net amount added: -469370.63534100004
+Net amount added (in USD): $-151,156.48
+Market cap: 320104194
+DEX Screener: https://dexscreener.com/solana/CzLSujWBLFsSjncfkh59rUFqvafWcY5tzedWJSuypump
+Twitter: https://x.com/truth_terminal?s=21&t=vGsyxXKadHr8hUMHWu6Frg
+Telegram: https://t.me/GoatseusMaximusSolanaPortal
+
+Smart wallets that interacted:
+- CLeg...S168 (Winrate: 30.59%, Tokens Traded: > 80) sold $151,156.48 worth.
+
+Google Trends' interest score of the token symbol over the past 7 days:
+Data unavailable
