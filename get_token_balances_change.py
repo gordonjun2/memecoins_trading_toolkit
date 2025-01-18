@@ -12,7 +12,8 @@ import pandas as pd
 from config import (VYBE_NETWORK_X_API_KEYS, VYBE_NETWORK_QUERY_LIMIT,
                     MAX_RETRIES, RETRY_AFTER, EPSILON, MIN_MARKETCAP,
                     WALLET_ADDRESSES_TO_INCLUDE_DICT, TELEGRAM_BOT_TOKEN, USER_ID,
-                    TEST_TG_CHAT_ID, MIN_AMOUNT_USD, RECENT_N_DAYS_INTEREST)
+                    TEST_TG_CHAT_ID, MIN_BUY_AMOUNT_USD, MIN_SELL_AMOUNT_USD, 
+                    RECENT_N_DAYS_INTEREST)
 
 logging.basicConfig(level=logging.INFO,
                     format='%(message)s',
@@ -243,7 +244,9 @@ def get_token_balance_change(chat_id,
                 delta = data['amount']
                 count = data['count']
                 delta_usd = data['amount_usd']
-                if abs(delta_usd) < MIN_AMOUNT_USD:
+                if (delta_usd >= 0) and (delta_usd <= MIN_BUY_AMOUNT_USD):
+                    continue
+                elif (delta_usd < 0) and (abs(delta_usd) <= MIN_SELL_AMOUNT_USD):
                     continue
 
                 delta_usd_str = "{:,.2f}".format(delta_usd)
