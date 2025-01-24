@@ -196,7 +196,7 @@ WALLET_ADDRESSES_TO_INCLUDE_DICT = {
     'H6oeKZ78wouvRGVJXHioyPJuEBPh4H7UGvyxJ5rS95u1': 'H6oe…95u1 (Winrate: 25.95%, Tokens Traded: > 500)',
     '34xpG819UcgHBGXDTVn5XBQy3qYM6DFPR3tvvPwcGTMs': '34xp…GTMs (Winrate: 42.37%, Tokens Traded: > 1520)',
     '8bo92fMyMqgKD8zd83DLAp6F8nD2bCNpe3pj2aqY4QLq': '8bo9…4QLq (Winrate: 51.61%, Tokens Traded: > 30)',
-    'ATmKENkRrL1JQQnoUNAQvkiwgjiHKUkzyncxTGxyzQL1': 'ATmK…zQL1 (Winrate: 54.45%, Tokens Traded: > 470)',
+    'ATmKENkRrL1JQQnoUNAQvkiwgjiHKUkzyncxTGxyzQL1': 'ATmK…zQL1 (Winrate: 45.58%, Tokens Traded: > 570)',
     '9KWS5Apsi1UBzceKvACJG5VqAE1XBA3Y8E7EER73W96a': '9KWS…W96a (Winrate: 53.85%, Tokens Traded: > 20)',
     '7dczvwnWqNE9RFe1AeECa6D9n38KN5AMiPcCWxjEVVp5': '7dcz…VVp5 (Winrate: 57.14%, Tokens Traded: > 10)',
     'EKuzYQe3J5iojMbwAeac35FgcoDvhRTSYmHYmpNpYxHc': 'Ekuz...YxHc (Winrate: 25.76%, Tokens Traded: > 60)',
@@ -234,7 +234,13 @@ WALLET_ADDRESSES_TO_INCLUDE_DICT = {
     'HEdmuuH1vTb9pND3qspVvBeSSC3eKZUeKwBDD8UaNGPe': 'Hedm...NGPe (Winrate: 66.17%, Tokens Traded: > 130)',
     '3imBHSFMXFrfQN8AFagbQs7mjJgpj7fPpsNm61RhVyKo': '3imB…VyKo (Winrate: 68.75%, Tokens Traded: > 30)',
     '4XL3h77ARiWoQAjjtWixopfXtTTEF28XAWBNy1cP6iuF': '4XL3…6iuF (Winrate: 24.35%, Tokens Traded: > 110)',
-    'JDPjdakQFNHdUpr2MDU5tMows81MSdcgJh5qmUbUMFjk': 'JDPj…MFjk (Winrate: 32.99%, Tokens Traded: > 570)'
+    'JDPjdakQFNHdUpr2MDU5tMows81MSdcgJh5qmUbUMFjk': 'JDPj…MFjk (Winrate: 32.99%, Tokens Traded: > 570)',
+    'GCrxYNvZXhY26QtxCryGoH8nfJaiE7qGGpvh61FAui8J': 'GCrx…ui8J (Winrate: 46.99%, Tokens Traded: > 160)',
+    'HUpPyLU8KWisCAr3mzWy2FKT6uuxQ2qGgJQxyTpDoes5': '0xsun.sol (Winrate: 83.12%, Tokens Traded: > 70)',
+    '6obeVmM9SZUagyHTE7Soi7FhdZtd73m4MwHpkcL9Mu9Y': 'memescope.sol (Winrate: 34.22%, Tokens Traded: > 220)',
+    '2WfNxFN74pzJWKnXQ7NpkbnbEEhSLVJZGiB9NvxQ4Vpb': 'gonzo3500.sol (Winrate: 31.05%, Tokens Traded: > 910)',
+    'ArXAjxBcy18m4cZrXQaJ9E9cFdWfvGQxarHjug51V1uW': 'ArXA…V1uW (Winrate: 25.00%, Tokens Traded: > 60)',
+    'HyNiuntjo51d5paTG7rX5XLLAAi68GQMN1STwSmvna4F': 'HyNi…na4F (Winrate: 62.50%, Tokens Traded: > 20)',
     }
 
 EXCLUDED_ADDRESSES = {
@@ -281,6 +287,6 @@ EDGE_POINTS_OPACITY = 0
 VYBE_NETWORK_QUERY_LIMIT = 1000
 EPSILON = 1e-4
 MIN_MARKETCAP = 1e5
-MIN_BUY_AMOUNT_USD = 100
-MIN_SELL_AMOUNT_USD = 1000
+MIN_BUY_AMOUNT_USD = 1000
+MIN_SELL_AMOUNT_USD = 2000
 RECENT_N_DAYS_INTEREST = 7
