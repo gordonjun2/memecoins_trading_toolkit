@@ -9,6 +9,7 @@ import re
 import argparse
 from pytrends.request import TrendReq
 import pandas as pd
+import random
 from config import (VYBE_NETWORK_X_API_KEYS, VYBE_NETWORK_QUERY_LIMIT,
                     MAX_RETRIES, RETRY_AFTER, EPSILON, MIN_MARKETCAP,
                     WALLET_ADDRESSES_TO_INCLUDE_DICT, TELEGRAM_BOT_TOKEN, USER_ID,
@@ -21,13 +22,15 @@ logging.basicConfig(level=logging.INFO,
 logger = logging.getLogger(__name__)
 
 
-def get_token_balance_change(chat_id,
+def get_token_balance_change(mode, 
+                             chat_id,
                              logger=logger,
                              get_token_details=True,
                              send_to_tg=True):
 
     X_API_KEYS = VYBE_NETWORK_X_API_KEYS or os.getenv(
         'VYBE_NETWORK_X_API_KEYS')
+    random.shuffle(X_API_KEYS)
 
     start_time = time.time()
 
@@ -227,10 +230,10 @@ def get_token_balance_change(chat_id,
             token_balances_update_dict.items(),
             key=lambda x: (
                 not x[1].get('is_new', False),
-                -x[1]['count'],
-                -x[1].get('amount_usd', 0)
+                -x[1].get('amount_usd', 0),
+                -x[1]['count']
             )
-        )]
+        ) if mode != 'NEW' or value.get('is_new', False)]
 
         pytrends = TrendReq(hl='en-US', tz=360)
 
@@ -375,9 +378,16 @@ if __name__ == "__main__":
                         type=str,
                         default='GROUP',
                         help="GROUP: Send to TEST_TG_CHAT_ID Telegram group, \
-        USER: Send to USER_ID Telegram user")
+                                USER: Send to USER_ID Telegram user")
+    parser.add_argument('-m',
+                        '--mode',
+                        type=str,
+                        default='NEW',
+                        help="NEW: Output only new coins, \
+                                NORMAL: Output all coins with balances change")
     args = parser.parse_args()
     chat = str(args.chat).upper()
+    mode = str(args.mode).upper()
 
     if chat not in ['GROUP', 'USER']:
         print(
@@ -389,4 +399,10 @@ if __name__ == "__main__":
     else:
         chat_id = USER_ID
 
-    get_token_balance_change(chat_id, logger)
+    if mode not in ['NEW', 'NORMAL']:
+        print(
+            "\nMode {} is not supported. Supported options are NEW and NORMAL.\n"
+            .format(mode))
+        sys.exit(1)
+
+    get_token_balance_change(mode, chat_id, logger)
