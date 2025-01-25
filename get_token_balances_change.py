@@ -53,6 +53,10 @@ def get_token_balance_change(mode,
     os.makedirs(seen_token_addresses_dir, exist_ok=True)
     seen_token_addresses_file_path = f"{seen_token_addresses_dir}/seen_token_addresses.json"
 
+    seen_token_addresses_new_mode_dir = saved_data_base_dir + "/seen_token_addresses_new_mode"
+    os.makedirs(seen_token_addresses_new_mode_dir, exist_ok=True)
+    seen_token_addresses_new_mode_file_path = f"{seen_token_addresses_new_mode_dir}/seen_token_addresses_new_mode.json"
+
     if not loaded_top_trader_addresses:
         logger.error("No top trader addresses found. Exiting...")
         return ''
@@ -61,6 +65,8 @@ def get_token_balance_change(mode,
         top_trader_token_balances_file_path)
     seen_token_addresses_dict = load_json_file(
         seen_token_addresses_file_path)
+    seen_token_addresses_new_mode_dict = load_json_file(
+        seen_token_addresses_new_mode_file_path)
 
     count = 1
     total_top_trader_addresses = len(loaded_top_trader_addresses)
@@ -233,7 +239,7 @@ def get_token_balance_change(mode,
                 -x[1].get('amount_usd', 0),
                 -x[1]['count']
             )
-        ) if mode != 'NEW' or value.get('is_new', False)]
+        )]
 
         pytrends = TrendReq(hl='en-US', tz=360)
 
@@ -247,9 +253,13 @@ def get_token_balance_change(mode,
                 delta = data['amount']
                 count = data['count']
                 delta_usd = data['amount_usd']
+
                 if (delta_usd >= 0) and (delta_usd <= MIN_BUY_AMOUNT_USD):
                     continue
                 elif (delta_usd < 0) and (abs(delta_usd) <= MIN_SELL_AMOUNT_USD):
+                    continue
+
+                if mode == 'NEW' and mint_address in seen_token_addresses_new_mode_dict:
                     continue
 
                 delta_usd_str = "{:,.2f}".format(delta_usd)
@@ -323,6 +333,14 @@ def get_token_balance_change(mode,
                 terminal_output += '\n' + terminal_msg
                 tg_msg += '\n---\n'
                 tg_msg_list.append(tg_msg)
+
+                if mint_address not in seen_token_addresses_new_mode_dict:
+                    seen_token_addresses_new_mode_dict[mint_address] = True
+
+        if os.path.exists(seen_token_addresses_new_mode_file_path):
+            os.remove(seen_token_addresses_new_mode_file_path)
+        save_json_file(seen_token_addresses_new_mode_file_path,
+                    seen_token_addresses_new_mode_dict)
 
         file_path = "latest_token_balances_change_terminal_output.txt"
         with open(file_path, "w") as file:
