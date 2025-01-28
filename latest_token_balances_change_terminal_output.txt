@@ -1,47 +1,17 @@
 
-Summarised token balances update (token marketcap >= 100,000.0):
-wuf (wuf) [GV44Wz2pdswx9G3YFdXnFduJw4Aoi5ojdeYxy4Gepump] 🆕🟢:
+Summarised token balances update (token marketcap >= 500,000.0):
+Open Source (OS) [3s5NwTxQKZwegP9mzrod1JLdK9LV1uyRh9gmfyhkpump] 🔴:
 No. of smart wallets interacted: 2
-Net amount added: 14304510.172616001
-Net amount added (in USD): $83,873.67
-Market cap: 5643414
-DEX Screener: https://dexscreener.com/solana/GV44Wz2pdswx9G3YFdXnFduJw4Aoi5ojdeYxy4Gepump
-Twitter: https://x.com/search?q=Wuf&src=typed_query
+Net amount added: -12148188.236324
+Net amount added (in USD): $-22,170.07
+Market cap: 2106343
+DEX Screener: https://dexscreener.com/solana/3s5NwTxQKZwegP9mzrod1JLdK9LV1uyRh9gmfyhkpump
+Twitter: https://x.com/search?q=%24OS&src=typed_query
 Telegram: 
 
 Smart wallets that interacted:
-- 486Z…dAGs (Winrate: 19.57%, Tokens Traded: > 235) bought $61,554.44 worth.
-- 85pL…Ufoq (Winrate: 34.77%, Tokens Traded: > 410) bought $22,319.23 worth.
+- HUzZ…cVhe (Winrate: 21.56%, Tokens Traded: > 380) bought $305.95 worth.
+- AVCX…x9Fz (Winrate: 24.24%, Tokens Traded: > 130) sold $22,476.02 worth.
 
 Google Trends' interest score of the token symbol over the past 7 days:
-Data unavailable
-
-squawkcoin (squawkcoin) [3hnUeTyU22B8KQyeRfremEfYsabY4YDXNcPuwZgCpump] 🆕🟢:
-No. of smart wallets interacted: 1
-Net amount added: 10790166.226643
-Net amount added (in USD): $3,192.35
-Market cap: 209911
-DEX Screener: https://dexscreener.com/solana/3hnUeTyU22B8KQyeRfremEfYsabY4YDXNcPuwZgCpump
-Twitter: 
-Telegram: 
-
-Smart wallets that interacted:
-- M5Q1...Pss8 (Winrate: 32.89%, Tokens Traded: > 750) bought $3,192.35 worth.
-
-Google Trends' interest score of the token symbol over the past 7 days:
-Data unavailable
-
-Maw (Maw) [9iKo3HL5jdki71NwxAdyDiv9WCm5gv8F2Gnta896pump] 🆕🟢:
-No. of smart wallets interacted: 1
-Net amount added: 6160207.613705
-Net amount added (in USD): $3,171.06
-Market cap: 422555
-DEX Screener: https://dexscreener.com/solana/9iKo3HL5jdki71NwxAdyDiv9WCm5gv8F2Gnta896pump
-Twitter: https://x.com/search?q=%24maw
-Telegram: 
-
-Smart wallets that interacted:
-- 85pL…Ufoq (Winrate: 34.77%, Tokens Traded: > 410) bought $3,171.06 worth.
-
-Google Trends' interest score of the token symbol over the past 7 days:
-Data unavailable
+77, 78, 100, 0, 91, 58, 0

@@ -149,7 +149,7 @@ WALLET_ADDRESSES_TO_INCLUDE_DICT = {
     '6KVyzB7Sxx2Rnk7J8ZEhBZPbKyiRq3tPY9YNhtCjcems': '6KVy...cems (Winrate: 25.81%, Tokens Traded: > 30)', 
     '8sHfJ1WTV3HsfDJwRHtiseMsBHVrE5qNNrZgSYswxpgv': '8sHf...xpgv (Winrate: 33.02%, Tokens Traded: > 840)', 
     'Ay9wnuZCRTceZJuRpGZnuwYZuWdsviM4cMiCwFoSQiPH': 'Ay9w...QiPH (Winrate: 36.09%, Tokens Traded: > 230)', 
-    'AbcX4XBm7DJ3i9p29i6sU8WLmiW4FWY5tiwB9D6UBbcE': 'AbcX...BbcE (Winrate: 63.63%, Tokens Traded: > 180)', 
+    'AbcX4XBm7DJ3i9p29i6sU8WLmiW4FWY5tiwB9D6UBbcE': 'AbcX...BbcE (Winrate: 52.97%, Tokens Traded: > 700)', 
     'FvUPaRvw86WugTBPCSJ2xdYatKn86FB17ThDwGc9D8Bj': 'FvUP...D8Bj (Winrate: 22.69%, Tokens Traded: > 1080)', 
     'BZmxuXQ68QeZABbDFSzveHyrXCv5EG6Ut1ATw5qZgm2Q': 'BZmx...gm2Q (Winrate: 27.05%, Tokens Traded: > 120)', 
     'FWuPsvShrLG4r6iYjc3dDCoPneHFdYqDGX4MXuhTDf6y': 'FwuP...Df6y (Winrate: 36.51%, Tokens Traded: > 60)', 
@@ -241,6 +241,8 @@ WALLET_ADDRESSES_TO_INCLUDE_DICT = {
     '2WfNxFN74pzJWKnXQ7NpkbnbEEhSLVJZGiB9NvxQ4Vpb': 'gonzo3500.sol (Winrate: 31.05%, Tokens Traded: > 910)',
     'ArXAjxBcy18m4cZrXQaJ9E9cFdWfvGQxarHjug51V1uW': 'ArXA…V1uW (Winrate: 25.00%, Tokens Traded: > 60)',
     'HyNiuntjo51d5paTG7rX5XLLAAi68GQMN1STwSmvna4F': 'HyNi…na4F (Winrate: 62.50%, Tokens Traded: > 20)',
+    'Hp6dXHu93tSvxHZkBa7aWY9WgAN54E7fKBp1hnEYYn3H': 'Hp6d…Yn3H (Winrate: 55.26%, Tokens Traded: > 30)',
+    'FdvYZ99wuATUdd6fuSqyAMJRoGLrcHivnuWHxgst475p': 'FdvY…475p (Winrate: 26.28%, Tokens Traded: > 150)',
     }
 
 EXCLUDED_ADDRESSES = {
