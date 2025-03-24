@@ -261,7 +261,7 @@ WALLET_ADDRESSES_TO_INCLUDE_DICT = {
     'CmSnEzLRT53XmjSGbgbPNJmeiX3g8xP59j3t2TMc5Zce':
     'CmSn…5Zce (Winrate: 26.83%, Tokens Traded: > 760)',
     'DZWRFGfm5563GBniGAUKxmBzpHoEcr12Y1rGgzqujVFU':
-    'DZWR…jVFU (Winrate: 42.11%, Tokens Traded: > 190)',
+    'DZWR…jVFU (Winrate: 33.67%, Tokens Traded: > 190)',
     '548Tz6GJZz1nC2faqQLNCpTs7JyvaPzv2fDGwD33Q7eM':
     '548T…Q7eM (Winrate: 35.94%, Tokens Traded: > 60)',
     'FCtfuq9CtCZ4HG4u4zhem9ZyGnb4VEDb9Swxg5frRwDD':
@@ -390,6 +390,30 @@ WALLET_ADDRESSES_TO_INCLUDE_DICT = {
     'BC8y…Z9TW (Winrate: 52.73%, Tokens Traded: > 50)',
     '4t2bx5bqSL22xoNAh12eQNSfRbTt9AymK471TgchBst8':
     '4t2b…Bst8 (Winrate: 36.84%, Tokens Traded: > 30)',
+    'FRa5xvWrvgYBHEukozdhJPCJRuJZcTn2WKj2u6L75Rmj':
+    'FRa5…5Rmj (Winrate: 40.18%, Tokens Traded: > 110)',
+    '9sYzSv2VN3MsBEFiR2aesN4EZGLGwM2tbFLeCM2NHBNf':
+    '9sYz…HBNf (Winrate: 30.26%, Tokens Traded: > 220)',
+    'DX5bGPf9q2iYqY6sPxHtWLhQiBnGHVY2s55tLAqnHWzA':
+    'DX5b…HWzA (Winrate: 23.89%, Tokens Traded: > 110)',
+    'AdQn85QWLuKT7MGJ4fRnkArtEgsaJ5gKUEZhBQ5vtq9y':
+    'AdQn…tq9y (Winrate: 33.33%, Tokens Traded: > 100)',
+    '5hkrcsizRezd5S1ek6NcvDSmSQcBxnTtoJezRvdPwwhp':
+    '5hkr…wwhp (Winrate: 29.31%, Tokens Traded: > 110)',
+    '8d3iL5Jwrwn2qMSSg1goAgUKmb8ghAxZxLNSUv5kBH6W':
+    '8d3i…BH6W (Winrate: 27.50%, Tokens Traded: > 120)',
+    '3TfQqdKFWaikYYMRqvFRtMKsrYbse6ph3oSx9qE5rM7b':
+    '3TfQ…rM7b (Winrate: 54.55%, Tokens Traded: > 10)',
+    '81TkFKzqTN5Dwj2yHU9heorFcmTqGHNnjHhyq3bdWRwg':
+    '81Tk…WRwg (Winrate: 39.39%, Tokens Traded: > 30)',
+    '3W2czKJaJQthumdVW2HpdZ5bmxuXcB2nuWN2gRkiYjK9':
+    '3W2c…YjK9 (Winrate: 40.00%, Tokens Traded: > 20)',
+    'JCmiMc8yxbriKXMptZJYbqYa4zVzccSHDnqKcj9BKC9Q':
+    'JCmi…KC9Q (Winrate: 45.16%, Tokens Traded: > 30)',
+    'BwVXG6DEyiUHXmgDTxiGmebWenVbVJWDMVCs6NGEFVtB':
+    'BwVX…FVtB (Winrate: 24.07%, Tokens Traded: > 50)',
+    '8Hw9X9UwBso7Sp2CFnEEeUGW8pGDj9wghc78ccWFZWpU':
+    '8Hw9…ZWpU (Winrate: 48.53%, Tokens Traded: > 60)',
 }
 
 EXCLUDED_ADDRESSES = {
